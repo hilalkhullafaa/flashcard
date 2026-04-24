@@ -1,0 +1,222 @@
+{
+  "chapter": {
+    "id": 24,
+    "title": "荷物が 届きました",
+    "titleRomaji": "Nimotsu ga todokimashita",
+    "titleId": "Barang sudah tiba"
+  },
+  "vocabulary": [
+    { "id": "ch24_001", "chapterId": 24, "order": 1, "kanji": "届きます", "kana": "とどきます", "romaji": "todokimasu", "wordClass": "verba-i", "meaning": "tiba/sampai" },
+    { "id": "ch24_002", "chapterId": 24, "order": 2, "kanji": "壊れます", "kana": "こわれます", "romaji": "kowaremasu", "wordClass": "verba-ru", "meaning": "rusak/pecah" },
+    { "id": "ch24_003", "chapterId": 24, "order": 3, "kanji": "無くなります", "kana": "なくなります", "romaji": "nakunarimasu", "wordClass": "verba-i", "meaning": "hilang/habis" },
+    { "id": "ch24_004", "chapterId": 24, "order": 4, "kanji": "見つかります", "kana": "みつかります", "romaji": "mitsukarimasu", "wordClass": "verba-i", "meaning": "ditemukan" },
+    { "id": "ch24_005", "chapterId": 24, "order": 5, "kanji": "起こります", "kana": "おこります", "romaji": "okorimasu", "wordClass": "verba-i", "meaning": "terjadi" },
+    { "id": "ch24_006", "chapterId": 24, "order": 6, "kanji": "出来ます", "kana": "できます", "romaji": "dekimasu", "wordClass": "verba-ru", "meaning": "selesai/jadi" },
+    { "id": "ch24_007", "chapterId": 24, "order": 7, "kanji": "生まれます", "kana": "うまれます", "romaji": "umaremasu", "wordClass": "verba-ru", "meaning": "lahir" },
+    { "id": "ch24_008", "chapterId": 24, "order": 8, "kanji": "怪我をします", "kana": "けがをします", "romaji": "kega o shimasu", "wordClass": "verba-ireguler", "meaning": "terluka" },
+    { "id": "ch24_009", "chapterId": 24, "order": 9, "kanji": "風邪を引きます", "kana": "かぜをひきます", "romaji": "kaze o hikimasu", "wordClass": "verba-i", "meaning": "masuk angin" },
+    { "id": "ch24_010", "chapterId": 24, "order": 10, "kanji": "事故", "kana": "じこ", "romaji": "jiko", "wordClass": "nomina", "meaning": "kecelakaan" },
+    { "id": "ch24_011", "chapterId": 24, "order": 11, "kanji": "火事", "kana": "かじ", "romaji": "kaji", "wordClass": "nomina", "meaning": "kebakaran" },
+    { "id": "ch24_012", "chapterId": 24, "order": 12, "kanji": "地震", "kana": "じしん", "romaji": "jishin", "wordClass": "nomina", "meaning": "gempa bumi" },
+    { "id": "ch24_013", "chapterId": 24, "order": 13, "kanji": "台風", "kana": "たいふう", "romaji": "taifuu", "wordClass": "nomina", "meaning": "topan/badai" },
+    { "id": "ch24_014", "chapterId": 24, "order": 14, "kanji": "", "kana": "ニュース", "romaji": "nyuusu", "wordClass": "nomina", "meaning": "berita" },
+    { "id": "ch24_015", "chapterId": 24, "order": 15, "kanji": "新聞", "kana": "しんぶん", "romaji": "shinbun", "wordClass": "nomina", "meaning": "koran" },
+    { "id": "ch24_016", "chapterId": 24, "order": 16, "kanji": "荷物", "kana": "にもつ", "romaji": "nimotsu", "wordClass": "nomina", "meaning": "barang/bagasi" },
+    { "id": "ch24_017", "chapterId": 24, "order": 17, "kanji": "", "kana": "〜られます", "romaji": "~raremasu", "wordClass": "ekspresi", "meaning": "bentuk pasif" },
+    { "id": "ch24_018", "chapterId": 24, "order": 18, "kanji": "", "kana": "〜に 〜られます", "romaji": "~ni ~raremasu", "wordClass": "ekspresi", "meaning": "dikenai tindakan oleh ~" }
+  ],
+  "patterns": [
+    {
+      "id": "ch24_p01",
+      "chapterId": 24,
+      "order": 1,
+      "pattern": "N が V られます",
+      "explanation": "Kalimat pasif dasar dalam bahasa Jepang. Subjek kalimat aktif menjadi objek dengan partikel に, dan objek kalimat aktif menjadi subjek dengan partikel が. Bentuk pasif dibentuk dari: Verba Grup 1 (ganti う→あれる), Verba Grup 2 (tambahkan られる), Verba ireguler (する→される, くる→こられる).",
+      "examples": [
+        { "japanese": "この えは ゆうめいな がかに かかれました。", "romaji": "Kono e wa yuumei na gaka ni kakaremashita.", "indonesian": "Lukisan ini dilukis oleh pelukis terkenal." },
+        { "japanese": "にほんごは せかいじゅうで はなされています。", "romaji": "Nihongo wa sekaijuu de hanasarete imasu.", "indonesian": "Bahasa Jepang digunakan di seluruh dunia." },
+        { "japanese": "この ほんは 1990ねんに かかれました。", "romaji": "Kono hon wa 1990-nen ni kakaremashita.", "indonesian": "Buku ini ditulis pada tahun 1990." }
+      ]
+    },
+    {
+      "id": "ch24_p02",
+      "chapterId": 24,
+      "order": 2,
+      "pattern": "N に V られます",
+      "explanation": "Pasif yang menimpa (adversative passive) — menyatakan bahwa subjek mengalami dampak negatif dari tindakan orang lain. Pelaku tindakan ditandai dengan partikel に. Berbeda dengan pasif biasa, pasif ini menekankan bahwa subjek 'terkena' atau 'menderita' akibat tindakan tersebut.",
+      "examples": [
+        { "japanese": "わたしは どろぼうに さいふを ぬすまれました。", "romaji": "Watashi wa dorobou ni saifu o nusumaremashita.", "indonesian": "Dompet saya dicuri oleh pencuri." },
+        { "japanese": "あめに ふられて、びしょぬれに なりました。", "romaji": "Ame ni furarete, bisho nure ni narimashita.", "indonesian": "Kehujanan dan menjadi basah kuyup." },
+        { "japanese": "となりの ひとに うるさく された。", "romaji": "Tonari no hito ni urusaku sareta.", "indonesian": "Saya terganggu oleh orang di sebelah." }
+      ]
+    },
+    {
+      "id": "ch24_p03",
+      "chapterId": 24,
+      "order": 3,
+      "pattern": "N が V て います",
+      "explanation": "Pola untuk menyatakan keadaan yang sedang berlangsung atau keadaan hasil dari suatu kejadian. Dalam konteks bab ini, digunakan untuk menyatakan keadaan benda atau situasi setelah suatu kejadian terjadi. Berbeda dengan 〜てあります, 〜ています tidak menekankan tindakan disengaja.",
+      "examples": [
+        { "japanese": "にもつが とどいて います。", "romaji": "Nimotsu ga todoite imasu.", "indonesian": "Barang sudah tiba (dan ada di sini)." },
+        { "japanese": "パソコンが こわれて います。", "romaji": "Pasokon ga kowarete imasu.", "indonesian": "Komputer sedang rusak." },
+        { "japanese": "さいふが みつかって います。", "romaji": "Saifu ga mitsukatte imasu.", "indonesian": "Dompet sudah ditemukan." }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "id": "ch24_g01",
+      "chapterId": 24,
+      "order": 1,
+      "title": "Kalimat Pasif (受身形) — Pengantar",
+      "explanation": "Kalimat pasif dalam bahasa Jepang (受身形, ukemi-kei) digunakan untuk menyatakan bahwa subjek menerima atau mengalami suatu tindakan. Cara membentuk: Verba Grup 1 (う-verba): ganti akhiran う-baris dengan あ-baris + れる (例: かく→かかれる). Verba Grup 2 (る-verba): tambahkan られる (例: たべる→たべられる). Verba ireguler: する→される, くる→こられる.",
+      "examples": [
+        { "japanese": "かく → かかれる (menulis → ditulis)", "romaji": "kaku → kakareru", "indonesian": "menulis → ditulis" },
+        { "japanese": "たべる → たべられる (makan → dimakan)", "romaji": "taberu → taberareru", "indonesian": "makan → dimakan" },
+        { "japanese": "する → される (melakukan → dilakukan)", "romaji": "suru → sareru", "indonesian": "melakukan → dilakukan" }
+      ]
+    },
+    {
+      "id": "ch24_g02",
+      "chapterId": 24,
+      "order": 2,
+      "title": "Pasif yang Menimpa: 〜に〜られます",
+      "explanation": "Pasif yang menimpa (迷惑の受身, meiwaku no ukemi) digunakan ketika subjek mengalami dampak — biasanya negatif — dari tindakan orang lain. Pelaku ditandai dengan partikel に. Pola ini sering menyiratkan ketidaknyamanan atau kerugian bagi subjek. Bahkan verba intransitif pun bisa digunakan dalam pola ini (contoh: あめに ふられる = kehujanan).",
+      "examples": [
+        { "japanese": "わたしは こどもに なかれて こまりました。", "romaji": "Watashi wa kodomo ni nakarete komarimashita.", "indonesian": "Saya kerepotan karena anak menangis." },
+        { "japanese": "でんしゃの なかで となりの ひとに あしを ふまれました。", "romaji": "Densha no naka de tonari no hito ni ashi o fumaremashita.", "indonesian": "Kaki saya diinjak orang di sebelah dalam kereta." },
+        { "japanese": "ともだちに うそを つかれました。", "romaji": "Tomodachi ni uso o tsukaremashita.", "indonesian": "Saya dibohongi oleh teman." }
+      ]
+    },
+    {
+      "id": "ch24_g03",
+      "chapterId": 24,
+      "order": 3,
+      "title": "Cara Membentuk Kalimat Pasif",
+      "explanation": "Langkah membentuk kalimat pasif: (1) Identifikasi kalimat aktif: A が B を V. (2) Jadikan B sebagai subjek dengan が. (3) Jadikan A sebagai pelaku dengan に. (4) Ubah verba ke bentuk pasif. Hasil: B が A に V-られる. Catatan: partikel を pada objek dihilangkan dalam kalimat pasif karena objek menjadi subjek.",
+      "examples": [
+        { "japanese": "せんせいが がくせいを ほめました。→ がくせいが せんせいに ほめられました。", "romaji": "Sensei ga gakusei o homemashita. → Gakusei ga sensei ni homeraremashita.", "indonesian": "Guru memuji murid. → Murid dipuji oleh guru." },
+        { "japanese": "どろぼうが さいふを ぬすみました。→ さいふが どろぼうに ぬすまれました。", "romaji": "Dorobou ga saifu o nusumimashita. → Saifu ga dorobou ni nusumaremashita.", "indonesian": "Pencuri mencuri dompet. → Dompet dicuri oleh pencuri." },
+        { "japanese": "みんなが かれを えらびました。→ かれが みんなに えらばれました。", "romaji": "Minna ga kare o erabimashita. → Kare ga minna ni erabaremashita.", "indonesian": "Semua orang memilih dia. → Dia dipilih oleh semua orang." }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "ch24_q01",
+      "chapterId": 24,
+      "order": 1,
+      "question": "Bagaimana bentuk pasif dari verba 'かく' (menulis)?",
+      "choices": ["かかれる", "かきれる", "かけられる", "かかります"],
+      "correctIndex": 0
+    },
+    {
+      "id": "ch24_q02",
+      "chapterId": 24,
+      "order": 2,
+      "question": "Bagaimana bentuk pasif dari verba 'たべる' (makan)?",
+      "choices": ["たべれる", "たべられる", "たべさせる", "たべます"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch24_q03",
+      "chapterId": 24,
+      "order": 3,
+      "question": "Apa arti kalimat 'わたしは どろぼうに さいふを ぬすまれました'?",
+      "choices": [
+        "Saya mencuri dompet dari pencuri.",
+        "Pencuri menemukan dompet saya.",
+        "Dompet saya dicuri oleh pencuri.",
+        "Saya kehilangan dompet."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch24_q04",
+      "chapterId": 24,
+      "order": 4,
+      "question": "Apa arti kata 'じしん' (jishin)?",
+      "choices": ["kebakaran", "topan", "kecelakaan", "gempa bumi"],
+      "correctIndex": 3
+    },
+    {
+      "id": "ch24_q05",
+      "chapterId": 24,
+      "order": 5,
+      "question": "Bagaimana cara mengubah kalimat aktif 'せんせいが がくせいを ほめました' ke bentuk pasif?",
+      "choices": [
+        "がくせいが せんせいを ほめられました。",
+        "がくせいが せんせいに ほめられました。",
+        "せんせいが がくせいに ほめられました。",
+        "がくせいに せんせいが ほめられました。"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch24_q06",
+      "chapterId": 24,
+      "order": 6,
+      "question": "Apa arti kata 'かじ' (kaji)?",
+      "choices": ["gempa bumi", "topan", "kebakaran", "kecelakaan"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch24_q07",
+      "chapterId": 24,
+      "order": 7,
+      "question": "Apa yang dimaksud dengan 'pasif yang menimpa' (迷惑の受身)?",
+      "choices": [
+        "Pasif yang digunakan untuk memuji seseorang",
+        "Pasif yang menyatakan subjek mengalami dampak negatif dari tindakan orang lain",
+        "Pasif yang digunakan dalam konteks formal",
+        "Pasif yang hanya digunakan dengan verba transitif"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch24_q08",
+      "chapterId": 24,
+      "order": 8,
+      "question": "Apa arti kata 'とどきます' (todokimasu)?",
+      "choices": ["mengirim", "tiba/sampai", "hilang", "ditemukan"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch24_q09",
+      "chapterId": 24,
+      "order": 9,
+      "question": "Bagaimana bentuk pasif dari verba ireguler 'する' (melakukan)?",
+      "choices": ["しられる", "させられる", "される", "しれる"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch24_q10",
+      "chapterId": 24,
+      "order": 10,
+      "question": "Apa arti kalimat 'あめに ふられて、びしょぬれに なりました'?",
+      "choices": [
+        "Saya menyiram air dan menjadi basah.",
+        "Kehujanan dan menjadi basah kuyup.",
+        "Saya mandi dan menjadi bersih.",
+        "Hujan turun dan saya senang."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch24_q11",
+      "chapterId": 24,
+      "order": 11,
+      "question": "Apa arti kata 'たいふう' (taifuu)?",
+      "choices": ["gempa bumi", "kebakaran", "topan/badai", "kecelakaan"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch24_q12",
+      "chapterId": 24,
+      "order": 12,
+      "question": "Partikel apa yang digunakan untuk menandai pelaku dalam kalimat pasif?",
+      "choices": ["が", "を", "で", "に"],
+      "correctIndex": 3
+    }
+  ]
+}

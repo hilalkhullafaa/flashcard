@@ -1,0 +1,224 @@
+{
+  "chapter": {
+    "id": 3,
+    "title": "ここは どこですか",
+    "titleRomaji": "Koko wa doko desu ka",
+    "titleId": "Di mana ini?"
+  },
+  "vocabulary": [
+    { "id": "ch03_001", "chapterId": 3, "order": 1, "kanji": "", "kana": "ここ", "romaji": "koko", "wordClass": "nomina", "meaning": "di sini" },
+    { "id": "ch03_002", "chapterId": 3, "order": 2, "kanji": "", "kana": "そこ", "romaji": "soko", "wordClass": "nomina", "meaning": "di situ" },
+    { "id": "ch03_003", "chapterId": 3, "order": 3, "kanji": "", "kana": "あそこ", "romaji": "asoko", "wordClass": "nomina", "meaning": "di sana" },
+    { "id": "ch03_004", "chapterId": 3, "order": 4, "kanji": "", "kana": "どこ", "romaji": "doko", "wordClass": "nomina", "meaning": "di mana" },
+    { "id": "ch03_005", "chapterId": 3, "order": 5, "kanji": "", "kana": "こちら", "romaji": "kochira", "wordClass": "nomina", "meaning": "ke sini/ini (sopan)" },
+    { "id": "ch03_006", "chapterId": 3, "order": 6, "kanji": "", "kana": "そちら", "romaji": "sochira", "wordClass": "nomina", "meaning": "ke situ/itu (sopan)" },
+    { "id": "ch03_007", "chapterId": 3, "order": 7, "kanji": "", "kana": "あちら", "romaji": "achira", "wordClass": "nomina", "meaning": "ke sana/itu (sopan)" },
+    { "id": "ch03_008", "chapterId": 3, "order": 8, "kanji": "", "kana": "どちら", "romaji": "dochira", "wordClass": "nomina", "meaning": "ke mana/yang mana (sopan)" },
+    { "id": "ch03_009", "chapterId": 3, "order": 9, "kanji": "上", "kana": "うえ", "romaji": "ue", "wordClass": "nomina", "meaning": "atas" },
+    { "id": "ch03_010", "chapterId": 3, "order": 10, "kanji": "下", "kana": "した", "romaji": "shita", "wordClass": "nomina", "meaning": "bawah" },
+    { "id": "ch03_011", "chapterId": 3, "order": 11, "kanji": "前", "kana": "まえ", "romaji": "mae", "wordClass": "nomina", "meaning": "depan" },
+    { "id": "ch03_012", "chapterId": 3, "order": 12, "kanji": "後ろ", "kana": "うしろ", "romaji": "ushiro", "wordClass": "nomina", "meaning": "belakang" },
+    { "id": "ch03_013", "chapterId": 3, "order": 13, "kanji": "右", "kana": "みぎ", "romaji": "migi", "wordClass": "nomina", "meaning": "kanan" },
+    { "id": "ch03_014", "chapterId": 3, "order": 14, "kanji": "左", "kana": "ひだり", "romaji": "hidari", "wordClass": "nomina", "meaning": "kiri" },
+    { "id": "ch03_015", "chapterId": 3, "order": 15, "kanji": "中", "kana": "なか", "romaji": "naka", "wordClass": "nomina", "meaning": "dalam/di dalam" },
+    { "id": "ch03_016", "chapterId": 3, "order": 16, "kanji": "外", "kana": "そと", "romaji": "soto", "wordClass": "nomina", "meaning": "luar/di luar" },
+    { "id": "ch03_017", "chapterId": 3, "order": 17, "kanji": "隣", "kana": "となり", "romaji": "tonari", "wordClass": "nomina", "meaning": "sebelah/di sebelah" },
+    { "id": "ch03_018", "chapterId": 3, "order": 18, "kanji": "近く", "kana": "ちかく", "romaji": "chikaku", "wordClass": "nomina", "meaning": "dekat/di dekat" },
+    { "id": "ch03_019", "chapterId": 3, "order": 19, "kanji": "間", "kana": "あいだ", "romaji": "aida", "wordClass": "nomina", "meaning": "antara/di antara" },
+    { "id": "ch03_020", "chapterId": 3, "order": 20, "kanji": "", "kana": "デパート", "romaji": "depaato", "wordClass": "nomina", "meaning": "department store" },
+    { "id": "ch03_021", "chapterId": 3, "order": 21, "kanji": "", "kana": "スーパー", "romaji": "suupaa", "wordClass": "nomina", "meaning": "supermarket" },
+    { "id": "ch03_022", "chapterId": 3, "order": 22, "kanji": "", "kana": "コンビニ", "romaji": "konbini", "wordClass": "nomina", "meaning": "minimarket" },
+    { "id": "ch03_023", "chapterId": 3, "order": 23, "kanji": "", "kana": "レストラン", "romaji": "resutoran", "wordClass": "nomina", "meaning": "restoran" },
+    { "id": "ch03_024", "chapterId": 3, "order": 24, "kanji": "", "kana": "ファミリーレストラン", "romaji": "famirii resutoran", "wordClass": "nomina", "meaning": "restoran keluarga" },
+    { "id": "ch03_025", "chapterId": 3, "order": 25, "kanji": "", "kana": "カフェ", "romaji": "kafe", "wordClass": "nomina", "meaning": "kafe" },
+    { "id": "ch03_026", "chapterId": 3, "order": 26, "kanji": "銀行", "kana": "ぎんこう", "romaji": "ginkou", "wordClass": "nomina", "meaning": "bank" },
+    { "id": "ch03_027", "chapterId": 3, "order": 27, "kanji": "郵便局", "kana": "ゆうびんきょく", "romaji": "yuubinkyoku", "wordClass": "nomina", "meaning": "kantor pos" },
+    { "id": "ch03_028", "chapterId": 3, "order": 28, "kanji": "図書館", "kana": "としょかん", "romaji": "toshokan", "wordClass": "nomina", "meaning": "perpustakaan" },
+    { "id": "ch03_029", "chapterId": 3, "order": 29, "kanji": "美術館", "kana": "びじゅつかん", "romaji": "bijutsukan", "wordClass": "nomina", "meaning": "museum seni" },
+    { "id": "ch03_030", "chapterId": 3, "order": 30, "kanji": "駅", "kana": "えき", "romaji": "eki", "wordClass": "nomina", "meaning": "stasiun" },
+    { "id": "ch03_031", "chapterId": 3, "order": 31, "kanji": "バス停", "kana": "バスてい", "romaji": "basutei", "wordClass": "nomina", "meaning": "halte bus" },
+    { "id": "ch03_032", "chapterId": 3, "order": 32, "kanji": "地下鉄", "kana": "ちかてつ", "romaji": "chikatetsu", "wordClass": "nomina", "meaning": "kereta bawah tanah" },
+    { "id": "ch03_033", "chapterId": 3, "order": 33, "kanji": "", "kana": "ホテル", "romaji": "hoteru", "wordClass": "nomina", "meaning": "hotel" },
+    { "id": "ch03_034", "chapterId": 3, "order": 34, "kanji": "病院", "kana": "びょういん", "romaji": "byouin", "wordClass": "nomina", "meaning": "rumah sakit" },
+    { "id": "ch03_035", "chapterId": 3, "order": 35, "kanji": "家", "kana": "うち", "romaji": "uchi", "wordClass": "nomina", "meaning": "rumah/rumah saya" },
+    { "id": "ch03_036", "chapterId": 3, "order": 36, "kanji": "会社", "kana": "かいしゃ", "romaji": "kaisha", "wordClass": "nomina", "meaning": "perusahaan/kantor" },
+    { "id": "ch03_037", "chapterId": 3, "order": 37, "kanji": "学校", "kana": "がっこう", "romaji": "gakkou", "wordClass": "nomina", "meaning": "sekolah" },
+    { "id": "ch03_038", "chapterId": 3, "order": 38, "kanji": "", "kana": "いくら", "romaji": "ikura", "wordClass": "nomina", "meaning": "berapa harganya?" },
+    { "id": "ch03_039", "chapterId": 3, "order": 39, "kanji": "百", "kana": "ひゃく", "romaji": "hyaku", "wordClass": "nomina", "meaning": "seratus" },
+    { "id": "ch03_040", "chapterId": 3, "order": 40, "kanji": "千", "kana": "せん", "romaji": "sen", "wordClass": "nomina", "meaning": "seribu" },
+    { "id": "ch03_041", "chapterId": 3, "order": 41, "kanji": "万", "kana": "まん", "romaji": "man", "wordClass": "nomina", "meaning": "sepuluh ribu" }
+  ],
+  "patterns": [
+    {
+      "id": "ch03_p01",
+      "chapterId": 3,
+      "order": 1,
+      "pattern": "N は どこですか",
+      "explanation": "Menanyakan lokasi suatu tempat atau benda. どこ (doko) berarti 'di mana'.",
+      "examples": [
+        { "japanese": "トイレは どこですか。", "romaji": "Toire wa doko desu ka.", "indonesian": "Di mana toilet?" },
+        { "japanese": "ゆうびんきょくは どこですか。", "romaji": "Yuubinkyoku wa doko desu ka.", "indonesian": "Di mana kantor pos?" }
+      ]
+    },
+    {
+      "id": "ch03_p02",
+      "chapterId": 3,
+      "order": 2,
+      "pattern": "N は N の N です",
+      "explanation": "Menyatakan posisi relatif suatu tempat atau benda terhadap benda lain menggunakan kata posisi (atas, bawah, depan, dll.).",
+      "examples": [
+        { "japanese": "エレベーターは あちらです。", "romaji": "Erebeetaa wa achira desu.", "indonesian": "Lift ada di sana." },
+        { "japanese": "コンビニは えきの まえです。", "romaji": "Konbini wa eki no mae desu.", "indonesian": "Minimarket ada di depan stasiun." }
+      ]
+    },
+    {
+      "id": "ch03_p03",
+      "chapterId": 3,
+      "order": 3,
+      "pattern": "N に N が あります/います",
+      "explanation": "Menyatakan keberadaan benda (あります) atau orang/hewan (います) di suatu tempat. Partikel に menandai lokasi, が menandai subjek.",
+      "examples": [
+        { "japanese": "デパートの となりに ぎんこうが あります。", "romaji": "Depaato no tonari ni ginkou ga arimasu.", "indonesian": "Ada bank di sebelah department store." },
+        { "japanese": "としょかんの まえに バスていが あります。", "romaji": "Toshokan no mae ni basutei ga arimasu.", "indonesian": "Ada halte bus di depan perpustakaan." }
+      ]
+    },
+    {
+      "id": "ch03_p04",
+      "chapterId": 3,
+      "order": 4,
+      "pattern": "N は いくらですか",
+      "explanation": "Menanyakan harga suatu barang. いくら (ikura) berarti 'berapa harganya'.",
+      "examples": [
+        { "japanese": "この かばんは いくらですか。", "romaji": "Kono kaban wa ikura desu ka.", "indonesian": "Berapa harga tas ini?" },
+        { "japanese": "そのとけいは いくらですか。", "romaji": "Sono tokei wa ikura desu ka.", "indonesian": "Berapa harga jam itu?" }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "id": "ch03_g01",
+      "chapterId": 3,
+      "order": 1,
+      "title": "Kata Tunjuk Tempat ここ・そこ・あそこ",
+      "explanation": "Sistem Ko-So-A-Do juga berlaku untuk lokasi. ここ (koko) berarti 'di sini' (dekat pembicara), そこ (soko) berarti 'di situ' (dekat lawan bicara), あそこ (asoko) berarti 'di sana' (jauh dari keduanya), dan どこ (doko) berarti 'di mana' (pertanyaan). Bentuk sopannya adalah こちら/そちら/あちら/どちら.",
+      "examples": [
+        { "japanese": "トイレは どこですか。— あそこです。", "romaji": "Toire wa doko desu ka. — Asoko desu.", "indonesian": "Di mana toilet? — Di sana." },
+        { "japanese": "ここは としょかんです。", "romaji": "Koko wa toshokan desu.", "indonesian": "Di sini adalah perpustakaan." }
+      ]
+    },
+    {
+      "id": "ch03_g02",
+      "chapterId": 3,
+      "order": 2,
+      "title": "Kata Posisi (Preposisi Lokasi)",
+      "explanation": "Kata posisi seperti うえ (atas), した (bawah), まえ (depan), うしろ (belakang), みぎ (kanan), ひだり (kiri), なか (dalam), そと (luar), となり (sebelah), ちかく (dekat), dan あいだ (antara) digunakan bersama partikel の untuk menyatakan posisi relatif suatu benda terhadap benda lain.",
+      "examples": [
+        { "japanese": "ほんは つくえの うえに あります。", "romaji": "Hon wa tsukue no ue ni arimasu.", "indonesian": "Buku ada di atas meja." },
+        { "japanese": "コンビニは えきの となりです。", "romaji": "Konbini wa eki no tonari desu.", "indonesian": "Minimarket ada di sebelah stasiun." }
+      ]
+    },
+    {
+      "id": "ch03_g03",
+      "chapterId": 3,
+      "order": 3,
+      "title": "Partikel に — Keberadaan di Tempat",
+      "explanation": "Partikel に (ni) digunakan untuk menandai lokasi keberadaan suatu benda atau orang. Pola dasarnya adalah 'Tempat に Benda/Orang が あります/います'. あります digunakan untuk benda mati, います untuk orang dan hewan.",
+      "examples": [
+        { "japanese": "えきの まえに バスていが あります。", "romaji": "Eki no mae ni basutei ga arimasu.", "indonesian": "Ada halte bus di depan stasiun." },
+        { "japanese": "としょかんに がくせいが います。", "romaji": "Toshokan ni gakusei ga imasu.", "indonesian": "Ada pelajar di perpustakaan." }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "ch03_q01",
+      "chapterId": 3,
+      "order": 1,
+      "question": "Kata mana yang digunakan untuk menanyakan lokasi?",
+      "choices": ["だれ (dare)", "なに (nani)", "どこ (doko)", "いつ (itsu)"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch03_q02",
+      "chapterId": 3,
+      "order": 2,
+      "question": "Apa arti kata 'となり' (tonari)?",
+      "choices": ["depan", "belakang", "sebelah/di sebelah", "atas"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch03_q03",
+      "chapterId": 3,
+      "order": 3,
+      "question": "Bagaimana cara mengatakan 'Di mana stasiun?' dalam bahasa Jepang?",
+      "choices": [
+        "えきは どこですか。",
+        "えきは なんですか。",
+        "えきは だれですか。",
+        "えきは いくらですか。"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "ch03_q04",
+      "chapterId": 3,
+      "order": 4,
+      "question": "Apa arti kata 'ゆうびんきょく' (yuubinkyoku)?",
+      "choices": ["bank", "kantor pos", "perpustakaan", "museum seni"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch03_q05",
+      "chapterId": 3,
+      "order": 5,
+      "question": "Kata posisi mana yang berarti 'di antara'?",
+      "choices": ["ちかく (chikaku)", "となり (tonari)", "あいだ (aida)", "そと (soto)"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch03_q06",
+      "chapterId": 3,
+      "order": 6,
+      "question": "Kata 'ひだり' (hidari) berarti...",
+      "choices": ["kanan", "kiri", "depan", "belakang"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch03_q07",
+      "chapterId": 3,
+      "order": 7,
+      "question": "Apa arti kata 'いくら' (ikura)?",
+      "choices": ["di mana", "kapan", "berapa harganya?", "siapa"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch03_q08",
+      "chapterId": 3,
+      "order": 8,
+      "question": "Kata 'あそこ' (asoko) berarti...",
+      "choices": ["di sini", "di situ", "di sana", "di mana"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch03_q09",
+      "chapterId": 3,
+      "order": 9,
+      "question": "Bagaimana cara mengatakan 'Ada bank di sebelah department store'?",
+      "choices": [
+        "デパートは ぎんこうの となりです。",
+        "デパートの となりに ぎんこうが あります。",
+        "ぎんこうは デパートです。",
+        "デパートに ぎんこうが います。"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch03_q10",
+      "chapterId": 3,
+      "order": 10,
+      "question": "Apa arti kata 'としょかん' (toshokan)?",
+      "choices": ["museum seni", "department store", "perpustakaan", "hotel"],
+      "correctIndex": 2
+    }
+  ]
+}

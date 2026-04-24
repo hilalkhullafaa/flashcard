@@ -1,0 +1,228 @@
+{
+  "chapter": {
+    "id": 17,
+    "title": "部長は 今 会議中です",
+    "titleRomaji": "Buchou wa ima kaigichuu desu",
+    "titleId": "Manajer sedang rapat sekarang"
+  },
+  "vocabulary": [
+    { "id": "ch17_001", "chapterId": 17, "order": 1, "kanji": "綺麗", "kana": "きれい", "romaji": "kirei", "wordClass": "adjektiva-na", "meaning": "cantik/bersih" },
+    { "id": "ch17_002", "chapterId": 17, "order": 2, "kanji": "静か", "kana": "しずか", "romaji": "shizuka", "wordClass": "adjektiva-na", "meaning": "tenang/sepi" },
+    { "id": "ch17_003", "chapterId": 17, "order": 3, "kanji": "賑やか", "kana": "にぎやか", "romaji": "nigiyaka", "wordClass": "adjektiva-na", "meaning": "ramai/meriah" },
+    { "id": "ch17_004", "chapterId": 17, "order": 4, "kanji": "便利", "kana": "べんり", "romaji": "benri", "wordClass": "adjektiva-na", "meaning": "praktis/nyaman" },
+    { "id": "ch17_005", "chapterId": 17, "order": 5, "kanji": "不便", "kana": "ふべん", "romaji": "fuben", "wordClass": "adjektiva-na", "meaning": "tidak praktis" },
+    { "id": "ch17_006", "chapterId": 17, "order": 6, "kanji": "好き", "kana": "すき", "romaji": "suki", "wordClass": "adjektiva-na", "meaning": "suka" },
+    { "id": "ch17_007", "chapterId": 17, "order": 7, "kanji": "嫌い", "kana": "きらい", "romaji": "kirai", "wordClass": "adjektiva-na", "meaning": "tidak suka" },
+    { "id": "ch17_008", "chapterId": 17, "order": 8, "kanji": "上手", "kana": "じょうず", "romaji": "jouzu", "wordClass": "adjektiva-na", "meaning": "pandai" },
+    { "id": "ch17_009", "chapterId": 17, "order": 9, "kanji": "下手", "kana": "へた", "romaji": "heta", "wordClass": "adjektiva-na", "meaning": "tidak pandai" },
+    { "id": "ch17_010", "chapterId": 17, "order": 10, "kanji": "有名", "kana": "ゆうめい", "romaji": "yuumei", "wordClass": "adjektiva-na", "meaning": "terkenal" },
+    { "id": "ch17_011", "chapterId": 17, "order": 11, "kanji": "大切", "kana": "たいせつ", "romaji": "taisetsu", "wordClass": "adjektiva-na", "meaning": "penting/berharga" },
+    { "id": "ch17_012", "chapterId": 17, "order": 12, "kanji": "暇", "kana": "ひま", "romaji": "hima", "wordClass": "adjektiva-na", "meaning": "senggang/tidak sibuk" },
+    { "id": "ch17_013", "chapterId": 17, "order": 13, "kanji": "忙しい", "kana": "いそがしい", "romaji": "isogashii", "wordClass": "adjektiva-i", "meaning": "sibuk" },
+    { "id": "ch17_014", "chapterId": 17, "order": 14, "kanji": "", "kana": "どんな", "romaji": "donna", "wordClass": "adverbia", "meaning": "seperti apa/bagaimana" },
+    { "id": "ch17_015", "chapterId": 17, "order": 15, "kanji": "", "kana": "どちら", "romaji": "dochira", "wordClass": "nomina", "meaning": "yang mana (dari dua)" },
+    { "id": "ch17_016", "chapterId": 17, "order": 16, "kanji": "", "kana": "どれ", "romaji": "dore", "wordClass": "nomina", "meaning": "yang mana (dari banyak)" },
+    { "id": "ch17_017", "chapterId": 17, "order": 17, "kanji": "一番", "kana": "いちばん", "romaji": "ichiban", "wordClass": "adverbia", "meaning": "paling/nomor satu" },
+    { "id": "ch17_018", "chapterId": 17, "order": 18, "kanji": "", "kana": "〜より", "romaji": "~yori", "wordClass": "partikel", "meaning": "lebih dari ~" },
+    { "id": "ch17_019", "chapterId": 17, "order": 19, "kanji": "", "kana": "〜のほうが", "romaji": "~no hou ga", "wordClass": "ekspresi", "meaning": "~ lebih (perbandingan)" }
+  ],
+  "patterns": [
+    {
+      "id": "ch17_p01",
+      "chapterId": 17,
+      "order": 1,
+      "pattern": "N は な-adjektiva です",
+      "explanation": "Adjektiva-na digunakan sebagai predikat dengan menambahkan です setelahnya. Berbeda dengan adjektiva-i, adjektiva-na tidak berakhiran い dalam bentuk kamus (atau berakhiran い tapi bukan adjektiva-i asli). Contoh: きれい、しずか、べんり.",
+      "examples": [
+        { "japanese": "このまちは しずかです。", "romaji": "Kono machi wa shizuka desu.", "indonesian": "Kota ini tenang." },
+        { "japanese": "かのじょは きれいです。", "romaji": "Kanojo wa kirei desu.", "indonesian": "Dia (perempuan) cantik." },
+        { "japanese": "このえきは べんりです。", "romaji": "Kono eki wa benri desu.", "indonesian": "Stasiun ini praktis." }
+      ]
+    },
+    {
+      "id": "ch17_p02",
+      "chapterId": 17,
+      "order": 2,
+      "pattern": "A より B のほうが [adjektiva] です",
+      "explanation": "Pola untuk membandingkan dua hal. より menandai hal yang 'kalah', のほうが menandai hal yang 'menang'. Artinya: 'B lebih [sifat] daripada A'. Adjektiva bisa berupa adjektiva-i maupun adjektiva-na.",
+      "examples": [
+        { "japanese": "バスより でんしゃのほうが はやいです。", "romaji": "Basu yori densha no hou ga hayai desu.", "indonesian": "Kereta lebih cepat daripada bus." },
+        { "japanese": "とうきょうより おおさかのほうが にぎやかです。", "romaji": "Toukyou yori Oosaka no hou ga nigiyaka desu.", "indonesian": "Osaka lebih ramai daripada Tokyo." },
+        { "japanese": "コーヒーより おちゃのほうが すきです。", "romaji": "Koohii yori ocha no hou ga suki desu.", "indonesian": "Saya lebih suka teh daripada kopi." }
+      ]
+    },
+    {
+      "id": "ch17_p03",
+      "chapterId": 17,
+      "order": 3,
+      "pattern": "N の中で N が いちばん [adjektiva] です",
+      "explanation": "Pola untuk menyatakan superlatif (paling). の中で menandai kelompok/lingkup perbandingan, いちばん berarti 'paling'. Pertanyaan superlatif menggunakan: N の中で どれ/どこ/だれ が いちばん [adjektiva] ですか.",
+      "examples": [
+        { "japanese": "くだものの中で りんごが いちばん すきです。", "romaji": "Kudamono no naka de ringo ga ichiban suki desu.", "indonesian": "Di antara buah-buahan, saya paling suka apel." },
+        { "japanese": "クラスの中で だれが いちばん じょうずですか。", "romaji": "Kurasu no naka de dare ga ichiban jouzu desu ka.", "indonesian": "Di antara kelas, siapa yang paling pandai?" },
+        { "japanese": "にほんで どこが いちばん ゆうめいですか。", "romaji": "Nihon de doko ga ichiban yuumei desu ka.", "indonesian": "Di Jepang, mana yang paling terkenal?" }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "id": "ch17_g01",
+      "chapterId": 17,
+      "order": 1,
+      "title": "Adjektiva-na: Bentuk dan Penggunaan",
+      "explanation": "Adjektiva-na (な形容詞) berbeda dari adjektiva-i dalam dua hal utama: (1) Saat memodifikasi nomina, adjektiva-na memerlukan な: きれいな はな (bunga cantik). (2) Bentuk negatifnya adalah じゃない/ではない, bukan くない. Contoh: しずかじゃないです (tidak tenang). Adjektiva-na tidak berubah bentuk saat menjadi predikat: しずかです.",
+      "examples": [
+        { "japanese": "きれいな まちに すんでいます。", "romaji": "Kirei na machi ni sunde imasu.", "indonesian": "Saya tinggal di kota yang indah. (modifier)" },
+        { "japanese": "このへやは しずかじゃないです。", "romaji": "Kono heya wa shizuka ja nai desu.", "indonesian": "Kamar ini tidak tenang. (negatif)" },
+        { "japanese": "にほんごが じょうずですね。", "romaji": "Nihongo ga jouzu desu ne.", "indonesian": "Bahasa Jepang Anda bagus ya. (predikat)" }
+      ]
+    },
+    {
+      "id": "ch17_g02",
+      "chapterId": 17,
+      "order": 2,
+      "title": "Perbandingan: 〜より〜のほうが",
+      "explanation": "Untuk membandingkan dua hal, gunakan pola: A より B のほうが [adjektiva] です. より berarti 'daripada', のほうが berarti 'yang ini lebih'. Untuk menanyakan perbandingan: A と B と どちらのほうが [adjektiva] ですか (Antara A dan B, mana yang lebih [sifat]?). Jawaban: A のほうが [adjektiva] です atau B のほうが [adjektiva] です.",
+      "examples": [
+        { "japanese": "なつと ふゆと どちらのほうが すきですか。", "romaji": "Natsu to fuyu to dochira no hou ga suki desu ka.", "indonesian": "Antara musim panas dan musim dingin, mana yang lebih Anda suka?" },
+        { "japanese": "ふゆより なつのほうが すきです。", "romaji": "Fuyu yori natsu no hou ga suki desu.", "indonesian": "Saya lebih suka musim panas daripada musim dingin." },
+        { "japanese": "でんしゃより ひこうきのほうが はやいです。", "romaji": "Densha yori hikouki no hou ga hayai desu.", "indonesian": "Pesawat lebih cepat daripada kereta." }
+      ]
+    },
+    {
+      "id": "ch17_g03",
+      "chapterId": 17,
+      "order": 3,
+      "title": "Superlatif: 〜の中でいちばん",
+      "explanation": "Untuk menyatakan 'paling' dalam suatu kelompok, gunakan: [kelompok] の中で [N] が いちばん [adjektiva] です. いちばん berarti 'nomor satu/paling'. Kelompok bisa berupa kategori (くだもの/buah), tempat (にほん/Jepang), atau waktu (いちねん/setahun). Pertanyaan: [kelompok] の中で どれ/どこ/だれ が いちばん [adjektiva] ですか.",
+      "examples": [
+        { "japanese": "いちねんで いつが いちばん すきですか。", "romaji": "Ichinnen de itsu ga ichiban suki desu ka.", "indonesian": "Dalam setahun, kapan yang paling Anda suka?" },
+        { "japanese": "はるが いちばん すきです。", "romaji": "Haru ga ichiban suki desu.", "indonesian": "Saya paling suka musim semi." },
+        { "japanese": "このクラスで だれが いちばん にほんごが じょうずですか。", "romaji": "Kono kurasu de dare ga ichiban Nihongo ga jouzu desu ka.", "indonesian": "Di kelas ini, siapa yang paling pandai bahasa Jepang?" }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "ch17_q01",
+      "chapterId": 17,
+      "order": 1,
+      "question": "Bagaimana cara mengatakan 'bunga cantik' menggunakan adjektiva-na?",
+      "choices": ["きれい はな", "きれいい はな", "きれいな はな", "きれいの はな"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch17_q02",
+      "chapterId": 17,
+      "order": 2,
+      "question": "Apa arti dari 'バスより でんしゃのほうが はやいです'?",
+      "choices": [
+        "Bus lebih cepat daripada kereta.",
+        "Kereta lebih cepat daripada bus.",
+        "Bus dan kereta sama cepatnya.",
+        "Kereta tidak secepat bus."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch17_q03",
+      "chapterId": 17,
+      "order": 3,
+      "question": "Apa arti kata 'にぎやか' (nigiyaka)?",
+      "choices": ["tenang/sepi", "praktis", "ramai/meriah", "terkenal"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch17_q04",
+      "chapterId": 17,
+      "order": 4,
+      "question": "Bagaimana bentuk negatif dari adjektiva-na 'しずか'?",
+      "choices": ["しずかくない", "しずかない", "しずかじゃない", "しずかでくない"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch17_q05",
+      "chapterId": 17,
+      "order": 5,
+      "question": "Kalimat mana yang benar untuk 'Di antara buah-buahan, saya paling suka apel'?",
+      "choices": [
+        "くだものより りんごが いちばん すきです。",
+        "くだものの中で りんごが いちばん すきです。",
+        "くだもので りんごが いちばん すきです。",
+        "くだものから りんごが いちばん すきです。"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch17_q06",
+      "chapterId": 17,
+      "order": 6,
+      "question": "Apa arti kata 'じょうず' (jouzu)?",
+      "choices": ["tidak pandai", "pandai", "suka", "penting"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch17_q07",
+      "chapterId": 17,
+      "order": 7,
+      "question": "Bagaimana cara menanyakan perbandingan antara dua hal?",
+      "choices": [
+        "A と B と どちらのほうが [adjektiva] ですか。",
+        "A と B と どれのほうが [adjektiva] ですか。",
+        "A より B のほうが [adjektiva] ですか。",
+        "A と B と いちばん [adjektiva] ですか。"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "ch17_q08",
+      "chapterId": 17,
+      "order": 8,
+      "question": "Apa arti kata 'ひま' (hima)?",
+      "choices": ["sibuk", "penting", "senggang/tidak sibuk", "terkenal"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch17_q09",
+      "chapterId": 17,
+      "order": 9,
+      "question": "Kalimat mana yang benar untuk 'Kota ini tenang'?",
+      "choices": [
+        "このまちは しずかいです。",
+        "このまちは しずかです。",
+        "このまちは しずかなです。",
+        "このまちは しずくです。"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch17_q10",
+      "chapterId": 17,
+      "order": 10,
+      "question": "Apa arti kata 'いちばん' (ichiban)?",
+      "choices": ["lebih dari", "sama dengan", "paling/nomor satu", "kurang dari"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch17_q11",
+      "chapterId": 17,
+      "order": 11,
+      "question": "Apa perbedaan penggunaan 'どちら' dan 'どれ'?",
+      "choices": [
+        "どちら untuk benda, どれ untuk orang",
+        "どちら untuk dua pilihan, どれ untuk banyak pilihan",
+        "どちら untuk tempat, どれ untuk waktu",
+        "Keduanya sama saja"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch17_q12",
+      "chapterId": 17,
+      "order": 12,
+      "question": "Apa arti kata 'べんり' (benri)?",
+      "choices": ["tidak praktis", "terkenal", "cantik/bersih", "praktis/nyaman"],
+      "correctIndex": 3
+    }
+  ]
+}

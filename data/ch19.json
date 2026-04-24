@@ -1,0 +1,227 @@
+{
+  "chapter": {
+    "id": 19,
+    "title": "部屋を 借りたいんですが",
+    "titleRomaji": "Heya o karitain desu ga",
+    "titleId": "Saya ingin menyewa kamar"
+  },
+  "vocabulary": [
+    { "id": "ch19_001", "chapterId": 19, "order": 1, "kanji": "借ります", "kana": "かります", "romaji": "karimasu", "wordClass": "verba-ru", "meaning": "menyewa/meminjam" },
+    { "id": "ch19_002", "chapterId": 19, "order": 2, "kanji": "貸します", "kana": "かします", "romaji": "kashimasu", "wordClass": "verba-i", "meaning": "menyewakan/meminjamkan" },
+    { "id": "ch19_003", "chapterId": 19, "order": 3, "kanji": "引っ越します", "kana": "ひっこします", "romaji": "hikkoshimasu", "wordClass": "verba-i", "meaning": "pindah rumah" },
+    { "id": "ch19_004", "chapterId": 19, "order": 4, "kanji": "探します", "kana": "さがします", "romaji": "sagashimasu", "wordClass": "verba-i", "meaning": "mencari" },
+    { "id": "ch19_005", "chapterId": 19, "order": 5, "kanji": "見つかります", "kana": "みつかります", "romaji": "mitsukarimasu", "wordClass": "verba-i", "meaning": "ditemukan/ketemu" },
+    { "id": "ch19_006", "chapterId": 19, "order": 6, "kanji": "決めます", "kana": "きめます", "romaji": "kimemasu", "wordClass": "verba-ru", "meaning": "memutuskan" },
+    { "id": "ch19_007", "chapterId": 19, "order": 7, "kanji": "選びます", "kana": "えらびます", "romaji": "erabimasu", "wordClass": "verba-i", "meaning": "memilih" },
+    { "id": "ch19_008", "chapterId": 19, "order": 8, "kanji": "申し込みます", "kana": "もうしこみます", "romaji": "moushikomimasu", "wordClass": "verba-i", "meaning": "mendaftar" },
+    { "id": "ch19_009", "chapterId": 19, "order": 9, "kanji": "家賃", "kana": "やちん", "romaji": "yachin", "wordClass": "nomina", "meaning": "uang sewa" },
+    { "id": "ch19_010", "chapterId": 19, "order": 10, "kanji": "敷金", "kana": "しきん", "romaji": "shikikin", "wordClass": "nomina", "meaning": "uang jaminan" },
+    { "id": "ch19_011", "chapterId": 19, "order": 11, "kanji": "礼金", "kana": "れいきん", "romaji": "reikin", "wordClass": "nomina", "meaning": "uang terima kasih (untuk pemilik)" },
+    { "id": "ch19_012", "chapterId": 19, "order": 12, "kanji": "", "kana": "マンション", "romaji": "manshon", "wordClass": "nomina", "meaning": "apartemen (besar/mewah)" },
+    { "id": "ch19_013", "chapterId": 19, "order": 13, "kanji": "", "kana": "アパート", "romaji": "apaato", "wordClass": "nomina", "meaning": "apartemen (lebih kecil)" },
+    { "id": "ch19_014", "chapterId": 19, "order": 14, "kanji": "", "kana": "ペット", "romaji": "petto", "wordClass": "nomina", "meaning": "hewan peliharaan" },
+    { "id": "ch19_015", "chapterId": 19, "order": 15, "kanji": "禁煙", "kana": "きんえん", "romaji": "kin'en", "wordClass": "nomina", "meaning": "dilarang merokok" },
+    { "id": "ch19_016", "chapterId": 19, "order": 16, "kanji": "", "kana": "〜と", "romaji": "~to", "wordClass": "partikel", "meaning": "jika/kalau (kondisional alami)" },
+    { "id": "ch19_017", "chapterId": 19, "order": 17, "kanji": "", "kana": "〜ば", "romaji": "~ba", "wordClass": "partikel", "meaning": "jika (kondisional)" },
+    { "id": "ch19_018", "chapterId": 19, "order": 18, "kanji": "", "kana": "〜たら", "romaji": "~tara", "wordClass": "ekspresi", "meaning": "kalau/jika (kondisional hipotetis)" }
+  ],
+  "patterns": [
+    {
+      "id": "ch19_p01",
+      "chapterId": 19,
+      "order": 1,
+      "pattern": "V と、〜",
+      "explanation": "Kondisional 〜と menyatakan kondisi alami atau otomatis: 'Jika V, maka ~'. Digunakan untuk fakta umum, instruksi, atau konsekuensi yang pasti terjadi. Dibentuk dari bentuk kamus verba + と. Tidak digunakan untuk keinginan, permintaan, atau saran di klausa kedua.",
+      "examples": [
+        { "japanese": "このボタンを おすと、ドアが あきます。", "romaji": "Kono botan o osu to, doa ga akimasu.", "indonesian": "Jika menekan tombol ini, pintu akan terbuka." },
+        { "japanese": "みぎに まがると、えきが あります。", "romaji": "Migi ni magaru to, eki ga arimasu.", "indonesian": "Jika belok kanan, ada stasiun." },
+        { "japanese": "はるに なると、さくらが さきます。", "romaji": "Haru ni naru to, sakura ga sakimasu.", "indonesian": "Jika musim semi tiba, bunga sakura mekar." }
+      ]
+    },
+    {
+      "id": "ch19_p02",
+      "chapterId": 19,
+      "order": 2,
+      "pattern": "V たら、〜",
+      "explanation": "Kondisional 〜たら menyatakan kondisi hipotetis atau urutan kejadian: 'Kalau V, ~'. Lebih fleksibel dari 〜と dan dapat digunakan dengan keinginan, permintaan, dan saran di klausa kedua. Dibentuk dari bentuk ta verba + ら. Juga digunakan untuk menyatakan 'setelah melakukan V'.",
+      "examples": [
+        { "japanese": "にほんに いったら、ふじさんを みたいです。", "romaji": "Nihon ni ittara, Fujisan o mitai desu.", "indonesian": "Kalau pergi ke Jepang, saya ingin melihat Gunung Fuji." },
+        { "japanese": "しごとが おわったら、でんわして ください。", "romaji": "Shigoto ga owattara, denwa shite kudasai.", "indonesian": "Kalau pekerjaan selesai, tolong telepon." },
+        { "japanese": "やちんが やすかったら、かりたいです。", "romaji": "Yachin ga yasukattara, karitai desu.", "indonesian": "Kalau uang sewanya murah, saya ingin menyewa." }
+      ]
+    },
+    {
+      "id": "ch19_p03",
+      "chapterId": 19,
+      "order": 3,
+      "pattern": "い-adj ければ／な-adj なら、〜",
+      "explanation": "Kondisional untuk adjektiva. Adjektiva-i: ganti い dengan ければ (contoh: やすい → やすければ). Adjektiva-na: tambahkan なら setelah adjektiva (contoh: しずか → しずかなら). Menyatakan kondisi berdasarkan sifat atau keadaan.",
+      "examples": [
+        { "japanese": "やちんが やすければ、かりたいです。", "romaji": "Yachin ga yasukereba, karitai desu.", "indonesian": "Jika uang sewanya murah, saya ingin menyewa." },
+        { "japanese": "へやが しずかなら、もうしこみます。", "romaji": "Heya ga shizuka nara, moushikomimasu.", "indonesian": "Jika kamarnya tenang, saya akan mendaftar." },
+        { "japanese": "ペットが だいじょうぶなら、かりたいんですが。", "romaji": "Petto ga daijoubu nara, karitain desu ga.", "indonesian": "Jika hewan peliharaan diperbolehkan, saya ingin menyewa." }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "id": "ch19_g01",
+      "chapterId": 19,
+      "order": 1,
+      "title": "Kondisional 〜と — Kondisi Alami",
+      "explanation": "〜と digunakan untuk kondisi yang menghasilkan konsekuensi alami atau otomatis. Ciri khas: (1) Digunakan untuk fakta umum dan instruksi. (2) Klausa kedua tidak bisa berisi keinginan (〜たい), permintaan (〜てください), atau saran (〜たらどうですか). (3) Sering digunakan untuk petunjuk arah dan cara penggunaan alat. Dibentuk dari bentuk kamus verba/adjektiva + と.",
+      "examples": [
+        { "japanese": "まっすぐ いくと、こうえんが あります。", "romaji": "Massugu iku to, kouen ga arimasu.", "indonesian": "Jika jalan lurus, ada taman." },
+        { "japanese": "このスイッチを いれると、でんきが つきます。", "romaji": "Kono suicchi o ireru to, denki ga tsukimasu.", "indonesian": "Jika menyalakan saklar ini, lampu akan menyala." },
+        { "japanese": "みずを ひやすと、こおりに なります。", "romaji": "Mizu o hiyasu to, koori ni narimasu.", "indonesian": "Jika mendinginkan air, akan menjadi es." }
+      ]
+    },
+    {
+      "id": "ch19_g02",
+      "chapterId": 19,
+      "order": 2,
+      "title": "Kondisional 〜たら — Kondisi Hipotetis",
+      "explanation": "〜たら adalah kondisional yang paling fleksibel. Dapat digunakan untuk: (1) Kondisi hipotetis: 'Kalau ~ terjadi'. (2) Urutan kejadian: 'Setelah ~'. (3) Penemuan tak terduga: 'Ketika ~, ternyata...'. Berbeda dari 〜と, klausa kedua 〜たら bisa berisi keinginan, permintaan, dan saran. Dibentuk dari bentuk ta + ら.",
+      "examples": [
+        { "japanese": "うちに かえったら、てを あらって ください。", "romaji": "Uchi ni kaettara, te o aratte kudasai.", "indonesian": "Setelah pulang ke rumah, tolong cuci tangan." },
+        { "japanese": "おかねが あったら、りょこうしたいです。", "romaji": "Okane ga attara, ryokou shitai desu.", "indonesian": "Kalau ada uang, saya ingin berwisata." },
+        { "japanese": "まどを あけたら、ゆきが ふっていました。", "romaji": "Mado o aketara, yuki ga futte imashita.", "indonesian": "Ketika membuka jendela, ternyata salju sedang turun." }
+      ]
+    },
+    {
+      "id": "ch19_g03",
+      "chapterId": 19,
+      "order": 3,
+      "title": "Mencari Tempat Tinggal: Kosakata Penting",
+      "explanation": "Saat menyewa apartemen di Jepang, ada beberapa istilah penting: やちん (yachin) = uang sewa bulanan; しきん (shikikin) = uang jaminan (biasanya 1-2 bulan sewa, dikembalikan saat keluar); れいきん (reikin) = uang terima kasih untuk pemilik (tidak dikembalikan); マンション = apartemen besar/mewah; アパート = apartemen kecil/sederhana. Pertanyaan umum: ペットは だいじょうぶですか (Apakah hewan peliharaan diperbolehkan?), きんえんですか (Apakah dilarang merokok?).",
+      "examples": [
+        { "japanese": "やちんは いくらですか。", "romaji": "Yachin wa ikura desu ka.", "indonesian": "Berapa uang sewanya?" },
+        { "japanese": "ペットは だいじょうぶですか。", "romaji": "Petto wa daijoubu desu ka.", "indonesian": "Apakah hewan peliharaan diperbolehkan?" },
+        { "japanese": "しきんと れいきんは いくらですか。", "romaji": "Shikikin to reikin wa ikura desu ka.", "indonesian": "Berapa uang jaminan dan uang terima kasihnya?" }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "ch19_q01",
+      "chapterId": 19,
+      "order": 1,
+      "question": "Kondisional mana yang digunakan untuk kondisi alami/otomatis?",
+      "choices": ["〜たら", "〜ば", "〜と", "〜なら"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch19_q02",
+      "chapterId": 19,
+      "order": 2,
+      "question": "Apa arti kata 'やちん' (yachin)?",
+      "choices": ["uang jaminan", "uang terima kasih", "uang sewa", "uang muka"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch19_q03",
+      "chapterId": 19,
+      "order": 3,
+      "question": "Kalimat mana yang benar untuk 'Jika belok kanan, ada stasiun'?",
+      "choices": [
+        "みぎに まがったら、えきが あります。",
+        "みぎに まがると、えきが あります。",
+        "みぎに まがれば、えきが あります。",
+        "みぎに まがるなら、えきが あります。"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch19_q04",
+      "chapterId": 19,
+      "order": 4,
+      "question": "Apa arti kata 'ひっこします' (hikkoshimasu)?",
+      "choices": ["mencari", "memilih", "pindah rumah", "mendaftar"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch19_q05",
+      "chapterId": 19,
+      "order": 5,
+      "question": "Kalimat mana yang benar untuk 'Kalau pekerjaan selesai, tolong telepon'?",
+      "choices": [
+        "しごとが おわると、でんわして ください。",
+        "しごとが おわれば、でんわして ください。",
+        "しごとが おわったら、でんわして ください。",
+        "しごとが おわるなら、でんわして ください。"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch19_q06",
+      "chapterId": 19,
+      "order": 6,
+      "question": "Apa perbedaan antara マンション dan アパート?",
+      "choices": [
+        "マンション lebih kecil dari アパート.",
+        "マンション adalah apartemen besar/mewah, アパート lebih kecil/sederhana.",
+        "Keduanya sama saja.",
+        "マンション untuk orang Jepang, アパート untuk orang asing."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch19_q07",
+      "chapterId": 19,
+      "order": 7,
+      "question": "Bagaimana bentuk kondisional 〜ければ dari adjektiva-i 'やすい'?",
+      "choices": ["やすいなら", "やすければ", "やすくば", "やすいたら"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch19_q08",
+      "chapterId": 19,
+      "order": 8,
+      "question": "Apa arti kata 'しきん' (shikikin)?",
+      "choices": ["uang sewa", "uang terima kasih", "uang jaminan", "uang muka"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch19_q09",
+      "chapterId": 19,
+      "order": 9,
+      "question": "Kondisional 〜と TIDAK bisa digunakan dengan...",
+      "choices": [
+        "Fakta umum",
+        "Petunjuk arah",
+        "Permintaan (〜てください) di klausa kedua",
+        "Instruksi penggunaan alat"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch19_q10",
+      "chapterId": 19,
+      "order": 10,
+      "question": "Apa arti kata 'れいきん' (reikin)?",
+      "choices": ["uang sewa", "uang jaminan", "uang terima kasih untuk pemilik", "uang administrasi"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch19_q11",
+      "chapterId": 19,
+      "order": 11,
+      "question": "Kalimat mana yang benar untuk 'Jika kamarnya tenang, saya akan mendaftar'?",
+      "choices": [
+        "へやが しずかと、もうしこみます。",
+        "へやが しずかたら、もうしこみます。",
+        "へやが しずかなら、もうしこみます。",
+        "へやが しずかければ、もうしこみます。"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch19_q12",
+      "chapterId": 19,
+      "order": 12,
+      "question": "Apa arti kata 'みつかります' (mitsukarimasu)?",
+      "choices": ["mencari", "memilih", "ditemukan/ketemu", "memutuskan"],
+      "correctIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "chapter": {
+    "id": 14,
+    "title": "部屋に テレビが あります",
+    "titleRomaji": "Heya ni terebi ga arimasu",
+    "titleId": "Ada televisi di kamar"
+  },
+  "vocabulary": [
+    { "id": "ch14_001", "chapterId": 14, "order": 1, "kanji": "あります", "kana": "あります", "romaji": "arimasu", "wordClass": "verba-i", "meaning": "ada (benda mati/tumbuhan)" },
+    { "id": "ch14_002", "chapterId": 14, "order": 2, "kanji": "います", "kana": "います", "romaji": "imasu", "wordClass": "verba-ru", "meaning": "ada (orang/hewan)" },
+    { "id": "ch14_003", "chapterId": 14, "order": 3, "kanji": "部屋", "kana": "へや", "romaji": "heya", "wordClass": "nomina", "meaning": "kamar/ruangan" },
+    { "id": "ch14_004", "chapterId": 14, "order": 4, "kanji": "建物", "kana": "たてもの", "romaji": "tatemono", "wordClass": "nomina", "meaning": "gedung/bangunan" },
+    { "id": "ch14_005", "chapterId": 14, "order": 5, "kanji": "公園", "kana": "こうえん", "romaji": "kouen", "wordClass": "nomina", "meaning": "taman" },
+    { "id": "ch14_006", "chapterId": 14, "order": 6, "kanji": "", "kana": "プール", "romaji": "puuru", "wordClass": "nomina", "meaning": "kolam renang" },
+    { "id": "ch14_007", "chapterId": 14, "order": 7, "kanji": "近く", "kana": "ちかく", "romaji": "chikaku", "wordClass": "nomina", "meaning": "dekat/sekitar" },
+    { "id": "ch14_008", "chapterId": 14, "order": 8, "kanji": "向こう", "kana": "むこう", "romaji": "mukou", "wordClass": "nomina", "meaning": "seberang/sana" },
+    { "id": "ch14_009", "chapterId": 14, "order": 9, "kanji": "横", "kana": "よこ", "romaji": "yoko", "wordClass": "nomina", "meaning": "samping" },
+    { "id": "ch14_010", "chapterId": 14, "order": 10, "kanji": "角", "kana": "かど", "romaji": "kado", "wordClass": "nomina", "meaning": "sudut/pojok" },
+    { "id": "ch14_011", "chapterId": 14, "order": 11, "kanji": "信号", "kana": "しんごう", "romaji": "shingou", "wordClass": "nomina", "meaning": "lampu lalu lintas" },
+    { "id": "ch14_012", "chapterId": 14, "order": 12, "kanji": "橋", "kana": "はし", "romaji": "hashi", "wordClass": "nomina", "meaning": "jembatan" },
+    { "id": "ch14_013", "chapterId": 14, "order": 13, "kanji": "川", "kana": "かわ", "romaji": "kawa", "wordClass": "nomina", "meaning": "sungai" },
+    { "id": "ch14_014", "chapterId": 14, "order": 14, "kanji": "山", "kana": "やま", "romaji": "yama", "wordClass": "nomina", "meaning": "gunung" },
+    { "id": "ch14_015", "chapterId": 14, "order": 15, "kanji": "海", "kana": "うみ", "romaji": "umi", "wordClass": "nomina", "meaning": "laut" },
+    { "id": "ch14_016", "chapterId": 14, "order": 16, "kanji": "森", "kana": "もり", "romaji": "mori", "wordClass": "nomina", "meaning": "hutan" },
+    { "id": "ch14_017", "chapterId": 14, "order": 17, "kanji": "いくつ", "kana": "いくつ", "romaji": "ikutsu", "wordClass": "nomina", "meaning": "berapa banyak (benda)" },
+    { "id": "ch14_018", "chapterId": 14, "order": 18, "kanji": "何人", "kana": "なんにん", "romaji": "nannin", "wordClass": "nomina", "meaning": "berapa orang" },
+    { "id": "ch14_019", "chapterId": 14, "order": 19, "kanji": "一人", "kana": "ひとり", "romaji": "hitori", "wordClass": "nomina", "meaning": "satu orang" },
+    { "id": "ch14_020", "chapterId": 14, "order": 20, "kanji": "二人", "kana": "ふたり", "romaji": "futari", "wordClass": "nomina", "meaning": "dua orang" }
+  ],
+  "patterns": [
+    {
+      "id": "ch14_p01",
+      "chapterId": 14,
+      "order": 1,
+      "pattern": "N に N が あります/います",
+      "explanation": "Pola dasar untuk menyatakan keberadaan. 'N に' menunjukkan lokasi, 'N が' menunjukkan benda/orang yang ada. Gunakan あります untuk benda mati dan tumbuhan, います untuk orang dan hewan.",
+      "examples": [
+        { "japanese": "へやに テレビが あります。", "romaji": "Heya ni terebi ga arimasu.", "indonesian": "Ada televisi di kamar." },
+        { "japanese": "こうえんに こどもが います。", "romaji": "Kouen ni kodomo ga imasu.", "indonesian": "Ada anak-anak di taman." },
+        { "japanese": "つくえの うえに ほんが あります。", "romaji": "Tsukue no ue ni hon ga arimasu.", "indonesian": "Ada buku di atas meja." }
+      ]
+    },
+    {
+      "id": "ch14_p02",
+      "chapterId": 14,
+      "order": 2,
+      "pattern": "N は N に あります/います",
+      "explanation": "Pola untuk menyatakan di mana sesuatu/seseorang berada. 'N は' adalah topik (benda/orang yang dicari), 'N に' adalah lokasi keberadaannya. Pola ini menjawab pertanyaan 'di mana N?'",
+      "examples": [
+        { "japanese": "トイレは あそこに あります。", "romaji": "Toire wa asoko ni arimasu.", "indonesian": "Toilet ada di sana." },
+        { "japanese": "やまださんは じむしょに います。", "romaji": "Yamada-san wa jimusho ni imasu.", "indonesian": "Tuan Yamada ada di kantor." },
+        { "japanese": "ねこは ソファの したに います。", "romaji": "Neko wa sofa no shita ni imasu.", "indonesian": "Kucing ada di bawah sofa." }
+      ]
+    },
+    {
+      "id": "ch14_p03",
+      "chapterId": 14,
+      "order": 3,
+      "pattern": "N に N が [数量] あります/います",
+      "explanation": "Pola untuk menyatakan jumlah benda atau orang yang ada di suatu tempat. Kata bilangan (数量) diletakkan setelah が atau sebelum あります/います. Untuk menanyakan jumlah benda gunakan いくつ, untuk orang gunakan なんにん.",
+      "examples": [
+        { "japanese": "へやに いすが みっつ あります。", "romaji": "Heya ni isu ga mittsu arimasu.", "indonesian": "Ada tiga kursi di kamar." },
+        { "japanese": "クラスに がくせいが じゅうごにん います。", "romaji": "Kurasu ni gakusei ga juugonin imasu.", "indonesian": "Ada 15 siswa di kelas." },
+        { "japanese": "にわに きが ふたつ あります。", "romaji": "Niwa ni ki ga futatsu arimasu.", "indonesian": "Ada dua pohon di halaman." }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "id": "ch14_g01",
+      "chapterId": 14,
+      "order": 1,
+      "title": "あります vs います — Keberadaan Benda vs Orang",
+      "explanation": "Bahasa Jepang membedakan verba keberadaan berdasarkan jenis subjeknya. あります (arimasu) digunakan untuk benda mati (kursi, buku, gedung) dan tumbuhan. います (imasu) digunakan untuk makhluk hidup yang dapat bergerak sendiri: orang dan hewan. Perbedaan ini wajib diperhatikan karena merupakan kesalahan umum bagi pelajar.",
+      "examples": [
+        { "japanese": "つくえの うえに ほんが あります。", "romaji": "Tsukue no ue ni hon ga arimasu.", "indonesian": "Ada buku di atas meja. (benda mati → あります)" },
+        { "japanese": "つくえの そばに せんせいが います。", "romaji": "Tsukue no soba ni sensei ga imasu.", "indonesian": "Ada guru di samping meja. (orang → います)" }
+      ]
+    },
+    {
+      "id": "ch14_g02",
+      "chapterId": 14,
+      "order": 2,
+      "title": "Partikel に — Lokasi Keberadaan",
+      "explanation": "Partikel に (ni) digunakan untuk menandai lokasi keberadaan dalam pola あります/います. Ini berbeda dari partikel で (de) yang menandai lokasi tindakan. Kata-kata lokasi yang sering digunakan: うえ (atas), した (bawah), まえ (depan), うしろ (belakang), なか (dalam), そと (luar), よこ/となり (samping), ちかく (dekat).",
+      "examples": [
+        { "japanese": "えきの まえに ぎんこうが あります。", "romaji": "Eki no mae ni ginkou ga arimasu.", "indonesian": "Ada bank di depan stasiun." },
+        { "japanese": "かばんの なかに さいふが あります。", "romaji": "Kaban no naka ni saifu ga arimasu.", "indonesian": "Ada dompet di dalam tas." }
+      ]
+    },
+    {
+      "id": "ch14_g03",
+      "chapterId": 14,
+      "order": 3,
+      "title": "Kata Tanya いくつ・なんにん",
+      "explanation": "いくつ (ikutsu) digunakan untuk menanyakan jumlah benda (berapa banyak). なんにん (nannin) digunakan untuk menanyakan jumlah orang (berapa orang). Untuk benda, jawaban menggunakan bilangan Jepang asli (ひとつ、ふたつ、みっつ…). Untuk orang, jawaban menggunakan bilangan dengan sufiks にん (ひとり、ふたり、さんにん…).",
+      "examples": [
+        { "japanese": "へやに いすが いくつ ありますか。", "romaji": "Heya ni isu ga ikutsu arimasu ka.", "indonesian": "Ada berapa kursi di kamar?" },
+        { "japanese": "かぞくは なんにん ですか。", "romaji": "Kazoku wa nannin desu ka.", "indonesian": "Keluarga Anda berapa orang?" }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "ch14_q01",
+      "chapterId": 14,
+      "order": 1,
+      "question": "Verba mana yang digunakan untuk menyatakan keberadaan orang?",
+      "choices": ["あります", "います", "Keduanya bisa", "Tergantung situasi"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch14_q02",
+      "chapterId": 14,
+      "order": 2,
+      "question": "Bagaimana cara mengatakan 'Ada buku di atas meja'?",
+      "choices": [
+        "つくえの うえに ほんが います。",
+        "つくえの うえに ほんが あります。",
+        "つくえの うえで ほんが あります。",
+        "つくえの うえを ほんが あります。"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch14_q03",
+      "chapterId": 14,
+      "order": 3,
+      "question": "Apa arti kata 'むこう' (mukou)?",
+      "choices": ["dekat", "samping", "seberang/sana", "sudut"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch14_q04",
+      "chapterId": 14,
+      "order": 4,
+      "question": "Kata tanya apa yang digunakan untuk menanyakan jumlah orang?",
+      "choices": ["いくつ", "なんにん", "なんまい", "いくら"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch14_q05",
+      "chapterId": 14,
+      "order": 5,
+      "question": "Partikel apa yang menandai lokasi keberadaan dalam pola あります/います?",
+      "choices": ["で", "を", "に", "が"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch14_q06",
+      "chapterId": 14,
+      "order": 6,
+      "question": "Bagaimana cara mengatakan 'Tuan Yamada ada di kantor'?",
+      "choices": [
+        "やまださんは じむしょに あります。",
+        "やまださんは じむしょで います。",
+        "やまださんは じむしょに います。",
+        "やまださんが じむしょを います。"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch14_q07",
+      "chapterId": 14,
+      "order": 7,
+      "question": "Apa arti kata 'はし' (hashi) dalam konteks geografi?",
+      "choices": ["sungai", "jembatan", "gunung", "hutan"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch14_q08",
+      "chapterId": 14,
+      "order": 8,
+      "question": "Verba mana yang digunakan untuk menyatakan keberadaan kucing?",
+      "choices": ["あります", "います", "Keduanya bisa", "Tidak ada yang benar"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch14_q09",
+      "chapterId": 14,
+      "order": 9,
+      "question": "Apa arti kata 'ちかく' (chikaku)?",
+      "choices": ["jauh", "dekat/sekitar", "dalam", "luar"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch14_q10",
+      "chapterId": 14,
+      "order": 10,
+      "question": "Bagaimana cara mengatakan 'Ada tiga kursi di kamar'?",
+      "choices": [
+        "へやに いすが さんにん あります。",
+        "へやに いすが みっつ います。",
+        "へやに いすが みっつ あります。",
+        "へやで いすが みっつ あります。"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch14_q11",
+      "chapterId": 14,
+      "order": 11,
+      "question": "Apa arti kata 'たてもの' (tatemono)?",
+      "choices": ["taman", "kolam renang", "gedung/bangunan", "kamar"],
+      "correctIndex": 2
+    }
+  ]
+}

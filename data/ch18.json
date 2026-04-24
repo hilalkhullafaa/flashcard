@@ -1,0 +1,236 @@
+{
+  "chapter": {
+    "id": 18,
+    "title": "荷物を 送りたいんですが",
+    "titleRomaji": "Nimotsu o okuritain desu ga",
+    "titleId": "Saya ingin mengirim barang"
+  },
+  "vocabulary": [
+    { "id": "ch18_001", "chapterId": 18, "order": 1, "kanji": "送ります", "kana": "おくります", "romaji": "okurimasu", "wordClass": "verba-i", "meaning": "mengirim" },
+    { "id": "ch18_002", "chapterId": 18, "order": 2, "kanji": "受け取ります", "kana": "うけとります", "romaji": "uketorimasu", "wordClass": "verba-i", "meaning": "menerima/mengambil" },
+    { "id": "ch18_003", "chapterId": 18, "order": 3, "kanji": "申し込みます", "kana": "もうしこみます", "romaji": "moushikomimasu", "wordClass": "verba-i", "meaning": "mendaftar/mengajukan" },
+    { "id": "ch18_004", "chapterId": 18, "order": 4, "kanji": "予約します", "kana": "よやくします", "romaji": "yoyaku shimasu", "wordClass": "verba-ireguler", "meaning": "memesan/reservasi" },
+    { "id": "ch18_005", "chapterId": 18, "order": 5, "kanji": "取り替えます", "kana": "とりかえます", "romaji": "torikaemasu", "wordClass": "verba-ru", "meaning": "menukar/mengganti" },
+    { "id": "ch18_006", "chapterId": 18, "order": 6, "kanji": "修理します", "kana": "しゅうりします", "romaji": "shuuri shimasu", "wordClass": "verba-ireguler", "meaning": "memperbaiki" },
+    { "id": "ch18_007", "chapterId": 18, "order": 7, "kanji": "荷物", "kana": "にもつ", "romaji": "nimotsu", "wordClass": "nomina", "meaning": "barang/bagasi" },
+    { "id": "ch18_008", "chapterId": 18, "order": 8, "kanji": "小包", "kana": "こづつみ", "romaji": "kozutsumi", "wordClass": "nomina", "meaning": "paket/bungkusan" },
+    { "id": "ch18_009", "chapterId": 18, "order": 9, "kanji": "切手", "kana": "きって", "romaji": "kitte", "wordClass": "nomina", "meaning": "perangko" },
+    { "id": "ch18_010", "chapterId": 18, "order": 10, "kanji": "葉書", "kana": "はがき", "romaji": "hagaki", "wordClass": "nomina", "meaning": "kartu pos" },
+    { "id": "ch18_011", "chapterId": 18, "order": 11, "kanji": "封筒", "kana": "ふうとう", "romaji": "fuutou", "wordClass": "nomina", "meaning": "amplop" },
+    { "id": "ch18_012", "chapterId": 18, "order": 12, "kanji": "書留", "kana": "かきとめ", "romaji": "kakitome", "wordClass": "nomina", "meaning": "surat tercatat" },
+    { "id": "ch18_013", "chapterId": 18, "order": 13, "kanji": "速達", "kana": "そくたつ", "romaji": "sokutatsu", "wordClass": "nomina", "meaning": "pengiriman kilat" },
+    { "id": "ch18_014", "chapterId": 18, "order": 14, "kanji": "", "kana": "〜たいんですが", "romaji": "~tai n desu ga", "wordClass": "ekspresi", "meaning": "saya ingin ~ (tapi...)" },
+    { "id": "ch18_015", "chapterId": 18, "order": 15, "kanji": "", "kana": "〜てほしいんですが", "romaji": "~te hoshii n desu ga", "wordClass": "ekspresi", "meaning": "saya ingin Anda ~" },
+    { "id": "ch18_016", "chapterId": 18, "order": 16, "kanji": "", "kana": "どうすれば いいですか", "romaji": "dou sureba ii desu ka", "wordClass": "ekspresi", "meaning": "apa yang harus saya lakukan?" },
+    { "id": "ch18_017", "chapterId": 18, "order": 17, "kanji": "", "kana": "〜たら どうですか", "romaji": "~tara dou desu ka", "wordClass": "ekspresi", "meaning": "bagaimana kalau ~?" }
+  ],
+  "patterns": [
+    {
+      "id": "ch18_p01",
+      "chapterId": 18,
+      "order": 1,
+      "pattern": "V たいんですが",
+      "explanation": "Pola untuk menyatakan keinginan dengan nuansa meminta bantuan atau informasi. たい adalah bentuk keinginan (want to), んですが menambahkan nuansa 'tapi...' yang mengimplikasikan permintaan bantuan. Dibentuk dari masu-stem + たいんですが. Lebih sopan dan tidak langsung dibanding たいです.",
+      "examples": [
+        { "japanese": "にもつを おくりたいんですが。", "romaji": "Nimotsu o okuritain desu ga.", "indonesian": "Saya ingin mengirim barang (bisakah Anda membantu?)." },
+        { "japanese": "よやくを したいんですが。", "romaji": "Yoyaku o shitain desu ga.", "indonesian": "Saya ingin membuat reservasi (bisakah Anda membantu?)." },
+        { "japanese": "これを とりかえたいんですが。", "romaji": "Kore o torikaetain desu ga.", "indonesian": "Saya ingin menukar ini (bisakah Anda membantu?)." }
+      ]
+    },
+    {
+      "id": "ch18_p02",
+      "chapterId": 18,
+      "order": 2,
+      "pattern": "V て ほしいんですが",
+      "explanation": "Pola untuk meminta seseorang melakukan sesuatu untuk Anda. てほしい berarti 'ingin (orang lain) melakukan V'. んですが menambahkan nuansa sopan. Dibentuk dari bentuk te verba + ほしいんですが. Digunakan saat meminta bantuan kepada orang lain.",
+      "examples": [
+        { "japanese": "これを しゅうりして ほしいんですが。", "romaji": "Kore o shuuri shite hoshiin desu ga.", "indonesian": "Saya ingin Anda memperbaiki ini." },
+        { "japanese": "もう いちど せつめいして ほしいんですが。", "romaji": "Mou ichido setsumei shite hoshiin desu ga.", "indonesian": "Saya ingin Anda menjelaskan sekali lagi." },
+        { "japanese": "はやく おくって ほしいんですが。", "romaji": "Hayaku okutte hoshiin desu ga.", "indonesian": "Saya ingin Anda mengirimnya dengan cepat." }
+      ]
+    },
+    {
+      "id": "ch18_p03",
+      "chapterId": 18,
+      "order": 3,
+      "pattern": "〜たら どうですか",
+      "explanation": "Pola untuk memberikan saran dengan sopan. たら adalah bentuk kondisional, どうですか berarti 'bagaimana?'. Secara keseluruhan berarti 'Bagaimana kalau Anda melakukan ~?'. Dibentuk dari bentuk ta verba + らどうですか. Digunakan untuk menyarankan tindakan kepada orang lain.",
+      "examples": [
+        { "japanese": "そくたつで おくったら どうですか。", "romaji": "Sokutatsu de okuttara dou desu ka.", "indonesian": "Bagaimana kalau dikirim dengan pengiriman kilat?" },
+        { "japanese": "いちど みせに いったら どうですか。", "romaji": "Ichido mise ni ittara dou desu ka.", "indonesian": "Bagaimana kalau pergi ke toko sekali?" },
+        { "japanese": "かきとめで だしたら どうですか。", "romaji": "Kakitome de dashitara dou desu ka.", "indonesian": "Bagaimana kalau dikirim sebagai surat tercatat?" }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "id": "ch18_g01",
+      "chapterId": 18,
+      "order": 1,
+      "title": "Keinginan: 〜たい vs 〜たいんですが",
+      "explanation": "〜たいです menyatakan keinginan secara langsung: 'Saya ingin V'. 〜たいんですが lebih tidak langsung dan sopan, mengimplikasikan permintaan bantuan atau informasi. んです (atau のです) menambahkan nuansa penjelasan/konteks, sedangkan が di akhir membuat kalimat 'menggantung' sehingga terasa lebih sopan. Gunakan 〜たいんですが saat berbicara dengan petugas layanan atau meminta bantuan.",
+      "examples": [
+        { "japanese": "にほんへ いきたいです。", "romaji": "Nihon e ikitai desu.", "indonesian": "Saya ingin pergi ke Jepang. (langsung)" },
+        { "japanese": "にほんへ いきたいんですが、どうすれば いいですか。", "romaji": "Nihon e ikitain desu ga, dou sureba ii desu ka.", "indonesian": "Saya ingin pergi ke Jepang, apa yang harus saya lakukan?" },
+        { "japanese": "きってを かいたいんですが。", "romaji": "Kitte o kaitain desu ga.", "indonesian": "Saya ingin membeli perangko (bisakah Anda membantu?)." }
+      ]
+    },
+    {
+      "id": "ch18_g02",
+      "chapterId": 18,
+      "order": 2,
+      "title": "Meminta Bantuan: 〜てほしい",
+      "explanation": "〜てほしい digunakan untuk meminta seseorang melakukan sesuatu untuk Anda. Dibentuk dari bentuk te verba + ほしい. Dalam bentuk sopan: 〜てほしいんですが atau 〜てほしいのですが. Lebih langsung dari 〜てください tapi masih sopan. Subjek yang diminta melakukan tindakan ditandai dengan partikel に: [orang] に V てほしい.",
+      "examples": [
+        { "japanese": "せんせいに せつめいして ほしいです。", "romaji": "Sensei ni setsumei shite hoshii desu.", "indonesian": "Saya ingin guru menjelaskan." },
+        { "japanese": "はやく かえって ほしいんですが。", "romaji": "Hayaku kaette hoshiin desu ga.", "indonesian": "Saya ingin Anda pulang lebih cepat." },
+        { "japanese": "これを なおして ほしいんですが。", "romaji": "Kore o naoshite hoshiin desu ga.", "indonesian": "Saya ingin Anda memperbaiki ini." }
+      ]
+    },
+    {
+      "id": "ch18_g03",
+      "chapterId": 18,
+      "order": 3,
+      "title": "Memberi Saran: 〜たらどうですか",
+      "explanation": "〜たらどうですか adalah pola untuk memberikan saran dengan sopan. Dibentuk dari bentuk ta verba + らどうですか. Secara harfiah berarti 'Jika Anda melakukan ~, bagaimana?'. Pola ini lebih sopan dari 〜てください dan lebih langsung dari 〜たほうがいいです. Sering digunakan saat merespons keluhan atau masalah seseorang.",
+      "examples": [
+        { "japanese": "あたまが いたいです。→ くすりを のんだら どうですか。", "romaji": "Atama ga itai desu. → Kusuri o nondara dou desu ka.", "indonesian": "Kepala saya sakit. → Bagaimana kalau minum obat?" },
+        { "japanese": "にほんごが むずかしいです。→ まいにち れんしゅうしたら どうですか。", "romaji": "Nihongo ga muzukashii desu. → Mainichi renshuu shitara dou desu ka.", "indonesian": "Bahasa Jepang sulit. → Bagaimana kalau berlatih setiap hari?" },
+        { "japanese": "もっと やすい みせを さがしたら どうですか。", "romaji": "Motto yasui mise o sagashitara dou desu ka.", "indonesian": "Bagaimana kalau mencari toko yang lebih murah?" }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "ch18_q01",
+      "chapterId": 18,
+      "order": 1,
+      "question": "Apa arti dari 'にもつを おくりたいんですが'?",
+      "choices": [
+        "Saya sudah mengirim barang.",
+        "Saya ingin mengirim barang (bisakah Anda membantu?).",
+        "Apakah Anda ingin mengirim barang?",
+        "Tolong kirimkan barang ini."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch18_q02",
+      "chapterId": 18,
+      "order": 2,
+      "question": "Apa arti kata 'そくたつ' (sokutatsu)?",
+      "choices": ["surat tercatat", "kartu pos", "pengiriman kilat", "amplop"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch18_q03",
+      "chapterId": 18,
+      "order": 3,
+      "question": "Bagaimana cara memberikan saran 'Bagaimana kalau minum obat?'?",
+      "choices": [
+        "くすりを のんで どうですか。",
+        "くすりを のんだら どうですか。",
+        "くすりを のむ どうですか。",
+        "くすりを のみたら どうですか。"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch18_q04",
+      "chapterId": 18,
+      "order": 4,
+      "question": "Apa arti kata 'きって' (kitte)?",
+      "choices": ["amplop", "kartu pos", "paket", "perangko"],
+      "correctIndex": 3
+    },
+    {
+      "id": "ch18_q05",
+      "chapterId": 18,
+      "order": 5,
+      "question": "Kalimat mana yang benar untuk 'Saya ingin Anda memperbaiki ini'?",
+      "choices": [
+        "これを しゅうりして ください。",
+        "これを しゅうりして ほしいんですが。",
+        "これを しゅうりしたいんですが。",
+        "これを しゅうりしたら どうですか。"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch18_q06",
+      "chapterId": 18,
+      "order": 6,
+      "question": "Apa perbedaan antara 〜たいです dan 〜たいんですが?",
+      "choices": [
+        "Tidak ada perbedaan, keduanya sama.",
+        "〜たいです lebih sopan dari 〜たいんですが.",
+        "〜たいんですが lebih tidak langsung dan mengimplikasikan permintaan bantuan.",
+        "〜たいんですが hanya digunakan untuk pertanyaan."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch18_q07",
+      "chapterId": 18,
+      "order": 7,
+      "question": "Apa arti kata 'はがき' (hagaki)?",
+      "choices": ["perangko", "kartu pos", "amplop", "paket"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch18_q08",
+      "chapterId": 18,
+      "order": 8,
+      "question": "Apa arti dari 'どうすれば いいですか'?",
+      "choices": [
+        "Apakah ini baik?",
+        "Bagaimana cara melakukannya?",
+        "Apa yang harus saya lakukan?",
+        "Apakah Anda bisa melakukannya?"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch18_q09",
+      "chapterId": 18,
+      "order": 9,
+      "question": "Apa arti kata 'かきとめ' (kakitome)?",
+      "choices": ["pengiriman kilat", "surat tercatat", "kartu pos", "amplop"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch18_q10",
+      "chapterId": 18,
+      "order": 10,
+      "question": "Kalimat mana yang merupakan saran yang sopan?",
+      "choices": [
+        "はやく いきます。",
+        "はやく いって ください。",
+        "はやく いったら どうですか。",
+        "はやく いきたいです。"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch18_q11",
+      "chapterId": 18,
+      "order": 11,
+      "question": "Apa arti kata 'とりかえます' (torikaemasu)?",
+      "choices": ["mengirim", "menerima", "menukar/mengganti", "mendaftar"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch18_q12",
+      "chapterId": 18,
+      "order": 12,
+      "question": "Bagaimana cara mengatakan 'Saya ingin membuat reservasi' dengan nuansa meminta bantuan?",
+      "choices": [
+        "よやくを したいです。",
+        "よやくを してください。",
+        "よやくを したいんですが。",
+        "よやくを したら どうですか。"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

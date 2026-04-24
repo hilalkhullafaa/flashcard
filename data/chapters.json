@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "title": "わたしは マイク・ミラーです",
+    "titleRomaji": "Watashi wa Maiku Miraa desu",
+    "titleId": "Saya adalah Mike Miller"
+  },
+  {
+    "id": 2,
+    "title": "これは 本です",
+    "titleRomaji": "Kore wa hon desu",
+    "titleId": "Ini adalah buku"
+  },
+  {
+    "id": 3,
+    "title": "ここは どこですか",
+    "titleRomaji": "Koko wa doko desu ka",
+    "titleId": "Di mana ini?"
+  },
+  {
+    "id": 4,
+    "title": "毎日 何時に 起きますか",
+    "titleRomaji": "Mainichi nanji ni okimasu ka",
+    "titleId": "Jam berapa Anda bangun setiap hari?"
+  },
+  {
+    "id": 5,
+    "title": "郵便局は どこですか",
+    "titleRomaji": "Yuubinkyoku wa doko desu ka",
+    "titleId": "Di mana kantor pos?"
+  },
+  {
+    "id": 6,
+    "title": "毎朝 6時に 起きます",
+    "titleRomaji": "Maiasa rokuji ni okimasu",
+    "titleId": "Saya bangun jam 6 setiap pagi"
+  },
+  {
+    "id": 7,
+    "title": "日曜日に 何を しますか",
+    "titleRomaji": "Nichiyoubi ni nani o shimasu ka",
+    "titleId": "Apa yang Anda lakukan pada hari Minggu?"
+  },
+  {
+    "id": 8,
+    "title": "牛乳を 1本 ください",
+    "titleRomaji": "Gyuunyuu o ippon kudasai",
+    "titleId": "Tolong satu botol susu"
+  },
+  {
+    "id": 9,
+    "title": "誕生日は いつですか",
+    "titleRomaji": "Tanjoubi wa itsu desu ka",
+    "titleId": "Kapan ulang tahun Anda?"
+  },
+  {
+    "id": 10,
+    "title": "日本語が 少し 話せます",
+    "titleRomaji": "Nihongo ga sukoshi hanasemasu",
+    "titleId": "Saya bisa sedikit berbicara bahasa Jepang"
+  },
+  {
+    "id": 11,
+    "title": "日本語で 何と 言いますか",
+    "titleRomaji": "Nihongo de nan to iimasu ka",
+    "titleId": "Bagaimana mengatakannya dalam bahasa Jepang?"
+  },
+  {
+    "id": 12,
+    "title": "もう 一度 言って ください",
+    "titleRomaji": "Mou ichido itte kudasai",
+    "titleId": "Tolong katakan sekali lagi"
+  },
+  {
+    "id": 13,
+    "title": "富士山に 登った ことが あります",
+    "titleRomaji": "Fujisan ni nobotta koto ga arimasu",
+    "titleId": "Saya pernah mendaki Gunung Fuji"
+  },
+  {
+    "id": 14,
+    "title": "部屋に テレビが あります",
+    "titleRomaji": "Heya ni terebi ga arimasu",
+    "titleId": "Ada televisi di kamar"
+  },
+  {
+    "id": 15,
+    "title": "電車で 行きます",
+    "titleRomaji": "Densha de ikimasu",
+    "titleId": "Saya pergi dengan kereta"
+  },
+  {
+    "id": 16,
+    "title": "雪祭りを 見に 行きます",
+    "titleRomaji": "Yukimatsuri o mi ni ikimasu",
+    "titleId": "Saya pergi untuk melihat festival salju"
+  },
+  {
+    "id": 17,
+    "title": "部長は 今 会議中です",
+    "titleRomaji": "Buchou wa ima kaigichuu desu",
+    "titleId": "Manajer sedang rapat sekarang"
+  },
+  {
+    "id": 18,
+    "title": "荷物を 送りたいんですが",
+    "titleRomaji": "Nimotsu o okuritain desu ga",
+    "titleId": "Saya ingin mengirim barang"
+  },
+  {
+    "id": 19,
+    "title": "部屋を 借りたいんですが",
+    "titleRomaji": "Heya o karitain desu ga",
+    "titleId": "Saya ingin menyewa kamar"
+  },
+  {
+    "id": 20,
+    "title": "道を 教えて ください",
+    "titleRomaji": "Michi o oshiete kudasai",
+    "titleId": "Tolong tunjukkan jalannya"
+  },
+  {
+    "id": 21,
+    "title": "電話を 貸して いただけませんか",
+    "titleRomaji": "Denwa o kashite itadakemasen ka",
+    "titleId": "Bisakah Anda meminjamkan telepon?"
+  },
+  {
+    "id": 22,
+    "title": "日本語が 上手に なりましたね",
+    "titleRomaji": "Nihongo ga jouzu ni narimashita ne",
+    "titleId": "Bahasa Jepang Anda sudah bagus ya"
+  },
+  {
+    "id": 23,
+    "title": "電気を 消して おきます",
+    "titleRomaji": "Denki o keshite okimasu",
+    "titleId": "Saya akan mematikan lampu"
+  },
+  {
+    "id": 24,
+    "title": "荷物が 届きました",
+    "titleRomaji": "Nimotsu ga todokimashita",
+    "titleId": "Barang sudah tiba"
+  },
+  {
+    "id": 25,
+    "title": "日本語が 話せるように なりたいです",
+    "titleRomaji": "Nihongo ga hanaseru you ni naritai desu",
+    "titleId": "Saya ingin bisa berbicara bahasa Jepang"
+  }
+]

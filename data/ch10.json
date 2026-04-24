@@ -1,0 +1,197 @@
+{
+  "chapter": {
+    "id": 10,
+    "title": "日本語が 少し 話せます",
+    "titleRomaji": "Nihongo ga sukoshi hanasemasu",
+    "titleId": "Saya bisa sedikit berbicara bahasa Jepang"
+  },
+  "vocabulary": [
+    { "id": "ch10_001", "chapterId": 10, "order": 1, "kanji": "話します", "kana": "はなします", "romaji": "hanashimasu", "wordClass": "verba-i", "meaning": "berbicara" },
+    { "id": "ch10_002", "chapterId": 10, "order": 2, "kanji": "読みます", "kana": "よみます", "romaji": "yomimasu", "wordClass": "verba-i", "meaning": "membaca" },
+    { "id": "ch10_003", "chapterId": 10, "order": 3, "kanji": "書きます", "kana": "かきます", "romaji": "kakimasu", "wordClass": "verba-i", "meaning": "menulis" },
+    { "id": "ch10_004", "chapterId": 10, "order": 4, "kanji": "分かります", "kana": "わかります", "romaji": "wakarimasu", "wordClass": "verba-i", "meaning": "mengerti/memahami" },
+    { "id": "ch10_005", "chapterId": 10, "order": 5, "kanji": "出来ます", "kana": "できます", "romaji": "dekimasu", "wordClass": "verba-ru", "meaning": "bisa/mampu" },
+    { "id": "ch10_006", "chapterId": 10, "order": 6, "kanji": "運転します", "kana": "うんてんします", "romaji": "unten shimasu", "wordClass": "verba-ireguler", "meaning": "mengemudi" },
+    { "id": "ch10_007", "chapterId": 10, "order": 7, "kanji": "料理します", "kana": "りょうりします", "romaji": "ryouri shimasu", "wordClass": "verba-ireguler", "meaning": "memasak" },
+    { "id": "ch10_008", "chapterId": 10, "order": 8, "kanji": "歌います", "kana": "うたいます", "romaji": "utaimasu", "wordClass": "verba-i", "meaning": "bernyanyi" },
+    { "id": "ch10_009", "chapterId": 10, "order": 9, "kanji": "弾きます", "kana": "ひきます", "romaji": "hikimasu", "wordClass": "verba-i", "meaning": "memainkan (alat musik berdawai)" },
+    { "id": "ch10_010", "chapterId": 10, "order": 10, "kanji": "吹きます", "kana": "ふきます", "romaji": "fukimasu", "wordClass": "verba-i", "meaning": "memainkan (alat musik tiup)" },
+    { "id": "ch10_011", "chapterId": 10, "order": 11, "kanji": "日本語", "kana": "にほんご", "romaji": "nihongo", "wordClass": "nomina", "meaning": "bahasa Jepang" },
+    { "id": "ch10_012", "chapterId": 10, "order": 12, "kanji": "英語", "kana": "えいご", "romaji": "eigo", "wordClass": "nomina", "meaning": "bahasa Inggris" },
+    { "id": "ch10_013", "chapterId": 10, "order": 13, "kanji": "中国語", "kana": "ちゅうごくご", "romaji": "chuugokugo", "wordClass": "nomina", "meaning": "bahasa Mandarin" },
+    { "id": "ch10_014", "chapterId": 10, "order": 14, "kanji": "漢字", "kana": "かんじ", "romaji": "kanji", "wordClass": "nomina", "meaning": "huruf kanji" },
+    { "id": "ch10_015", "chapterId": 10, "order": 15, "kanji": "平仮名", "kana": "ひらがな", "romaji": "hiragana", "wordClass": "nomina", "meaning": "huruf hiragana" },
+    { "id": "ch10_016", "chapterId": 10, "order": 16, "kanji": "片仮名", "kana": "カタカナ", "romaji": "katakana", "wordClass": "nomina", "meaning": "huruf katakana" },
+    { "id": "ch10_017", "chapterId": 10, "order": 17, "kanji": "", "kana": "ピアノ", "romaji": "piano", "wordClass": "nomina", "meaning": "piano" },
+    { "id": "ch10_018", "chapterId": 10, "order": 18, "kanji": "", "kana": "ギター", "romaji": "gitaa", "wordClass": "nomina", "meaning": "gitar" },
+    { "id": "ch10_019", "chapterId": 10, "order": 19, "kanji": "", "kana": "バイオリン", "romaji": "baiorin", "wordClass": "nomina", "meaning": "biola" },
+    { "id": "ch10_020", "chapterId": 10, "order": 20, "kanji": "", "kana": "が", "romaji": "ga", "wordClass": "partikel", "meaning": "menandai subjek/objek kemampuan" },
+    { "id": "ch10_021", "chapterId": 10, "order": 21, "kanji": "少し", "kana": "すこし", "romaji": "sukoshi", "wordClass": "adverbia", "meaning": "sedikit" },
+    { "id": "ch10_022", "chapterId": 10, "order": 22, "kanji": "全然", "kana": "ぜんぜん", "romaji": "zenzen", "wordClass": "adverbia", "meaning": "sama sekali (tidak)" },
+    { "id": "ch10_023", "chapterId": 10, "order": 23, "kanji": "上手", "kana": "じょうず", "romaji": "jouzu", "wordClass": "adjektiva-na", "meaning": "pandai/mahir" },
+    { "id": "ch10_024", "chapterId": 10, "order": 24, "kanji": "下手", "kana": "へた", "romaji": "heta", "wordClass": "adjektiva-na", "meaning": "tidak pandai/kurang mahir" },
+    { "id": "ch10_025", "chapterId": 10, "order": 25, "kanji": "得意", "kana": "とくい", "romaji": "tokui", "wordClass": "adjektiva-na", "meaning": "pandai/ahli (dalam hal tertentu)" }
+  ],
+  "grammar": [
+    {
+      "id": "ch10_g01",
+      "chapterId": 10,
+      "order": 1,
+      "title": "Partikel が — Penanda Objek Kemampuan",
+      "explanation": "Dalam bahasa Jepang, verba kemampuan seperti できます (bisa) dan verba pemahaman seperti わかります (mengerti) menggunakan partikel が, bukan を, untuk menandai objeknya. Ini berbeda dari verba aksi biasa yang menggunakan を. Pola ini juga berlaku untuk adjektiva kemampuan seperti じょうず dan へた.",
+      "examples": [
+        { "japanese": "にほんごが わかります。", "romaji": "Nihongo ga wakarimasu.", "indonesian": "Saya mengerti bahasa Jepang." },
+        { "japanese": "うんてんが できます。", "romaji": "Unten ga dekimasu.", "indonesian": "Saya bisa mengemudi." }
+      ]
+    },
+    {
+      "id": "ch10_g02",
+      "chapterId": 10,
+      "order": 2,
+      "title": "Bentuk Potensial (Dapat/Bisa)",
+      "explanation": "Bentuk potensial menyatakan kemampuan atau kemungkinan melakukan sesuatu. Untuk verba する (suru), bentuk potensialnya adalah できます (dekimasu). できます juga dapat digunakan secara mandiri dengan nomina + が untuk menyatakan kemampuan umum. Untuk menyatakan 'tidak bisa', gunakan できません.",
+      "examples": [
+        { "japanese": "にほんごが すこし はなせます。", "romaji": "Nihongo ga sukoshi hanasemasu.", "indonesian": "Saya bisa sedikit berbicara bahasa Jepang." },
+        { "japanese": "ピアノが できます。", "romaji": "Piano ga dekimasu.", "indonesian": "Saya bisa (bermain) piano." }
+      ]
+    },
+    {
+      "id": "ch10_g03",
+      "chapterId": 10,
+      "order": 3,
+      "title": "Adjektiva-na: じょうず・へた・とくい",
+      "explanation": "Ketiga kata ini adalah adjektiva-na yang menyatakan tingkat kemampuan. じょうず (jouzu) berarti pandai/mahir secara umum, へた (heta) berarti tidak pandai/kurang mahir, dan とくい (tokui) berarti pandai dalam bidang tertentu yang disukai. Saat memodifikasi nomina, tambahkan な sebelum nomina. Saat menjadi predikat, gunakan です.",
+      "examples": [
+        { "japanese": "ミラーさんは にほんごが じょうずです。", "romaji": "Miraa-san wa nihongo ga jouzu desu.", "indonesian": "Tuan Miller pandai berbahasa Jepang." },
+        { "japanese": "わたしは りょうりが とくいです。", "romaji": "Watashi wa ryouri ga tokui desu.", "indonesian": "Saya ahli dalam memasak." }
+      ]
+    }
+  ],
+  "patterns": [
+    {
+      "id": "ch10_p01",
+      "chapterId": 10,
+      "order": 1,
+      "pattern": "N が できます",
+      "explanation": "Pola untuk menyatakan kemampuan melakukan sesuatu. Partikel が (ga) menandai hal yang bisa dilakukan. できます (dekimasu) berarti 'bisa/mampu'. Dapat dimodifikasi dengan すこし (sedikit) atau ぜんぜん～できません (sama sekali tidak bisa).",
+      "examples": [
+        { "japanese": "にほんごが すこし はなせます。", "romaji": "Nihongo ga sukoshi hanasemasu.", "indonesian": "Saya bisa sedikit berbicara bahasa Jepang." },
+        { "japanese": "うんてんが できます。", "romaji": "Unten ga dekimasu.", "indonesian": "Saya bisa mengemudi." }
+      ]
+    },
+    {
+      "id": "ch10_p02",
+      "chapterId": 10,
+      "order": 2,
+      "pattern": "N が じょうずです",
+      "explanation": "Pola untuk menyatakan bahwa seseorang pandai atau mahir dalam sesuatu. じょうず (jouzu) adalah adjektiva-na yang berarti 'pandai/mahir'. Kebalikannya adalah へた (heta) yang berarti 'tidak pandai'.",
+      "examples": [
+        { "japanese": "ミラーさんは にほんごが じょうずです。", "romaji": "Miraa-san wa nihongo ga jouzu desu.", "indonesian": "Tuan Miller pandai berbahasa Jepang." },
+        { "japanese": "わたしは りょうりが じょうずです。", "romaji": "Watashi wa ryouri ga jouzu desu.", "indonesian": "Saya pandai memasak." }
+      ]
+    },
+    {
+      "id": "ch10_p03",
+      "chapterId": 10,
+      "order": 3,
+      "pattern": "N が わかります",
+      "explanation": "Pola untuk menyatakan bahwa seseorang mengerti atau memahami sesuatu. わかります (wakarimasu) berarti 'mengerti/memahami'. Partikel が menandai hal yang dimengerti.",
+      "examples": [
+        { "japanese": "かんじが すこし わかります。", "romaji": "Kanji ga sukoshi wakarimasu.", "indonesian": "Saya sedikit mengerti kanji." },
+        { "japanese": "えいごが わかりますか。", "romaji": "Eigo ga wakarimasu ka.", "indonesian": "Apakah Anda mengerti bahasa Inggris?" }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "ch10_q01",
+      "chapterId": 10,
+      "order": 1,
+      "question": "Apa arti kata 'できます' (dekimasu)?",
+      "choices": ["mengerti", "bisa/mampu", "belajar", "mencoba"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch10_q02",
+      "chapterId": 10,
+      "order": 2,
+      "question": "Partikel apa yang digunakan untuk menandai objek kemampuan dalam pola 'N が できます'?",
+      "choices": ["を", "に", "が", "で"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch10_q03",
+      "chapterId": 10,
+      "order": 3,
+      "question": "Apa arti kata 'じょうず' (jouzu)?",
+      "choices": ["tidak pandai", "pandai/mahir", "sedikit", "sama sekali tidak"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch10_q04",
+      "chapterId": 10,
+      "order": 4,
+      "question": "Bagaimana cara mengatakan 'Saya bisa sedikit berbicara bahasa Jepang'?",
+      "choices": [
+        "にほんごを すこし はなせます。",
+        "にほんごが すこし はなせます。",
+        "にほんごに すこし はなせます。",
+        "にほんごで すこし はなせます。"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch10_q05",
+      "chapterId": 10,
+      "order": 5,
+      "question": "Apa arti kata 'わかります' (wakarimasu)?",
+      "choices": ["berbicara", "membaca", "mengerti/memahami", "menulis"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch10_q06",
+      "chapterId": 10,
+      "order": 6,
+      "question": "Kata 'すこし' (sukoshi) berarti...",
+      "choices": ["banyak", "sedikit", "sama sekali tidak", "sangat"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch10_q07",
+      "chapterId": 10,
+      "order": 7,
+      "question": "Apa arti kata 'ぜんぜん' (zenzen) ketika digunakan dengan kalimat negatif?",
+      "choices": ["sedikit", "kadang-kadang", "sama sekali (tidak)", "selalu"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch10_q08",
+      "chapterId": 10,
+      "order": 8,
+      "question": "Kata 'ひきます' (hikimasu) digunakan untuk memainkan alat musik apa?",
+      "choices": ["alat musik tiup", "alat musik perkusi", "alat musik berdawai", "semua alat musik"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch10_q09",
+      "chapterId": 10,
+      "order": 9,
+      "question": "Bagaimana cara mengatakan 'Tuan Miller pandai berbahasa Jepang'?",
+      "choices": [
+        "ミラーさんは にほんごが じょうずです。",
+        "ミラーさんは にほんごを じょうずです。",
+        "ミラーさんが にほんごは じょうずです。",
+        "ミラーさんに にほんごが じょうずです。"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "ch10_q10",
+      "chapterId": 10,
+      "order": 10,
+      "question": "Apa arti kata 'へた' (heta)?",
+      "choices": ["pandai/mahir", "ahli", "tidak pandai/kurang mahir", "biasa saja"],
+      "correctIndex": 2
+    }
+  ]
+}

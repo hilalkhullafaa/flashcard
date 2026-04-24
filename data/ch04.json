@@ -1,0 +1,205 @@
+{
+  "chapter": {
+    "id": 4,
+    "title": "毎日 何時に 起きますか",
+    "titleRomaji": "Mainichi nanji ni okimasu ka",
+    "titleId": "Jam berapa Anda bangun setiap hari?"
+  },
+  "vocabulary": [
+    { "id": "ch04_001", "chapterId": 4, "order": 1, "kanji": "何時", "kana": "なんじ", "romaji": "nanji", "wordClass": "nomina", "meaning": "jam berapa" },
+    { "id": "ch04_002", "chapterId": 4, "order": 2, "kanji": "何分", "kana": "なんぷん", "romaji": "nanpun", "wordClass": "nomina", "meaning": "menit berapa" },
+    { "id": "ch04_003", "chapterId": 4, "order": 3, "kanji": "今", "kana": "いま", "romaji": "ima", "wordClass": "nomina", "meaning": "sekarang" },
+    { "id": "ch04_004", "chapterId": 4, "order": 4, "kanji": "午前", "kana": "ごぜん", "romaji": "gozen", "wordClass": "nomina", "meaning": "pagi (AM)" },
+    { "id": "ch04_005", "chapterId": 4, "order": 5, "kanji": "午後", "kana": "ごご", "romaji": "gogo", "wordClass": "nomina", "meaning": "sore/malam (PM)" },
+    { "id": "ch04_006", "chapterId": 4, "order": 6, "kanji": "半", "kana": "はん", "romaji": "han", "wordClass": "nomina", "meaning": "setengah" },
+    { "id": "ch04_007", "chapterId": 4, "order": 7, "kanji": "起きます", "kana": "おきます", "romaji": "okimasu", "wordClass": "verba-i", "meaning": "bangun" },
+    { "id": "ch04_008", "chapterId": 4, "order": 8, "kanji": "寝ます", "kana": "ねます", "romaji": "nemasu", "wordClass": "verba-i", "meaning": "tidur" },
+    { "id": "ch04_009", "chapterId": 4, "order": 9, "kanji": "働きます", "kana": "はたらきます", "romaji": "hatarakimasu", "wordClass": "verba-i", "meaning": "bekerja" },
+    { "id": "ch04_010", "chapterId": 4, "order": 10, "kanji": "休みます", "kana": "やすみます", "romaji": "yasumimasu", "wordClass": "verba-i", "meaning": "istirahat/libur" },
+    { "id": "ch04_011", "chapterId": 4, "order": 11, "kanji": "勉強します", "kana": "べんきょうします", "romaji": "benkyou shimasu", "wordClass": "verba-ireguler", "meaning": "belajar" },
+    { "id": "ch04_012", "chapterId": 4, "order": 12, "kanji": "終わります", "kana": "おわります", "romaji": "owarimasu", "wordClass": "verba-i", "meaning": "selesai/berakhir" },
+    { "id": "ch04_013", "chapterId": 4, "order": 13, "kanji": "始まります", "kana": "はじまります", "romaji": "hajimarimasu", "wordClass": "verba-i", "meaning": "mulai/dimulai" },
+    { "id": "ch04_014", "chapterId": 4, "order": 14, "kanji": "昼", "kana": "ひる", "romaji": "hiru", "wordClass": "nomina", "meaning": "siang" },
+    { "id": "ch04_015", "chapterId": 4, "order": 15, "kanji": "朝", "kana": "あさ", "romaji": "asa", "wordClass": "nomina", "meaning": "pagi" },
+    { "id": "ch04_016", "chapterId": 4, "order": 16, "kanji": "夜", "kana": "よる", "romaji": "yoru", "wordClass": "nomina", "meaning": "malam" },
+    { "id": "ch04_017", "chapterId": 4, "order": 17, "kanji": "毎日", "kana": "まいにち", "romaji": "mainichi", "wordClass": "adverbia", "meaning": "setiap hari" },
+    { "id": "ch04_018", "chapterId": 4, "order": 18, "kanji": "毎朝", "kana": "まいあさ", "romaji": "maiasa", "wordClass": "adverbia", "meaning": "setiap pagi" },
+    { "id": "ch04_019", "chapterId": 4, "order": 19, "kanji": "毎晩", "kana": "まいばん", "romaji": "maiban", "wordClass": "adverbia", "meaning": "setiap malam" },
+    { "id": "ch04_020", "chapterId": 4, "order": 20, "kanji": "今朝", "kana": "けさ", "romaji": "kesa", "wordClass": "nomina", "meaning": "pagi ini" },
+    { "id": "ch04_021", "chapterId": 4, "order": 21, "kanji": "今晩", "kana": "こんばん", "romaji": "konban", "wordClass": "nomina", "meaning": "malam ini" },
+    { "id": "ch04_022", "chapterId": 4, "order": 22, "kanji": "休み", "kana": "やすみ", "romaji": "yasumi", "wordClass": "nomina", "meaning": "hari libur/istirahat" },
+    { "id": "ch04_023", "chapterId": 4, "order": 23, "kanji": "日曜日", "kana": "にちようび", "romaji": "nichiyoubi", "wordClass": "nomina", "meaning": "hari Minggu" },
+    { "id": "ch04_024", "chapterId": 4, "order": 24, "kanji": "月曜日", "kana": "げつようび", "romaji": "getsuyoubi", "wordClass": "nomina", "meaning": "hari Senin" },
+    { "id": "ch04_025", "chapterId": 4, "order": 25, "kanji": "火曜日", "kana": "かようび", "romaji": "kayoubi", "wordClass": "nomina", "meaning": "hari Selasa" },
+    { "id": "ch04_026", "chapterId": 4, "order": 26, "kanji": "水曜日", "kana": "すいようび", "romaji": "suiyoubi", "wordClass": "nomina", "meaning": "hari Rabu" },
+    { "id": "ch04_027", "chapterId": 4, "order": 27, "kanji": "木曜日", "kana": "もくようび", "romaji": "mokuyoubi", "wordClass": "nomina", "meaning": "hari Kamis" },
+    { "id": "ch04_028", "chapterId": 4, "order": 28, "kanji": "金曜日", "kana": "きんようび", "romaji": "kin'youbi", "wordClass": "nomina", "meaning": "hari Jumat" },
+    { "id": "ch04_029", "chapterId": 4, "order": 29, "kanji": "土曜日", "kana": "どようび", "romaji": "doyoubi", "wordClass": "nomina", "meaning": "hari Sabtu" },
+    { "id": "ch04_030", "chapterId": 4, "order": 30, "kanji": "何曜日", "kana": "なんようび", "romaji": "nanyoubi", "wordClass": "nomina", "meaning": "hari apa" },
+    { "id": "ch04_031", "chapterId": 4, "order": 31, "kanji": "", "kana": "いつ", "romaji": "itsu", "wordClass": "nomina", "meaning": "kapan" },
+    { "id": "ch04_032", "chapterId": 4, "order": 32, "kanji": "", "kana": "から", "romaji": "kara", "wordClass": "partikel", "meaning": "dari (waktu)" },
+    { "id": "ch04_033", "chapterId": 4, "order": 33, "kanji": "", "kana": "まで", "romaji": "made", "wordClass": "partikel", "meaning": "sampai (waktu)" }
+  ],
+  "patterns": [
+    {
+      "id": "ch04_p01",
+      "chapterId": 4,
+      "order": 1,
+      "pattern": "N は N じ N ふん に V",
+      "explanation": "Menyatakan kegiatan yang dilakukan pada waktu tertentu. Partikel に (ni) menandai waktu spesifik kapan kegiatan dilakukan.",
+      "examples": [
+        { "japanese": "わたしは まいあさ 6じに おきます。", "romaji": "Watashi wa maiasa rokuji ni okimasu.", "indonesian": "Saya bangun jam 6 setiap pagi." },
+        { "japanese": "じゅぎょうは 9じ30ぷんに はじまります。", "romaji": "Jugyou wa kuji sanjuppun ni hajimarimasu.", "indonesian": "Pelajaran dimulai pukul 9:30." }
+      ]
+    },
+    {
+      "id": "ch04_p02",
+      "chapterId": 4,
+      "order": 2,
+      "pattern": "N から N まで",
+      "explanation": "Menyatakan rentang waktu dari titik awal sampai titik akhir. から (kara) berarti 'dari', まで (made) berarti 'sampai'.",
+      "examples": [
+        { "japanese": "9じから 5じまで はたらきます。", "romaji": "Kuji kara goji made hatarakimasu.", "indonesian": "Bekerja dari jam 9 sampai jam 5." },
+        { "japanese": "げつようびから きんようびまで べんきょうします。", "romaji": "Getsuyoubi kara kin'youbi made benkyou shimasu.", "indonesian": "Belajar dari hari Senin sampai hari Jumat." }
+      ]
+    },
+    {
+      "id": "ch04_p03",
+      "chapterId": 4,
+      "order": 3,
+      "pattern": "N は なんじに V ますか",
+      "explanation": "Menanyakan jam berapa seseorang melakukan suatu kegiatan. なんじ (nanji) berarti 'jam berapa'.",
+      "examples": [
+        { "japanese": "まいにち なんじに ねますか。", "romaji": "Mainichi nanji ni nemasu ka.", "indonesian": "Jam berapa Anda tidur setiap hari?" },
+        { "japanese": "しごとは なんじに おわりますか。", "romaji": "Shigoto wa nanji ni owarimasu ka.", "indonesian": "Jam berapa pekerjaan selesai?" }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "id": "ch04_g01",
+      "chapterId": 4,
+      "order": 1,
+      "title": "Partikel に — Penanda Waktu Spesifik",
+      "explanation": "Partikel に (ni) digunakan untuk menandai waktu spesifik kapan suatu kegiatan dilakukan. Waktu spesifik meliputi jam (〜時), hari dalam seminggu (〜曜日), tanggal, dan bulan. Namun, kata waktu relatif seperti きょう (hari ini), あした (besok), まいにち (setiap hari) tidak menggunakan partikel に.",
+      "examples": [
+        { "japanese": "7じに おきます。", "romaji": "Shichiji ni okimasu.", "indonesian": "Saya bangun jam 7." },
+        { "japanese": "にちようびに やすみます。", "romaji": "Nichiyoubi ni yasumimasu.", "indonesian": "Saya libur pada hari Minggu." }
+      ]
+    },
+    {
+      "id": "ch04_g02",
+      "chapterId": 4,
+      "order": 2,
+      "title": "Pola から〜まで — Rentang Waktu",
+      "explanation": "Pola から〜まで digunakan untuk menyatakan rentang waktu. から (kara) berarti 'dari' atau 'mulai dari', dan まで (made) berarti 'sampai' atau 'hingga'. Keduanya dapat digunakan bersama atau sendiri-sendiri.",
+      "examples": [
+        { "japanese": "9じから 5じまで はたらきます。", "romaji": "Kuji kara goji made hatarakimasu.", "indonesian": "Bekerja dari jam 9 sampai jam 5." },
+        { "japanese": "げつようびから きんようびまで がっこうが あります。", "romaji": "Getsuyoubi kara kin'youbi made gakkou ga arimasu.", "indonesian": "Ada sekolah dari hari Senin sampai Jumat." }
+      ]
+    },
+    {
+      "id": "ch04_g03",
+      "chapterId": 4,
+      "order": 3,
+      "title": "Cara Membaca Jam dalam Bahasa Jepang",
+      "explanation": "Jam dibaca dengan menambahkan 時 (ji) setelah angka, dan menit dengan 分 (fun/pun) setelah angka. Setengah jam dinyatakan dengan 半 (han). Pagi hari (AM) menggunakan 午前 (gozen) dan sore/malam (PM) menggunakan 午後 (gogo) yang diletakkan sebelum jam.",
+      "examples": [
+        { "japanese": "いまは ごぜん 9じ はんです。", "romaji": "Ima wa gozen kuji han desu.", "indonesian": "Sekarang pukul 9:30 pagi." },
+        { "japanese": "ごご 3じ 15ふんに かいぎが あります。", "romaji": "Gogo sanji juugofun ni kaigi ga arimasu.", "indonesian": "Ada rapat pukul 3:15 sore." }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "ch04_q01",
+      "chapterId": 4,
+      "order": 1,
+      "question": "Apa arti kata 'おきます' (okimasu)?",
+      "choices": ["tidur", "bekerja", "bangun", "belajar"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch04_q02",
+      "chapterId": 4,
+      "order": 2,
+      "question": "Partikel apa yang digunakan untuk menyatakan waktu spesifik suatu kegiatan?",
+      "choices": ["は", "に", "で", "を"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch04_q03",
+      "chapterId": 4,
+      "order": 3,
+      "question": "Apa arti kata 'まいにち' (mainichi)?",
+      "choices": ["setiap pagi", "setiap malam", "setiap hari", "setiap minggu"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch04_q04",
+      "chapterId": 4,
+      "order": 4,
+      "question": "Bagaimana cara mengatakan 'dari jam 9 sampai jam 5' dalam bahasa Jepang?",
+      "choices": [
+        "9じも 5じも",
+        "9じは 5じです",
+        "9じから 5じまで",
+        "9じに 5じ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch04_q05",
+      "chapterId": 4,
+      "order": 5,
+      "question": "Kata 'げつようび' (getsuyoubi) berarti...",
+      "choices": ["hari Minggu", "hari Senin", "hari Selasa", "hari Rabu"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch04_q06",
+      "chapterId": 4,
+      "order": 6,
+      "question": "Apa arti kata 'ごぜん' (gozen)?",
+      "choices": ["sore/malam (PM)", "pagi (AM)", "siang", "malam"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch04_q07",
+      "chapterId": 4,
+      "order": 7,
+      "question": "Bagaimana cara mengatakan 'Jam berapa Anda bangun?' dalam bahasa Jepang?",
+      "choices": [
+        "なんじに ねますか。",
+        "なんじに おきますか。",
+        "なんじに はたらきますか。",
+        "なんじに やすみますか。"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch04_q08",
+      "chapterId": 4,
+      "order": 8,
+      "question": "Apa arti kata 'はん' (han) dalam konteks waktu?",
+      "choices": ["seperempat", "setengah", "tiga perempat", "penuh"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch04_q09",
+      "chapterId": 4,
+      "order": 9,
+      "question": "Kata 'どようび' (doyoubi) berarti...",
+      "choices": ["hari Jumat", "hari Sabtu", "hari Minggu", "hari Kamis"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch04_q10",
+      "chapterId": 4,
+      "order": 10,
+      "question": "Apa arti kata 'べんきょうします' (benkyou shimasu)?",
+      "choices": ["bekerja", "istirahat", "belajar", "tidur"],
+      "correctIndex": 2
+    }
+  ]
+}

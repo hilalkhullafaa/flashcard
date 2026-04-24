@@ -1,0 +1,213 @@
+{
+  "chapter": {
+    "id": 5,
+    "title": "郵便局は どこですか",
+    "titleRomaji": "Yuubinkyoku wa doko desu ka",
+    "titleId": "Di mana kantor pos?"
+  },
+  "vocabulary": [
+    { "id": "ch05_001", "chapterId": 5, "order": 1, "kanji": "行きます", "kana": "いきます", "romaji": "ikimasu", "wordClass": "verba-i", "meaning": "pergi" },
+    { "id": "ch05_002", "chapterId": 5, "order": 2, "kanji": "来ます", "kana": "きます", "romaji": "kimasu", "wordClass": "verba-ireguler", "meaning": "datang" },
+    { "id": "ch05_003", "chapterId": 5, "order": 3, "kanji": "帰ります", "kana": "かえります", "romaji": "kaerimasu", "wordClass": "verba-i", "meaning": "pulang/kembali" },
+    { "id": "ch05_004", "chapterId": 5, "order": 4, "kanji": "電車", "kana": "でんしゃ", "romaji": "densha", "wordClass": "nomina", "meaning": "kereta listrik" },
+    { "id": "ch05_005", "chapterId": 5, "order": 5, "kanji": "新幹線", "kana": "しんかんせん", "romaji": "shinkansen", "wordClass": "nomina", "meaning": "kereta cepat" },
+    { "id": "ch05_006", "chapterId": 5, "order": 6, "kanji": "地下鉄", "kana": "ちかてつ", "romaji": "chikatetsu", "wordClass": "nomina", "meaning": "kereta bawah tanah" },
+    { "id": "ch05_007", "chapterId": 5, "order": 7, "kanji": "", "kana": "バス", "romaji": "basu", "wordClass": "nomina", "meaning": "bus" },
+    { "id": "ch05_008", "chapterId": 5, "order": 8, "kanji": "", "kana": "タクシー", "romaji": "takushii", "wordClass": "nomina", "meaning": "taksi" },
+    { "id": "ch05_009", "chapterId": 5, "order": 9, "kanji": "飛行機", "kana": "ひこうき", "romaji": "hikouki", "wordClass": "nomina", "meaning": "pesawat terbang" },
+    { "id": "ch05_010", "chapterId": 5, "order": 10, "kanji": "船", "kana": "ふね", "romaji": "fune", "wordClass": "nomina", "meaning": "kapal" },
+    { "id": "ch05_011", "chapterId": 5, "order": 11, "kanji": "自転車", "kana": "じてんしゃ", "romaji": "jitensha", "wordClass": "nomina", "meaning": "sepeda" },
+    { "id": "ch05_012", "chapterId": 5, "order": 12, "kanji": "歩いて", "kana": "あるいて", "romaji": "aruite", "wordClass": "adverbia", "meaning": "dengan berjalan kaki" },
+    { "id": "ch05_013", "chapterId": 5, "order": 13, "kanji": "", "kana": "で", "romaji": "de", "wordClass": "partikel", "meaning": "dengan (alat transportasi)" },
+    { "id": "ch05_014", "chapterId": 5, "order": 14, "kanji": "", "kana": "に", "romaji": "ni", "wordClass": "partikel", "meaning": "ke (tujuan)" },
+    { "id": "ch05_015", "chapterId": 5, "order": 15, "kanji": "", "kana": "と", "romaji": "to", "wordClass": "partikel", "meaning": "dan/bersama" },
+    { "id": "ch05_016", "chapterId": 5, "order": 16, "kanji": "一人で", "kana": "ひとりで", "romaji": "hitori de", "wordClass": "ekspresi", "meaning": "sendirian" },
+    { "id": "ch05_017", "chapterId": 5, "order": 17, "kanji": "一緒に", "kana": "いっしょに", "romaji": "issho ni", "wordClass": "ekspresi", "meaning": "bersama-sama" },
+    { "id": "ch05_018", "chapterId": 5, "order": 18, "kanji": "", "kana": "みんなで", "romaji": "minna de", "wordClass": "ekspresi", "meaning": "bersama semua orang" },
+    { "id": "ch05_019", "chapterId": 5, "order": 19, "kanji": "", "kana": "どこか", "romaji": "dokoka", "wordClass": "nomina", "meaning": "suatu tempat/ke mana" },
+    { "id": "ch05_020", "chapterId": 5, "order": 20, "kanji": "何か", "kana": "なにか", "romaji": "nanika", "wordClass": "nomina", "meaning": "sesuatu" },
+    { "id": "ch05_021", "chapterId": 5, "order": 21, "kanji": "誰か", "kana": "だれか", "romaji": "dareka", "wordClass": "nomina", "meaning": "seseorang" },
+    { "id": "ch05_022", "chapterId": 5, "order": 22, "kanji": "先週", "kana": "せんしゅう", "romaji": "senshuu", "wordClass": "nomina", "meaning": "minggu lalu" },
+    { "id": "ch05_023", "chapterId": 5, "order": 23, "kanji": "今週", "kana": "こんしゅう", "romaji": "konshuu", "wordClass": "nomina", "meaning": "minggu ini" },
+    { "id": "ch05_024", "chapterId": 5, "order": 24, "kanji": "来週", "kana": "らいしゅう", "romaji": "raishuu", "wordClass": "nomina", "meaning": "minggu depan" },
+    { "id": "ch05_025", "chapterId": 5, "order": 25, "kanji": "昨日", "kana": "きのう", "romaji": "kinou", "wordClass": "nomina", "meaning": "kemarin" },
+    { "id": "ch05_026", "chapterId": 5, "order": 26, "kanji": "今日", "kana": "きょう", "romaji": "kyou", "wordClass": "nomina", "meaning": "hari ini" },
+    { "id": "ch05_027", "chapterId": 5, "order": 27, "kanji": "明日", "kana": "あした", "romaji": "ashita", "wordClass": "nomina", "meaning": "besok" },
+    { "id": "ch05_028", "chapterId": 5, "order": 28, "kanji": "昨年/去年", "kana": "さくねん/きょねん", "romaji": "sakunen/kyonen", "wordClass": "nomina", "meaning": "tahun lalu" },
+    { "id": "ch05_029", "chapterId": 5, "order": 29, "kanji": "今年", "kana": "ことし", "romaji": "kotoshi", "wordClass": "nomina", "meaning": "tahun ini" },
+    { "id": "ch05_030", "chapterId": 5, "order": 30, "kanji": "来年", "kana": "らいねん", "romaji": "rainen", "wordClass": "nomina", "meaning": "tahun depan" }
+  ],
+  "patterns": [
+    {
+      "id": "ch05_p01",
+      "chapterId": 5,
+      "order": 1,
+      "pattern": "N は N で いきます",
+      "explanation": "Menyatakan pergi ke suatu tempat menggunakan alat transportasi tertentu. Partikel で (de) menandai alat/cara, partikel に (ni) menandai tujuan.",
+      "examples": [
+        { "japanese": "わたしは でんしゃで がっこうに いきます。", "romaji": "Watashi wa densha de gakkou ni ikimasu.", "indonesian": "Saya pergi ke sekolah dengan kereta." },
+        { "japanese": "バスで えきに いきます。", "romaji": "Basu de eki ni ikimasu.", "indonesian": "Pergi ke stasiun dengan bus." }
+      ]
+    },
+    {
+      "id": "ch05_p02",
+      "chapterId": 5,
+      "order": 2,
+      "pattern": "N に いきます/きます/かえります",
+      "explanation": "Menyatakan arah pergerakan ke suatu tempat. Partikel に (ni) menandai tujuan atau arah. Digunakan dengan verba pergerakan いきます, きます, かえります.",
+      "examples": [
+        { "japanese": "にほんに きました。", "romaji": "Nihon ni kimashita.", "indonesian": "Saya datang ke Jepang." },
+        { "japanese": "うちに かえります。", "romaji": "Uchi ni kaerimasu.", "indonesian": "Saya pulang ke rumah." }
+      ]
+    },
+    {
+      "id": "ch05_p03",
+      "chapterId": 5,
+      "order": 3,
+      "pattern": "N と いきます",
+      "explanation": "Menyatakan pergi bersama seseorang. Partikel と (to) berarti 'bersama' atau 'dan' ketika digunakan dengan orang.",
+      "examples": [
+        { "japanese": "ともだちと えいがを みに いきます。", "romaji": "Tomodachi to eiga o mi ni ikimasu.", "indonesian": "Saya pergi menonton film bersama teman." },
+        { "japanese": "かぞくと にほんに いきました。", "romaji": "Kazoku to nihon ni ikimashita.", "indonesian": "Saya pergi ke Jepang bersama keluarga." }
+      ]
+    },
+    {
+      "id": "ch05_p04",
+      "chapterId": 5,
+      "order": 4,
+      "pattern": "いつ N に いきますか",
+      "explanation": "Menanyakan kapan seseorang pergi ke suatu tempat. いつ (itsu) berarti 'kapan'.",
+      "examples": [
+        { "japanese": "いつ にほんに きましたか。", "romaji": "Itsu nihon ni kimashita ka.", "indonesian": "Kapan Anda datang ke Jepang?" },
+        { "japanese": "いつ うちに かえりますか。", "romaji": "Itsu uchi ni kaerimasu ka.", "indonesian": "Kapan Anda pulang ke rumah?" }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "id": "ch05_g01",
+      "chapterId": 5,
+      "order": 1,
+      "title": "Partikel で — Alat Transportasi",
+      "explanation": "Partikel で (de) digunakan untuk menandai alat atau cara melakukan sesuatu. Dalam konteks transportasi, で menunjukkan kendaraan yang digunakan untuk bepergian. Pengecualian: berjalan kaki menggunakan ekspresi あるいて (aruite) tanpa partikel で.",
+      "examples": [
+        { "japanese": "でんしゃで がっこうに いきます。", "romaji": "Densha de gakkou ni ikimasu.", "indonesian": "Pergi ke sekolah dengan kereta." },
+        { "japanese": "タクシーで びょういんに いきました。", "romaji": "Takushii de byouin ni ikimashita.", "indonesian": "Pergi ke rumah sakit dengan taksi." }
+      ]
+    },
+    {
+      "id": "ch05_g02",
+      "chapterId": 5,
+      "order": 2,
+      "title": "Partikel に — Tujuan Pergerakan",
+      "explanation": "Partikel に (ni) digunakan untuk menandai tujuan atau arah pergerakan ketika digunakan bersama verba pergerakan seperti いきます (pergi), きます (datang), dan かえります (pulang). Partikel に menunjukkan titik akhir dari pergerakan tersebut.",
+      "examples": [
+        { "japanese": "にほんに いきます。", "romaji": "Nihon ni ikimasu.", "indonesian": "Saya pergi ke Jepang." },
+        { "japanese": "うちに かえります。", "romaji": "Uchi ni kaerimasu.", "indonesian": "Saya pulang ke rumah." }
+      ]
+    },
+    {
+      "id": "ch05_g03",
+      "chapterId": 5,
+      "order": 3,
+      "title": "Partikel と — Bersama Seseorang",
+      "explanation": "Partikel と (to) berarti 'bersama' ketika digunakan dengan orang. Pola 'Orang と いきます' menyatakan bahwa pembicara pergi bersama orang tersebut. と juga dapat berarti 'dan' untuk menghubungkan dua nomina.",
+      "examples": [
+        { "japanese": "ともだちと えきに いきます。", "romaji": "Tomodachi to eki ni ikimasu.", "indonesian": "Saya pergi ke stasiun bersama teman." },
+        { "japanese": "かぞくと にほんに きました。", "romaji": "Kazoku to nihon ni kimashita.", "indonesian": "Saya datang ke Jepang bersama keluarga." }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "ch05_q01",
+      "chapterId": 5,
+      "order": 1,
+      "question": "Apa arti kata 'いきます' (ikimasu)?",
+      "choices": ["datang", "pulang", "pergi", "berhenti"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch05_q02",
+      "chapterId": 5,
+      "order": 2,
+      "question": "Partikel apa yang digunakan untuk menyatakan alat transportasi?",
+      "choices": ["に", "で", "を", "が"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch05_q03",
+      "chapterId": 5,
+      "order": 3,
+      "question": "Apa arti kata 'ひこうき' (hikouki)?",
+      "choices": ["kapal", "bus", "kereta cepat", "pesawat terbang"],
+      "correctIndex": 3
+    },
+    {
+      "id": "ch05_q04",
+      "chapterId": 5,
+      "order": 4,
+      "question": "Bagaimana cara mengatakan 'Saya pergi ke sekolah dengan kereta'?",
+      "choices": [
+        "わたしは でんしゃで がっこうに いきます。",
+        "わたしは でんしゃに がっこうで いきます。",
+        "わたしは がっこうで でんしゃに いきます。",
+        "わたしは でんしゃが がっこうを いきます。"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "ch05_q05",
+      "chapterId": 5,
+      "order": 5,
+      "question": "Apa arti ungkapan 'いっしょに' (issho ni)?",
+      "choices": ["sendirian", "bersama-sama", "bersama semua orang", "dengan cepat"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch05_q06",
+      "chapterId": 5,
+      "order": 6,
+      "question": "Kata 'あした' (ashita) berarti...",
+      "choices": ["kemarin", "hari ini", "besok", "minggu depan"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch05_q07",
+      "chapterId": 5,
+      "order": 7,
+      "question": "Partikel apa yang digunakan untuk menyatakan 'bersama' seseorang?",
+      "choices": ["に", "で", "と", "も"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch05_q08",
+      "chapterId": 5,
+      "order": 8,
+      "question": "Apa arti kata 'かえります' (kaerimasu)?",
+      "choices": ["pergi", "datang", "pulang/kembali", "berjalan"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch05_q09",
+      "chapterId": 5,
+      "order": 9,
+      "question": "Kata 'せんしゅう' (senshuu) berarti...",
+      "choices": ["minggu ini", "minggu lalu", "minggu depan", "bulan lalu"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch05_q10",
+      "chapterId": 5,
+      "order": 10,
+      "question": "Bagaimana cara menanyakan 'Kapan Anda datang ke Jepang?' dalam bahasa Jepang?",
+      "choices": [
+        "どこに にほんに きましたか。",
+        "なんじに にほんに きましたか。",
+        "いつ にほんに きましたか。",
+        "だれと にほんに きましたか。"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

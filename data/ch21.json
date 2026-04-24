@@ -1,0 +1,242 @@
+{
+  "chapter": {
+    "id": 21,
+    "title": "電話を 貸して いただけませんか",
+    "titleRomaji": "Denwa o kashite itadakemasen ka",
+    "titleId": "Bisakah Anda meminjamkan telepon?"
+  },
+  "vocabulary": [
+    { "id": "ch21_001", "chapterId": 21, "order": 1, "kanji": "貸します", "kana": "かします", "romaji": "kashimasu", "wordClass": "verba-i", "meaning": "meminjamkan" },
+    { "id": "ch21_002", "chapterId": 21, "order": 2, "kanji": "借ります", "kana": "かります", "romaji": "karimasu", "wordClass": "verba-ru", "meaning": "meminjam" },
+    { "id": "ch21_003", "chapterId": 21, "order": 3, "kanji": "", "kana": "いただけませんか", "romaji": "itadakemasen ka", "wordClass": "ekspresi", "meaning": "bisakah Anda ~ (sangat sopan)" },
+    { "id": "ch21_004", "chapterId": 21, "order": 4, "kanji": "", "kana": "くださいませんか", "romaji": "kudasaimasen ka", "wordClass": "ekspresi", "meaning": "bisakah Anda ~ (sopan)" },
+    { "id": "ch21_005", "chapterId": 21, "order": 5, "kanji": "", "kana": "もらえませんか", "romaji": "moraemasen ka", "wordClass": "ekspresi", "meaning": "bisakah saya mendapat ~" },
+    { "id": "ch21_006", "chapterId": 21, "order": 6, "kanji": "", "kana": "〜てあげます", "romaji": "~te agemasu", "wordClass": "ekspresi", "meaning": "melakukan V untuk orang lain" },
+    { "id": "ch21_007", "chapterId": 21, "order": 7, "kanji": "", "kana": "〜てもらいます", "romaji": "~te moraimasu", "wordClass": "ekspresi", "meaning": "meminta orang lain melakukan V" },
+    { "id": "ch21_008", "chapterId": 21, "order": 8, "kanji": "", "kana": "〜てくれます", "romaji": "~te kuremasu", "wordClass": "ekspresi", "meaning": "orang lain melakukan V untuk saya" },
+    { "id": "ch21_009", "chapterId": 21, "order": 9, "kanji": "", "kana": "ながら", "romaji": "nagara", "wordClass": "konjungsi", "meaning": "sambil (kegiatan simultan)" },
+    { "id": "ch21_010", "chapterId": 21, "order": 10, "kanji": "", "kana": "まま", "romaji": "mama", "wordClass": "ekspresi", "meaning": "tetap dalam keadaan ~" },
+    { "id": "ch21_011", "chapterId": 21, "order": 11, "kanji": "", "kana": "ばかり", "romaji": "bakari", "wordClass": "partikel", "meaning": "hanya/terus-terusan" },
+    { "id": "ch21_012", "chapterId": 21, "order": 12, "kanji": "", "kana": "まだ〜ていません", "romaji": "mada ~te imasen", "wordClass": "ekspresi", "meaning": "belum ~" },
+    { "id": "ch21_013", "chapterId": 21, "order": 13, "kanji": "", "kana": "もう〜ました", "romaji": "mou ~mashita", "wordClass": "ekspresi", "meaning": "sudah ~" },
+    { "id": "ch21_014", "chapterId": 21, "order": 14, "kanji": "丁度", "kana": "ちょうど", "romaji": "choudo", "wordClass": "adverbia", "meaning": "tepat/persis" },
+    { "id": "ch21_015", "chapterId": 21, "order": 15, "kanji": "", "kana": "やっと", "romaji": "yatto", "wordClass": "adverbia", "meaning": "akhirnya" },
+    { "id": "ch21_016", "chapterId": 21, "order": 16, "kanji": "", "kana": "もうすぐ", "romaji": "mousugu", "wordClass": "adverbia", "meaning": "sebentar lagi" },
+    { "id": "ch21_017", "chapterId": 21, "order": 17, "kanji": "", "kana": "そろそろ", "romaji": "sorosoro", "wordClass": "adverbia", "meaning": "sudah waktunya/sebentar lagi" },
+    { "id": "ch21_018", "chapterId": 21, "order": 18, "kanji": "電話", "kana": "でんわ", "romaji": "denwa", "wordClass": "nomina", "meaning": "telepon" }
+  ],
+  "patterns": [
+    {
+      "id": "ch21_p01",
+      "chapterId": 21,
+      "order": 1,
+      "pattern": "V て いただけませんか",
+      "explanation": "Bentuk permintaan yang sangat sopan. Dibentuk dari bentuk te verba + いただけませんか. Lebih sopan dari 〜てください dan 〜てくれませんか. Digunakan saat meminta bantuan kepada orang yang lebih tua, atasan, atau orang yang tidak dikenal.",
+      "examples": [
+        { "japanese": "でんわを かして いただけませんか。", "romaji": "Denwa o kashite itadakemasen ka.", "indonesian": "Bisakah Anda meminjamkan telepon?" },
+        { "japanese": "もう いちど せつめいして いただけませんか。", "romaji": "Mou ichido setsumei shite itadakemasen ka.", "indonesian": "Bisakah Anda menjelaskan sekali lagi?" },
+        { "japanese": "ここに なまえを かいて いただけませんか。", "romaji": "Koko ni namae o kaite itadakemasen ka.", "indonesian": "Bisakah Anda menulis nama di sini?" }
+      ]
+    },
+    {
+      "id": "ch21_p02",
+      "chapterId": 21,
+      "order": 2,
+      "pattern": "V ながら V",
+      "explanation": "Pola untuk menyatakan dua kegiatan yang dilakukan secara bersamaan. Verba pertama (dalam bentuk ながら) adalah kegiatan sekunder/latar belakang, verba kedua adalah kegiatan utama. Subjek kedua verba harus sama.",
+      "examples": [
+        { "japanese": "おんがくを ききながら、べんきょうします。", "romaji": "Ongaku o kikinagara, benkyou shimasu.", "indonesian": "Saya belajar sambil mendengarkan musik." },
+        { "japanese": "あるきながら、スマホを みないで ください。", "romaji": "Arukinagara, sumaho o minaide kudasai.", "indonesian": "Tolong jangan melihat ponsel sambil berjalan." },
+        { "japanese": "テレビを みながら、ごはんを たべます。", "romaji": "Terebi o minagara, gohan o tabemasu.", "indonesian": "Saya makan sambil menonton TV." }
+      ]
+    },
+    {
+      "id": "ch21_p03",
+      "chapterId": 21,
+      "order": 3,
+      "pattern": "V て あげます / もらいます / くれます",
+      "explanation": "Tiga verba memberi-menerima dalam bentuk te: (1) 〜てあげます = melakukan V untuk orang lain (pembicara memberi tindakan), (2) 〜てもらいます = menerima tindakan V dari orang lain, (3) 〜てくれます = orang lain melakukan V untuk pembicara/kelompok pembicara.",
+      "examples": [
+        { "japanese": "ともだちに にほんごを おしえて あげました。", "romaji": "Tomodachi ni nihongo o oshiete agemashita.", "indonesian": "Saya mengajari teman bahasa Jepang." },
+        { "japanese": "せんせいに かんじを おしえて もらいました。", "romaji": "Sensei ni kanji o oshiete moraimashita.", "indonesian": "Saya mendapat pengajaran kanji dari guru." },
+        { "japanese": "かれは わたしに みちを おしえて くれました。", "romaji": "Kare wa watashi ni michi o oshiete kuremashita.", "indonesian": "Dia menunjukkan jalan untuk saya." }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "id": "ch21_g01",
+      "chapterId": 21,
+      "order": 1,
+      "title": "Meminta dengan Sangat Sopan: 〜ていただけませんか",
+      "explanation": "〜ていただけませんか adalah bentuk permintaan paling sopan dalam bahasa Jepang sehari-hari. Tingkatan kesopanan dari rendah ke tinggi: 〜てください → 〜てくれませんか → 〜てくださいませんか → 〜ていただけませんか. Bentuk ini menggunakan いただく (bentuk rendah hati dari もらう) dalam bentuk potensial negatif sebagai pertanyaan.",
+      "examples": [
+        { "japanese": "しゃしんを とって いただけませんか。", "romaji": "Shashin o totte itadakemasen ka.", "indonesian": "Bisakah Anda mengambilkan foto?" },
+        { "japanese": "まどを しめて いただけませんか。", "romaji": "Mado o shimete itadakemasen ka.", "indonesian": "Bisakah Anda menutup jendela?" },
+        { "japanese": "すこし まって いただけませんか。", "romaji": "Sukoshi matte itadakemasen ka.", "indonesian": "Bisakah Anda menunggu sebentar?" }
+      ]
+    },
+    {
+      "id": "ch21_g02",
+      "chapterId": 21,
+      "order": 2,
+      "title": "Kegiatan Simultan: 〜ながら",
+      "explanation": "〜ながら menyatakan dua kegiatan yang berlangsung bersamaan oleh subjek yang sama. Dibentuk dari: bentuk masu verba (tanpa ます) + ながら. Verba setelah ながら adalah kegiatan utama. Catatan: tidak bisa digunakan jika kedua kegiatan tidak bisa dilakukan bersamaan secara fisik.",
+      "examples": [
+        { "japanese": "コーヒーを のみながら、しんぶんを よみます。", "romaji": "Koohii o nominagara, shinbun o yomimasu.", "indonesian": "Saya membaca koran sambil minum kopi." },
+        { "japanese": "うたいながら、りょうりを します。", "romaji": "Utainagara, ryouri o shimasu.", "indonesian": "Saya memasak sambil bernyanyi." },
+        { "japanese": "はしりながら、でんわを するのは あぶないです。", "romaji": "Hashirinagara, denwa o suru no wa abunai desu.", "indonesian": "Berbicara di telepon sambil berlari itu berbahaya." }
+      ]
+    },
+    {
+      "id": "ch21_g03",
+      "chapterId": 21,
+      "order": 3,
+      "title": "Verba Memberi-Menerima dalam Bentuk Te: 〜てあげる・もらう・くれる",
+      "explanation": "Tiga verba ini menunjukkan arah tindakan: あげる (memberi ke luar/orang lain), もらう (menerima dari orang lain), くれる (orang lain memberi ke dalam/pembicara). Dalam bentuk te, ketiganya menyatakan tindakan yang dilakukan untuk/dari seseorang. Pilihan verba bergantung pada perspektif pembicara dan arah tindakan.",
+      "examples": [
+        { "japanese": "いもうとに ほんを かって あげました。", "romaji": "Imouto ni hon o katte agemashita.", "indonesian": "Saya membelikan buku untuk adik perempuan." },
+        { "japanese": "はははわたしに セーターを あんで くれました。", "romaji": "Haha wa watashi ni seetaa o ande kuremashita.", "indonesian": "Ibu merajutkan sweater untuk saya." },
+        { "japanese": "ともだちに えいごを おしえて もらいました。", "romaji": "Tomodachi ni eigo o oshiete moraimashita.", "indonesian": "Saya mendapat pengajaran bahasa Inggris dari teman." }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "ch21_q01",
+      "chapterId": 21,
+      "order": 1,
+      "question": "Bentuk permintaan yang paling sopan adalah?",
+      "choices": [
+        "〜てください",
+        "〜てくれませんか",
+        "〜ていただけませんか",
+        "〜てくださいませんか"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch21_q02",
+      "chapterId": 21,
+      "order": 2,
+      "question": "Bagaimana cara mengatakan 'Saya belajar sambil mendengarkan musik'?",
+      "choices": [
+        "おんがくを ききながら、べんきょうします。",
+        "おんがくを きいて、べんきょうします。",
+        "おんがくを ききますながら、べんきょうします。",
+        "おんがくを きいたながら、べんきょうします。"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "ch21_q03",
+      "chapterId": 21,
+      "order": 3,
+      "question": "Kalimat mana yang menggunakan 〜てあげます dengan benar?",
+      "choices": [
+        "せんせいに かんじを おしえて あげました。(guru mengajari saya)",
+        "ともだちに にほんごを おしえて あげました。(saya mengajari teman)",
+        "かれは わたしに みちを おしえて あげました。(dia menunjukkan jalan untuk saya)",
+        "わたしは せんせいに おしえて あげました。(saya mengajari guru)"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch21_q04",
+      "chapterId": 21,
+      "order": 4,
+      "question": "Apa arti 〜てもらいます?",
+      "choices": [
+        "melakukan V untuk orang lain",
+        "orang lain melakukan V untuk pembicara",
+        "menerima tindakan V dari orang lain",
+        "meminta orang lain berhenti melakukan V"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch21_q05",
+      "chapterId": 21,
+      "order": 5,
+      "question": "Apa arti kata 'やっと' (yatto)?",
+      "choices": ["sebentar lagi", "tepat/persis", "akhirnya", "sudah waktunya"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch21_q06",
+      "chapterId": 21,
+      "order": 6,
+      "question": "Bagaimana cara mengatakan 'Bisakah Anda menjelaskan sekali lagi?' (sangat sopan)?",
+      "choices": [
+        "もう いちど せつめいして ください。",
+        "もう いちど せつめいして くれませんか。",
+        "もう いちど せつめいして いただけませんか。",
+        "もう いちど せつめいして もらいませんか。"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch21_q07",
+      "chapterId": 21,
+      "order": 7,
+      "question": "Apa arti kata 'そろそろ' (sorosoro)?",
+      "choices": ["akhirnya", "tepat/persis", "belum", "sudah waktunya/sebentar lagi"],
+      "correctIndex": 3
+    },
+    {
+      "id": "ch21_q08",
+      "chapterId": 21,
+      "order": 8,
+      "question": "Kalimat mana yang menggunakan 〜てくれます dengan benar?",
+      "choices": [
+        "わたしは ともだちに ほんを かって くれました。",
+        "かれは わたしに みちを おしえて くれました。",
+        "わたしは せんせいに かんじを おしえて くれました。",
+        "ともだちは わたしに ほんを かって あげました。"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch21_q09",
+      "chapterId": 21,
+      "order": 9,
+      "question": "Bagaimana cara membentuk pola 〜ながら?",
+      "choices": [
+        "bentuk kamus verba + ながら",
+        "bentuk te verba + ながら",
+        "bentuk masu verba (tanpa ます) + ながら",
+        "bentuk ta verba + ながら"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch21_q10",
+      "chapterId": 21,
+      "order": 10,
+      "question": "Apa arti 'まだ〜ていません'?",
+      "choices": ["sudah ~", "belum ~", "sedang ~", "baru saja ~"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch21_q11",
+      "chapterId": 21,
+      "order": 11,
+      "question": "Apa arti kata 'ちょうど' (choudo)?",
+      "choices": ["akhirnya", "sebentar lagi", "tepat/persis", "hanya"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch21_q12",
+      "chapterId": 21,
+      "order": 12,
+      "question": "Kalimat mana yang benar untuk 'Saya membelikan buku untuk adik'?",
+      "choices": [
+        "いもうとに ほんを かって もらいました。",
+        "いもうとに ほんを かって くれました。",
+        "いもうとに ほんを かって あげました。",
+        "いもうとに ほんを かって いただきました。"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

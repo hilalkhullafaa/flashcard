@@ -1,0 +1,210 @@
+{
+  "chapter": {
+    "id": 13,
+    "title": "富士山に 登った ことが あります",
+    "titleRomaji": "Fujisan ni nobotta koto ga arimasu",
+    "titleId": "Saya pernah mendaki Gunung Fuji"
+  },
+  "vocabulary": [
+    { "id": "ch13_001", "chapterId": 13, "order": 1, "kanji": "登ります", "kana": "のぼります", "romaji": "noborimasu", "wordClass": "verba-i", "meaning": "mendaki/naik" },
+    { "id": "ch13_002", "chapterId": 13, "order": 2, "kanji": "渡ります", "kana": "わたります", "romaji": "watarimasu", "wordClass": "verba-i", "meaning": "menyeberangi" },
+    { "id": "ch13_003", "chapterId": 13, "order": 3, "kanji": "降ります", "kana": "おります", "romaji": "orimasu", "wordClass": "verba-ru", "meaning": "turun" },
+    { "id": "ch13_004", "chapterId": 13, "order": 4, "kanji": "乗ります", "kana": "のります", "romaji": "norimasu", "wordClass": "verba-i", "meaning": "naik (kendaraan)" },
+    { "id": "ch13_005", "chapterId": 13, "order": 5, "kanji": "遊びます", "kana": "あそびます", "romaji": "asobimasu", "wordClass": "verba-i", "meaning": "bermain/bersenang-senang" },
+    { "id": "ch13_006", "chapterId": 13, "order": 6, "kanji": "考えます", "kana": "かんがえます", "romaji": "kangaemasu", "wordClass": "verba-ru", "meaning": "berpikir/mempertimbangkan" },
+    { "id": "ch13_007", "chapterId": 13, "order": 7, "kanji": "決めます", "kana": "きめます", "romaji": "kimemasu", "wordClass": "verba-ru", "meaning": "memutuskan" },
+    { "id": "ch13_008", "chapterId": 13, "order": 8, "kanji": "始めます", "kana": "はじめます", "romaji": "hajimemasu", "wordClass": "verba-ru", "meaning": "memulai" },
+    { "id": "ch13_009", "chapterId": 13, "order": 9, "kanji": "止めます", "kana": "やめます", "romaji": "yamemasu", "wordClass": "verba-ru", "meaning": "berhenti/berhenti melakukan" },
+    { "id": "ch13_010", "chapterId": 13, "order": 10, "kanji": "", "kana": "こと", "romaji": "koto", "wordClass": "nomina", "meaning": "hal/sesuatu (nominalizer)" },
+    { "id": "ch13_011", "chapterId": 13, "order": 11, "kanji": "富士山", "kana": "ふじさん", "romaji": "Fujisan", "wordClass": "nomina", "meaning": "Gunung Fuji" },
+    { "id": "ch13_012", "chapterId": 13, "order": 12, "kanji": "温泉", "kana": "おんせん", "romaji": "onsen", "wordClass": "nomina", "meaning": "pemandian air panas" },
+    { "id": "ch13_013", "chapterId": 13, "order": 13, "kanji": "祭り", "kana": "まつり", "romaji": "matsuri", "wordClass": "nomina", "meaning": "festival" },
+    { "id": "ch13_014", "chapterId": 13, "order": 14, "kanji": "", "kana": "まず", "romaji": "mazu", "wordClass": "adverbia", "meaning": "pertama-tama" },
+    { "id": "ch13_015", "chapterId": 13, "order": 15, "kanji": "", "kana": "それから", "romaji": "sorekara", "wordClass": "konjungsi", "meaning": "kemudian/setelah itu" },
+    { "id": "ch13_016", "chapterId": 13, "order": 16, "kanji": "", "kana": "そして", "romaji": "soshite", "wordClass": "konjungsi", "meaning": "dan kemudian" },
+    { "id": "ch13_017", "chapterId": 13, "order": 17, "kanji": "", "kana": "でも", "romaji": "demo", "wordClass": "konjungsi", "meaning": "tapi/namun" },
+    { "id": "ch13_018", "chapterId": 13, "order": 18, "kanji": "", "kana": "だから", "romaji": "dakara", "wordClass": "konjungsi", "meaning": "oleh karena itu" }
+  ],
+  "patterns": [
+    {
+      "id": "ch13_p01",
+      "chapterId": 13,
+      "order": 1,
+      "pattern": "V た ことが あります",
+      "explanation": "Pola untuk menyatakan pengalaman yang pernah dilakukan di masa lalu. Bentuk ta (plain past) dari verba ditambah ことがあります berarti 'pernah V'. Untuk menyatakan belum pernah, gunakan V たことがありません.",
+      "examples": [
+        { "japanese": "ふじさんに のぼった ことが あります。", "romaji": "Fujisan ni nobotta koto ga arimasu.", "indonesian": "Saya pernah mendaki Gunung Fuji." },
+        { "japanese": "おんせんに はいった ことが あります。", "romaji": "Onsen ni haitta koto ga arimasu.", "indonesian": "Saya pernah masuk ke pemandian air panas." },
+        { "japanese": "すしを たべた ことが ありません。", "romaji": "Sushi o tabeta koto ga arimasen.", "indonesian": "Saya belum pernah makan sushi." }
+      ]
+    },
+    {
+      "id": "ch13_p02",
+      "chapterId": 13,
+      "order": 2,
+      "pattern": "V た あとで",
+      "explanation": "Pola untuk menyatakan urutan kegiatan: 'setelah melakukan V'. Bentuk ta dari verba ditambah あとで menunjukkan bahwa tindakan berikutnya dilakukan setelah tindakan pertama selesai sepenuhnya.",
+      "examples": [
+        { "japanese": "しごとの あとで、えいがを みます。", "romaji": "Shigoto no ato de, eiga o mimasu.", "indonesian": "Setelah bekerja, saya menonton film." },
+        { "japanese": "ごはんを たべた あとで、さんぽします。", "romaji": "Gohan o tabeta ato de, sanpo shimasu.", "indonesian": "Setelah makan, saya berjalan-jalan." }
+      ]
+    },
+    {
+      "id": "ch13_p03",
+      "chapterId": 13,
+      "order": 3,
+      "pattern": "V てから",
+      "explanation": "Pola lain untuk menyatakan urutan kegiatan: 'setelah V, kemudian...'. Bentuk te dari verba ditambah から menunjukkan bahwa tindakan kedua dilakukan setelah tindakan pertama. Mirip dengan 〜たあとで, tetapi 〜てから lebih menekankan urutan yang berkesinambungan.",
+      "examples": [
+        { "japanese": "てを あらってから、たべます。", "romaji": "Te o aratte kara, tabemasu.", "indonesian": "Setelah mencuci tangan, saya makan." },
+        { "japanese": "にほんに きてから、にほんごを べんきょうしました。", "romaji": "Nihon ni kite kara, nihongo o benkyou shimashita.", "indonesian": "Setelah datang ke Jepang, saya belajar bahasa Jepang." }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "id": "ch13_g01",
+      "chapterId": 13,
+      "order": 1,
+      "title": "Bentuk Ta (た形) — Bentuk Lampau Biasa",
+      "explanation": "Bentuk ta adalah bentuk lampau dalam ragam biasa (plain form). Cara pembentukannya sama dengan bentuk te, hanya akhirannya berbeda: て→た, で→だ. Contoh: かきます→かいた, たべます→たべた, のみます→のんだ, します→した, きます→きた. Bentuk ta digunakan dalam pola pengalaman (〜たことがあります) dan urutan kegiatan (〜たあとで).",
+      "examples": [
+        { "japanese": "かきます → かいた", "romaji": "kakimasu → kaita", "indonesian": "menulis → (bentuk ta)" },
+        { "japanese": "たべます → たべた", "romaji": "tabemasu → tabeta", "indonesian": "makan → (bentuk ta)" },
+        { "japanese": "のみます → のんだ", "romaji": "nomimasu → nonda", "indonesian": "minum → (bentuk ta)" }
+      ]
+    },
+    {
+      "id": "ch13_g02",
+      "chapterId": 13,
+      "order": 2,
+      "title": "Pengalaman: 〜たことがあります",
+      "explanation": "Pola 〜たことがあります digunakan untuk menyatakan pengalaman yang pernah dilakukan setidaknya sekali dalam hidup. こと berfungsi sebagai nominalizer yang mengubah klausa verba menjadi nomina. Untuk menanyakan pengalaman, gunakan 〜たことがありますか. Untuk menyatakan belum pernah, gunakan 〜たことがありません.",
+      "examples": [
+        { "japanese": "にほんに いった ことが ありますか。", "romaji": "Nihon ni itta koto ga arimasu ka.", "indonesian": "Apakah Anda pernah pergi ke Jepang?" },
+        { "japanese": "はい、いった ことが あります。", "romaji": "Hai, itta koto ga arimasu.", "indonesian": "Ya, saya pernah pergi." }
+      ]
+    },
+    {
+      "id": "ch13_g03",
+      "chapterId": 13,
+      "order": 3,
+      "title": "Urutan Kegiatan: 〜てから vs 〜たあとで",
+      "explanation": "Kedua pola ini menyatakan urutan kegiatan, tetapi ada perbedaan nuansa. 〜てから menekankan bahwa tindakan kedua adalah kelanjutan langsung dari tindakan pertama (urutan yang berkesinambungan). 〜たあとで lebih netral, hanya menyatakan bahwa tindakan kedua terjadi setelah tindakan pertama selesai. Dalam banyak kasus keduanya dapat saling menggantikan.",
+      "examples": [
+        { "japanese": "シャワーを あびてから、ねます。", "romaji": "Shawaa o abite kara, nemasu.", "indonesian": "Setelah mandi, saya tidur." },
+        { "japanese": "シャワーを あびた あとで、ねます。", "romaji": "Shawaa o abita ato de, nemasu.", "indonesian": "Setelah mandi, saya tidur." }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "ch13_q01",
+      "chapterId": 13,
+      "order": 1,
+      "question": "Pola apa yang digunakan untuk menyatakan pengalaman 'pernah V'?",
+      "choices": ["V ています", "V たことがあります", "V てください", "V てもいいですか"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch13_q02",
+      "chapterId": 13,
+      "order": 2,
+      "question": "Bagaimana bentuk ta dari verba 'たべます' (tabemasu)?",
+      "choices": ["たべいた", "たべった", "たべた", "たべんだ"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch13_q03",
+      "chapterId": 13,
+      "order": 3,
+      "question": "Apa arti dari 'ふじさんに のぼった ことが あります'?",
+      "choices": [
+        "Saya akan mendaki Gunung Fuji.",
+        "Saya sedang mendaki Gunung Fuji.",
+        "Saya pernah mendaki Gunung Fuji.",
+        "Saya tidak pernah mendaki Gunung Fuji."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch13_q04",
+      "chapterId": 13,
+      "order": 4,
+      "question": "Apa arti kata 'おんせん' (onsen)?",
+      "choices": ["festival", "gunung", "pemandian air panas", "taman"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch13_q05",
+      "chapterId": 13,
+      "order": 5,
+      "question": "Bagaimana cara mengatakan 'Saya belum pernah makan sushi'?",
+      "choices": [
+        "すしを たべた ことが あります。",
+        "すしを たべた ことが ありません。",
+        "すしを たべて ください。",
+        "すしを たべても いいですか。"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch13_q06",
+      "chapterId": 13,
+      "order": 6,
+      "question": "Apa arti kata 'まず' (mazu)?",
+      "choices": ["kemudian", "pertama-tama", "oleh karena itu", "tapi/namun"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch13_q07",
+      "chapterId": 13,
+      "order": 7,
+      "question": "Bagaimana bentuk ta dari verba 'のみます' (nomimasu)?",
+      "choices": ["のみた", "のいた", "のんだ", "のって"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch13_q08",
+      "chapterId": 13,
+      "order": 8,
+      "question": "Pola 'V てから' digunakan untuk...",
+      "choices": [
+        "menyatakan pengalaman masa lalu",
+        "menyatakan urutan kegiatan yang berkesinambungan",
+        "meminta izin",
+        "menyatakan larangan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch13_q09",
+      "chapterId": 13,
+      "order": 9,
+      "question": "Apa arti kata 'きめます' (kimemasu)?",
+      "choices": ["memulai", "berhenti", "memutuskan", "berpikir"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch13_q10",
+      "chapterId": 13,
+      "order": 10,
+      "question": "Bagaimana cara mengatakan 'Setelah mencuci tangan, saya makan'?",
+      "choices": [
+        "てを あらった あとで、たべます。",
+        "てを あらってから、たべます。",
+        "Keduanya benar",
+        "Keduanya salah"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch13_q11",
+      "chapterId": 13,
+      "order": 11,
+      "question": "Apa fungsi kata 'こと' (koto) dalam pola 〜たことがあります?",
+      "choices": ["partikel penanda subjek", "nominalizer (mengubah klausa verba menjadi nomina)", "konjungsi", "adverbia waktu"],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "chapter": {
+    "id": 15,
+    "title": "電車で 行きます",
+    "titleRomaji": "Densha de ikimasu",
+    "titleId": "Saya pergi dengan kereta"
+  },
+  "vocabulary": [
+    { "id": "ch15_001", "chapterId": 15, "order": 1, "kanji": "飲みます", "kana": "のみます", "romaji": "nomimasu", "wordClass": "verba-i", "meaning": "minum" },
+    { "id": "ch15_002", "chapterId": 15, "order": 2, "kanji": "吸います", "kana": "すいます", "romaji": "suimasu", "wordClass": "verba-i", "meaning": "menghisap (rokok)" },
+    { "id": "ch15_003", "chapterId": 15, "order": 3, "kanji": "入ります", "kana": "はいります", "romaji": "hairimasu", "wordClass": "verba-i", "meaning": "masuk" },
+    { "id": "ch15_004", "chapterId": 15, "order": 4, "kanji": "出ます", "kana": "でます", "romaji": "demasu", "wordClass": "verba-ru", "meaning": "keluar" },
+    { "id": "ch15_005", "chapterId": 15, "order": 5, "kanji": "止めます", "kana": "とめます", "romaji": "tomemasu", "wordClass": "verba-ru", "meaning": "menghentikan/memarkir" },
+    { "id": "ch15_006", "chapterId": 15, "order": 6, "kanji": "曲がります", "kana": "まがります", "romaji": "magarimasu", "wordClass": "verba-i", "meaning": "berbelok" },
+    { "id": "ch15_007", "chapterId": 15, "order": 7, "kanji": "渡ります", "kana": "わたります", "romaji": "watarimasu", "wordClass": "verba-i", "meaning": "menyeberang" },
+    { "id": "ch15_008", "chapterId": 15, "order": 8, "kanji": "禁煙", "kana": "きんえん", "romaji": "kin'en", "wordClass": "nomina", "meaning": "dilarang merokok" },
+    { "id": "ch15_009", "chapterId": 15, "order": 9, "kanji": "禁止", "kana": "きんし", "romaji": "kinshi", "wordClass": "nomina", "meaning": "dilarang/terlarang" },
+    { "id": "ch15_010", "chapterId": 15, "order": 10, "kanji": "駐車場", "kana": "ちゅうしゃじょう", "romaji": "chuushajou", "wordClass": "nomina", "meaning": "tempat parkir" },
+    { "id": "ch15_011", "chapterId": 15, "order": 11, "kanji": "交差点", "kana": "こうさてん", "romaji": "kousaten", "wordClass": "nomina", "meaning": "persimpangan" },
+    { "id": "ch15_012", "chapterId": 15, "order": 12, "kanji": "信号", "kana": "しんごう", "romaji": "shingou", "wordClass": "nomina", "meaning": "lampu lalu lintas" },
+    { "id": "ch15_013", "chapterId": 15, "order": 13, "kanji": "", "kana": "まっすぐ", "romaji": "massugu", "wordClass": "adverbia", "meaning": "lurus" },
+    { "id": "ch15_014", "chapterId": 15, "order": 14, "kanji": "右", "kana": "みぎ", "romaji": "migi", "wordClass": "nomina", "meaning": "kanan" },
+    { "id": "ch15_015", "chapterId": 15, "order": 15, "kanji": "左", "kana": "ひだり", "romaji": "hidari", "wordClass": "nomina", "meaning": "kiri" },
+    { "id": "ch15_016", "chapterId": 15, "order": 16, "kanji": "電車", "kana": "でんしゃ", "romaji": "densha", "wordClass": "nomina", "meaning": "kereta listrik" },
+    { "id": "ch15_017", "chapterId": 15, "order": 17, "kanji": "地下鉄", "kana": "ちかてつ", "romaji": "chikatetsu", "wordClass": "nomina", "meaning": "kereta bawah tanah/MRT" },
+    { "id": "ch15_018", "chapterId": 15, "order": 18, "kanji": "バス停", "kana": "バスてい", "romaji": "basutei", "wordClass": "nomina", "meaning": "halte bus" }
+  ],
+  "patterns": [
+    {
+      "id": "ch15_p01",
+      "chapterId": 15,
+      "order": 1,
+      "pattern": "V なければ なりません",
+      "explanation": "Pola untuk menyatakan kewajiban atau keharusan: 'harus V / wajib V'. Dibentuk dari bentuk nai (ない形) verba: ganti ない dengan なければ, lalu tambahkan なりません. Contoh: たべない → たべなければなりません (harus makan).",
+      "examples": [
+        { "japanese": "くすりを のまなければ なりません。", "romaji": "Kusuri o nomanakere ba narimasen.", "indonesian": "Harus minum obat." },
+        { "japanese": "あした はやく おきなければ なりません。", "romaji": "Ashita hayaku okinakereba narimasen.", "indonesian": "Besok harus bangun pagi." },
+        { "japanese": "パスポートを もってこなければ なりません。", "romaji": "Pasupooto o motte konakereba narimasen.", "indonesian": "Harus membawa paspor." }
+      ]
+    },
+    {
+      "id": "ch15_p02",
+      "chapterId": 15,
+      "order": 2,
+      "pattern": "V なくても いいです",
+      "explanation": "Pola untuk menyatakan bahwa sesuatu tidak perlu dilakukan: 'tidak perlu V / tidak harus V'. Dibentuk dari bentuk nai verba: ganti ない dengan なくて, lalu tambahkan もいいです. Ini adalah kebalikan dari 〜なければなりません.",
+      "examples": [
+        { "japanese": "あしたは こなくても いいです。", "romaji": "Ashita wa konakute mo ii desu.", "indonesian": "Besok tidak perlu datang." },
+        { "japanese": "むりに たべなくても いいです。", "romaji": "Muri ni tabenakute mo ii desu.", "indonesian": "Tidak perlu makan dengan paksa." },
+        { "japanese": "スーツを きなくても いいです。", "romaji": "Suutsu o kinakute mo ii desu.", "indonesian": "Tidak perlu memakai setelan jas." }
+      ]
+    },
+    {
+      "id": "ch15_p03",
+      "chapterId": 15,
+      "order": 3,
+      "pattern": "まっすぐ いって、N を まがります",
+      "explanation": "Pola untuk memberikan petunjuk arah. まっすぐ (lurus) + いって (bentuk te dari いきます) + N を まがります (belok di N). Pola ini sering digunakan bersama kata-kata arah: みぎ (kanan), ひだり (kiri), dan penanda lokasi seperti しんごう (lampu merah), こうさてん (persimpangan).",
+      "examples": [
+        { "japanese": "まっすぐ いって、しんごうを みぎに まがって ください。", "romaji": "Massugu itte, shingou o migi ni magatte kudasai.", "indonesian": "Jalan lurus, lalu belok kanan di lampu merah." },
+        { "japanese": "こうさてんを ひだりに まがります。", "romaji": "Kousaten o hidari ni magarimasu.", "indonesian": "Belok kiri di persimpangan." }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "id": "ch15_g01",
+      "chapterId": 15,
+      "order": 1,
+      "title": "Bentuk Nai (ない形) — Bentuk Negatif Biasa",
+      "explanation": "Bentuk nai adalah bentuk negatif dalam ragam biasa (plain form). Cara pembentukannya: Verba Kelompok 1 (verba-i): ganti ～います dengan ～あない (contoh: かきます→かかない, のみます→のまない). Verba Kelompok 2 (verba-ru): ganti ます dengan ない (contoh: たべます→たべない). Verba Kelompok 3 (ireguler): します→しない, きます→こない. Catatan: verba yang berakhiran います (seperti かいます) menjadi かわない (bukan かあない).",
+      "examples": [
+        { "japanese": "かきます → かかない", "romaji": "kakimasu → kakanai", "indonesian": "menulis → tidak menulis (bentuk nai)" },
+        { "japanese": "たべます → たべない", "romaji": "tabemasu → tabenai", "indonesian": "makan → tidak makan (bentuk nai)" },
+        { "japanese": "きます → こない", "romaji": "kimasu → konai", "indonesian": "datang → tidak datang (bentuk nai)" }
+      ]
+    },
+    {
+      "id": "ch15_g02",
+      "chapterId": 15,
+      "order": 2,
+      "title": "Kewajiban: 〜なければなりません",
+      "explanation": "Pola 〜なければなりません menyatakan kewajiban atau keharusan yang kuat. Secara harfiah berarti 'jika tidak melakukan V, tidak akan baik'. Dalam percakapan sehari-hari, bentuk yang lebih pendek 〜なきゃ atau 〜なければ sering digunakan. Untuk menyatakan tidak ada kewajiban, gunakan 〜なくてもいいです.",
+      "examples": [
+        { "japanese": "まいにち べんきょうしなければ なりません。", "romaji": "Mainichi benkyou shinakereba narimasen.", "indonesian": "Harus belajar setiap hari." },
+        { "japanese": "しゅくだいを だしなければ なりません。", "romaji": "Shukudai o dashikakereba narimasen.", "indonesian": "Harus mengumpulkan PR." }
+      ]
+    },
+    {
+      "id": "ch15_g03",
+      "chapterId": 15,
+      "order": 3,
+      "title": "Tidak Perlu: 〜なくてもいいです",
+      "explanation": "Pola 〜なくてもいいです menyatakan bahwa sesuatu tidak perlu atau tidak harus dilakukan. Ini adalah kebalikan dari 〜なければなりません. Secara harfiah berarti 'bahkan jika tidak melakukan V, tidak apa-apa'. Pola ini sering digunakan untuk memberikan izin atau membebaskan seseorang dari kewajiban.",
+      "examples": [
+        { "japanese": "きょうは こなくても いいです。", "romaji": "Kyou wa konakute mo ii desu.", "indonesian": "Hari ini tidak perlu datang." },
+        { "japanese": "ぜんぶ たべなくても いいですよ。", "romaji": "Zenbu tabenakute mo ii desu yo.", "indonesian": "Tidak perlu makan semuanya." }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "ch15_q01",
+      "chapterId": 15,
+      "order": 1,
+      "question": "Bagaimana bentuk nai dari verba 'のみます' (nomimasu)?",
+      "choices": ["のみない", "のまない", "のんない", "のなない"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch15_q02",
+      "chapterId": 15,
+      "order": 2,
+      "question": "Pola apa yang digunakan untuk menyatakan kewajiban 'harus V'?",
+      "choices": ["V てもいいです", "V なくてもいいです", "V なければなりません", "V てはいけません"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch15_q03",
+      "chapterId": 15,
+      "order": 3,
+      "question": "Apa arti dari 'あしたは こなくても いいです'?",
+      "choices": [
+        "Besok harus datang.",
+        "Besok tidak boleh datang.",
+        "Besok tidak perlu datang.",
+        "Besok boleh datang."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch15_q04",
+      "chapterId": 15,
+      "order": 4,
+      "question": "Apa arti kata 'こうさてん' (kousaten)?",
+      "choices": ["lampu lalu lintas", "tempat parkir", "persimpangan", "halte bus"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch15_q05",
+      "chapterId": 15,
+      "order": 5,
+      "question": "Bagaimana bentuk nai dari verba 'たべます' (tabemasu)?",
+      "choices": ["たべない", "たばない", "たべなない", "たべいない"],
+      "correctIndex": 0
+    },
+    {
+      "id": "ch15_q06",
+      "chapterId": 15,
+      "order": 6,
+      "question": "Apa arti kata 'まっすぐ' (massugu)?",
+      "choices": ["kanan", "kiri", "lurus", "belok"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch15_q07",
+      "chapterId": 15,
+      "order": 7,
+      "question": "Bagaimana cara mengatakan 'Harus minum obat'?",
+      "choices": [
+        "くすりを のんでも いいです。",
+        "くすりを のまなくても いいです。",
+        "くすりを のまなければ なりません。",
+        "くすりを のんでは いけません。"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch15_q08",
+      "chapterId": 15,
+      "order": 8,
+      "question": "Apa arti kata 'きんえん' (kin'en)?",
+      "choices": ["dilarang masuk", "dilarang merokok", "dilarang parkir", "dilarang berfoto"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch15_q09",
+      "chapterId": 15,
+      "order": 9,
+      "question": "Bagaimana bentuk nai dari verba 'きます' (kimasu — datang)?",
+      "choices": ["きない", "こない", "くない", "かない"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch15_q10",
+      "chapterId": 15,
+      "order": 10,
+      "question": "Bagaimana cara mengatakan petunjuk arah 'Jalan lurus, lalu belok kanan di lampu merah'?",
+      "choices": [
+        "まっすぐ いって、しんごうを ひだりに まがって ください。",
+        "まっすぐ いって、しんごうを みぎに まがって ください。",
+        "しんごうを みぎに まがって、まっすぐ いって ください。",
+        "みぎに まがって、まっすぐ いって ください。"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch15_q11",
+      "chapterId": 15,
+      "order": 11,
+      "question": "Pola 〜なくてもいいです adalah kebalikan dari pola...",
+      "choices": ["〜てください", "〜てもいいですか", "〜なければなりません", "〜てはいけません"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch15_q12",
+      "chapterId": 15,
+      "order": 12,
+      "question": "Apa arti kata 'ちゅうしゃじょう' (chuushajou)?",
+      "choices": ["persimpangan", "lampu lalu lintas", "halte bus", "tempat parkir"],
+      "correctIndex": 3
+    }
+  ]
+}

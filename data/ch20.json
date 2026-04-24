@@ -1,0 +1,229 @@
+{
+  "chapter": {
+    "id": 20,
+    "title": "道を 教えて ください",
+    "titleRomaji": "Michi o oshiete kudasai",
+    "titleId": "Tolong tunjukkan jalannya"
+  },
+  "vocabulary": [
+    { "id": "ch20_001", "chapterId": 20, "order": 1, "kanji": "教えます", "kana": "おしえます", "romaji": "oshiemasu", "wordClass": "verba-ru", "meaning": "memberitahu/mengajar" },
+    { "id": "ch20_002", "chapterId": 20, "order": 2, "kanji": "分かります", "kana": "わかります", "romaji": "wakarimasu", "wordClass": "verba-i", "meaning": "mengerti/tahu" },
+    { "id": "ch20_003", "chapterId": 20, "order": 3, "kanji": "曲がります", "kana": "まがります", "romaji": "magarimasu", "wordClass": "verba-i", "meaning": "berbelok" },
+    { "id": "ch20_004", "chapterId": 20, "order": 4, "kanji": "渡ります", "kana": "わたります", "romaji": "watarimasu", "wordClass": "verba-i", "meaning": "menyeberang" },
+    { "id": "ch20_005", "chapterId": 20, "order": 5, "kanji": "通ります", "kana": "とおります", "romaji": "toorimasu", "wordClass": "verba-i", "meaning": "melewati" },
+    { "id": "ch20_006", "chapterId": 20, "order": 6, "kanji": "道", "kana": "みち", "romaji": "michi", "wordClass": "nomina", "meaning": "jalan" },
+    { "id": "ch20_007", "chapterId": 20, "order": 7, "kanji": "角", "kana": "かど", "romaji": "kado", "wordClass": "nomina", "meaning": "sudut/pojok" },
+    { "id": "ch20_008", "chapterId": 20, "order": 8, "kanji": "信号", "kana": "しんごう", "romaji": "shingou", "wordClass": "nomina", "meaning": "lampu lalu lintas" },
+    { "id": "ch20_009", "chapterId": 20, "order": 9, "kanji": "交差点", "kana": "こうさてん", "romaji": "kousaten", "wordClass": "nomina", "meaning": "persimpangan" },
+    { "id": "ch20_010", "chapterId": 20, "order": 10, "kanji": "橋", "kana": "はし", "romaji": "hashi", "wordClass": "nomina", "meaning": "jembatan" },
+    { "id": "ch20_011", "chapterId": 20, "order": 11, "kanji": "", "kana": "まっすぐ", "romaji": "massugu", "wordClass": "adverbia", "meaning": "lurus" },
+    { "id": "ch20_012", "chapterId": 20, "order": 12, "kanji": "右", "kana": "みぎ", "romaji": "migi", "wordClass": "nomina", "meaning": "kanan" },
+    { "id": "ch20_013", "chapterId": 20, "order": 13, "kanji": "左", "kana": "ひだり", "romaji": "hidari", "wordClass": "nomina", "meaning": "kiri" },
+    { "id": "ch20_014", "chapterId": 20, "order": 14, "kanji": "北", "kana": "きた", "romaji": "kita", "wordClass": "nomina", "meaning": "utara" },
+    { "id": "ch20_015", "chapterId": 20, "order": 15, "kanji": "南", "kana": "みなみ", "romaji": "minami", "wordClass": "nomina", "meaning": "selatan" },
+    { "id": "ch20_016", "chapterId": 20, "order": 16, "kanji": "東", "kana": "ひがし", "romaji": "higashi", "wordClass": "nomina", "meaning": "timur" },
+    { "id": "ch20_017", "chapterId": 20, "order": 17, "kanji": "西", "kana": "にし", "romaji": "nishi", "wordClass": "nomina", "meaning": "barat" },
+    { "id": "ch20_018", "chapterId": 20, "order": 18, "kanji": "", "kana": "〜メートル", "romaji": "~meetoru", "wordClass": "sufiks", "meaning": "~ meter" },
+    { "id": "ch20_019", "chapterId": 20, "order": 19, "kanji": "", "kana": "〜キロ", "romaji": "~kiro", "wordClass": "sufiks", "meaning": "~ kilometer" },
+    { "id": "ch20_020", "chapterId": 20, "order": 20, "kanji": "", "kana": "すぐ", "romaji": "sugu", "wordClass": "adverbia", "meaning": "segera/langsung" }
+  ],
+  "patterns": [
+    {
+      "id": "ch20_p01",
+      "chapterId": 20,
+      "order": 1,
+      "pattern": "まっすぐ いって、N を まがって ください",
+      "explanation": "Pola dasar untuk memberikan petunjuk arah. まっすぐ いって = jalan lurus, N を まがって = belok di N. Partikel を digunakan dengan verba gerakan untuk menandai tempat yang dilewati atau titik belok. Tambahkan みぎに (ke kanan) atau ひだりに (ke kiri) setelah を まがって.",
+      "examples": [
+        { "japanese": "まっすぐ いって、しんごうを みぎに まがって ください。", "romaji": "Massugu itte, shingou o migi ni magatte kudasai.", "indonesian": "Jalan lurus, lalu belok kanan di lampu merah." },
+        { "japanese": "まっすぐ いって、こうさてんを ひだりに まがって ください。", "romaji": "Massugu itte, kousaten o hidari ni magatte kudasai.", "indonesian": "Jalan lurus, lalu belok kiri di persimpangan." },
+        { "japanese": "まっすぐ いって、かどを みぎに まがると、えきが あります。", "romaji": "Massugu itte, kado o migi ni magaru to, eki ga arimasu.", "indonesian": "Jalan lurus, belok kanan di pojok, ada stasiun." }
+      ]
+    },
+    {
+      "id": "ch20_p02",
+      "chapterId": 20,
+      "order": 2,
+      "pattern": "N を わたって、N を とおって ください",
+      "explanation": "Pola untuk petunjuk arah yang melibatkan menyeberang atau melewati sesuatu. わたります = menyeberang (jembatan, jalan), とおります = melewati (depan gedung, taman). Partikel を menandai objek yang diseberangi atau dilewati.",
+      "examples": [
+        { "japanese": "はしを わたって、まっすぐ いって ください。", "romaji": "Hashi o watatte, massugu itte kudasai.", "indonesian": "Seberangi jembatan, lalu jalan lurus." },
+        { "japanese": "こうえんの まえを とおって、みぎに まがって ください。", "romaji": "Kouen no mae o tootte, migi ni magatte kudasai.", "indonesian": "Lewati depan taman, lalu belok kanan." },
+        { "japanese": "おおきい みちを わたると、ゆうびんきょくが あります。", "romaji": "Ookii michi o wataru to, yuubinkyoku ga arimasu.", "indonesian": "Jika menyeberangi jalan besar, ada kantor pos." }
+      ]
+    },
+    {
+      "id": "ch20_p03",
+      "chapterId": 20,
+      "order": 3,
+      "pattern": "N から N まで どのくらい かかりますか",
+      "explanation": "Pola untuk menanyakan jarak atau waktu tempuh. から = dari, まで = sampai/ke, どのくらい = berapa lama/jauh, かかります = membutuhkan (waktu/biaya). Jawaban menggunakan satuan waktu (〜ふん/〜じかん) atau jarak (〜メートル/〜キロ).",
+      "examples": [
+        { "japanese": "えきから ここまで どのくらい かかりますか。", "romaji": "Eki kara koko made donokurai kakarimasu ka.", "indonesian": "Berapa lama dari stasiun ke sini?" },
+        { "japanese": "あるいて 10ぷんぐらい かかります。", "romaji": "Aruite juppun gurai kakarimasu.", "indonesian": "Kira-kira 10 menit berjalan kaki." },
+        { "japanese": "とうきょうから おおさかまで どのくらい かかりますか。", "romaji": "Toukyou kara Oosaka made donokurai kakarimasu ka.", "indonesian": "Berapa lama dari Tokyo ke Osaka?" }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "id": "ch20_g01",
+      "chapterId": 20,
+      "order": 1,
+      "title": "Memberikan Petunjuk Arah dalam Bahasa Jepang",
+      "explanation": "Petunjuk arah dalam bahasa Jepang menggunakan pola berurutan dengan bentuk te verba. Urutan instruksi: (1) まっすぐ いって (jalan lurus), (2) N を みぎ/ひだりに まがって (belok kanan/kiri di N), (3) N を わたって (seberangi N), (4) すると/と (maka). Akhiri dengan 〜ください untuk permintaan sopan atau 〜と、N が あります untuk menunjukkan tujuan.",
+      "examples": [
+        { "japanese": "まっすぐ いって、しんごうを みぎに まがって ください。すると、ぎんこうが あります。", "romaji": "Massugu itte, shingou o migi ni magatte kudasai. Suru to, ginkou ga arimasu.", "indonesian": "Jalan lurus, belok kanan di lampu merah. Maka ada bank." },
+        { "japanese": "このみちを まっすぐ いくと、えきが あります。", "romaji": "Kono michi o massugu iku to, eki ga arimasu.", "indonesian": "Jika jalan lurus di jalan ini, ada stasiun." },
+        { "japanese": "すみません、ゆうびんきょくへの みちを おしえて ください。", "romaji": "Sumimasen, yuubinkyoku e no michi o oshiete kudasai.", "indonesian": "Permisi, tolong tunjukkan jalan ke kantor pos." }
+      ]
+    },
+    {
+      "id": "ch20_g02",
+      "chapterId": 20,
+      "order": 2,
+      "title": "Kata Arah Mata Angin: きた・みなみ・ひがし・にし",
+      "explanation": "Empat arah mata angin dalam bahasa Jepang: きた (utara), みなみ (selatan), ひがし (timur), にし (barat). Digunakan dengan partikel の untuk menunjukkan posisi relatif: えきの きた (utara stasiun), こうえんの みなみ (selatan taman). Juga digunakan dalam nama tempat: ひがしぐち (pintu timur), にしぐち (pintu barat).",
+      "examples": [
+        { "japanese": "えきの きたぐちを でて ください。", "romaji": "Eki no kitaguchi o dete kudasai.", "indonesian": "Keluarlah dari pintu utara stasiun." },
+        { "japanese": "こうえんは えきの みなみに あります。", "romaji": "Kouen wa eki no minami ni arimasu.", "indonesian": "Taman ada di selatan stasiun." },
+        { "japanese": "ひがしに すすむと、うみが みえます。", "romaji": "Higashi ni susumu to, umi ga miemasu.", "indonesian": "Jika berjalan ke timur, bisa melihat laut." }
+      ]
+    },
+    {
+      "id": "ch20_g03",
+      "chapterId": 20,
+      "order": 3,
+      "title": "Menanyakan Jarak dan Waktu Tempuh",
+      "explanation": "Untuk menanyakan jarak atau waktu tempuh, gunakan: N から N まで どのくらい かかりますか. Jawaban menggunakan: (1) Waktu: 〜ふん (menit), 〜じかん (jam) + かかります. (2) Jarak: 〜メートル, 〜キロ. (3) Cara: あるいて (berjalan kaki), でんしゃで (dengan kereta), くるまで (dengan mobil). Kata ぐらい/くらい berarti 'kira-kira'.",
+      "examples": [
+        { "japanese": "えきまで あるいて なんぷん かかりますか。", "romaji": "Eki made aruite nanpun kakarimasu ka.", "indonesian": "Berapa menit berjalan kaki ke stasiun?" },
+        { "japanese": "あるいて 5ふんぐらい かかります。", "romaji": "Aruite gofun gurai kakarimasu.", "indonesian": "Kira-kira 5 menit berjalan kaki." },
+        { "japanese": "ここから えきまで どのくらい ありますか。", "romaji": "Koko kara eki made donokurai arimasu ka.", "indonesian": "Berapa jauh dari sini ke stasiun?" }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "ch20_q01",
+      "chapterId": 20,
+      "order": 1,
+      "question": "Bagaimana cara mengatakan 'Jalan lurus, lalu belok kanan di lampu merah'?",
+      "choices": [
+        "まっすぐ いって、しんごうを ひだりに まがって ください。",
+        "まっすぐ いって、しんごうを みぎに まがって ください。",
+        "しんごうを みぎに まがって、まっすぐ いって ください。",
+        "まっすぐ いって、みぎに しんごうを まがって ください。"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch20_q02",
+      "chapterId": 20,
+      "order": 2,
+      "question": "Apa arti kata 'こうさてん' (kousaten)?",
+      "choices": ["lampu lalu lintas", "jembatan", "persimpangan", "sudut/pojok"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch20_q03",
+      "chapterId": 20,
+      "order": 3,
+      "question": "Bagaimana cara menanyakan waktu tempuh dari stasiun ke sini?",
+      "choices": [
+        "えきから ここまで どのくらい かかりますか。",
+        "えきから ここまで どれくらい ありますか。",
+        "えきから ここまで なんですか。",
+        "えきから ここまで いくらですか。"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "ch20_q04",
+      "chapterId": 20,
+      "order": 4,
+      "question": "Apa arti kata 'わたります' (watarimasu)?",
+      "choices": ["berbelok", "melewati", "menyeberang", "berjalan lurus"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch20_q05",
+      "chapterId": 20,
+      "order": 5,
+      "question": "Apa arti kata 'きた' (kita) dalam konteks arah mata angin?",
+      "choices": ["selatan", "timur", "barat", "utara"],
+      "correctIndex": 3
+    },
+    {
+      "id": "ch20_q06",
+      "chapterId": 20,
+      "order": 6,
+      "question": "Kalimat mana yang benar untuk 'Seberangi jembatan, lalu jalan lurus'?",
+      "choices": [
+        "はしを とおって、まっすぐ いって ください。",
+        "はしを わたって、まっすぐ いって ください。",
+        "はしを まがって、まっすぐ いって ください。",
+        "はしを すぎて、まっすぐ いって ください。"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch20_q07",
+      "chapterId": 20,
+      "order": 7,
+      "question": "Apa arti kata 'みなみ' (minami)?",
+      "choices": ["utara", "timur", "selatan", "barat"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch20_q08",
+      "chapterId": 20,
+      "order": 8,
+      "question": "Apa arti kata 'すぐ' (sugu)?",
+      "choices": ["jauh", "segera/langsung", "kira-kira", "sekitar"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch20_q09",
+      "chapterId": 20,
+      "order": 9,
+      "question": "Bagaimana cara mengatakan 'Lewati depan taman, lalu belok kanan'?",
+      "choices": [
+        "こうえんの まえを わたって、みぎに まがって ください。",
+        "こうえんの まえを とおって、みぎに まがって ください。",
+        "こうえんの まえを すぎて、みぎに まがって ください。",
+        "こうえんの まえを いって、みぎに まがって ください。"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch20_q10",
+      "chapterId": 20,
+      "order": 10,
+      "question": "Apa arti kata 'ひがし' (higashi)?",
+      "choices": ["utara", "selatan", "barat", "timur"],
+      "correctIndex": 3
+    },
+    {
+      "id": "ch20_q11",
+      "chapterId": 20,
+      "order": 11,
+      "question": "Apa arti kata 'かど' (kado)?",
+      "choices": ["jembatan", "persimpangan", "lampu lalu lintas", "sudut/pojok"],
+      "correctIndex": 3
+    },
+    {
+      "id": "ch20_q12",
+      "chapterId": 20,
+      "order": 12,
+      "question": "Bagaimana cara mengatakan 'Kira-kira 10 menit berjalan kaki'?",
+      "choices": [
+        "あるいて 10ぷんぐらい かかります。",
+        "あるいて 10ぷんぐらい あります。",
+        "あるいて 10ぷんぐらい です。",
+        "あるいて 10ぷんぐらい いきます。"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

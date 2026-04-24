@@ -1,0 +1,203 @@
+{
+  "chapter": {
+    "id": 12,
+    "title": "もう 一度 言って ください",
+    "titleRomaji": "Mou ichido itte kudasai",
+    "titleId": "Tolong katakan sekali lagi"
+  },
+  "vocabulary": [
+    { "id": "ch12_001", "chapterId": 12, "order": 1, "kanji": "着ます", "kana": "きます", "romaji": "kimasu", "wordClass": "verba-ru", "meaning": "memakai (pakaian)" },
+    { "id": "ch12_002", "chapterId": 12, "order": 2, "kanji": "脱ぎます", "kana": "ぬぎます", "romaji": "nugimasu", "wordClass": "verba-i", "meaning": "melepas (pakaian)" },
+    { "id": "ch12_003", "chapterId": 12, "order": 3, "kanji": "着ています", "kana": "きています", "romaji": "kite imasu", "wordClass": "verba-ru", "meaning": "sedang memakai (pakaian)" },
+    { "id": "ch12_004", "chapterId": 12, "order": 4, "kanji": "住んでいます", "kana": "すんでいます", "romaji": "sunde imasu", "wordClass": "verba-i", "meaning": "tinggal di" },
+    { "id": "ch12_005", "chapterId": 12, "order": 5, "kanji": "働いています", "kana": "はたらいています", "romaji": "hataraite imasu", "wordClass": "verba-i", "meaning": "sedang bekerja" },
+    { "id": "ch12_006", "chapterId": 12, "order": 6, "kanji": "結婚しています", "kana": "けっこんしています", "romaji": "kekkon shite imasu", "wordClass": "verba-ireguler", "meaning": "sudah menikah" },
+    { "id": "ch12_007", "chapterId": 12, "order": 7, "kanji": "知っています", "kana": "しっています", "romaji": "shitte imasu", "wordClass": "verba-i", "meaning": "tahu/mengetahui" },
+    { "id": "ch12_008", "chapterId": 12, "order": 8, "kanji": "知りません", "kana": "しりません", "romaji": "shirimasen", "wordClass": "verba-i", "meaning": "tidak tahu" },
+    { "id": "ch12_009", "chapterId": 12, "order": 9, "kanji": "持っています", "kana": "もっています", "romaji": "motte imasu", "wordClass": "verba-i", "meaning": "memiliki/membawa" },
+    { "id": "ch12_010", "chapterId": 12, "order": 10, "kanji": "", "kana": "シャツ", "romaji": "shatsu", "wordClass": "nomina", "meaning": "kemeja" },
+    { "id": "ch12_011", "chapterId": 12, "order": 11, "kanji": "", "kana": "スーツ", "romaji": "suutsu", "wordClass": "nomina", "meaning": "setelan jas" },
+    { "id": "ch12_012", "chapterId": 12, "order": 12, "kanji": "眼鏡", "kana": "めがね", "romaji": "megane", "wordClass": "nomina", "meaning": "kacamata" },
+    { "id": "ch12_013", "chapterId": 12, "order": 13, "kanji": "髪", "kana": "かみ", "romaji": "kami", "wordClass": "nomina", "meaning": "rambut" },
+    { "id": "ch12_014", "chapterId": 12, "order": 14, "kanji": "背", "kana": "せ", "romaji": "se", "wordClass": "nomina", "meaning": "tinggi badan" },
+    { "id": "ch12_015", "chapterId": 12, "order": 15, "kanji": "長い", "kana": "ながい", "romaji": "nagai", "wordClass": "adjektiva-i", "meaning": "panjang" },
+    { "id": "ch12_016", "chapterId": 12, "order": 16, "kanji": "短い", "kana": "みじかい", "romaji": "mijikai", "wordClass": "adjektiva-i", "meaning": "pendek (benda)" },
+    { "id": "ch12_017", "chapterId": 12, "order": 17, "kanji": "高い", "kana": "たかい", "romaji": "takai", "wordClass": "adjektiva-i", "meaning": "tinggi/mahal" },
+    { "id": "ch12_018", "chapterId": 12, "order": 18, "kanji": "低い", "kana": "ひくい", "romaji": "hikui", "wordClass": "adjektiva-i", "meaning": "rendah/pendek (badan)" },
+    { "id": "ch12_019", "chapterId": 12, "order": 19, "kanji": "太い", "kana": "ふとい", "romaji": "futoi", "wordClass": "adjektiva-i", "meaning": "gemuk/tebal" },
+    { "id": "ch12_020", "chapterId": 12, "order": 20, "kanji": "細い", "kana": "ほそい", "romaji": "hosoi", "wordClass": "adjektiva-i", "meaning": "kurus/tipis" }
+  ],
+  "patterns": [
+    {
+      "id": "ch12_p01",
+      "chapterId": 12,
+      "order": 1,
+      "pattern": "V ています",
+      "explanation": "Pola 〜ています memiliki dua fungsi utama: (1) menyatakan keadaan yang sedang berlangsung (progressive), seperti 'sedang makan'; (2) menyatakan hasil dari suatu tindakan yang masih berlanjut (resultant state), seperti 'sudah menikah' atau 'tinggal di'. Pilihan makna tergantung pada jenis verbanya.",
+      "examples": [
+        { "japanese": "いま ごはんを たべています。", "romaji": "Ima gohan o tabete imasu.", "indonesian": "Sekarang sedang makan." },
+        { "japanese": "やまださんは けっこんしています。", "romaji": "Yamada-san wa kekkon shite imasu.", "indonesian": "Tuan Yamada sudah menikah." },
+        { "japanese": "とうきょうに すんでいます。", "romaji": "Toukyou ni sunde imasu.", "indonesian": "Tinggal di Tokyo." }
+      ]
+    },
+    {
+      "id": "ch12_p02",
+      "chapterId": 12,
+      "order": 2,
+      "pattern": "N を V ています",
+      "explanation": "Pola ini digunakan untuk menyatakan bahwa seseorang sedang memakai atau membawa sesuatu. Partikel を menandai benda yang dipakai/dibawa. Sering digunakan untuk mendeskripsikan penampilan seseorang.",
+      "examples": [
+        { "japanese": "あおい シャツを きています。", "romaji": "Aoi shatsu o kite imasu.", "indonesian": "Sedang memakai kemeja biru." },
+        { "japanese": "めがねを かけています。", "romaji": "Megane o kakete imasu.", "indonesian": "Sedang memakai kacamata." },
+        { "japanese": "かばんを もっています。", "romaji": "Kaban o motte imasu.", "indonesian": "Sedang membawa tas." }
+      ]
+    },
+    {
+      "id": "ch12_p03",
+      "chapterId": 12,
+      "order": 3,
+      "pattern": "N に すんでいます",
+      "explanation": "Pola khusus untuk menyatakan tempat tinggal. すんでいます (sunde imasu) adalah bentuk 〜ています dari すみます (sumimasu — tinggal). Partikel に menandai lokasi tempat tinggal. Ini adalah contoh resultant state karena menggambarkan kondisi yang berlangsung terus.",
+      "examples": [
+        { "japanese": "おおさかに すんでいます。", "romaji": "Oosaka ni sunde imasu.", "indonesian": "Tinggal di Osaka." },
+        { "japanese": "どこに すんでいますか。", "romaji": "Doko ni sunde imasu ka.", "indonesian": "Tinggal di mana?" },
+        { "japanese": "とうきょうの ちかくに すんでいます。", "romaji": "Toukyou no chikaku ni sunde imasu.", "indonesian": "Tinggal di dekat Tokyo." }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "id": "ch12_g01",
+      "chapterId": 12,
+      "order": 1,
+      "title": "Bentuk 〜ています — Keadaan Sedang Berlangsung",
+      "explanation": "Ketika 〜ています digunakan dengan verba aksi (action verbs), maknanya adalah keadaan yang sedang berlangsung saat ini (progressive aspect). Ini setara dengan '-ing' dalam bahasa Inggris. Contoh verba aksi: たべます (makan), よみます (membaca), はたらきます (bekerja). Untuk menyatakan 'tidak sedang', gunakan 〜ていません.",
+      "examples": [
+        { "japanese": "いま ほんを よんでいます。", "romaji": "Ima hon o yonde imasu.", "indonesian": "Sekarang sedang membaca buku." },
+        { "japanese": "かいしゃで はたらいています。", "romaji": "Kaisha de hataraite imasu.", "indonesian": "Sedang bekerja di perusahaan." }
+      ]
+    },
+    {
+      "id": "ch12_g02",
+      "chapterId": 12,
+      "order": 2,
+      "title": "Bentuk 〜ています — Hasil Keadaan",
+      "explanation": "Ketika 〜ています digunakan dengan verba yang menyatakan perubahan keadaan (change-of-state verbs), maknanya adalah hasil dari tindakan tersebut yang masih berlanjut. Contoh: けっこんしています (sudah menikah = hasil dari menikah), きています (sedang memakai = hasil dari memakai), しっています (tahu = hasil dari mengetahui). Keadaan ini tidak menekankan proses, melainkan kondisi yang ada sekarang.",
+      "examples": [
+        { "japanese": "やまださんは けっこんしています。", "romaji": "Yamada-san wa kekkon shite imasu.", "indonesian": "Tuan Yamada sudah menikah." },
+        { "japanese": "スーツを きています。", "romaji": "Suutsu o kite imasu.", "indonesian": "Sedang memakai setelan jas." }
+      ]
+    },
+    {
+      "id": "ch12_g03",
+      "chapterId": 12,
+      "order": 3,
+      "title": "しっています vs しりません",
+      "explanation": "Verba しります (shiru — mengetahui) memiliki penggunaan khusus dalam bahasa Jepang. Untuk menyatakan 'tahu', gunakan bentuk 〜ています: しっています (shitte imasu). Namun untuk menyatakan 'tidak tahu', JANGAN gunakan しっていません — gunakan しりません (shirimasen) langsung. Ini adalah pengecualian penting yang harus diingat.",
+      "examples": [
+        { "japanese": "やまださんを しっていますか。", "romaji": "Yamada-san o shitte imasu ka.", "indonesian": "Apakah Anda mengenal Tuan Yamada?" },
+        { "japanese": "はい、しっています。／いいえ、しりません。", "romaji": "Hai, shitte imasu. / Iie, shirimasen.", "indonesian": "Ya, saya tahu. / Tidak, saya tidak tahu." }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "ch12_q01",
+      "chapterId": 12,
+      "order": 1,
+      "question": "Apa arti dari 'すんでいます' (sunde imasu)?",
+      "choices": ["sedang berjalan", "tinggal di", "sedang bekerja", "sudah menikah"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch12_q02",
+      "chapterId": 12,
+      "order": 2,
+      "question": "Bagaimana cara mengatakan 'tidak tahu' dalam bahasa Jepang?",
+      "choices": ["しっていません", "しりません", "しらないです", "しっていないです"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch12_q03",
+      "chapterId": 12,
+      "order": 3,
+      "question": "Pola 〜ています dengan verba 'けっこんします' berarti...",
+      "choices": ["sedang menikah (proses)", "sudah menikah (keadaan)", "akan menikah", "pernah menikah"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch12_q04",
+      "chapterId": 12,
+      "order": 4,
+      "question": "Apa arti kata 'めがね' (megane)?",
+      "choices": ["kemeja", "setelan jas", "kacamata", "rambut"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch12_q05",
+      "chapterId": 12,
+      "order": 5,
+      "question": "Bagaimana cara mengatakan 'Sedang memakai kemeja biru'?",
+      "choices": [
+        "あおい シャツを きています。",
+        "あおい シャツに きています。",
+        "あおい シャツが きています。",
+        "あおい シャツで きています。"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "ch12_q06",
+      "chapterId": 12,
+      "order": 6,
+      "question": "Apa arti kata 'ながい' (nagai)?",
+      "choices": ["pendek", "panjang", "tinggi", "rendah"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch12_q07",
+      "chapterId": 12,
+      "order": 7,
+      "question": "Partikel apa yang digunakan dalam pola 'N に すんでいます'?",
+      "choices": ["を", "が", "で", "に"],
+      "correctIndex": 3
+    },
+    {
+      "id": "ch12_q08",
+      "chapterId": 12,
+      "order": 8,
+      "question": "Apa arti kata 'ひくい' (hikui)?",
+      "choices": ["tinggi/mahal", "panjang", "rendah/pendek (badan)", "gemuk"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch12_q09",
+      "chapterId": 12,
+      "order": 9,
+      "question": "Bagaimana cara mengatakan 'Apakah Anda mengenal Tuan Yamada?'",
+      "choices": [
+        "やまださんを しりますか。",
+        "やまださんを しっていますか。",
+        "やまださんが しっていますか。",
+        "やまださんに しっていますか。"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch12_q10",
+      "chapterId": 12,
+      "order": 10,
+      "question": "Apa fungsi 〜ています ketika digunakan dengan verba aksi seperti 'たべます'?",
+      "choices": ["menyatakan pengalaman masa lalu", "menyatakan keadaan yang sedang berlangsung", "menyatakan kemampuan", "menyatakan rencana masa depan"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch12_q11",
+      "chapterId": 12,
+      "order": 11,
+      "question": "Apa arti kata 'かみ' (kami) dalam konteks penampilan?",
+      "choices": ["tinggi badan", "kacamata", "rambut", "kemeja"],
+      "correctIndex": 2
+    }
+  ]
+}

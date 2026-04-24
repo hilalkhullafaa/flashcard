@@ -1,0 +1,242 @@
+{
+  "chapter": {
+    "id": 23,
+    "title": "電気を 消して おきます",
+    "titleRomaji": "Denki o keshite okimasu",
+    "titleId": "Saya akan mematikan lampu"
+  },
+  "vocabulary": [
+    { "id": "ch23_001", "chapterId": 23, "order": 1, "kanji": "消します", "kana": "けします", "romaji": "keshimasu", "wordClass": "verba-i", "meaning": "mematikan/menghapus" },
+    { "id": "ch23_002", "chapterId": 23, "order": 2, "kanji": "付けます", "kana": "つけます", "romaji": "tsukemasu", "wordClass": "verba-ru", "meaning": "menyalakan/memasang" },
+    { "id": "ch23_003", "chapterId": 23, "order": 3, "kanji": "開けます", "kana": "あけます", "romaji": "akemasu", "wordClass": "verba-ru", "meaning": "membuka" },
+    { "id": "ch23_004", "chapterId": 23, "order": 4, "kanji": "閉めます", "kana": "しめます", "romaji": "shimemasu", "wordClass": "verba-ru", "meaning": "menutup" },
+    { "id": "ch23_005", "chapterId": 23, "order": 5, "kanji": "片付けます", "kana": "かたづけます", "romaji": "katazukemasu", "wordClass": "verba-ru", "meaning": "membereskan/merapikan" },
+    { "id": "ch23_006", "chapterId": 23, "order": 6, "kanji": "掃除します", "kana": "そうじします", "romaji": "souji shimasu", "wordClass": "verba-ireguler", "meaning": "membersihkan" },
+    { "id": "ch23_007", "chapterId": 23, "order": 7, "kanji": "洗濯します", "kana": "せんたくします", "romaji": "sentaku shimasu", "wordClass": "verba-ireguler", "meaning": "mencuci (pakaian)" },
+    { "id": "ch23_008", "chapterId": 23, "order": 8, "kanji": "料理します", "kana": "りょうりします", "romaji": "ryouri shimasu", "wordClass": "verba-ireguler", "meaning": "memasak" },
+    { "id": "ch23_009", "chapterId": 23, "order": 9, "kanji": "用意します", "kana": "よういします", "romaji": "youi shimasu", "wordClass": "verba-ireguler", "meaning": "mempersiapkan" },
+    { "id": "ch23_010", "chapterId": 23, "order": 10, "kanji": "会議", "kana": "かいぎ", "romaji": "kaigi", "wordClass": "nomina", "meaning": "rapat" },
+    { "id": "ch23_011", "chapterId": 23, "order": 11, "kanji": "予定", "kana": "よてい", "romaji": "yotei", "wordClass": "nomina", "meaning": "rencana/jadwal" },
+    { "id": "ch23_012", "chapterId": 23, "order": 12, "kanji": "準備", "kana": "じゅんび", "romaji": "junbi", "wordClass": "nomina", "meaning": "persiapan" },
+    { "id": "ch23_013", "chapterId": 23, "order": 13, "kanji": "電気", "kana": "でんき", "romaji": "denki", "wordClass": "nomina", "meaning": "listrik/lampu" },
+    { "id": "ch23_014", "chapterId": 23, "order": 14, "kanji": "", "kana": "〜ておきます", "romaji": "~te okimasu", "wordClass": "ekspresi", "meaning": "melakukan V sebagai persiapan" },
+    { "id": "ch23_015", "chapterId": 23, "order": 15, "kanji": "", "kana": "〜てしまいます", "romaji": "~te shimaimasu", "wordClass": "ekspresi", "meaning": "melakukan V sampai selesai/menyesal" },
+    { "id": "ch23_016", "chapterId": 23, "order": 16, "kanji": "", "kana": "〜てあります", "romaji": "~te arimasu", "wordClass": "ekspresi", "meaning": "sudah dilakukan (keadaan hasil)" },
+    { "id": "ch23_017", "chapterId": 23, "order": 17, "kanji": "", "kana": "まだ", "romaji": "mada", "wordClass": "adverbia", "meaning": "belum/masih" },
+    { "id": "ch23_018", "chapterId": 23, "order": 18, "kanji": "", "kana": "もう", "romaji": "mou", "wordClass": "adverbia", "meaning": "sudah" }
+  ],
+  "patterns": [
+    {
+      "id": "ch23_p01",
+      "chapterId": 23,
+      "order": 1,
+      "pattern": "V て おきます",
+      "explanation": "Pola untuk menyatakan tindakan yang dilakukan sebagai persiapan untuk sesuatu di masa depan, atau tindakan yang dibiarkan dalam keadaan tertentu. Dibentuk dari bentuk te verba + おきます. Menyiratkan bahwa tindakan dilakukan dengan tujuan tertentu untuk keperluan mendatang.",
+      "examples": [
+        { "japanese": "かいぎの まえに しりょうを よんで おきます。", "romaji": "Kaigi no mae ni shiryou o yonde okimasu.", "indonesian": "Saya akan membaca materi sebelum rapat." },
+        { "japanese": "でんきを けして おいて ください。", "romaji": "Denki o keshite oite kudasai.", "indonesian": "Tolong matikan lampunya (untuk nanti)." },
+        { "japanese": "パーティーの まえに りょうりを つくって おきました。", "romaji": "Paatii no mae ni ryouri o tsukutte okimashita.", "indonesian": "Saya sudah memasak sebelum pesta." }
+      ]
+    },
+    {
+      "id": "ch23_p02",
+      "chapterId": 23,
+      "order": 2,
+      "pattern": "V て しまいます",
+      "explanation": "Pola dengan dua makna utama: (1) Penyelesaian tuntas — melakukan V sampai selesai sepenuhnya, (2) Penyesalan — melakukan V secara tidak sengaja atau menyesal melakukannya. Konteks menentukan makna mana yang dimaksud. Dalam percakapan kasual sering disingkat menjadi 〜ちゃいます (untuk verba-ru) atau 〜じゃいます.",
+      "examples": [
+        { "japanese": "しゅくだいを ぜんぶ やって しまいました。", "romaji": "Shukudai o zenbu yatte shimaimashita.", "indonesian": "Saya sudah menyelesaikan semua PR." },
+        { "japanese": "さいふを わすれて しまいました。", "romaji": "Saifu o wasurete shimaimashita.", "indonesian": "Saya lupa membawa dompet (menyesal)." },
+        { "japanese": "ケーキを ぜんぶ たべて しまいました。", "romaji": "Keeki o zenbu tabete shimaimashita.", "indonesian": "Saya sudah menghabiskan semua kue." }
+      ]
+    },
+    {
+      "id": "ch23_p03",
+      "chapterId": 23,
+      "order": 3,
+      "pattern": "V て あります",
+      "explanation": "Pola untuk menyatakan keadaan yang merupakan hasil dari tindakan yang disengaja oleh seseorang. Berbeda dengan 〜ています (keadaan umum), 〜てあります menekankan bahwa keadaan tersebut adalah hasil dari tindakan yang dilakukan dengan tujuan tertentu. Biasanya digunakan dengan verba transitif.",
+      "examples": [
+        { "japanese": "まどが あけて あります。", "romaji": "Mado ga akete arimasu.", "indonesian": "Jendela sudah dibuka (dan dibiarkan terbuka)." },
+        { "japanese": "よていが かいて あります。", "romaji": "Yotei ga kaite arimasu.", "indonesian": "Jadwal sudah ditulis (dan ada di sana)." },
+        { "japanese": "テーブルに りょうりが ならべて あります。", "romaji": "Teebu ni ryouri ga narabete arimasu.", "indonesian": "Makanan sudah ditata di meja." }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "id": "ch23_g01",
+      "chapterId": 23,
+      "order": 1,
+      "title": "Persiapan: 〜ておきます",
+      "explanation": "〜ておきます digunakan untuk menyatakan tindakan yang dilakukan sebagai persiapan atau antisipasi untuk keperluan mendatang. Kata おく secara harfiah berarti 'meletakkan/membiarkan', sehingga 〜ておく berarti 'melakukan dan membiarkan dalam keadaan itu'. Sering digunakan dengan ekspresi waktu seperti まえに (sebelum) atau untuk menunjukkan persiapan.",
+      "examples": [
+        { "japanese": "りょこうの まえに ホテルを よやくして おきます。", "romaji": "Ryokou no mae ni hoteru o yoyaku shite okimasu.", "indonesian": "Saya akan memesan hotel sebelum perjalanan." },
+        { "japanese": "あしたの ために べんきょうして おきました。", "romaji": "Ashita no tame ni benkyou shite okimashita.", "indonesian": "Saya sudah belajar untuk persiapan besok." },
+        { "japanese": "かいぎしつを よやくして おいて ください。", "romaji": "Kaigishitsu o yoyaku shite oite kudasai.", "indonesian": "Tolong pesan ruang rapat terlebih dahulu." }
+      ]
+    },
+    {
+      "id": "ch23_g02",
+      "chapterId": 23,
+      "order": 2,
+      "title": "Penyelesaian/Penyesalan: 〜てしまいます",
+      "explanation": "〜てしまいます memiliki dua nuansa: (1) Penyelesaian tuntas dan menyeluruh — menekankan bahwa tindakan sudah selesai sepenuhnya. (2) Penyesalan atau ketidaksengajaan — menyatakan bahwa sesuatu terjadi di luar keinginan atau disesali. Nuansa ditentukan oleh konteks kalimat. Bentuk kasual: 〜ちゃう/〜じゃう.",
+      "examples": [
+        { "japanese": "レポートを かいて しまいました。", "romaji": "Repooto o kaite shimaimashita.", "indonesian": "Saya sudah selesai menulis laporan." },
+        { "japanese": "たいせつな ものを なくして しまいました。", "romaji": "Taisetsu na mono o nakushite shimaimashita.", "indonesian": "Saya kehilangan barang penting (menyesal)." },
+        { "japanese": "ねぼうして しまいました。", "romaji": "Nebou shite shimaimashita.", "indonesian": "Saya kesiangan (tidak sengaja/menyesal)." }
+      ]
+    },
+    {
+      "id": "ch23_g03",
+      "chapterId": 23,
+      "order": 3,
+      "title": "Keadaan Hasil yang Disengaja: 〜てあります",
+      "explanation": "〜てあります menyatakan keadaan yang merupakan hasil dari tindakan yang disengaja. Berbeda dengan 〜ています yang hanya menyatakan keadaan, 〜てあります menekankan bahwa ada seseorang yang sengaja melakukan tindakan tersebut. Biasanya digunakan dengan verba transitif (verba yang memiliki objek). Subjek kalimat adalah benda yang berada dalam keadaan tersebut.",
+      "examples": [
+        { "japanese": "えきの まえに くるまが とめて あります。", "romaji": "Eki no mae ni kuruma ga tomete arimasu.", "indonesian": "Mobil sudah diparkir di depan stasiun." },
+        { "japanese": "かべに えが かけて あります。", "romaji": "Kabe ni e ga kakete arimasu.", "indonesian": "Lukisan sudah digantung di dinding." },
+        { "japanese": "れいぞうこに たべものが いれて あります。", "romaji": "Reizouko ni tabemono ga irete arimasu.", "indonesian": "Makanan sudah dimasukkan ke kulkas." }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "ch23_q01",
+      "chapterId": 23,
+      "order": 1,
+      "question": "Apa arti 〜ておきます?",
+      "choices": [
+        "melakukan V sampai selesai",
+        "melakukan V sebagai persiapan untuk nanti",
+        "sudah dilakukan V (keadaan hasil)",
+        "menyesal melakukan V"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch23_q02",
+      "chapterId": 23,
+      "order": 2,
+      "question": "Bagaimana cara mengatakan 'Saya sudah menyelesaikan semua PR'?",
+      "choices": [
+        "しゅくだいを ぜんぶ やって おきました。",
+        "しゅくだいを ぜんぶ やって あります。",
+        "しゅくだいを ぜんぶ やって しまいました。",
+        "しゅくだいを ぜんぶ やって います。"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch23_q03",
+      "chapterId": 23,
+      "order": 3,
+      "question": "Apa perbedaan 〜てあります dan 〜ています?",
+      "choices": [
+        "〜てあります untuk masa lalu, 〜ています untuk masa kini",
+        "〜てあります menekankan keadaan hasil dari tindakan disengaja, 〜ています menyatakan keadaan umum",
+        "〜てあります untuk benda, 〜ています untuk orang",
+        "Tidak ada perbedaan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch23_q04",
+      "chapterId": 23,
+      "order": 4,
+      "question": "Apa arti kata 'かたづけます' (katazukemasu)?",
+      "choices": ["membersihkan", "mencuci", "membereskan/merapikan", "mempersiapkan"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch23_q05",
+      "chapterId": 23,
+      "order": 5,
+      "question": "Kalimat mana yang benar untuk 'Saya akan memesan hotel sebelum perjalanan'?",
+      "choices": [
+        "りょこうの まえに ホテルを よやくして しまいます。",
+        "りょこうの まえに ホテルを よやくして あります。",
+        "りょこうの まえに ホテルを よやくして おきます。",
+        "りょこうの まえに ホテルを よやくして います。"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch23_q06",
+      "chapterId": 23,
+      "order": 6,
+      "question": "Apa arti kata 'よてい' (yotei)?",
+      "choices": ["persiapan", "rapat", "rencana/jadwal", "keputusan"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch23_q07",
+      "chapterId": 23,
+      "order": 7,
+      "question": "Kalimat mana yang menggunakan 〜てあります dengan benar?",
+      "choices": [
+        "まどが あけて います。(jendela sedang terbuka - keadaan umum)",
+        "まどが あけて あります。(jendela sudah dibuka - hasil tindakan disengaja)",
+        "まどが あけて おきます。(akan membuka jendela sebagai persiapan)",
+        "まどが あけて しまいます。(membuka jendela sampai selesai)"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch23_q08",
+      "chapterId": 23,
+      "order": 8,
+      "question": "Apa nuansa 〜てしまいました dalam kalimat 'さいふを わすれて しまいました'?",
+      "choices": [
+        "penyelesaian tuntas",
+        "persiapan",
+        "penyesalan/ketidaksengajaan",
+        "keadaan hasil"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch23_q09",
+      "chapterId": 23,
+      "order": 9,
+      "question": "Apa arti kata 'じゅんび' (junbi)?",
+      "choices": ["rapat", "jadwal", "persiapan", "keputusan"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch23_q10",
+      "chapterId": 23,
+      "order": 10,
+      "question": "Bagaimana cara mengatakan 'Makanan sudah ditata di meja'?",
+      "choices": [
+        "テーブルに りょうりが ならべて います。",
+        "テーブルに りょうりが ならべて おきます。",
+        "テーブルに りょうりが ならべて あります。",
+        "テーブルに りょうりが ならべて しまいます。"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch23_q11",
+      "chapterId": 23,
+      "order": 11,
+      "question": "Apa arti kata 'つけます' (tsukemasu) dalam konteks elektronik?",
+      "choices": ["mematikan", "menyalakan/memasang", "membuka", "menutup"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch23_q12",
+      "chapterId": 23,
+      "order": 12,
+      "question": "Kalimat mana yang benar untuk 'Tolong matikan lampunya (untuk nanti)'?",
+      "choices": [
+        "でんきを けして しまって ください。",
+        "でんきを けして あって ください。",
+        "でんきを けして おいて ください。",
+        "でんきを けして います。"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

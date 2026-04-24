@@ -1,0 +1,237 @@
+{
+  "chapter": {
+    "id": 22,
+    "title": "日本語が 上手に なりましたね",
+    "titleRomaji": "Nihongo ga jouzu ni narimashita ne",
+    "titleId": "Bahasa Jepang Anda sudah bagus ya"
+  },
+  "vocabulary": [
+    { "id": "ch22_001", "chapterId": 22, "order": 1, "kanji": "成ります", "kana": "なります", "romaji": "narimasu", "wordClass": "verba-i", "meaning": "menjadi" },
+    { "id": "ch22_002", "chapterId": 22, "order": 2, "kanji": "します", "kana": "します", "romaji": "shimasu", "wordClass": "verba-ireguler", "meaning": "membuat/menjadikan" },
+    { "id": "ch22_003", "chapterId": 22, "order": 3, "kanji": "大人", "kana": "おとな", "romaji": "otona", "wordClass": "nomina", "meaning": "orang dewasa" },
+    { "id": "ch22_004", "chapterId": 22, "order": 4, "kanji": "子供", "kana": "こども", "romaji": "kodomo", "wordClass": "nomina", "meaning": "anak-anak" },
+    { "id": "ch22_005", "chapterId": 22, "order": 5, "kanji": "若者", "kana": "わかもの", "romaji": "wakamono", "wordClass": "nomina", "meaning": "anak muda" },
+    { "id": "ch22_006", "chapterId": 22, "order": 6, "kanji": "年寄り", "kana": "としより", "romaji": "toshiyori", "wordClass": "nomina", "meaning": "orang tua/lansia" },
+    { "id": "ch22_007", "chapterId": 22, "order": 7, "kanji": "健康", "kana": "けんこう", "romaji": "kenkou", "wordClass": "adjektiva-na", "meaning": "sehat/kesehatan" },
+    { "id": "ch22_008", "chapterId": 22, "order": 8, "kanji": "病気", "kana": "びょうき", "romaji": "byouki", "wordClass": "nomina", "meaning": "sakit/penyakit" },
+    { "id": "ch22_009", "chapterId": 22, "order": 9, "kanji": "元気", "kana": "げんき", "romaji": "genki", "wordClass": "adjektiva-na", "meaning": "sehat/bersemangat" },
+    { "id": "ch22_010", "chapterId": 22, "order": 10, "kanji": "幸せ", "kana": "しあわせ", "romaji": "shiawase", "wordClass": "adjektiva-na", "meaning": "bahagia" },
+    { "id": "ch22_011", "chapterId": 22, "order": 11, "kanji": "不幸せ", "kana": "ふしあわせ", "romaji": "fushiawase", "wordClass": "adjektiva-na", "meaning": "tidak bahagia" },
+    { "id": "ch22_012", "chapterId": 22, "order": 12, "kanji": "豊か", "kana": "ゆたか", "romaji": "yutaka", "wordClass": "adjektiva-na", "meaning": "makmur/kaya" },
+    { "id": "ch22_013", "chapterId": 22, "order": 13, "kanji": "勉強家", "kana": "べんきょうか", "romaji": "benkyouka", "wordClass": "nomina", "meaning": "rajin belajar" },
+    { "id": "ch22_014", "chapterId": 22, "order": 14, "kanji": "", "kana": "〜ように なります", "romaji": "~you ni narimasu", "wordClass": "ekspresi", "meaning": "menjadi bisa ~" },
+    { "id": "ch22_015", "chapterId": 22, "order": 15, "kanji": "", "kana": "〜ように します", "romaji": "~you ni shimasu", "wordClass": "ekspresi", "meaning": "berusaha untuk ~" },
+    { "id": "ch22_016", "chapterId": 22, "order": 16, "kanji": "", "kana": "だんだん", "romaji": "dandan", "wordClass": "adverbia", "meaning": "semakin lama semakin" },
+    { "id": "ch22_017", "chapterId": 22, "order": 17, "kanji": "", "kana": "すっかり", "romaji": "sukkari", "wordClass": "adverbia", "meaning": "sepenuhnya/sama sekali" },
+    { "id": "ch22_018", "chapterId": 22, "order": 18, "kanji": "", "kana": "ずいぶん", "romaji": "zuibun", "wordClass": "adverbia", "meaning": "cukup banyak/sangat" }
+  ],
+  "patterns": [
+    {
+      "id": "ch22_p01",
+      "chapterId": 22,
+      "order": 1,
+      "pattern": "N / adj に なります",
+      "explanation": "Pola untuk menyatakan perubahan keadaan menjadi sesuatu. Untuk nomina dan adjektiva-na: N/adj-na に なります. Untuk adjektiva-i: adj-i (ganti い dengan く) + なります. Menyatakan perubahan alami atau hasil dari suatu proses.",
+      "examples": [
+        { "japanese": "にほんごが じょうずに なりました。", "romaji": "Nihongo ga jouzu ni narimashita.", "indonesian": "Bahasa Jepang saya sudah bagus." },
+        { "japanese": "そとが くらく なりました。", "romaji": "Soto ga kuraku narimashita.", "indonesian": "Di luar menjadi gelap." },
+        { "japanese": "かれは いしゃに なりました。", "romaji": "Kare wa isha ni narimashita.", "indonesian": "Dia menjadi dokter." }
+      ]
+    },
+    {
+      "id": "ch22_p02",
+      "chapterId": 22,
+      "order": 2,
+      "pattern": "N / adj に します",
+      "explanation": "Pola untuk menyatakan tindakan membuat sesuatu menjadi keadaan tertentu. Berbeda dengan なります (perubahan alami), します menyatakan tindakan yang disengaja oleh subjek. Untuk nomina dan adjektiva-na: N/adj-na に します. Untuk adjektiva-i: adj-i (ganti い dengan く) + します.",
+      "examples": [
+        { "japanese": "へやを きれいに しました。", "romaji": "Heya o kirei ni shimashita.", "indonesian": "Saya membuat kamar menjadi bersih." },
+        { "japanese": "おとを おおきく して ください。", "romaji": "Oto o ookiku shite kudasai.", "indonesian": "Tolong perkeras suaranya." },
+        { "japanese": "コーヒーを あまく しました。", "romaji": "Koohii o amaku shimashita.", "indonesian": "Saya membuat kopi menjadi manis." }
+      ]
+    },
+    {
+      "id": "ch22_p03",
+      "chapterId": 22,
+      "order": 3,
+      "pattern": "V ように なります",
+      "explanation": "Pola untuk menyatakan perubahan kemampuan atau kebiasaan yang berkembang secara bertahap. Digunakan dengan bentuk kamus verba (positif) atau bentuk nai verba (negatif). Menyatakan bahwa seseorang 'menjadi bisa' atau 'mulai' melakukan sesuatu yang sebelumnya tidak bisa atau tidak dilakukan.",
+      "examples": [
+        { "japanese": "にほんごが はなせるように なりました。", "romaji": "Nihongo ga hanaseru you ni narimashita.", "indonesian": "Saya menjadi bisa berbicara bahasa Jepang." },
+        { "japanese": "まいにち うんどうするように なりました。", "romaji": "Mainichi undou suru you ni narimashita.", "indonesian": "Saya mulai berolahraga setiap hari." },
+        { "japanese": "からいものが たべられるように なりました。", "romaji": "Karai mono ga taberareru you ni narimashita.", "indonesian": "Saya menjadi bisa makan makanan pedas." }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "id": "ch22_g01",
+      "chapterId": 22,
+      "order": 1,
+      "title": "Perubahan Keadaan: 〜になります",
+      "explanation": "〜になります menyatakan perubahan keadaan yang terjadi secara alami atau sebagai hasil dari suatu proses. Untuk adjektiva-na dan nomina: 〜に なります. Untuk adjektiva-i: ubah akhiran い menjadi く, lalu tambahkan なります (contoh: さむい → さむく なります). Sering digunakan dengan kata keterangan seperti だんだん (semakin), すっかり (sepenuhnya), ずいぶん (sangat).",
+      "examples": [
+        { "japanese": "だんだん あたたかく なりました。", "romaji": "Dandan atatakaku narimashita.", "indonesian": "Semakin lama semakin hangat." },
+        { "japanese": "すっかり げんきに なりました。", "romaji": "Sukkari genki ni narimashita.", "indonesian": "Sudah sepenuhnya sehat." },
+        { "japanese": "ずいぶん じょうずに なりましたね。", "romaji": "Zuibun jouzu ni narimashita ne.", "indonesian": "Sudah sangat bagus ya." }
+      ]
+    },
+    {
+      "id": "ch22_g02",
+      "chapterId": 22,
+      "order": 2,
+      "title": "Membuat Sesuatu Menjadi: 〜にします",
+      "explanation": "〜にします menyatakan tindakan yang disengaja untuk membuat sesuatu menjadi keadaan tertentu. Berbeda dengan なります (perubahan alami tanpa pelaku), します selalu melibatkan pelaku yang melakukan tindakan. Pola ini sering digunakan dalam konteks memesan makanan/minuman: コーヒーに します (saya pilih kopi).",
+      "examples": [
+        { "japanese": "ランチは サンドイッチに します。", "romaji": "Ranchi wa sandoicchi ni shimasu.", "indonesian": "Untuk makan siang, saya pilih sandwich." },
+        { "japanese": "テレビの おとを ちいさく して ください。", "romaji": "Terebi no oto o chiisaku shite kudasai.", "indonesian": "Tolong kecilkan suara TV." },
+        { "japanese": "へやを あかるく しました。", "romaji": "Heya o akaruku shimashita.", "indonesian": "Saya membuat kamar menjadi terang." }
+      ]
+    },
+    {
+      "id": "ch22_g03",
+      "chapterId": 22,
+      "order": 3,
+      "title": "Kemampuan yang Berkembang: 〜ようになります",
+      "explanation": "〜ようになります menyatakan perubahan kemampuan atau kebiasaan yang berkembang secara bertahap. Digunakan dengan: (1) bentuk kamus verba + ようになります = menjadi bisa/mulai melakukan, (2) bentuk nai verba + ようになります = menjadi tidak/berhenti melakukan. Berbeda dengan 〜できるようになります yang lebih spesifik untuk kemampuan.",
+      "examples": [
+        { "japanese": "はやく おきられるように なりました。", "romaji": "Hayaku okirareru you ni narimashita.", "indonesian": "Saya menjadi bisa bangun pagi." },
+        { "japanese": "さかなが たべられるように なりました。", "romaji": "Sakana ga taberareru you ni narimashita.", "indonesian": "Saya menjadi bisa makan ikan." },
+        { "japanese": "たばこを すわないように なりました。", "romaji": "Tabako o suwanai you ni narimashita.", "indonesian": "Saya menjadi tidak merokok lagi." }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "ch22_q01",
+      "chapterId": 22,
+      "order": 1,
+      "question": "Bagaimana cara mengatakan 'Bahasa Jepang saya sudah bagus'?",
+      "choices": [
+        "にほんごが じょうずに しました。",
+        "にほんごが じょうずに なりました。",
+        "にほんごが じょうずく なりました。",
+        "にほんごが じょうずを なりました。"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch22_q02",
+      "chapterId": 22,
+      "order": 2,
+      "question": "Bagaimana cara mengubah adjektiva-i 'さむい' (dingin) dalam pola 〜になります?",
+      "choices": [
+        "さむいに なります",
+        "さむくに なります",
+        "さむく なります",
+        "さむな なります"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch22_q03",
+      "chapterId": 22,
+      "order": 3,
+      "question": "Apa perbedaan utama antara 〜になります dan 〜にします?",
+      "choices": [
+        "〜になります untuk orang, 〜にします untuk benda",
+        "〜になります perubahan alami, 〜にします tindakan disengaja",
+        "〜になります masa lalu, 〜にします masa depan",
+        "Tidak ada perbedaan, keduanya sama"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch22_q04",
+      "chapterId": 22,
+      "order": 4,
+      "question": "Apa arti kata 'だんだん' (dandan)?",
+      "choices": ["sepenuhnya", "cukup banyak", "semakin lama semakin", "tiba-tiba"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch22_q05",
+      "chapterId": 22,
+      "order": 5,
+      "question": "Kalimat mana yang benar untuk 'Saya menjadi bisa berbicara bahasa Jepang'?",
+      "choices": [
+        "にほんごが はなせるように しました。",
+        "にほんごが はなせるように なりました。",
+        "にほんごが はなすように なりました。",
+        "にほんごが はなせるように なります。"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch22_q06",
+      "chapterId": 22,
+      "order": 6,
+      "question": "Apa arti kata 'としより' (toshiyori)?",
+      "choices": ["anak muda", "anak-anak", "orang dewasa", "orang tua/lansia"],
+      "correctIndex": 3
+    },
+    {
+      "id": "ch22_q07",
+      "chapterId": 22,
+      "order": 7,
+      "question": "Bagaimana cara mengatakan 'Tolong perkeras suaranya'?",
+      "choices": [
+        "おとを おおきく なって ください。",
+        "おとを おおきく して ください。",
+        "おとを おおきいに して ください。",
+        "おとを おおきさに して ください。"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch22_q08",
+      "chapterId": 22,
+      "order": 8,
+      "question": "Apa arti kata 'すっかり' (sukkari)?",
+      "choices": ["semakin lama semakin", "cukup banyak", "sepenuhnya/sama sekali", "tiba-tiba"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch22_q09",
+      "chapterId": 22,
+      "order": 9,
+      "question": "Kalimat mana yang benar untuk 'Saya pilih kopi untuk makan siang'?",
+      "choices": [
+        "ランチは コーヒーに なります。",
+        "ランチは コーヒーが します。",
+        "ランチは コーヒーに します。",
+        "ランチは コーヒーを します。"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch22_q10",
+      "chapterId": 22,
+      "order": 10,
+      "question": "Apa arti kata 'しあわせ' (shiawase)?",
+      "choices": ["sehat", "makmur", "bahagia", "bersemangat"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch22_q11",
+      "chapterId": 22,
+      "order": 11,
+      "question": "Bagaimana cara mengatakan 'Saya mulai berolahraga setiap hari'?",
+      "choices": [
+        "まいにち うんどうするように しました。",
+        "まいにち うんどうするように なりました。",
+        "まいにち うんどうするように できました。",
+        "まいにち うんどうするように います。"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch22_q12",
+      "chapterId": 22,
+      "order": 12,
+      "question": "Apa arti kata 'ゆたか' (yutaka)?",
+      "choices": ["bahagia", "sehat", "makmur/kaya", "rajin belajar"],
+      "correctIndex": 2
+    }
+  ]
+}

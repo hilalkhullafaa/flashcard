@@ -1,0 +1,225 @@
+{
+  "chapter": {
+    "id": 16,
+    "title": "雪祭りを 見に 行きます",
+    "titleRomaji": "Yukimatsuri o mi ni ikimasu",
+    "titleId": "Saya pergi untuk melihat festival salju"
+  },
+  "vocabulary": [
+    { "id": "ch16_001", "chapterId": 16, "order": 1, "kanji": "見ます", "kana": "みます", "romaji": "mimasu", "wordClass": "verba-ru", "meaning": "melihat/menonton" },
+    { "id": "ch16_002", "chapterId": 16, "order": 2, "kanji": "買います", "kana": "かいます", "romaji": "kaimasu", "wordClass": "verba-i", "meaning": "membeli" },
+    { "id": "ch16_003", "chapterId": 16, "order": 3, "kanji": "会います", "kana": "あいます", "romaji": "aimasu", "wordClass": "verba-i", "meaning": "bertemu" },
+    { "id": "ch16_004", "chapterId": 16, "order": 4, "kanji": "遊びます", "kana": "あそびます", "romaji": "asobimasu", "wordClass": "verba-i", "meaning": "bermain" },
+    { "id": "ch16_005", "chapterId": 16, "order": 5, "kanji": "雪祭り", "kana": "ゆきまつり", "romaji": "yukimatsuri", "wordClass": "nomina", "meaning": "festival salju" },
+    { "id": "ch16_006", "chapterId": 16, "order": 6, "kanji": "花見", "kana": "はなみ", "romaji": "hanami", "wordClass": "nomina", "meaning": "hanami (melihat bunga sakura)" },
+    { "id": "ch16_007", "chapterId": 16, "order": 7, "kanji": "買い物", "kana": "かいもの", "romaji": "kaimono", "wordClass": "nomina", "meaning": "belanja" },
+    { "id": "ch16_008", "chapterId": 16, "order": 8, "kanji": "食事", "kana": "しょくじ", "romaji": "shokuji", "wordClass": "nomina", "meaning": "makan (formal)" },
+    { "id": "ch16_009", "chapterId": 16, "order": 9, "kanji": "散歩", "kana": "さんぽ", "romaji": "sanpo", "wordClass": "nomina", "meaning": "jalan-jalan" },
+    { "id": "ch16_010", "chapterId": 16, "order": 10, "kanji": "旅行", "kana": "りょこう", "romaji": "ryokou", "wordClass": "nomina", "meaning": "perjalanan/wisata" },
+    { "id": "ch16_011", "chapterId": 16, "order": 11, "kanji": "楽しい", "kana": "たのしい", "romaji": "tanoshii", "wordClass": "adjektiva-i", "meaning": "menyenangkan" },
+    { "id": "ch16_012", "chapterId": 16, "order": 12, "kanji": "面白い", "kana": "おもしろい", "romaji": "omoshiroi", "wordClass": "adjektiva-i", "meaning": "menarik/lucu" },
+    { "id": "ch16_013", "chapterId": 16, "order": 13, "kanji": "", "kana": "つまらない", "romaji": "tsumaranai", "wordClass": "adjektiva-i", "meaning": "membosankan" },
+    { "id": "ch16_014", "chapterId": 16, "order": 14, "kanji": "難しい", "kana": "むずかしい", "romaji": "muzukashii", "wordClass": "adjektiva-i", "meaning": "sulit" },
+    { "id": "ch16_015", "chapterId": 16, "order": 15, "kanji": "易しい", "kana": "やさしい", "romaji": "yasashii", "wordClass": "adjektiva-i", "meaning": "mudah" },
+    { "id": "ch16_016", "chapterId": 16, "order": 16, "kanji": "美味しい", "kana": "おいしい", "romaji": "oishii", "wordClass": "adjektiva-i", "meaning": "enak/lezat" },
+    { "id": "ch16_017", "chapterId": 16, "order": 17, "kanji": "", "kana": "まずい", "romaji": "mazui", "wordClass": "adjektiva-i", "meaning": "tidak enak" },
+    { "id": "ch16_018", "chapterId": 16, "order": 18, "kanji": "新しい", "kana": "あたらしい", "romaji": "atarashii", "wordClass": "adjektiva-i", "meaning": "baru" },
+    { "id": "ch16_019", "chapterId": 16, "order": 19, "kanji": "古い", "kana": "ふるい", "romaji": "furui", "wordClass": "adjektiva-i", "meaning": "lama/tua" },
+    { "id": "ch16_020", "chapterId": 16, "order": 20, "kanji": "大きい", "kana": "おおきい", "romaji": "ookii", "wordClass": "adjektiva-i", "meaning": "besar" },
+    { "id": "ch16_021", "chapterId": 16, "order": 21, "kanji": "小さい", "kana": "ちいさい", "romaji": "chiisai", "wordClass": "adjektiva-i", "meaning": "kecil" }
+  ],
+  "patterns": [
+    {
+      "id": "ch16_p01",
+      "chapterId": 16,
+      "order": 1,
+      "pattern": "V に いきます／きます／かえります",
+      "explanation": "Pola untuk menyatakan tujuan pergi, datang, atau pulang. Gunakan bentuk kamus verba (dictionary form) lalu ambil bagian sebelum ます, tambahkan に, lalu ikuti dengan いきます/きます/かえります. Contoh: みます → み に いきます (pergi untuk melihat).",
+      "examples": [
+        { "japanese": "ゆきまつりを み に いきます。", "romaji": "Yukimatsuri o mi ni ikimasu.", "indonesian": "Saya pergi untuk melihat festival salju." },
+        { "japanese": "ともだちに あい に きました。", "romaji": "Tomodachi ni ai ni kimashita.", "indonesian": "Saya datang untuk bertemu teman." },
+        { "japanese": "かいものを し に いきます。", "romaji": "Kaimono o shi ni ikimasu.", "indonesian": "Saya pergi untuk berbelanja." }
+      ]
+    },
+    {
+      "id": "ch16_p02",
+      "chapterId": 16,
+      "order": 2,
+      "pattern": "い-adjektiva + です",
+      "explanation": "Adjektiva-i digunakan langsung sebagai predikat dengan menambahkan です di akhir. Bentuk ini menyatakan sifat atau keadaan suatu benda/orang. Adjektiva-i selalu berakhiran い dalam bentuk kamus.",
+      "examples": [
+        { "japanese": "このりょうりは おいしいです。", "romaji": "Kono ryouri wa oishii desu.", "indonesian": "Masakan ini enak." },
+        { "japanese": "にほんごは むずかしいです。", "romaji": "Nihongo wa muzukashii desu.", "indonesian": "Bahasa Jepang itu sulit." },
+        { "japanese": "ゆきまつりは たのしいです。", "romaji": "Yukimatsuri wa tanoshii desu.", "indonesian": "Festival salju itu menyenangkan." }
+      ]
+    },
+    {
+      "id": "ch16_p03",
+      "chapterId": 16,
+      "order": 3,
+      "pattern": "い-adjektiva + N",
+      "explanation": "Adjektiva-i dapat memodifikasi nomina secara langsung dengan menempatkannya sebelum nomina. Tidak perlu partikel tambahan. Contoh: おいしい + りょうり = おいしいりょうり (masakan yang enak).",
+      "examples": [
+        { "japanese": "おいしい りょうりを たべました。", "romaji": "Oishii ryouri o tabemashita.", "indonesian": "Saya makan masakan yang enak." },
+        { "japanese": "あたらしい ほんを かいました。", "romaji": "Atarashii hon o kaimashita.", "indonesian": "Saya membeli buku baru." },
+        { "japanese": "おおきい こうえんで さんぽしました。", "romaji": "Ookii kouen de sanpo shimashita.", "indonesian": "Saya jalan-jalan di taman yang besar." }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "id": "ch16_g01",
+      "chapterId": 16,
+      "order": 1,
+      "title": "Tujuan Pergi: 〜に いきます",
+      "explanation": "Untuk menyatakan tujuan pergi/datang/pulang, gunakan bentuk masu-stem verba (bagian sebelum ます) + に + いきます/きます/かえります. Contoh: みます → み に いきます. Untuk verba suru (します), gunakan nomina tindakan + に: かいもの に いきます (pergi belanja). Partikel に di sini menandai tujuan/maksud, bukan lokasi.",
+      "examples": [
+        { "japanese": "はなみを し に こうえんへ いきます。", "romaji": "Hanami o shi ni kouen e ikimasu.", "indonesian": "Saya pergi ke taman untuk hanami." },
+        { "japanese": "しょくじを し に レストランへ いきました。", "romaji": "Shokuji o shi ni resutoran e ikimashita.", "indonesian": "Saya pergi ke restoran untuk makan." },
+        { "japanese": "ともだちに あい に えきへ きました。", "romaji": "Tomodachi ni ai ni eki e kimashita.", "indonesian": "Saya datang ke stasiun untuk bertemu teman." }
+      ]
+    },
+    {
+      "id": "ch16_g02",
+      "chapterId": 16,
+      "order": 2,
+      "title": "Adjektiva-i: Bentuk dan Penggunaan",
+      "explanation": "Adjektiva-i (い形容詞) adalah adjektiva yang selalu berakhiran い dalam bentuk kamus. Adjektiva-i dapat digunakan sebagai predikat (N は adj-i です) atau sebagai modifier sebelum nomina (adj-i + N). Berbeda dengan adjektiva-na, adjektiva-i tidak memerlukan な saat memodifikasi nomina.",
+      "examples": [
+        { "japanese": "このえいがは おもしろいです。", "romaji": "Kono eiga wa omoshiroi desu.", "indonesian": "Film ini menarik. (predikat)" },
+        { "japanese": "おもしろい えいがを みました。", "romaji": "Omoshiroi eiga o mimashita.", "indonesian": "Saya menonton film yang menarik. (modifier)" },
+        { "japanese": "ちいさい ねこが います。", "romaji": "Chiisai neko ga imasu.", "indonesian": "Ada kucing kecil." }
+      ]
+    },
+    {
+      "id": "ch16_g03",
+      "chapterId": 16,
+      "order": 3,
+      "title": "Adjektiva-i Negatif: 〜くない",
+      "explanation": "Untuk membentuk negatif adjektiva-i, ganti い di akhir dengan くない. Contoh: おいしい → おいしくない (tidak enak), たのしい → たのしくない (tidak menyenangkan). Dalam bentuk sopan, tambahkan です: おいしくないです. Pengecualian: いい (bagus) → よくない (tidak bagus).",
+      "examples": [
+        { "japanese": "このりょうりは おいしくないです。", "romaji": "Kono ryouri wa oishikunai desu.", "indonesian": "Masakan ini tidak enak." },
+        { "japanese": "きょうは さむくないです。", "romaji": "Kyou wa samukunai desu.", "indonesian": "Hari ini tidak dingin." },
+        { "japanese": "このしごとは むずかしくないです。", "romaji": "Kono shigoto wa muzukashikunai desu.", "indonesian": "Pekerjaan ini tidak sulit." }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "ch16_q01",
+      "chapterId": 16,
+      "order": 1,
+      "question": "Bagaimana cara mengatakan 'Saya pergi untuk melihat festival salju'?",
+      "choices": [
+        "ゆきまつりを みて いきます。",
+        "ゆきまつりを み に いきます。",
+        "ゆきまつりを みる に いきます。",
+        "ゆきまつりを みます に いきます。"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch16_q02",
+      "chapterId": 16,
+      "order": 2,
+      "question": "Apa arti dari 'はなみ' (hanami)?",
+      "choices": ["festival salju", "jalan-jalan", "hanami (melihat bunga sakura)", "belanja"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch16_q03",
+      "chapterId": 16,
+      "order": 3,
+      "question": "Bagaimana bentuk negatif dari adjektiva-i 'おいしい'?",
+      "choices": ["おいしくない", "おいしじゃない", "おいしでない", "おいしいない"],
+      "correctIndex": 0
+    },
+    {
+      "id": "ch16_q04",
+      "chapterId": 16,
+      "order": 4,
+      "question": "Kalimat mana yang benar untuk menyatakan 'Saya datang untuk bertemu teman'?",
+      "choices": [
+        "ともだちに あいます に きました。",
+        "ともだちに あって きました。",
+        "ともだちに あい に きました。",
+        "ともだちに あう に きました。"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch16_q05",
+      "chapterId": 16,
+      "order": 5,
+      "question": "Apa arti kata 'むずかしい' (muzukashii)?",
+      "choices": ["mudah", "menyenangkan", "membosankan", "sulit"],
+      "correctIndex": 3
+    },
+    {
+      "id": "ch16_q06",
+      "chapterId": 16,
+      "order": 6,
+      "question": "Bagaimana cara mengatakan 'buku baru' menggunakan adjektiva-i?",
+      "choices": ["ほんな あたらしい", "あたらしい ほん", "あたらしな ほん", "ほんは あたらしい"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch16_q07",
+      "chapterId": 16,
+      "order": 7,
+      "question": "Apa arti kata 'さんぽ' (sanpo)?",
+      "choices": ["perjalanan/wisata", "makan (formal)", "jalan-jalan", "belanja"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch16_q08",
+      "chapterId": 16,
+      "order": 8,
+      "question": "Bagaimana bentuk negatif dari adjektiva-i 'いい' (bagus)?",
+      "choices": ["いくない", "いいくない", "よくない", "いじゃない"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch16_q09",
+      "chapterId": 16,
+      "order": 9,
+      "question": "Kalimat mana yang benar untuk 'Saya pergi berbelanja'?",
+      "choices": [
+        "かいものを して いきます。",
+        "かいものを かい に いきます。",
+        "かいものを し に いきます。",
+        "かいものを する に いきます。"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch16_q10",
+      "chapterId": 16,
+      "order": 10,
+      "question": "Apa arti kata 'たのしい' (tanoshii)?",
+      "choices": ["sulit", "membosankan", "menyenangkan", "menarik"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch16_q11",
+      "chapterId": 16,
+      "order": 11,
+      "question": "Kalimat mana yang benar untuk 'Film ini menarik'?",
+      "choices": [
+        "このえいがは おもしろいな です。",
+        "このえいがは おもしろい です。",
+        "このえいがは おもしろくです。",
+        "このえいがは おもしろです。"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch16_q12",
+      "chapterId": 16,
+      "order": 12,
+      "question": "Apa arti kata 'ふるい' (furui)?",
+      "choices": ["baru", "besar", "kecil", "lama/tua"],
+      "correctIndex": 3
+    }
+  ]
+}

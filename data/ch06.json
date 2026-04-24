@@ -1,0 +1,216 @@
+{
+  "chapter": {
+    "id": 6,
+    "title": "毎朝 6時に 起きます",
+    "titleRomaji": "Maiasa rokuji ni okimasu",
+    "titleId": "Saya bangun jam 6 setiap pagi"
+  },
+  "vocabulary": [
+    { "id": "ch06_001", "chapterId": 6, "order": 1, "kanji": "食べます", "kana": "たべます", "romaji": "tabemasu", "wordClass": "verba-ru", "meaning": "makan" },
+    { "id": "ch06_002", "chapterId": 6, "order": 2, "kanji": "飲みます", "kana": "のみます", "romaji": "nomimasu", "wordClass": "verba-i", "meaning": "minum" },
+    { "id": "ch06_003", "chapterId": 6, "order": 3, "kanji": "吸います", "kana": "すいます", "romaji": "suimasu", "wordClass": "verba-i", "meaning": "menghisap (rokok)" },
+    { "id": "ch06_004", "chapterId": 6, "order": 4, "kanji": "見ます", "kana": "みます", "romaji": "mimasu", "wordClass": "verba-ru", "meaning": "melihat/menonton" },
+    { "id": "ch06_005", "chapterId": 6, "order": 5, "kanji": "聞きます", "kana": "ききます", "romaji": "kikimasu", "wordClass": "verba-i", "meaning": "mendengar/mendengarkan" },
+    { "id": "ch06_006", "chapterId": 6, "order": 6, "kanji": "読みます", "kana": "よみます", "romaji": "yomimasu", "wordClass": "verba-i", "meaning": "membaca" },
+    { "id": "ch06_007", "chapterId": 6, "order": 7, "kanji": "書きます", "kana": "かきます", "romaji": "kakimasu", "wordClass": "verba-i", "meaning": "menulis" },
+    { "id": "ch06_008", "chapterId": 6, "order": 8, "kanji": "買います", "kana": "かいます", "romaji": "kaimasu", "wordClass": "verba-i", "meaning": "membeli" },
+    { "id": "ch06_009", "chapterId": 6, "order": 9, "kanji": "撮ります", "kana": "とります", "romaji": "torimasu", "wordClass": "verba-i", "meaning": "mengambil/mengambil foto" },
+    { "id": "ch06_010", "chapterId": 6, "order": 10, "kanji": "", "kana": "します", "romaji": "shimasu", "wordClass": "verba-ireguler", "meaning": "melakukan" },
+    { "id": "ch06_011", "chapterId": 6, "order": 11, "kanji": "会います", "kana": "あいます", "romaji": "aimasu", "wordClass": "verba-i", "meaning": "bertemu" },
+    { "id": "ch06_012", "chapterId": 6, "order": 12, "kanji": "ご飯", "kana": "ごはん", "romaji": "gohan", "wordClass": "nomina", "meaning": "nasi/makanan" },
+    { "id": "ch06_013", "chapterId": 6, "order": 13, "kanji": "朝ご飯", "kana": "あさごはん", "romaji": "asagohan", "wordClass": "nomina", "meaning": "sarapan" },
+    { "id": "ch06_014", "chapterId": 6, "order": 14, "kanji": "昼ご飯", "kana": "ひるごはん", "romaji": "hirugohan", "wordClass": "nomina", "meaning": "makan siang" },
+    { "id": "ch06_015", "chapterId": 6, "order": 15, "kanji": "晩ご飯", "kana": "ばんごはん", "romaji": "bangohan", "wordClass": "nomina", "meaning": "makan malam" },
+    { "id": "ch06_016", "chapterId": 6, "order": 16, "kanji": "", "kana": "パン", "romaji": "pan", "wordClass": "nomina", "meaning": "roti" },
+    { "id": "ch06_017", "chapterId": 6, "order": 17, "kanji": "卵", "kana": "たまご", "romaji": "tamago", "wordClass": "nomina", "meaning": "telur" },
+    { "id": "ch06_018", "chapterId": 6, "order": 18, "kanji": "肉", "kana": "にく", "romaji": "niku", "wordClass": "nomina", "meaning": "daging" },
+    { "id": "ch06_019", "chapterId": 6, "order": 19, "kanji": "魚", "kana": "さかな", "romaji": "sakana", "wordClass": "nomina", "meaning": "ikan" },
+    { "id": "ch06_020", "chapterId": 6, "order": 20, "kanji": "野菜", "kana": "やさい", "romaji": "yasai", "wordClass": "nomina", "meaning": "sayuran" },
+    { "id": "ch06_021", "chapterId": 6, "order": 21, "kanji": "果物", "kana": "くだもの", "romaji": "kudamono", "wordClass": "nomina", "meaning": "buah-buahan" },
+    { "id": "ch06_022", "chapterId": 6, "order": 22, "kanji": "水", "kana": "みず", "romaji": "mizu", "wordClass": "nomina", "meaning": "air" },
+    { "id": "ch06_023", "chapterId": 6, "order": 23, "kanji": "お茶", "kana": "おちゃ", "romaji": "ocha", "wordClass": "nomina", "meaning": "teh" },
+    { "id": "ch06_024", "chapterId": 6, "order": 24, "kanji": "", "kana": "ジュース", "romaji": "juusu", "wordClass": "nomina", "meaning": "jus" },
+    { "id": "ch06_025", "chapterId": 6, "order": 25, "kanji": "", "kana": "ビール", "romaji": "biiru", "wordClass": "nomina", "meaning": "bir" },
+    { "id": "ch06_026", "chapterId": 6, "order": 26, "kanji": "お酒", "kana": "おさけ", "romaji": "osake", "wordClass": "nomina", "meaning": "minuman beralkohol/sake" },
+    { "id": "ch06_027", "chapterId": 6, "order": 27, "kanji": "", "kana": "ミルク", "romaji": "miruku", "wordClass": "nomina", "meaning": "susu" },
+    { "id": "ch06_028", "chapterId": 6, "order": 28, "kanji": "", "kana": "を", "romaji": "wo", "wordClass": "partikel", "meaning": "menandai objek langsung" },
+    { "id": "ch06_029", "chapterId": 6, "order": 29, "kanji": "", "kana": "で", "romaji": "de", "wordClass": "partikel", "meaning": "di (tempat kegiatan)" },
+    { "id": "ch06_030", "chapterId": 6, "order": 30, "kanji": "一人で", "kana": "ひとりで", "romaji": "hitori de", "wordClass": "ekspresi", "meaning": "sendirian" },
+    { "id": "ch06_031", "chapterId": 6, "order": 31, "kanji": "一緒に", "kana": "いっしょに", "romaji": "issho ni", "wordClass": "ekspresi", "meaning": "bersama-sama" },
+    { "id": "ch06_032", "chapterId": 6, "order": 32, "kanji": "", "kana": "もう", "romaji": "mou", "wordClass": "adverbia", "meaning": "sudah/lagi" },
+    { "id": "ch06_033", "chapterId": 6, "order": 33, "kanji": "", "kana": "まだ", "romaji": "mada", "wordClass": "adverbia", "meaning": "belum/masih" }
+  ],
+  "grammar": [
+    {
+      "id": "ch06_g01",
+      "chapterId": 6,
+      "order": 1,
+      "title": "Partikel を (wo) — Penanda Objek Langsung",
+      "explanation": "Partikel を (dibaca 'o') digunakan untuk menandai objek langsung dari verba transitif — yaitu benda atau orang yang dikenai tindakan. Partikel ini selalu diletakkan setelah nomina dan sebelum verba.",
+      "examples": [
+        { "japanese": "わたしは まいあさ パンを たべます。", "romaji": "Watashi wa maiasa pan o tabemasu.", "indonesian": "Saya makan roti setiap pagi." },
+        { "japanese": "コーヒーを のみます。", "romaji": "Koohii o nomimasu.", "indonesian": "Saya minum kopi." }
+      ]
+    },
+    {
+      "id": "ch06_g02",
+      "chapterId": 6,
+      "order": 2,
+      "title": "Partikel で — Tempat Kegiatan",
+      "explanation": "Partikel で menandai tempat di mana suatu kegiatan atau aktivitas dilakukan. Berbeda dengan partikel に yang menandai tempat keberadaan (ada di mana), で menandai lokasi berlangsungnya suatu tindakan.",
+      "examples": [
+        { "japanese": "うちで テレビを みます。", "romaji": "Uchi de terebi o mimasu.", "indonesian": "Saya menonton TV di rumah." },
+        { "japanese": "としょかんで ほんを よみます。", "romaji": "Toshokan de hon o yomimasu.", "indonesian": "Saya membaca buku di perpustakaan." }
+      ]
+    },
+    {
+      "id": "ch06_g03",
+      "chapterId": 6,
+      "order": 3,
+      "title": "Pola もう〜ました / まだ〜ていません",
+      "explanation": "Pola ini digunakan untuk menanyakan dan menjawab apakah suatu tindakan sudah dilakukan atau belum. もう (mou) berarti 'sudah', digunakan dalam pertanyaan もう〜ましたか dan jawaban positif はい、もう〜ました. Untuk jawaban negatif 'belum', digunakan まだ〜ていません.",
+      "examples": [
+        { "japanese": "もう ばんごはんを たべましたか。 — はい、もう たべました。", "romaji": "Mou bangohan o tabemashita ka. — Hai, mou tabemashita.", "indonesian": "Sudahkah makan malam? — Ya, sudah makan." },
+        { "japanese": "もう しゅくだいを しましたか。 — いいえ、まだ していません。", "romaji": "Mou shukudai o shimashita ka. — Iie, mada shite imasen.", "indonesian": "Sudahkah mengerjakan PR? — Belum, belum dikerjakan." }
+      ]
+    }
+  ],
+  "patterns": [
+    {
+      "id": "ch06_p01",
+      "chapterId": 6,
+      "order": 1,
+      "pattern": "N を V",
+      "explanation": "Partikel を (wo/o) menandai objek langsung dari suatu tindakan. Digunakan sebelum verba transitif untuk menunjukkan apa yang dikenai tindakan.",
+      "examples": [
+        { "japanese": "わたしは まいあさ パンを たべます。", "romaji": "Watashi wa maiasa pan o tabemasu.", "indonesian": "Saya makan roti setiap pagi." },
+        { "japanese": "コーヒーを のみます。", "romaji": "Koohii o nomimasu.", "indonesian": "Saya minum kopi." }
+      ]
+    },
+    {
+      "id": "ch06_p02",
+      "chapterId": 6,
+      "order": 2,
+      "pattern": "N で V",
+      "explanation": "Partikel で (de) menandai tempat di mana suatu kegiatan dilakukan. Berbeda dengan に yang menandai keberadaan, で menandai lokasi aktivitas.",
+      "examples": [
+        { "japanese": "うちで テレビを みます。", "romaji": "Uchi de terebi o mimasu.", "indonesian": "Saya menonton TV di rumah." },
+        { "japanese": "としょかんで ほんを よみます。", "romaji": "Toshokan de hon o yomimasu.", "indonesian": "Saya membaca buku di perpustakaan." }
+      ]
+    },
+    {
+      "id": "ch06_p03",
+      "chapterId": 6,
+      "order": 3,
+      "pattern": "もう V ましたか",
+      "explanation": "Pola pertanyaan untuk menanyakan apakah suatu tindakan sudah dilakukan. もう (mou) berarti 'sudah'. Jawaban positif: はい、もう V ました. Jawaban negatif: いいえ、まだです.",
+      "examples": [
+        { "japanese": "もう ばんごはんを たべましたか。", "romaji": "Mou bangohan o tabemashita ka.", "indonesian": "Sudahkah makan malam?" },
+        { "japanese": "もう しゅくだいを しましたか。", "romaji": "Mou shukudai o shimashita ka.", "indonesian": "Sudahkah mengerjakan PR?" }
+      ]
+    },
+    {
+      "id": "ch06_p04",
+      "chapterId": 6,
+      "order": 4,
+      "pattern": "まだ V ていません",
+      "explanation": "Pola untuk menyatakan bahwa suatu tindakan belum dilakukan. まだ (mada) berarti 'belum/masih'. Digunakan sebagai jawaban negatif untuk pertanyaan もう～ましたか.",
+      "examples": [
+        { "japanese": "まだ たべていません。", "romaji": "Mada tabete imasen.", "indonesian": "Belum makan." },
+        { "japanese": "まだ しゅくだいを していません。", "romaji": "Mada shukudai o shite imasen.", "indonesian": "Belum mengerjakan PR." }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "ch06_q01",
+      "chapterId": 6,
+      "order": 1,
+      "question": "Apa arti kata 'たべます' (tabemasu)?",
+      "choices": ["minum", "makan", "membeli", "memasak"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch06_q02",
+      "chapterId": 6,
+      "order": 2,
+      "question": "Partikel apa yang digunakan untuk menandai objek langsung dari suatu tindakan?",
+      "choices": ["に", "で", "を", "が"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch06_q03",
+      "chapterId": 6,
+      "order": 3,
+      "question": "Apa arti kata 'おちゃ' (ocha)?",
+      "choices": ["kopi", "jus", "teh", "susu"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch06_q04",
+      "chapterId": 6,
+      "order": 4,
+      "question": "Bagaimana cara mengatakan 'makan siang' dalam bahasa Jepang?",
+      "choices": ["あさごはん", "ばんごはん", "ひるごはん", "ごはん"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch06_q05",
+      "chapterId": 6,
+      "order": 5,
+      "question": "Partikel apa yang digunakan untuk menandai tempat kegiatan dilakukan?",
+      "choices": ["を", "に", "が", "で"],
+      "correctIndex": 3
+    },
+    {
+      "id": "ch06_q06",
+      "chapterId": 6,
+      "order": 6,
+      "question": "Apa arti kata 'もう' (mou) dalam konteks 'もう たべましたか'?",
+      "choices": ["belum", "sudah", "masih", "lagi"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch06_q07",
+      "chapterId": 6,
+      "order": 7,
+      "question": "Bagaimana cara mengatakan 'Saya menonton TV di rumah'?",
+      "choices": [
+        "うちに テレビを みます。",
+        "うちで テレビを みます。",
+        "うちを テレビで みます。",
+        "うちが テレビを みます。"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch06_q08",
+      "chapterId": 6,
+      "order": 8,
+      "question": "Apa arti kata 'やさい' (yasai)?",
+      "choices": ["buah-buahan", "daging", "ikan", "sayuran"],
+      "correctIndex": 3
+    },
+    {
+      "id": "ch06_q09",
+      "chapterId": 6,
+      "order": 9,
+      "question": "Bagaimana jawaban yang benar untuk 'もう ばんごはんを たべましたか' jika belum makan?",
+      "choices": [
+        "はい、たべます。",
+        "いいえ、たべません。",
+        "まだ たべていません。",
+        "もう たべました。"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch06_q10",
+      "chapterId": 6,
+      "order": 10,
+      "question": "Apa arti ungkapan 'ひとりで' (hitori de)?",
+      "choices": ["bersama-sama", "sendirian", "bersama teman", "dengan keluarga"],
+      "correctIndex": 1
+    }
+  ]
+}

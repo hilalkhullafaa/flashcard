@@ -1,0 +1,231 @@
+{
+  "chapter": {
+    "id": 25,
+    "title": "日本語が 話せるように なりたいです",
+    "titleRomaji": "Nihongo ga hanaseru you ni naritai desu",
+    "titleId": "Saya ingin bisa berbicara bahasa Jepang"
+  },
+  "vocabulary": [
+    { "id": "ch25_001", "chapterId": 25, "order": 1, "kanji": "話せます", "kana": "はなせます", "romaji": "hanasemasu", "wordClass": "verba-ru", "meaning": "bisa berbicara (bentuk potensial)" },
+    { "id": "ch25_002", "chapterId": 25, "order": 2, "kanji": "読めます", "kana": "よめます", "romaji": "yomemasu", "wordClass": "verba-ru", "meaning": "bisa membaca (bentuk potensial)" },
+    { "id": "ch25_003", "chapterId": 25, "order": 3, "kanji": "書けます", "kana": "かけます", "romaji": "kakemasu", "wordClass": "verba-ru", "meaning": "bisa menulis (bentuk potensial)" },
+    { "id": "ch25_004", "chapterId": 25, "order": 4, "kanji": "聞けます", "kana": "きけます", "romaji": "kikemasu", "wordClass": "verba-ru", "meaning": "bisa mendengar (bentuk potensial)" },
+    { "id": "ch25_005", "chapterId": 25, "order": 5, "kanji": "見られます", "kana": "みられます", "romaji": "miraremas", "wordClass": "verba-ru", "meaning": "bisa melihat (bentuk potensial)" },
+    { "id": "ch25_006", "chapterId": 25, "order": 6, "kanji": "食べられます", "kana": "たべられます", "romaji": "taberaremasu", "wordClass": "verba-ru", "meaning": "bisa makan (bentuk potensial)" },
+    { "id": "ch25_007", "chapterId": 25, "order": 7, "kanji": "", "kana": "〜ように なりたいです", "romaji": "~you ni naritai desu", "wordClass": "ekspresi", "meaning": "ingin menjadi bisa ~" },
+    { "id": "ch25_008", "chapterId": 25, "order": 8, "kanji": "", "kana": "〜ために", "romaji": "~tame ni", "wordClass": "ekspresi", "meaning": "untuk tujuan ~" },
+    { "id": "ch25_009", "chapterId": 25, "order": 9, "kanji": "", "kana": "〜のに", "romaji": "~no ni", "wordClass": "konjungsi", "meaning": "meskipun ~ (kontras)" },
+    { "id": "ch25_010", "chapterId": 25, "order": 10, "kanji": "", "kana": "〜し、〜し", "romaji": "~shi, ~shi", "wordClass": "ekspresi", "meaning": "dan juga ~ (alasan berganda)" },
+    { "id": "ch25_011", "chapterId": 25, "order": 11, "kanji": "", "kana": "〜でしょう", "romaji": "~deshou", "wordClass": "ekspresi", "meaning": "mungkin/sepertinya (perkiraan)" },
+    { "id": "ch25_012", "chapterId": 25, "order": 12, "kanji": "", "kana": "〜かもしれません", "romaji": "~kamoshiremasen", "wordClass": "ekspresi", "meaning": "mungkin saja" },
+    { "id": "ch25_013", "chapterId": 25, "order": 13, "kanji": "", "kana": "〜はずです", "romaji": "~hazu desu", "wordClass": "ekspresi", "meaning": "seharusnya/pasti" },
+    { "id": "ch25_014", "chapterId": 25, "order": 14, "kanji": "夢", "kana": "ゆめ", "romaji": "yume", "wordClass": "nomina", "meaning": "mimpi/cita-cita" },
+    { "id": "ch25_015", "chapterId": 25, "order": 15, "kanji": "目標", "kana": "もくひょう", "romaji": "mokuhyou", "wordClass": "nomina", "meaning": "tujuan/target" },
+    { "id": "ch25_016", "chapterId": 25, "order": 16, "kanji": "努力", "kana": "どりょく", "romaji": "doryoku", "wordClass": "nomina", "meaning": "usaha/kerja keras" },
+    { "id": "ch25_017", "chapterId": 25, "order": 17, "kanji": "頑張ります", "kana": "がんばります", "romaji": "ganbarimasu", "wordClass": "verba-i", "meaning": "berusaha keras/semangat" }
+  ],
+  "patterns": [
+    {
+      "id": "ch25_p01",
+      "chapterId": 25,
+      "order": 1,
+      "pattern": "V ように なりたいです",
+      "explanation": "Pola untuk menyatakan keinginan untuk menjadi bisa melakukan sesuatu atau keinginan untuk mulai melakukan sesuatu. Gabungan dari 〜ようになります (menjadi bisa) + たいです (ingin). Digunakan untuk mengungkapkan aspirasi atau cita-cita jangka panjang.",
+      "examples": [
+        { "japanese": "にほんごが はなせるように なりたいです。", "romaji": "Nihongo ga hanaseru you ni naritai desu.", "indonesian": "Saya ingin bisa berbicara bahasa Jepang." },
+        { "japanese": "まいにち うんどうするように なりたいです。", "romaji": "Mainichi undou suru you ni naritai desu.", "indonesian": "Saya ingin mulai berolahraga setiap hari." },
+        { "japanese": "はやく おきられるように なりたいです。", "romaji": "Hayaku okirareru you ni naritai desu.", "indonesian": "Saya ingin bisa bangun pagi." }
+      ]
+    },
+    {
+      "id": "ch25_p02",
+      "chapterId": 25,
+      "order": 2,
+      "pattern": "V ために",
+      "explanation": "Pola untuk menyatakan tujuan dari suatu tindakan. Digunakan dengan bentuk kamus verba (untuk tujuan positif) atau bentuk nai verba (untuk menghindari sesuatu). Berbeda dengan 〜ように yang menyatakan perubahan bertahap, 〜ために menyatakan tujuan yang lebih spesifik dan langsung.",
+      "examples": [
+        { "japanese": "にほんごを べんきょうするために、にほんに きました。", "romaji": "Nihongo o benkyou suru tame ni, nihon ni kimashita.", "indonesian": "Saya datang ke Jepang untuk belajar bahasa Jepang." },
+        { "japanese": "けんこうの ために、まいにち やさいを たべます。", "romaji": "Kenkou no tame ni, mainichi yasai o tabemasu.", "indonesian": "Demi kesehatan, saya makan sayuran setiap hari." },
+        { "japanese": "しけんに うかるために、いっしょうけんめい べんきょうします。", "romaji": "Shiken ni ukaru tame ni, isshoukenmei benkyou shimasu.", "indonesian": "Saya belajar sungguh-sungguh untuk lulus ujian." }
+      ]
+    },
+    {
+      "id": "ch25_p03",
+      "chapterId": 25,
+      "order": 3,
+      "pattern": "〜かもしれません",
+      "explanation": "Pola untuk menyatakan kemungkinan yang tidak pasti — 'mungkin saja'. Digunakan ketika pembicara tidak yakin sepenuhnya. Lebih tidak pasti dari 〜でしょう. Dapat digunakan dengan bentuk kamus verba, adjektiva, atau nomina + かもしれません.",
+      "examples": [
+        { "japanese": "あしたは あめが ふるかもしれません。", "romaji": "Ashita wa ame ga furu kamoshiremasen.", "indonesian": "Besok mungkin saja hujan." },
+        { "japanese": "かれは もう かえったかもしれません。", "romaji": "Kare wa mou kaetta kamoshiremasen.", "indonesian": "Dia mungkin saja sudah pulang." },
+        { "japanese": "この みちは まちがいかもしれません。", "romaji": "Kono michi wa machigai kamoshiremasen.", "indonesian": "Jalan ini mungkin saja salah." }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "id": "ch25_g01",
+      "chapterId": 25,
+      "order": 1,
+      "title": "Tujuan dan Cita-cita: 〜ようになりたいです",
+      "explanation": "〜ようになりたいです menggabungkan 〜ようになる (menjadi bisa/mulai melakukan) dengan たい (ingin). Digunakan untuk mengungkapkan aspirasi jangka panjang atau cita-cita. Sering digunakan dalam konteks belajar bahasa, mengembangkan kebiasaan baru, atau mencapai kemampuan tertentu. Berbeda dengan 〜したいです yang menyatakan keinginan melakukan tindakan langsung.",
+      "examples": [
+        { "japanese": "かんじが よめるように なりたいです。", "romaji": "Kanji ga yomeru you ni naritai desu.", "indonesian": "Saya ingin bisa membaca kanji." },
+        { "japanese": "りょうりが じょうずに できるように なりたいです。", "romaji": "Ryouri ga jouzu ni dekiru you ni naritai desu.", "indonesian": "Saya ingin bisa memasak dengan baik." },
+        { "japanese": "ゆめは いしゃに なることです。", "romaji": "Yume wa isha ni naru koto desu.", "indonesian": "Cita-cita saya adalah menjadi dokter." }
+      ]
+    },
+    {
+      "id": "ch25_g02",
+      "chapterId": 25,
+      "order": 2,
+      "title": "Tujuan Tindakan: 〜ために",
+      "explanation": "〜ために menyatakan tujuan dari suatu tindakan. Ada dua penggunaan: (1) Verba bentuk kamus + ために = untuk melakukan V. (2) Nomina + の + ために = demi/untuk N. Berbeda dengan 〜ように yang digunakan dengan verba potensial atau verba yang menyatakan perubahan bertahap, 〜ために digunakan dengan tindakan yang lebih konkret dan langsung.",
+      "examples": [
+        { "japanese": "にほんごを おぼえるために、まいにち れんしゅうします。", "romaji": "Nihongo o oboeru tame ni, mainichi renshuu shimasu.", "indonesian": "Saya berlatih setiap hari untuk menghafal bahasa Jepang." },
+        { "japanese": "かぞくの ために、はたらきます。", "romaji": "Kazoku no tame ni, hatarakimasu.", "indonesian": "Saya bekerja demi keluarga." },
+        { "japanese": "たいじゅうを へらすために、うんどうを はじめました。", "romaji": "Taijuu o herasu tame ni, undou o hajimemashita.", "indonesian": "Saya mulai berolahraga untuk menurunkan berat badan." }
+      ]
+    },
+    {
+      "id": "ch25_g03",
+      "chapterId": 25,
+      "order": 3,
+      "title": "Ungkapan Kemungkinan: 〜かもしれません vs 〜でしょう",
+      "explanation": "Dua ungkapan kemungkinan dengan tingkat kepastian berbeda: (1) 〜でしょう — perkiraan dengan keyakinan lebih tinggi (sekitar 70-80%), sering digunakan dalam ramalan cuaca dan pernyataan umum. (2) 〜かもしれません — kemungkinan yang lebih tidak pasti (sekitar 50%), menyatakan 'mungkin saja'. Keduanya dapat digunakan dengan verba, adjektiva, dan nomina.",
+      "examples": [
+        { "japanese": "あしたは はれるでしょう。", "romaji": "Ashita wa hareru deshou.", "indonesian": "Besok sepertinya cerah." },
+        { "japanese": "あしたは はれるかもしれません。", "romaji": "Ashita wa hareru kamoshiremasen.", "indonesian": "Besok mungkin saja cerah." },
+        { "japanese": "かれは もう しっているはずです。", "romaji": "Kare wa mou shitte iru hazu desu.", "indonesian": "Dia seharusnya sudah tahu." }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "ch25_q01",
+      "chapterId": 25,
+      "order": 1,
+      "question": "Bagaimana cara mengatakan 'Saya ingin bisa berbicara bahasa Jepang'?",
+      "choices": [
+        "にほんごが はなせるように したいです。",
+        "にほんごが はなせるように なりたいです。",
+        "にほんごが はなすように なりたいです。",
+        "にほんごが はなせるように なります。"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch25_q02",
+      "chapterId": 25,
+      "order": 2,
+      "question": "Apa perbedaan antara 〜かもしれません dan 〜でしょう?",
+      "choices": [
+        "〜かもしれません lebih pasti dari 〜でしょう",
+        "〜でしょう lebih pasti dari 〜かもしれません",
+        "Keduanya memiliki tingkat kepastian yang sama",
+        "〜でしょう hanya untuk cuaca, 〜かもしれません untuk semua situasi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch25_q03",
+      "chapterId": 25,
+      "order": 3,
+      "question": "Kalimat mana yang benar untuk 'Saya datang ke Jepang untuk belajar bahasa Jepang'?",
+      "choices": [
+        "にほんごを べんきょうするように、にほんに きました。",
+        "にほんごを べんきょうするために、にほんに きました。",
+        "にほんごを べんきょうするので、にほんに きました。",
+        "にほんごを べんきょうするから、にほんに きました。"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch25_q04",
+      "chapterId": 25,
+      "order": 4,
+      "question": "Apa arti kata 'もくひょう' (mokuhyou)?",
+      "choices": ["mimpi/cita-cita", "usaha/kerja keras", "tujuan/target", "semangat"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch25_q05",
+      "chapterId": 25,
+      "order": 5,
+      "question": "Apa arti 〜はずです?",
+      "choices": ["mungkin saja", "sepertinya", "seharusnya/pasti", "ingin"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch25_q06",
+      "chapterId": 25,
+      "order": 6,
+      "question": "Bagaimana bentuk potensial dari verba 'かく' (menulis)?",
+      "choices": ["かかれます", "かけます", "かきます", "かかります"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch25_q07",
+      "chapterId": 25,
+      "order": 7,
+      "question": "Apa arti kata 'どりょく' (doryoku)?",
+      "choices": ["tujuan/target", "mimpi/cita-cita", "usaha/kerja keras", "semangat"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch25_q08",
+      "chapterId": 25,
+      "order": 8,
+      "question": "Kalimat mana yang menggunakan 〜かもしれません dengan benar?",
+      "choices": [
+        "あしたは あめが ふるでしょう。(sepertinya hujan besok)",
+        "あしたは あめが ふるかもしれません。(mungkin saja hujan besok)",
+        "あしたは あめが ふるはずです。(seharusnya hujan besok)",
+        "あしたは あめが ふりたいです。(ingin hujan besok)"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch25_q09",
+      "chapterId": 25,
+      "order": 9,
+      "question": "Apa perbedaan penggunaan 〜ために dan 〜ように?",
+      "choices": [
+        "〜ために untuk tujuan konkret/langsung, 〜ように untuk perubahan bertahap/kemampuan",
+        "〜ために untuk masa lalu, 〜ように untuk masa depan",
+        "〜ために untuk orang, 〜ように untuk benda",
+        "Tidak ada perbedaan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "ch25_q10",
+      "chapterId": 25,
+      "order": 10,
+      "question": "Apa arti kata 'がんばります' (ganbarimasu)?",
+      "choices": ["beristirahat", "berusaha keras/semangat", "menyerah", "menunggu"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch25_q11",
+      "chapterId": 25,
+      "order": 11,
+      "question": "Bagaimana cara mengatakan 'Saya bekerja demi keluarga'?",
+      "choices": [
+        "かぞくの ために、はたらきます。",
+        "かぞくの ように、はたらきます。",
+        "かぞくの ために、はたらきたいです。",
+        "かぞくの ために、はたらいて います。"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "ch25_q12",
+      "chapterId": 25,
+      "order": 12,
+      "question": "Apa arti kata 'ゆめ' (yume) dalam konteks cita-cita?",
+      "choices": ["tujuan/target", "usaha", "mimpi/cita-cita", "rencana"],
+      "correctIndex": 2
+    }
+  ]
+}

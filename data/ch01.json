@@ -1,0 +1,210 @@
+{
+  "chapter": {
+    "id": 1,
+    "title": "わたしは マイク・ミラーです",
+    "titleRomaji": "Watashi wa Maiku Miraa desu",
+    "titleId": "Saya adalah Mike Miller"
+  },
+  "vocabulary": [
+    { "id": "ch01_001", "chapterId": 1, "order": 1, "kanji": "私", "kana": "わたし", "romaji": "watashi", "wordClass": "nomina", "meaning": "saya" },
+    { "id": "ch01_002", "chapterId": 1, "order": 2, "kanji": "", "kana": "あなた", "romaji": "anata", "wordClass": "nomina", "meaning": "Anda/kamu" },
+    { "id": "ch01_003", "chapterId": 1, "order": 3, "kanji": "あの人", "kana": "あのひと", "romaji": "ano hito", "wordClass": "nomina", "meaning": "orang itu" },
+    { "id": "ch01_004", "chapterId": 1, "order": 4, "kanji": "", "kana": "みなさん", "romaji": "minasan", "wordClass": "nomina", "meaning": "semua orang" },
+    { "id": "ch01_005", "chapterId": 1, "order": 5, "kanji": "", "kana": "〜さん", "romaji": "~san", "wordClass": "sufiks", "meaning": "sebutan hormat" },
+    { "id": "ch01_006", "chapterId": 1, "order": 6, "kanji": "", "kana": "〜ちゃん", "romaji": "~chan", "wordClass": "sufiks", "meaning": "sebutan akrab" },
+    { "id": "ch01_007", "chapterId": 1, "order": 7, "kanji": "", "kana": "〜くん", "romaji": "~kun", "wordClass": "sufiks", "meaning": "sebutan untuk laki-laki muda" },
+    { "id": "ch01_008", "chapterId": 1, "order": 8, "kanji": "〜人", "kana": "〜じん", "romaji": "~jin", "wordClass": "sufiks", "meaning": "orang berkebangsaan ~" },
+    { "id": "ch01_009", "chapterId": 1, "order": 9, "kanji": "先生", "kana": "せんせい", "romaji": "sensei", "wordClass": "nomina", "meaning": "guru/dokter" },
+    { "id": "ch01_010", "chapterId": 1, "order": 10, "kanji": "教師", "kana": "きょうし", "romaji": "kyoushi", "wordClass": "nomina", "meaning": "pengajar" },
+    { "id": "ch01_011", "chapterId": 1, "order": 11, "kanji": "学生", "kana": "がくせい", "romaji": "gakusei", "wordClass": "nomina", "meaning": "pelajar/mahasiswa" },
+    { "id": "ch01_012", "chapterId": 1, "order": 12, "kanji": "会社員", "kana": "かいしゃいん", "romaji": "kaishain", "wordClass": "nomina", "meaning": "karyawan perusahaan" },
+    { "id": "ch01_013", "chapterId": 1, "order": 13, "kanji": "社員", "kana": "しゃいん", "romaji": "shain", "wordClass": "nomina", "meaning": "karyawan" },
+    { "id": "ch01_014", "chapterId": 1, "order": 14, "kanji": "銀行員", "kana": "ぎんこういん", "romaji": "ginkouin", "wordClass": "nomina", "meaning": "pegawai bank" },
+    { "id": "ch01_015", "chapterId": 1, "order": 15, "kanji": "医者", "kana": "いしゃ", "romaji": "isha", "wordClass": "nomina", "meaning": "dokter" },
+    { "id": "ch01_016", "chapterId": 1, "order": 16, "kanji": "研究者", "kana": "けんきゅうしゃ", "romaji": "kenkyuusha", "wordClass": "nomina", "meaning": "peneliti" },
+    { "id": "ch01_017", "chapterId": 1, "order": 17, "kanji": "", "kana": "エンジニア", "romaji": "enjinia", "wordClass": "nomina", "meaning": "insinyur/teknisi" },
+    { "id": "ch01_018", "chapterId": 1, "order": 18, "kanji": "大学", "kana": "だいがく", "romaji": "daigaku", "wordClass": "nomina", "meaning": "universitas" },
+    { "id": "ch01_019", "chapterId": 1, "order": 19, "kanji": "病院", "kana": "びょういん", "romaji": "byouin", "wordClass": "nomina", "meaning": "rumah sakit" },
+    { "id": "ch01_020", "chapterId": 1, "order": 20, "kanji": "電気", "kana": "でんき", "romaji": "denki", "wordClass": "nomina", "meaning": "listrik/elektronik" },
+    { "id": "ch01_021", "chapterId": 1, "order": 21, "kanji": "誰", "kana": "だれ", "romaji": "dare", "wordClass": "nomina", "meaning": "siapa" },
+    { "id": "ch01_022", "chapterId": 1, "order": 22, "kanji": "〜歳", "kana": "〜さい", "romaji": "~sai", "wordClass": "sufiks", "meaning": "usia ~ tahun" },
+    { "id": "ch01_023", "chapterId": 1, "order": 23, "kanji": "何歳", "kana": "なんさい", "romaji": "nansai", "wordClass": "ekspresi", "meaning": "berapa tahun usianya?" },
+    { "id": "ch01_024", "chapterId": 1, "order": 24, "kanji": "", "kana": "おいくつ", "romaji": "oikutsu", "wordClass": "ekspresi", "meaning": "berapa usia Anda? (sopan)" },
+    { "id": "ch01_025", "chapterId": 1, "order": 25, "kanji": "", "kana": "はじめまして", "romaji": "hajimemashite", "wordClass": "ekspresi", "meaning": "salam perkenalan" },
+    { "id": "ch01_026", "chapterId": 1, "order": 26, "kanji": "", "kana": "どうぞよろしく", "romaji": "douzo yoroshiku", "wordClass": "ekspresi", "meaning": "senang berkenalan" },
+    { "id": "ch01_027", "chapterId": 1, "order": 27, "kanji": "", "kana": "こちらこそ", "romaji": "kochira koso", "wordClass": "ekspresi", "meaning": "saya juga" }
+  ],
+  "patterns": [
+    {
+      "id": "ch01_p01",
+      "chapterId": 1,
+      "order": 1,
+      "pattern": "N は N です",
+      "explanation": "Menyatakan identitas atau profesi seseorang. Partikel は (wa) menandai subjek, です (desu) adalah kopula sopan.",
+      "examples": [
+        { "japanese": "わたしは マイク・ミラーです。", "romaji": "Watashi wa Maiku Miraa desu.", "indonesian": "Saya adalah Mike Miller." },
+        { "japanese": "サントスさんは がくせいです。", "romaji": "Santosu-san wa gakusei desu.", "indonesian": "Santos adalah pelajar." }
+      ]
+    },
+    {
+      "id": "ch01_p02",
+      "chapterId": 1,
+      "order": 2,
+      "pattern": "N は N では ありません",
+      "explanation": "Menyangkal identitas atau profesi. では ありません (dewa arimasen) adalah bentuk negatif sopan dari です.",
+      "examples": [
+        { "japanese": "わたしは がくせいでは ありません。", "romaji": "Watashi wa gakusei dewa arimasen.", "indonesian": "Saya bukan pelajar." },
+        { "japanese": "ミラーさんは せんせいでは ありません。", "romaji": "Miraa-san wa sensei dewa arimasen.", "indonesian": "Tuan Miller bukan guru." }
+      ]
+    },
+    {
+      "id": "ch01_p03",
+      "chapterId": 1,
+      "order": 3,
+      "pattern": "N は N ですか",
+      "explanation": "Pertanyaan untuk menanyakan identitas atau profesi. Partikel か (ka) di akhir kalimat menandai kalimat tanya.",
+      "examples": [
+        { "japanese": "ミラーさんは がくせいですか。", "romaji": "Miraa-san wa gakusei desu ka.", "indonesian": "Apakah Tuan Miller pelajar?" },
+        { "japanese": "あのひとは せんせいですか。", "romaji": "Ano hito wa sensei desu ka.", "indonesian": "Apakah orang itu guru?" }
+      ]
+    },
+    {
+      "id": "ch01_p04",
+      "chapterId": 1,
+      "order": 4,
+      "pattern": "N も N です",
+      "explanation": "Menyatakan kesamaan dengan subjek sebelumnya. Partikel も (mo) berarti 'juga', menggantikan partikel は.",
+      "examples": [
+        { "japanese": "サントスさんも がくせいです。", "romaji": "Santosu-san mo gakusei desu.", "indonesian": "Santos juga pelajar." },
+        { "japanese": "わたしも エンジニアです。", "romaji": "Watashi mo enjinia desu.", "indonesian": "Saya juga insinyur." }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "id": "ch01_g01",
+      "chapterId": 1,
+      "order": 1,
+      "title": "Partikel は (wa) — Penanda Topik",
+      "explanation": "Partikel は (dibaca 'wa') menandai topik kalimat. Topik adalah hal yang sedang dibicarakan. Berbeda dengan subjek gramatikal, topik bisa berupa subjek, objek, atau elemen lain yang ingin ditonjolkan pembicara.",
+      "examples": [
+        { "japanese": "わたしは がくせいです。", "romaji": "Watashi wa gakusei desu.", "indonesian": "Saya adalah pelajar." },
+        { "japanese": "ミラーさんは エンジニアです。", "romaji": "Miraa-san wa enjinia desu.", "indonesian": "Tuan Miller adalah insinyur." }
+      ]
+    },
+    {
+      "id": "ch01_g02",
+      "chapterId": 1,
+      "order": 2,
+      "title": "Pola です / では ありません",
+      "explanation": "です (desu) adalah kopula sopan yang berarti 'adalah'. Bentuk negatifnya adalah では ありません (dewa arimasen) yang berarti 'bukan'. Dalam percakapan sehari-hari, では sering disingkat menjadi じゃ.",
+      "examples": [
+        { "japanese": "これは じしょです。", "romaji": "Kore wa jisho desu.", "indonesian": "Ini adalah kamus." },
+        { "japanese": "わたしは せんせいでは ありません。", "romaji": "Watashi wa sensei dewa arimasen.", "indonesian": "Saya bukan guru." }
+      ]
+    },
+    {
+      "id": "ch01_g03",
+      "chapterId": 1,
+      "order": 3,
+      "title": "Partikel も (mo) — Juga/Pun",
+      "explanation": "Partikel も (mo) berarti 'juga' atau 'pun'. Partikel ini menggantikan partikel は untuk menyatakan bahwa sesuatu yang sama berlaku untuk topik baru. Jika dua hal memiliki sifat yang sama, も digunakan untuk keduanya.",
+      "examples": [
+        { "japanese": "サントスさんも がくせいです。", "romaji": "Santosu-san mo gakusei desu.", "indonesian": "Santos juga pelajar." },
+        { "japanese": "わたしも にほんじんでは ありません。", "romaji": "Watashi mo nihonjin dewa arimasen.", "indonesian": "Saya juga bukan orang Jepang." }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "ch01_q01",
+      "chapterId": 1,
+      "order": 1,
+      "question": "Apa arti kata 'わたし' (watashi)?",
+      "choices": ["kamu", "saya", "dia", "mereka"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch01_q02",
+      "chapterId": 1,
+      "order": 2,
+      "question": "Bagaimana cara mengatakan 'Saya bukan pelajar' dalam bahasa Jepang?",
+      "choices": [
+        "わたしは がくせいです。",
+        "わたしは がくせいでは ありません。",
+        "わたしも がくせいです。",
+        "わたしは がくせいですか。"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch01_q03",
+      "chapterId": 1,
+      "order": 3,
+      "question": "Apa arti kata 'がくせい' (gakusei)?",
+      "choices": ["guru", "dokter", "pelajar/mahasiswa", "karyawan"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch01_q04",
+      "chapterId": 1,
+      "order": 4,
+      "question": "Partikel apa yang digunakan untuk menyatakan 'juga' dalam pola 'N も N です'?",
+      "choices": ["は", "が", "も", "を"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch01_q05",
+      "chapterId": 1,
+      "order": 5,
+      "question": "Apa ungkapan yang digunakan saat pertama kali bertemu seseorang?",
+      "choices": ["どうぞ よろしく", "こちらこそ", "はじめまして", "おいくつ"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch01_q06",
+      "chapterId": 1,
+      "order": 6,
+      "question": "Apa arti sufiks '〜さん' (~san)?",
+      "choices": ["sebutan akrab", "sebutan hormat", "sebutan untuk anak kecil", "sebutan untuk laki-laki muda"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch01_q07",
+      "chapterId": 1,
+      "order": 7,
+      "question": "Kata 'せんせい' (sensei) berarti...",
+      "choices": ["pelajar", "karyawan", "peneliti", "guru/dokter"],
+      "correctIndex": 3
+    },
+    {
+      "id": "ch01_q08",
+      "chapterId": 1,
+      "order": 8,
+      "question": "Bagaimana cara menanyakan 'Apakah Anda seorang insinyur?' dalam bahasa Jepang?",
+      "choices": [
+        "あなたは エンジニアです。",
+        "あなたは エンジニアでは ありません。",
+        "あなたは エンジニアですか。",
+        "あなたも エンジニアです。"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch01_q09",
+      "chapterId": 1,
+      "order": 9,
+      "question": "Apa arti kata 'だれ' (dare)?",
+      "choices": ["apa", "di mana", "kapan", "siapa"],
+      "correctIndex": 3
+    },
+    {
+      "id": "ch01_q10",
+      "chapterId": 1,
+      "order": 10,
+      "question": "Ungkapan 'こちらこそ' (kochira koso) digunakan untuk...",
+      "choices": ["memperkenalkan diri", "menanyakan usia", "membalas salam perkenalan (saya juga)", "mengucapkan selamat tinggal"],
+      "correctIndex": 2
+    }
+  ]
+}

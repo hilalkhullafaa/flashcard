@@ -1,0 +1,201 @@
+{
+  "chapter": {
+    "id": 8,
+    "title": "牛乳を 1本 ください",
+    "titleRomaji": "Gyuunyuu o ippon kudasai",
+    "titleId": "Tolong satu botol susu"
+  },
+  "vocabulary": [
+    { "id": "ch08_001", "chapterId": 8, "order": 1, "kanji": "一つ", "kana": "ひとつ", "romaji": "hitotsu", "wordClass": "nomina", "meaning": "satu (bilangan Jepang)" },
+    { "id": "ch08_002", "chapterId": 8, "order": 2, "kanji": "二つ", "kana": "ふたつ", "romaji": "futatsu", "wordClass": "nomina", "meaning": "dua" },
+    { "id": "ch08_003", "chapterId": 8, "order": 3, "kanji": "三つ", "kana": "みっつ", "romaji": "mittsu", "wordClass": "nomina", "meaning": "tiga" },
+    { "id": "ch08_004", "chapterId": 8, "order": 4, "kanji": "四つ", "kana": "よっつ", "romaji": "yottsu", "wordClass": "nomina", "meaning": "empat" },
+    { "id": "ch08_005", "chapterId": 8, "order": 5, "kanji": "五つ", "kana": "いつつ", "romaji": "itsutsu", "wordClass": "nomina", "meaning": "lima" },
+    { "id": "ch08_006", "chapterId": 8, "order": 6, "kanji": "六つ", "kana": "むっつ", "romaji": "muttsu", "wordClass": "nomina", "meaning": "enam" },
+    { "id": "ch08_007", "chapterId": 8, "order": 7, "kanji": "七つ", "kana": "ななつ", "romaji": "nanatsu", "wordClass": "nomina", "meaning": "tujuh" },
+    { "id": "ch08_008", "chapterId": 8, "order": 8, "kanji": "八つ", "kana": "やっつ", "romaji": "yattsu", "wordClass": "nomina", "meaning": "delapan" },
+    { "id": "ch08_009", "chapterId": 8, "order": 9, "kanji": "九つ", "kana": "ここのつ", "romaji": "kokonotsu", "wordClass": "nomina", "meaning": "sembilan" },
+    { "id": "ch08_010", "chapterId": 8, "order": 10, "kanji": "十", "kana": "とお", "romaji": "too", "wordClass": "nomina", "meaning": "sepuluh" },
+    { "id": "ch08_011", "chapterId": 8, "order": 11, "kanji": "幾つ", "kana": "いくつ", "romaji": "ikutsu", "wordClass": "nomina", "meaning": "berapa banyak?" },
+    { "id": "ch08_012", "chapterId": 8, "order": 12, "kanji": "〜本", "kana": "〜ほん", "romaji": "~hon", "wordClass": "sufiks", "meaning": "penggolong benda panjang/silindris" },
+    { "id": "ch08_013", "chapterId": 8, "order": 13, "kanji": "〜枚", "kana": "〜まい", "romaji": "~mai", "wordClass": "sufiks", "meaning": "penggolong benda tipis/datar" },
+    { "id": "ch08_014", "chapterId": 8, "order": 14, "kanji": "〜台", "kana": "〜だい", "romaji": "~dai", "wordClass": "sufiks", "meaning": "penggolong kendaraan/mesin" },
+    { "id": "ch08_015", "chapterId": 8, "order": 15, "kanji": "〜冊", "kana": "〜さつ", "romaji": "~satsu", "wordClass": "sufiks", "meaning": "penggolong buku/majalah" },
+    { "id": "ch08_016", "chapterId": 8, "order": 16, "kanji": "〜杯", "kana": "〜はい", "romaji": "~hai", "wordClass": "sufiks", "meaning": "penggolong minuman dalam gelas/cangkir" },
+    { "id": "ch08_017", "chapterId": 8, "order": 17, "kanji": "〜匹", "kana": "〜ひき", "romaji": "~hiki", "wordClass": "sufiks", "meaning": "penggolong hewan kecil" },
+    { "id": "ch08_018", "chapterId": 8, "order": 18, "kanji": "〜頭", "kana": "〜とう", "romaji": "~tou", "wordClass": "sufiks", "meaning": "penggolong hewan besar" },
+    { "id": "ch08_019", "chapterId": 8, "order": 19, "kanji": "〜羽", "kana": "〜わ", "romaji": "~wa", "wordClass": "sufiks", "meaning": "penggolong burung" },
+    { "id": "ch08_020", "chapterId": 8, "order": 20, "kanji": "", "kana": "ください", "romaji": "kudasai", "wordClass": "ekspresi", "meaning": "tolong berikan/minta" },
+    { "id": "ch08_021", "chapterId": 8, "order": 21, "kanji": "お願いします", "kana": "おねがいします", "romaji": "onegai shimasu", "wordClass": "ekspresi", "meaning": "tolong (permintaan sopan)" },
+    { "id": "ch08_022", "chapterId": 8, "order": 22, "kanji": "", "kana": "いらっしゃいませ", "romaji": "irasshaimase", "wordClass": "ekspresi", "meaning": "selamat datang (di toko)" },
+    { "id": "ch08_023", "chapterId": 8, "order": 23, "kanji": "〜円", "kana": "〜えん", "romaji": "~en", "wordClass": "sufiks", "meaning": "yen (mata uang Jepang)" },
+    { "id": "ch08_024", "chapterId": 8, "order": 24, "kanji": "林檎", "kana": "りんご", "romaji": "ringo", "wordClass": "nomina", "meaning": "apel" },
+    { "id": "ch08_025", "chapterId": 8, "order": 25, "kanji": "蜜柑", "kana": "みかん", "romaji": "mikan", "wordClass": "nomina", "meaning": "jeruk mandarin" },
+    { "id": "ch08_026", "chapterId": 8, "order": 26, "kanji": "", "kana": "バナナ", "romaji": "banana", "wordClass": "nomina", "meaning": "pisang" },
+    { "id": "ch08_027", "chapterId": 8, "order": 27, "kanji": "牛乳", "kana": "ぎゅうにゅう", "romaji": "gyuunyuu", "wordClass": "nomina", "meaning": "susu sapi" },
+    { "id": "ch08_028", "chapterId": 8, "order": 28, "kanji": "卵", "kana": "たまご", "romaji": "tamago", "wordClass": "nomina", "meaning": "telur" },
+    { "id": "ch08_029", "chapterId": 8, "order": 29, "kanji": "日本酒", "kana": "にほんしゅ", "romaji": "nihonshu", "wordClass": "nomina", "meaning": "sake Jepang" }
+  ],
+  "grammar": [
+    {
+      "id": "ch08_g01",
+      "chapterId": 8,
+      "order": 1,
+      "title": "Kata Penggolong (助数詞) dalam Bahasa Jepang",
+      "explanation": "Bahasa Jepang menggunakan kata penggolong (josushi) yang berbeda-beda tergantung jenis benda yang dihitung. Pengucapan angka pun sering berubah saat digabung dengan penggolong tertentu karena proses asimilasi bunyi. Misalnya, 1本 dibaca 'ippon' bukan 'ichipon', dan 3本 dibaca 'sanbon'. Memilih penggolong yang tepat adalah bagian penting dari tata bahasa Jepang.",
+      "examples": [
+        { "japanese": "ぎゅうにゅうを 1ほん ください。", "romaji": "Gyuunyuu o ippon kudasai.", "indonesian": "Tolong satu botol susu." },
+        { "japanese": "きってを 5まい ください。", "romaji": "Kitte o gomai kudasai.", "indonesian": "Tolong 5 lembar perangko." }
+      ]
+    },
+    {
+      "id": "ch08_g02",
+      "chapterId": 8,
+      "order": 2,
+      "title": "Sistem Bilangan Asli Jepang (和語数詞)",
+      "explanation": "Selain sistem bilangan Sino-Jepang (ichi, ni, san...), bahasa Jepang memiliki sistem bilangan asli (wago) untuk menghitung benda secara umum hingga sepuluh: hitotsu, futatsu, mittsu, yottsu, itsutsu, muttsu, nanatsu, yattsu, kokonotsu, too. Sistem ini digunakan tanpa kata penggolong khusus dan sering dipakai untuk menghitung buah, makanan, atau benda umum.",
+      "examples": [
+        { "japanese": "りんごを みっつ ください。", "romaji": "Ringo o mittsu kudasai.", "indonesian": "Tolong tiga buah apel." },
+        { "japanese": "たまごが ふたつ あります。", "romaji": "Tamago ga futatsu arimasu.", "indonesian": "Ada dua butir telur." }
+      ]
+    },
+    {
+      "id": "ch08_g03",
+      "chapterId": 8,
+      "order": 3,
+      "title": "Pola N を ください — Meminta Sesuatu",
+      "explanation": "Pola N を ください digunakan untuk meminta atau memesan sesuatu secara sopan. ください berasal dari verba くださる (bentuk hormat dari くれる) dan berarti 'tolong berikan'. Pola ini sangat umum digunakan di toko, restoran, atau saat meminta sesuatu kepada orang lain. Untuk permintaan yang lebih formal, dapat menggunakan おねがいします sebagai pengganti ください.",
+      "examples": [
+        { "japanese": "みずを ください。", "romaji": "Mizu o kudasai.", "indonesian": "Tolong berikan air." },
+        { "japanese": "このざっしを 2さつ ください。", "romaji": "Kono zasshi o nisatsu kudasai.", "indonesian": "Tolong dua buah majalah ini." }
+      ]
+    }
+  ],
+  "patterns": [
+    {
+      "id": "ch08_p01",
+      "chapterId": 8,
+      "order": 1,
+      "pattern": "N を N ください",
+      "explanation": "Pola untuk meminta sesuatu dalam jumlah tertentu. Kata penggolong (counter) diletakkan setelah jumlah dan sebelum ください. Digunakan saat berbelanja atau memesan.",
+      "examples": [
+        { "japanese": "ぎゅうにゅうを 1ほん ください。", "romaji": "Gyuunyuu o ippon kudasai.", "indonesian": "Tolong satu botol susu." },
+        { "japanese": "りんごを みっつ ください。", "romaji": "Ringo o mittsu kudasai.", "indonesian": "Tolong tiga buah apel." }
+      ]
+    },
+    {
+      "id": "ch08_p02",
+      "chapterId": 8,
+      "order": 2,
+      "pattern": "N は いくらですか",
+      "explanation": "Pola untuk menanyakan harga suatu barang. いくら (ikura) berarti 'berapa harga'. Digunakan saat berbelanja.",
+      "examples": [
+        { "japanese": "このりんごは いくらですか。", "romaji": "Kono ringo wa ikura desu ka.", "indonesian": "Berapa harga apel ini?" },
+        { "japanese": "このほんは いくらですか。", "romaji": "Kono hon wa ikura desu ka.", "indonesian": "Berapa harga buku ini?" }
+      ]
+    },
+    {
+      "id": "ch08_p03",
+      "chapterId": 8,
+      "order": 3,
+      "pattern": "N を N まい／ほん／さつ ください",
+      "explanation": "Pola permintaan dengan kata penggolong spesifik. まい untuk benda tipis/datar (kertas, tiket), ほん untuk benda panjang/silindris (botol, pensil), さつ untuk buku/majalah.",
+      "examples": [
+        { "japanese": "きってを 5まい ください。", "romaji": "Kitte o gomai kudasai.", "indonesian": "Tolong 5 lembar perangko." },
+        { "japanese": "ざっしを 2さつ ください。", "romaji": "Zasshi o nisatsu kudasai.", "indonesian": "Tolong 2 buah majalah." }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "ch08_q01",
+      "chapterId": 8,
+      "order": 1,
+      "question": "Kata penggolong apa yang digunakan untuk benda panjang/silindris seperti botol dan pensil?",
+      "choices": ["〜まい", "〜さつ", "〜ほん", "〜だい"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch08_q02",
+      "chapterId": 8,
+      "order": 2,
+      "question": "Bagaimana cara mengatakan 'tiga' dalam sistem bilangan asli Jepang?",
+      "choices": ["ふたつ", "みっつ", "よっつ", "ひとつ"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch08_q03",
+      "chapterId": 8,
+      "order": 3,
+      "question": "Kata penggolong apa yang digunakan untuk buku dan majalah?",
+      "choices": ["〜まい", "〜ほん", "〜はい", "〜さつ"],
+      "correctIndex": 3
+    },
+    {
+      "id": "ch08_q04",
+      "chapterId": 8,
+      "order": 4,
+      "question": "Bagaimana cara menanyakan harga suatu barang?",
+      "choices": [
+        "これは なんですか。",
+        "これは いくらですか。",
+        "これは いくつですか。",
+        "これは なんまいですか。"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch08_q05",
+      "chapterId": 8,
+      "order": 5,
+      "question": "Apa arti kata 'ぎゅうにゅう' (gyuunyuu)?",
+      "choices": ["jus jeruk", "teh susu", "susu sapi", "air mineral"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch08_q06",
+      "chapterId": 8,
+      "order": 6,
+      "question": "Kata penggolong apa yang digunakan untuk benda tipis/datar seperti kertas dan tiket?",
+      "choices": ["〜まい", "〜ほん", "〜さつ", "〜だい"],
+      "correctIndex": 0
+    },
+    {
+      "id": "ch08_q07",
+      "chapterId": 8,
+      "order": 7,
+      "question": "Bagaimana cara mengatakan 'Tolong tiga buah apel'?",
+      "choices": [
+        "りんごを さんほん ください。",
+        "りんごを みっつ ください。",
+        "りんごを さんまい ください。",
+        "りんごを さんさつ ください。"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch08_q08",
+      "chapterId": 8,
+      "order": 8,
+      "question": "Apa arti ungkapan 'いらっしゃいませ' (irasshaimase)?",
+      "choices": ["terima kasih", "sampai jumpa", "selamat datang (di toko)", "permisi"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch08_q09",
+      "chapterId": 8,
+      "order": 9,
+      "question": "Kata penggolong apa yang digunakan untuk kendaraan dan mesin?",
+      "choices": ["〜ひき", "〜とう", "〜わ", "〜だい"],
+      "correctIndex": 3
+    },
+    {
+      "id": "ch08_q10",
+      "chapterId": 8,
+      "order": 10,
+      "question": "Bagaimana cara mengatakan 'delapan' dalam sistem bilangan asli Jepang?",
+      "choices": ["ここのつ", "ななつ", "やっつ", "むっつ"],
+      "correctIndex": 2
+    }
+  ]
+}

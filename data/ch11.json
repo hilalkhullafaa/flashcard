@@ -1,0 +1,210 @@
+{
+  "chapter": {
+    "id": 11,
+    "title": "日本語で 何と 言いますか",
+    "titleRomaji": "Nihongo de nan to iimasu ka",
+    "titleId": "Bagaimana mengatakannya dalam bahasa Jepang?"
+  },
+  "vocabulary": [
+    { "id": "ch11_001", "chapterId": 11, "order": 1, "kanji": "見せます", "kana": "みせます", "romaji": "misemasu", "wordClass": "verba-ru", "meaning": "memperlihatkan" },
+    { "id": "ch11_002", "chapterId": 11, "order": 2, "kanji": "教えます", "kana": "おしえます", "romaji": "oshiemasu", "wordClass": "verba-ru", "meaning": "mengajar/memberitahu" },
+    { "id": "ch11_003", "chapterId": 11, "order": 3, "kanji": "話します", "kana": "はなします", "romaji": "hanashimasu", "wordClass": "verba-i", "meaning": "berbicara" },
+    { "id": "ch11_004", "chapterId": 11, "order": 4, "kanji": "呼びます", "kana": "よびます", "romaji": "yobimasu", "wordClass": "verba-i", "meaning": "memanggil" },
+    { "id": "ch11_005", "chapterId": 11, "order": 5, "kanji": "待ちます", "kana": "まちます", "romaji": "machimasu", "wordClass": "verba-i", "meaning": "menunggu" },
+    { "id": "ch11_006", "chapterId": 11, "order": 6, "kanji": "貸します", "kana": "かします", "romaji": "kashimasu", "wordClass": "verba-i", "meaning": "meminjamkan" },
+    { "id": "ch11_007", "chapterId": 11, "order": 7, "kanji": "使います", "kana": "つかいます", "romaji": "tsukaimasu", "wordClass": "verba-i", "meaning": "menggunakan" },
+    { "id": "ch11_008", "chapterId": 11, "order": 8, "kanji": "手伝います", "kana": "てつだいます", "romaji": "tetsudaimasu", "wordClass": "verba-i", "meaning": "membantu" },
+    { "id": "ch11_009", "chapterId": 11, "order": 9, "kanji": "持ってきます", "kana": "もってきます", "romaji": "motte kimasu", "wordClass": "verba-ireguler", "meaning": "membawa (ke sini)" },
+    { "id": "ch11_010", "chapterId": 11, "order": 10, "kanji": "電話します", "kana": "でんわします", "romaji": "denwa shimasu", "wordClass": "verba-ireguler", "meaning": "menelepon" },
+    { "id": "ch11_011", "chapterId": 11, "order": 11, "kanji": "", "kana": "ゆっくり", "romaji": "yukkuri", "wordClass": "adverbia", "meaning": "perlahan-lahan" },
+    { "id": "ch11_012", "chapterId": 11, "order": 12, "kanji": "もう一度", "kana": "もういちど", "romaji": "mou ichido", "wordClass": "adverbia", "meaning": "sekali lagi" },
+    { "id": "ch11_013", "chapterId": 11, "order": 13, "kanji": "", "kana": "ちょっと", "romaji": "chotto", "wordClass": "adverbia", "meaning": "sebentar/sedikit" },
+    { "id": "ch11_014", "chapterId": 11, "order": 14, "kanji": "", "kana": "すみません", "romaji": "sumimasen", "wordClass": "ekspresi", "meaning": "permisi/maaf" },
+    { "id": "ch11_015", "chapterId": 11, "order": 15, "kanji": "", "kana": "いいですか", "romaji": "ii desu ka", "wordClass": "ekspresi", "meaning": "bolehkah?" },
+    { "id": "ch11_016", "chapterId": 11, "order": 16, "kanji": "", "kana": "いいですよ", "romaji": "ii desu yo", "wordClass": "ekspresi", "meaning": "boleh saja" },
+    { "id": "ch11_017", "chapterId": 11, "order": 17, "kanji": "", "kana": "だめです", "romaji": "dame desu", "wordClass": "ekspresi", "meaning": "tidak boleh/tidak bisa" },
+    { "id": "ch11_018", "chapterId": 11, "order": 18, "kanji": "書きます", "kana": "かきます", "romaji": "kakimasu", "wordClass": "verba-i", "meaning": "menulis" }
+  ],
+  "patterns": [
+    {
+      "id": "ch11_p01",
+      "chapterId": 11,
+      "order": 1,
+      "pattern": "V て ください",
+      "explanation": "Pola untuk membuat permintaan sopan. Bentuk te dari verba ditambah ください (kudasai) berarti 'tolong lakukan V'. Digunakan untuk meminta seseorang melakukan sesuatu dengan sopan.",
+      "examples": [
+        { "japanese": "ゆっくり はなして ください。", "romaji": "Yukkuri hanashite kudasai.", "indonesian": "Tolong berbicara perlahan-lahan." },
+        { "japanese": "もう いちど いって ください。", "romaji": "Mou ichido itte kudasai.", "indonesian": "Tolong katakan sekali lagi." },
+        { "japanese": "ここに なまえを かいて ください。", "romaji": "Koko ni namae o kaite kudasai.", "indonesian": "Tolong tulis nama di sini." }
+      ]
+    },
+    {
+      "id": "ch11_p02",
+      "chapterId": 11,
+      "order": 2,
+      "pattern": "V て も いいですか",
+      "explanation": "Pola untuk meminta izin melakukan sesuatu. Bentuk te dari verba ditambah もいいですか (mo ii desu ka) berarti 'bolehkah saya V?'. Untuk menjawab ya, gunakan いいですよ; untuk menolak, gunakan だめです atau ちょっと….",
+      "examples": [
+        { "japanese": "しゃしんを とっても いいですか。", "romaji": "Shashin o totte mo ii desu ka.", "indonesian": "Bolehkah saya mengambil foto?" },
+        { "japanese": "でんわを かりても いいですか。", "romaji": "Denwa o karite mo ii desu ka.", "indonesian": "Bolehkah saya meminjam telepon?" },
+        { "japanese": "ここに すわっても いいですか。", "romaji": "Koko ni suwatte mo ii desu ka.", "indonesian": "Bolehkah saya duduk di sini?" }
+      ]
+    },
+    {
+      "id": "ch11_p03",
+      "chapterId": 11,
+      "order": 3,
+      "pattern": "V て は いけません",
+      "explanation": "Pola untuk menyatakan larangan. Bentuk te dari verba ditambah はいけません (wa ikemasen) berarti 'tidak boleh V'. Digunakan untuk melarang seseorang melakukan sesuatu.",
+      "examples": [
+        { "japanese": "ここで たばこを すっては いけません。", "romaji": "Koko de tabako o sutte wa ikemasen.", "indonesian": "Tidak boleh merokok di sini." },
+        { "japanese": "じゅぎょうちゅうに ねては いけません。", "romaji": "Jugyouchuu ni nete wa ikemasen.", "indonesian": "Tidak boleh tidur saat pelajaran." },
+        { "japanese": "このへやに はいっては いけません。", "romaji": "Kono heya ni haitte wa ikemasen.", "indonesian": "Tidak boleh masuk ke ruangan ini." }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "id": "ch11_g01",
+      "chapterId": 11,
+      "order": 1,
+      "title": "Bentuk Te (て形) — Penghubung Verba",
+      "explanation": "Bentuk te adalah bentuk dasar yang digunakan untuk menghubungkan verba dan membentuk berbagai pola gramatikal. Cara pembentukannya berbeda berdasarkan kelompok verba: Verba Kelompok 1 (verba-i): ～きます→いて, ～ぎます→いで, ～します→して, ～ちます/ります/います→って, ～にます/びます/みます→んで. Verba Kelompok 2 (verba-ru): ganti ます dengan て. Verba Kelompok 3 (ireguler): します→して, きます→きて.",
+      "examples": [
+        { "japanese": "かきます → かいて", "romaji": "kakimasu → kaite", "indonesian": "menulis → (bentuk te)" },
+        { "japanese": "たべます → たべて", "romaji": "tabemasu → tabete", "indonesian": "makan → (bentuk te)" },
+        { "japanese": "きます → きて", "romaji": "kimasu → kite", "indonesian": "datang → (bentuk te)" }
+      ]
+    },
+    {
+      "id": "ch11_g02",
+      "chapterId": 11,
+      "order": 2,
+      "title": "Meminta Izin: 〜てもいいですか",
+      "explanation": "Pola 〜てもいいですか digunakan untuk meminta izin melakukan sesuatu. Untuk menjawab dengan mengizinkan, gunakan いいですよ (boleh saja) atau はい、どうぞ (ya, silakan). Untuk menolak dengan sopan, gunakan ちょっと… (agak susah…) atau すみません、ちょっと… yang mengisyaratkan penolakan halus. だめです digunakan untuk penolakan tegas.",
+      "examples": [
+        { "japanese": "まどを あけても いいですか。 — いいですよ。", "romaji": "Mado o akete mo ii desu ka. — Ii desu yo.", "indonesian": "Bolehkah saya membuka jendela? — Boleh saja." },
+        { "japanese": "ここで たべても いいですか。 — すみません、ちょっと…。", "romaji": "Koko de tabete mo ii desu ka. — Sumimasen, chotto...", "indonesian": "Bolehkah saya makan di sini? — Maaf, agak susah..." }
+      ]
+    },
+    {
+      "id": "ch11_g03",
+      "chapterId": 11,
+      "order": 3,
+      "title": "Larangan: 〜てはいけません",
+      "explanation": "Pola 〜てはいけません digunakan untuk menyatakan larangan yang tegas. Bentuk ini lebih kuat dari だめです dan sering digunakan dalam aturan, peraturan, atau instruksi resmi. Dalam percakapan sehari-hari yang lebih santai, だめです atau ～ないでください juga dapat digunakan untuk larangan yang lebih ringan.",
+      "examples": [
+        { "japanese": "ここで しゃしんを とっては いけません。", "romaji": "Koko de shashin o totte wa ikemasen.", "indonesian": "Tidak boleh mengambil foto di sini." },
+        { "japanese": "としょかんで さわいでは いけません。", "romaji": "Toshokan de sawaide wa ikemasen.", "indonesian": "Tidak boleh ribut di perpustakaan." }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "ch11_q01",
+      "chapterId": 11,
+      "order": 1,
+      "question": "Bagaimana bentuk te dari verba 'かきます' (kakimasu)?",
+      "choices": ["かいて", "かきて", "かって", "かして"],
+      "correctIndex": 0
+    },
+    {
+      "id": "ch11_q02",
+      "chapterId": 11,
+      "order": 2,
+      "question": "Pola apa yang digunakan untuk membuat permintaan sopan 'tolong lakukan V'?",
+      "choices": ["V てもいいですか", "V てはいけません", "V てください", "V ています"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch11_q03",
+      "chapterId": 11,
+      "order": 3,
+      "question": "Bagaimana cara mengatakan 'Bolehkah saya mengambil foto?'",
+      "choices": [
+        "しゃしんを とっては いけません。",
+        "しゃしんを とって ください。",
+        "しゃしんを とっても いいですか。",
+        "しゃしんを とって います。"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch11_q04",
+      "chapterId": 11,
+      "order": 4,
+      "question": "Apa arti dari 'だめです' (dame desu)?",
+      "choices": ["boleh saja", "tolong lakukan", "tidak boleh/tidak bisa", "sedang melakukan"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch11_q05",
+      "chapterId": 11,
+      "order": 5,
+      "question": "Bagaimana bentuk te dari verba 'たべます' (tabemasu)?",
+      "choices": ["たべいて", "たべって", "たべて", "たべんで"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch11_q06",
+      "chapterId": 11,
+      "order": 6,
+      "question": "Apa arti kata 'ゆっくり' (yukkuri)?",
+      "choices": ["sekali lagi", "perlahan-lahan", "sebentar", "permisi"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch11_q07",
+      "chapterId": 11,
+      "order": 7,
+      "question": "Pola apa yang digunakan untuk menyatakan larangan?",
+      "choices": ["V てください", "V てもいいですか", "V てはいけません", "V ています"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch11_q08",
+      "chapterId": 11,
+      "order": 8,
+      "question": "Bagaimana bentuk te dari verba 'のみます' (nomimasu)?",
+      "choices": ["のみて", "のんで", "のいて", "のって"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch11_q09",
+      "chapterId": 11,
+      "order": 9,
+      "question": "Apa jawaban yang tepat untuk mengizinkan permintaan 〜てもいいですか?",
+      "choices": ["だめです", "いいですよ", "てはいけません", "ちがいます"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch11_q10",
+      "chapterId": 11,
+      "order": 10,
+      "question": "Apa arti kata 'てつだいます' (tetsudaimasu)?",
+      "choices": ["menggunakan", "meminjamkan", "membantu", "menunggu"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch11_q11",
+      "chapterId": 11,
+      "order": 11,
+      "question": "Bagaimana cara mengatakan 'Tolong berbicara perlahan-lahan'?",
+      "choices": [
+        "ゆっくり はなしても いいですか。",
+        "ゆっくり はなして ください。",
+        "ゆっくり はなしては いけません。",
+        "ゆっくり はなして います。"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch11_q12",
+      "chapterId": 11,
+      "order": 12,
+      "question": "Bentuk te dari verba 'します' (shimasu) adalah...",
+      "choices": ["しいて", "して", "しって", "しんで"],
+      "correctIndex": 1
+    }
+  ]
+}

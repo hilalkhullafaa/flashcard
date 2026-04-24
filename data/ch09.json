@@ -1,0 +1,193 @@
+{
+  "chapter": {
+    "id": 9,
+    "title": "誕生日は いつですか",
+    "titleRomaji": "Tanjoubi wa itsu desu ka",
+    "titleId": "Kapan ulang tahun Anda?"
+  },
+  "vocabulary": [
+    { "id": "ch09_001", "chapterId": 9, "order": 1, "kanji": "〜月", "kana": "〜がつ", "romaji": "~gatsu", "wordClass": "sufiks", "meaning": "bulan ke-~" },
+    { "id": "ch09_002", "chapterId": 9, "order": 2, "kanji": "〜日", "kana": "〜にち", "romaji": "~nichi", "wordClass": "sufiks", "meaning": "tanggal ke-~" },
+    { "id": "ch09_003", "chapterId": 9, "order": 3, "kanji": "一日", "kana": "ついたち", "romaji": "tsuitachi", "wordClass": "nomina", "meaning": "tanggal 1" },
+    { "id": "ch09_004", "chapterId": 9, "order": 4, "kanji": "二日", "kana": "ふつか", "romaji": "futsuka", "wordClass": "nomina", "meaning": "tanggal 2" },
+    { "id": "ch09_005", "chapterId": 9, "order": 5, "kanji": "三日", "kana": "みっか", "romaji": "mikka", "wordClass": "nomina", "meaning": "tanggal 3" },
+    { "id": "ch09_006", "chapterId": 9, "order": 6, "kanji": "四日", "kana": "よっか", "romaji": "yokka", "wordClass": "nomina", "meaning": "tanggal 4" },
+    { "id": "ch09_007", "chapterId": 9, "order": 7, "kanji": "五日", "kana": "いつか", "romaji": "itsuka", "wordClass": "nomina", "meaning": "tanggal 5" },
+    { "id": "ch09_008", "chapterId": 9, "order": 8, "kanji": "六日", "kana": "むいか", "romaji": "muika", "wordClass": "nomina", "meaning": "tanggal 6" },
+    { "id": "ch09_009", "chapterId": 9, "order": 9, "kanji": "七日", "kana": "なのか", "romaji": "nanoka", "wordClass": "nomina", "meaning": "tanggal 7" },
+    { "id": "ch09_010", "chapterId": 9, "order": 10, "kanji": "八日", "kana": "ようか", "romaji": "youka", "wordClass": "nomina", "meaning": "tanggal 8" },
+    { "id": "ch09_011", "chapterId": 9, "order": 11, "kanji": "九日", "kana": "ここのか", "romaji": "kokonoka", "wordClass": "nomina", "meaning": "tanggal 9" },
+    { "id": "ch09_012", "chapterId": 9, "order": 12, "kanji": "十日", "kana": "とおか", "romaji": "tooka", "wordClass": "nomina", "meaning": "tanggal 10" },
+    { "id": "ch09_013", "chapterId": 9, "order": 13, "kanji": "十四日", "kana": "じゅうよっか", "romaji": "juuyokka", "wordClass": "nomina", "meaning": "tanggal 14" },
+    { "id": "ch09_014", "chapterId": 9, "order": 14, "kanji": "二十日", "kana": "はつか", "romaji": "hatsuka", "wordClass": "nomina", "meaning": "tanggal 20" },
+    { "id": "ch09_015", "chapterId": 9, "order": 15, "kanji": "二十四日", "kana": "にじゅうよっか", "romaji": "nijuuyokka", "wordClass": "nomina", "meaning": "tanggal 24" },
+    { "id": "ch09_016", "chapterId": 9, "order": 16, "kanji": "誕生日", "kana": "たんじょうび", "romaji": "tanjoubi", "wordClass": "nomina", "meaning": "ulang tahun" },
+    { "id": "ch09_017", "chapterId": 9, "order": 17, "kanji": "年月日", "kana": "ねんがっぴ", "romaji": "nengappi", "wordClass": "nomina", "meaning": "tanggal lengkap (tahun/bulan/tanggal)" },
+    { "id": "ch09_018", "chapterId": 9, "order": 18, "kanji": "", "kana": "いつ", "romaji": "itsu", "wordClass": "nomina", "meaning": "kapan" },
+    { "id": "ch09_019", "chapterId": 9, "order": 19, "kanji": "何日", "kana": "なんにち", "romaji": "nannichi", "wordClass": "nomina", "meaning": "tanggal berapa" },
+    { "id": "ch09_020", "chapterId": 9, "order": 20, "kanji": "何月", "kana": "なんがつ", "romaji": "nangatsu", "wordClass": "nomina", "meaning": "bulan apa" },
+    { "id": "ch09_021", "chapterId": 9, "order": 21, "kanji": "今年", "kana": "ことし", "romaji": "kotoshi", "wordClass": "nomina", "meaning": "tahun ini" },
+    { "id": "ch09_022", "chapterId": 9, "order": 22, "kanji": "来年", "kana": "らいねん", "romaji": "rainen", "wordClass": "nomina", "meaning": "tahun depan" },
+    { "id": "ch09_023", "chapterId": 9, "order": 23, "kanji": "去年", "kana": "きょねん", "romaji": "kyonen", "wordClass": "nomina", "meaning": "tahun lalu" },
+    { "id": "ch09_024", "chapterId": 9, "order": 24, "kanji": "〜年", "kana": "〜ねん", "romaji": "~nen", "wordClass": "sufiks", "meaning": "tahun ke-~" },
+    { "id": "ch09_025", "chapterId": 9, "order": 25, "kanji": "", "kana": "おめでとうございます", "romaji": "omedetou gozaimasu", "wordClass": "ekspresi", "meaning": "selamat" },
+    { "id": "ch09_026", "chapterId": 9, "order": 26, "kanji": "", "kana": "ありがとうございます", "romaji": "arigatou gozaimasu", "wordClass": "ekspresi", "meaning": "terima kasih" }
+  ],
+  "grammar": [
+    {
+      "id": "ch09_g01",
+      "chapterId": 9,
+      "order": 1,
+      "title": "Cara Menyebut Tanggal dalam Bahasa Jepang",
+      "explanation": "Sebagian besar tanggal dibaca dengan angka + にち (nichi), namun banyak tanggal memiliki bacaan tidak beraturan yang harus dihafal. Tanggal 1 (ついたち), 2 (ふつか), 3 (みっか), 4 (よっか), 5 (いつか), 6 (むいか), 7 (なのか), 8 (ようか), 9 (ここのか), 10 (とおか), 14 (じゅうよっか), 20 (はつか), dan 24 (にじゅうよっか) semuanya memiliki bacaan khusus.",
+      "examples": [
+        { "japanese": "きょうは 4がつ ついたちです。", "romaji": "Kyou wa shigatsu tsuitachi desu.", "indonesian": "Hari ini tanggal 1 April." },
+        { "japanese": "わたしの たんじょうびは 7がつ はつかです。", "romaji": "Watashi no tanjoubi wa shichigatsu hatsuka desu.", "indonesian": "Ulang tahun saya tanggal 20 Juli." }
+      ]
+    },
+    {
+      "id": "ch09_g02",
+      "chapterId": 9,
+      "order": 2,
+      "title": "Cara Menyebut Bulan dalam Bahasa Jepang",
+      "explanation": "Nama bulan dalam bahasa Jepang dibentuk dengan angka 1–12 ditambah sufiks 〜月 (gatsu). Tidak ada nama khusus seperti 'Januari' atau 'Februari' — cukup 1月 (ichigatsu), 2月 (nigatsu), dst. Perhatikan bahwa 4月 dibaca 'shigatsu' (bukan 'yongatsu'), 7月 dibaca 'shichigatsu', dan 9月 dibaca 'kugatsu'.",
+      "examples": [
+        { "japanese": "わたしの たんじょうびは 3がつです。", "romaji": "Watashi no tanjoubi wa sangatsu desu.", "indonesian": "Ulang tahun saya di bulan Maret." },
+        { "japanese": "にほんの おしょうがつは 1がつです。", "romaji": "Nihon no oshougatsu wa ichigatsu desu.", "indonesian": "Tahun Baru Jepang ada di bulan Januari." }
+      ]
+    },
+    {
+      "id": "ch09_g03",
+      "chapterId": 9,
+      "order": 3,
+      "title": "Urutan Penulisan Tanggal Lengkap",
+      "explanation": "Dalam bahasa Jepang, urutan penulisan tanggal lengkap adalah dari yang terbesar ke terkecil: tahun (〜年) → bulan (〜月) → tanggal (〜日). Urutan ini berlawanan dengan bahasa Indonesia yang biasanya menulis tanggal → bulan → tahun. Saat membaca tanggal lengkap, selalu sebutkan tahun terlebih dahulu.",
+      "examples": [
+        { "japanese": "きょうは 2024ねん 4がつ 1にちです。", "romaji": "Kyou wa nisen nijuuyonen shigatsu tsuitachi desu.", "indonesian": "Hari ini tanggal 1 April 2024." },
+        { "japanese": "わたしは 1990ねん 7がつ 20にちに うまれました。", "romaji": "Watashi wa senkyuuhyaku kyuujuunen shichigatsu hatsuka ni umaremashita.", "indonesian": "Saya lahir pada tanggal 20 Juli 1990." }
+      ]
+    }
+  ],
+  "patterns": [
+    {
+      "id": "ch09_p01",
+      "chapterId": 9,
+      "order": 1,
+      "pattern": "たんじょうびは いつですか",
+      "explanation": "Pola untuk menanyakan kapan ulang tahun seseorang. いつ (itsu) berarti 'kapan'. Dapat juga digunakan untuk menanyakan tanggal acara lainnya.",
+      "examples": [
+        { "japanese": "たんじょうびは いつですか。", "romaji": "Tanjoubi wa itsu desu ka.", "indonesian": "Kapan ulang tahun Anda?" },
+        { "japanese": "パーティーは いつですか。", "romaji": "Paatii wa itsu desu ka.", "indonesian": "Kapan pestanya?" }
+      ]
+    },
+    {
+      "id": "ch09_p02",
+      "chapterId": 9,
+      "order": 2,
+      "pattern": "N は N がつ N にちです",
+      "explanation": "Pola untuk menyatakan tanggal suatu kejadian. がつ (gatsu) untuk bulan dan にち (nichi) untuk tanggal. Beberapa tanggal memiliki bacaan tidak beraturan seperti ついたち (tanggal 1) dan はつか (tanggal 20).",
+      "examples": [
+        { "japanese": "わたしの たんじょうびは 3がつ 15にちです。", "romaji": "Watashi no tanjoubi wa sangatsu juugonichi desu.", "indonesian": "Ulang tahun saya tanggal 15 Maret." },
+        { "japanese": "きょうは 4がつ ついたちです。", "romaji": "Kyou wa shigatsu tsuitachi desu.", "indonesian": "Hari ini tanggal 1 April." }
+      ]
+    },
+    {
+      "id": "ch09_p03",
+      "chapterId": 9,
+      "order": 3,
+      "pattern": "N ねん N がつ N にち",
+      "explanation": "Pola untuk menyatakan tanggal lengkap dengan tahun, bulan, dan tanggal. Urutan penulisan dalam bahasa Jepang adalah tahun → bulan → tanggal (kebalikan dari bahasa Indonesia).",
+      "examples": [
+        { "japanese": "きょうは 2024ねん 4がつ 1にちです。", "romaji": "Kyou wa nisen nijuuyonen shigatsu tsuitachi desu.", "indonesian": "Hari ini tanggal 1 April 2024." },
+        { "japanese": "わたしは 1990ねん 7がつ 20にちに うまれました。", "romaji": "Watashi wa senkyuuhyaku kyuujuunen shichigatsu hatsuka ni umaremashita.", "indonesian": "Saya lahir pada tanggal 20 Juli 1990." }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "ch09_q01",
+      "chapterId": 9,
+      "order": 1,
+      "question": "Bagaimana cara mengatakan 'tanggal 1' dalam bahasa Jepang?",
+      "choices": ["いちにち", "ついたち", "ひとつ", "いちがつ"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch09_q02",
+      "chapterId": 9,
+      "order": 2,
+      "question": "Apa arti kata 'たんじょうび' (tanjoubi)?",
+      "choices": ["hari libur", "ulang tahun", "hari jadi", "perayaan"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch09_q03",
+      "chapterId": 9,
+      "order": 3,
+      "question": "Bagaimana cara mengatakan 'tanggal 20' dalam bahasa Jepang?",
+      "choices": ["にじゅうにち", "はつか", "とおか", "にじゅうか"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch09_q04",
+      "chapterId": 9,
+      "order": 4,
+      "question": "Kata apa yang digunakan untuk menanyakan 'kapan'?",
+      "choices": ["どこ", "なに", "いつ", "だれ"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch09_q05",
+      "chapterId": 9,
+      "order": 5,
+      "question": "Bagaimana cara mengatakan 'Ulang tahun saya tanggal 15 Maret'?",
+      "choices": [
+        "わたしの たんじょうびは 15がつ 3にちです。",
+        "わたしの たんじょうびは 3がつ 15にちです。",
+        "わたしの たんじょうびは 3にち 15がつです。",
+        "わたしの たんじょうびは 15にち 3がつです。"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch09_q06",
+      "chapterId": 9,
+      "order": 6,
+      "question": "Apa arti kata 'ことし' (kotoshi)?",
+      "choices": ["tahun lalu", "tahun depan", "tahun ini", "bulan ini"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch09_q07",
+      "chapterId": 9,
+      "order": 7,
+      "question": "Bagaimana cara mengatakan 'tanggal 8' dalam bahasa Jepang?",
+      "choices": ["はちにち", "ようか", "やっつ", "はちか"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ch09_q08",
+      "chapterId": 9,
+      "order": 8,
+      "question": "Ungkapan 'おめでとうございます' (omedetou gozaimasu) berarti...",
+      "choices": ["terima kasih", "permisi", "selamat", "sampai jumpa"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ch09_q09",
+      "chapterId": 9,
+      "order": 9,
+      "question": "Apa arti kata 'らいねん' (rainen)?",
+      "choices": ["tahun lalu", "tahun ini", "bulan depan", "tahun depan"],
+      "correctIndex": 3
+    },
+    {
+      "id": "ch09_q10",
+      "chapterId": 9,
+      "order": 10,
+      "question": "Bagaimana cara mengatakan 'tanggal 14' dalam bahasa Jepang?",
+      "choices": ["じゅうよんにち", "じゅうよっか", "じゅうしにち", "じゅうよか"],
+      "correctIndex": 1
+    }
+  ]
+}
