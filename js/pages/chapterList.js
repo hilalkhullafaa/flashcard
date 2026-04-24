@@ -74,6 +74,12 @@ async function renderChapterList(container) {
   chapterListArea.id = 'chapter-list-area';
   main.appendChild(chapterListArea);
 
+  // ── Footer ────────────────────────────────────────────────────────────────
+  const footer = document.createElement('footer');
+  footer.className = 'mt-12 py-4 text-center text-xs text-gray-400 border-t border-gray-200';
+  footer.innerHTML = `&copy; ${new Date().getFullYear()} HILKA. All rights reserved.`;
+  container.appendChild(footer);
+
   // ── Loading state ─────────────────────────────────────────────────────────
   chapterListArea.innerHTML = `
     <div class="flex flex-col items-center justify-center py-16 text-gray-500">
