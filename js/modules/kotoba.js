@@ -43,11 +43,11 @@ function renderKotoba(container, chapterData) {
 
   for (const vocab of sorted) {
     const card = document.createElement('div');
-    card.className = 'bg-white border border-gray-200 rounded-xl p-4 shadow-sm flex items-start gap-4';
+    card.className = 'bg-white border border-gray-200 rounded-xl p-4 shadow-sm flex items-start gap-3';
 
     // Left: Japanese text block
     const textBlock = document.createElement('div');
-    textBlock.className = 'flex-1 min-w-0';
+    textBlock.className = 'flex-1 min-w-0 overflow-hidden';
 
     if (vocab.kanji && vocab.kanji !== '') {
       const kanji = document.createElement('p');
@@ -81,7 +81,7 @@ function renderKotoba(container, chapterData) {
     rightBlock.appendChild(badge);
 
     const meaning = document.createElement('p');
-    meaning.className = 'text-sm text-gray-700 text-right';
+    meaning.className = 'text-sm text-gray-700 text-right max-w-[120px] break-words';
     meaning.textContent = vocab.meaning;
     rightBlock.appendChild(meaning);
 

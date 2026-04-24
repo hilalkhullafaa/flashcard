@@ -50,18 +50,18 @@ function renderFlashcard(container, chapterData) {
 
   // Buttons row
   const btnRow = document.createElement('div');
-  btnRow.className = 'flex gap-3';
+  btnRow.className = 'flex flex-wrap justify-center gap-2 w-full max-w-sm';
 
   const btnPrev = document.createElement('button');
-  btnPrev.className = 'px-4 py-2 rounded-lg bg-gray-100 hover:bg-gray-200 text-gray-700 text-sm font-medium transition-colors';
+  btnPrev.className = 'flex-1 min-w-[100px] px-3 py-2 rounded-lg bg-gray-100 hover:bg-gray-200 text-gray-700 text-sm font-medium transition-colors';
   btnPrev.textContent = '← Sebelumnya';
 
   const btnNext = document.createElement('button');
-  btnNext.className = 'px-4 py-2 rounded-lg bg-indigo-600 hover:bg-indigo-700 text-white text-sm font-medium transition-colors';
+  btnNext.className = 'flex-1 min-w-[100px] px-3 py-2 rounded-lg bg-indigo-600 hover:bg-indigo-700 text-white text-sm font-medium transition-colors';
   btnNext.textContent = 'Berikutnya →';
 
   const btnShuffle = document.createElement('button');
-  btnShuffle.className = 'px-4 py-2 rounded-lg bg-gray-100 hover:bg-gray-200 text-gray-700 text-sm font-medium transition-colors';
+  btnShuffle.className = 'w-full px-3 py-2 rounded-lg bg-gray-100 hover:bg-gray-200 text-gray-700 text-sm font-medium transition-colors';
   btnShuffle.textContent = '🔀 Acak';
 
   btnRow.appendChild(btnPrev);
