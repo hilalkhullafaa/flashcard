@@ -203,6 +203,191 @@
       "question": "Apa arti kata 'たてもの' (tatemono)?",
       "choices": ["taman", "kolam renang", "gedung/bangunan", "kamar"],
       "correctIndex": 2
+    },
+    {
+      "id": "ch14_v01",
+      "chapterId": 14,
+      "order": 12,
+      "question": "Bagaimana cara membaca kanji '部屋'?",
+      "choices": ["へや", "べや", "ぶや", "ふや"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch14_v02",
+      "chapterId": 14,
+      "order": 13,
+      "question": "Bagaimana cara membaca kanji '公園'?",
+      "choices": ["こうえん", "こえん", "くえん", "きょうえん"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch14_v03",
+      "chapterId": 14,
+      "order": 14,
+      "question": "Bagaimana cara membaca kanji '橋'?",
+      "choices": ["かし", "はし", "かわ", "やま"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch14_v04",
+      "chapterId": 14,
+      "order": 15,
+      "question": "Apa arti kata 'よこ' (yoko)?",
+      "choices": ["depan", "belakang", "samping", "atas"],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch14_v05",
+      "chapterId": 14,
+      "order": 16,
+      "question": "Apa arti kata 'しんごう' (shingou)?",
+      "choices": ["jembatan", "lampu lalu lintas", "sungai", "sudut"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch14_v06",
+      "chapterId": 14,
+      "order": 17,
+      "question": "Apa arti kata 'もり' (mori)?",
+      "choices": ["gunung", "laut", "hutan", "sungai"],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch14_v07",
+      "chapterId": 14,
+      "order": 18,
+      "question": "Pilih kata yang tepat: こうえんに こどもが ___ います。(Ada anak-anak di taman)",
+      "choices": ["あります", "います", "できます", "します"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch14_v08",
+      "chapterId": 14,
+      "order": 19,
+      "question": "Pilih kata yang tepat: へやに テレビが ___ あります。(Ada tiga televisi di kamar)",
+      "choices": ["さんにん", "みっつ", "さんまい", "さんぼん"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch14_g01",
+      "chapterId": 14,
+      "order": 20,
+      "question": "Pilih partikel yang tepat: へや___ テレビが あります。",
+      "choices": ["を", "が", "に", "で"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch14_g02",
+      "chapterId": 14,
+      "order": 21,
+      "question": "Verba mana yang digunakan untuk benda mati?",
+      "choices": ["います", "あります", "Keduanya bisa", "Tidak ada yang benar"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch14_g03",
+      "chapterId": 14,
+      "order": 22,
+      "question": "Pilih partikel yang tepat: トイレ___ あそこに あります。",
+      "choices": ["を", "が", "は", "に"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch14_g04",
+      "chapterId": 14,
+      "order": 23,
+      "question": "Kata tanya apa yang digunakan untuk menanyakan jumlah benda?",
+      "choices": ["なんにん", "いくつ", "なんまい", "なんぼん"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch14_g05",
+      "chapterId": 14,
+      "order": 24,
+      "question": "Lengkapi kalimat: クラスに がくせいが じゅうごにん ___ います。",
+      "choices": ["を", "が", "に", "で"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch14_g06",
+      "chapterId": 14,
+      "order": 25,
+      "question": "Verba mana yang digunakan untuk hewan?",
+      "choices": ["あります", "います", "Keduanya bisa", "Tidak ada yang benar"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch14_g07",
+      "chapterId": 14,
+      "order": 26,
+      "question": "Pola grammar apa yang digunakan untuk menyatakan 'di mana N berada'?",
+      "choices": ["N に N が あります", "N は N に あります", "N で N が あります", "N を N に あります"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch14_g08",
+      "chapterId": 14,
+      "order": 27,
+      "question": "Bagaimana cara mengatakan 'Ada 15 siswa di kelas'?",
+      "choices": [
+        "クラスに がくせいが じゅうご あります。",
+        "クラスに がくせいが じゅうごにん います。",
+        "クラスで がくせいが じゅうごにん います。",
+        "クラスを がくせいが じゅうごにん います。"
+      ],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch14_r01",
+      "chapterId": 14,
+      "order": 28,
+      "question": "へやに つくえが ひとつ あります。いすが みっつ あります。\n\nへやに いすが いくつ ありますか。",
+      "choices": ["ひとつ", "ふたつ", "みっつ", "よっつ"],
+      "correctIndex": 2,
+      "category": "reading"
+    },
+    {
+      "id": "ch14_r02",
+      "chapterId": 14,
+      "order": 29,
+      "question": "こうえんに こどもが ごにん います。おとなが さんにん います。\n\nこうえんに ぜんぶで なんにん いますか。",
+      "choices": ["ごにん", "さんにん", "はちにん", "じゅうにん"],
+      "correctIndex": 2,
+      "category": "reading"
+    },
+    {
+      "id": "ch14_r03",
+      "chapterId": 14,
+      "order": 30,
+      "question": "ぎんこうは えきの まえに あります。ゆうびんきょくは えきの よこに あります。\n\nぎんこうは どこに ありますか。",
+      "choices": ["えきの まえ", "えきの よこ", "えきの うしろ", "えきの なか"],
+      "correctIndex": 0,
+      "category": "reading"
+    },
+    {
+      "id": "ch14_r04",
+      "chapterId": 14,
+      "order": 31,
+      "question": "わたしの へやに テレビが あります。つくえも あります。でも、ベッドは ありません。\n\nこのひとの へやに なにが ありませんか。",
+      "choices": ["テレビ", "つくえ", "ベッド", "いす"],
+      "correctIndex": 2,
+      "category": "reading"
     }
   ]
 }

@@ -220,6 +220,191 @@
       "question": "Apa arti kata 'ふるい' (furui)?",
       "choices": ["baru", "besar", "kecil", "lama/tua"],
       "correctIndex": 3
+    },
+    {
+      "id": "ch16_v01",
+      "chapterId": 16,
+      "order": 13,
+      "question": "Bagaimana cara membaca kanji '花見'?",
+      "choices": ["はなみ", "かみ", "はなび", "かび"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch16_v02",
+      "chapterId": 16,
+      "order": 14,
+      "question": "Bagaimana cara membaca kanji '買い物'?",
+      "choices": ["かいもの", "かもの", "かいぶつ", "かぶつ"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch16_v03",
+      "chapterId": 16,
+      "order": 15,
+      "question": "Bagaimana cara membaca kanji '楽しい'?",
+      "choices": ["うれしい", "たのしい", "かなしい", "やさしい"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch16_v04",
+      "chapterId": 16,
+      "order": 16,
+      "question": "Apa arti kata 'りょこう' (ryokou)?",
+      "choices": ["jalan-jalan", "makan (formal)", "perjalanan/wisata", "belanja"],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch16_v05",
+      "chapterId": 16,
+      "order": 17,
+      "question": "Apa arti kata 'おもしろい' (omoshiroi)?",
+      "choices": ["membosankan", "menarik/lucu", "sulit", "mudah"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch16_v06",
+      "chapterId": 16,
+      "order": 18,
+      "question": "Apa arti kata 'つまらない' (tsumaranai)?",
+      "choices": ["menyenangkan", "menarik", "membosankan", "sulit"],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch16_v07",
+      "chapterId": 16,
+      "order": 19,
+      "question": "Pilih kata yang tepat: ゆきまつりを ___ に いきます。(Saya pergi untuk melihat festival salju)",
+      "choices": ["み", "みる", "みて", "みます"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch16_v08",
+      "chapterId": 16,
+      "order": 20,
+      "question": "Pilih kata yang tepat: ___ りょうりを たべました。(Saya makan masakan yang enak)",
+      "choices": ["おいしい", "おいしな", "おいしくて", "おいしいな"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch16_g01",
+      "chapterId": 16,
+      "order": 21,
+      "question": "Pola grammar apa yang digunakan untuk menyatakan tujuan pergi?",
+      "choices": ["V ます に いきます", "V に いきます", "V て いきます", "V た に いきます"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch16_g02",
+      "chapterId": 16,
+      "order": 22,
+      "question": "Lengkapi kalimat: ともだちに あ___ きました。(Saya datang untuk bertemu teman)",
+      "choices": ["い に", "う に", "って", "います に"],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch16_g03",
+      "chapterId": 16,
+      "order": 23,
+      "question": "Bentuk negatif dari adjektiva-i 'たのしい' adalah...",
+      "choices": ["たのしくない", "たのしじゃない", "たのしでない", "たのしいない"],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch16_g04",
+      "chapterId": 16,
+      "order": 24,
+      "question": "Bagaimana cara mengatakan 'Saya pergi berbelanja'?",
+      "choices": [
+        "かいものを かい に いきます。",
+        "かいものを し に いきます。",
+        "かいものを して いきます。",
+        "かいものを する に いきます。"
+      ],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch16_g05",
+      "chapterId": 16,
+      "order": 25,
+      "question": "Adjektiva-i dapat memodifikasi nomina dengan...",
+      "choices": ["menambahkan な", "menambahkan の", "langsung sebelum nomina", "menambahkan で"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch16_g06",
+      "chapterId": 16,
+      "order": 26,
+      "question": "Bentuk negatif dari adjektiva-i 'いい' (bagus) adalah...",
+      "choices": ["いくない", "いいくない", "よくない", "いじゃない"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch16_g07",
+      "chapterId": 16,
+      "order": 27,
+      "question": "Lengkapi kalimat: このえいがは おもしろ___ です。(Film ini menarik)",
+      "choices": ["い", "な", "く", "で"],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch16_g08",
+      "chapterId": 16,
+      "order": 28,
+      "question": "Bagaimana cara mengatakan 'buku baru'?",
+      "choices": ["あたらしい ほん", "あたらしな ほん", "ほんな あたらしい", "ほんの あたらしい"],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch16_r01",
+      "chapterId": 16,
+      "order": 29,
+      "question": "わたしは ゆきまつりを み に ほっかいどうへ いきました。とても たのしかったです。\n\nこのひとは なにを し に ほっかいどうへ いきましたか。",
+      "choices": ["かいもの", "しょくじ", "ゆきまつりを みること", "さんぽ"],
+      "correctIndex": 2,
+      "category": "reading"
+    },
+    {
+      "id": "ch16_r02",
+      "chapterId": 16,
+      "order": 30,
+      "question": "きのう ともだちに あい に えきへ いきました。いっしょに えいがを みました。\n\nこのひとは きのう なにを しましたか。",
+      "choices": ["かいもの", "ともだちに あって、えいがを みました", "さんぽ", "べんきょう"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch16_r03",
+      "chapterId": 16,
+      "order": 31,
+      "question": "このえいがは とても おもしろいです。でも、あのえいがは つまらないです。\n\nどのえいがが おもしろいですか。",
+      "choices": ["このえいが", "あのえいが", "そのえいが", "どのえいが"],
+      "correctIndex": 0,
+      "category": "reading"
+    },
+    {
+      "id": "ch16_r04",
+      "chapterId": 16,
+      "order": 32,
+      "question": "あたらしい ほんを かいました。とても おもしろいです。まいにち よんでいます。\n\nこのひとの ほんは どうですか。",
+      "choices": ["ふるくて つまらない", "あたらしくて おもしろい", "ふるくて おもしろい", "あたらしくて つまらない"],
+      "correctIndex": 1,
+      "category": "reading"
     }
   ]
 }

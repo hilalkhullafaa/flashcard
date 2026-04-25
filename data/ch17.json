@@ -223,6 +223,186 @@
       "question": "Apa arti kata 'べんり' (benri)?",
       "choices": ["tidak praktis", "terkenal", "cantik/bersih", "praktis/nyaman"],
       "correctIndex": 3
+    },
+    {
+      "id": "ch17_v01",
+      "chapterId": 17,
+      "order": 13,
+      "question": "Bagaimana cara membaca kanji '綺麗'?",
+      "choices": ["きれい", "しずか", "にぎやか", "べんり"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch17_v02",
+      "chapterId": 17,
+      "order": 14,
+      "question": "Bagaimana cara membaca kanji '静か'?",
+      "choices": ["きれい", "しずか", "にぎやか", "ゆうめい"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch17_v03",
+      "chapterId": 17,
+      "order": 15,
+      "question": "Bagaimana cara membaca kanji '有名'?",
+      "choices": ["ゆうめい", "たいせつ", "じょうず", "へた"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch17_v04",
+      "chapterId": 17,
+      "order": 16,
+      "question": "Apa arti kata 'にぎやか' (nigiyaka)?",
+      "choices": ["tenang/sepi", "ramai/meriah", "praktis", "terkenal"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch17_v05",
+      "chapterId": 17,
+      "order": 17,
+      "question": "Apa arti kata 'ふべん' (fuben)?",
+      "choices": ["praktis", "tidak praktis", "terkenal", "penting"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch17_v06",
+      "chapterId": 17,
+      "order": 18,
+      "question": "Apa arti kata 'たいせつ' (taisetsu)?",
+      "choices": ["suka", "tidak suka", "penting/berharga", "terkenal"],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch17_v07",
+      "chapterId": 17,
+      "order": 19,
+      "question": "Pilih kata yang tepat: このまちは とても ___です。(Kota ini sangat tenang)",
+      "choices": ["しずか", "しずかい", "しずかな", "しずく"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch17_v08",
+      "chapterId": 17,
+      "order": 20,
+      "question": "Pilih kata yang tepat: わたしは にほんごが ___です。(Saya pandai bahasa Jepang)",
+      "choices": ["へた", "じょうず", "すき", "きらい"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch17_g01",
+      "chapterId": 17,
+      "order": 21,
+      "question": "Pilih partikel yang tepat: とうきょう___ おおさかのほうが にぎやかです。",
+      "choices": ["は", "が", "より", "で"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch17_g02",
+      "chapterId": 17,
+      "order": 22,
+      "question": "Pilih partikel yang tepat: くだものの中で りんご___ いちばん すきです。",
+      "choices": ["は", "が", "を", "に"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch17_g03",
+      "chapterId": 17,
+      "order": 23,
+      "question": "Pilih partikel yang tepat: なつと ふゆと どちら___ すきですか。",
+      "choices": ["は", "が", "の", "のほうが"],
+      "correctIndex": 3,
+      "category": "grammar"
+    },
+    {
+      "id": "ch17_g04",
+      "chapterId": 17,
+      "order": 24,
+      "question": "Lengkapi kalimat: このへやは しずか___ ありません。",
+      "choices": ["では", "くは", "いは", "なは"],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch17_g05",
+      "chapterId": 17,
+      "order": 25,
+      "question": "Lengkapi kalimat: バスより でんしゃ___ はやいです。",
+      "choices": ["は", "が", "のほうが", "より"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch17_g06",
+      "chapterId": 17,
+      "order": 26,
+      "question": "Lengkapi kalimat: いちねん___ いつが いちばん すきですか。",
+      "choices": ["は", "が", "で", "に"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch17_g07",
+      "chapterId": 17,
+      "order": 27,
+      "question": "Pola grammar apa yang digunakan dalam 'バスより でんしゃのほうが はやいです'?",
+      "choices": ["N は N です", "A より B のほうが [adjektiva] です", "N の中で N が いちばん [adjektiva] です", "N も N です"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch17_g08",
+      "chapterId": 17,
+      "order": 28,
+      "question": "Pola grammar apa yang digunakan dalam 'くだものの中で りんごが いちばん すきです'?",
+      "choices": ["A より B のほうが [adjektiva] です", "N は N です", "N の中で N が いちばん [adjektiva] です", "N も N です"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch17_r01",
+      "chapterId": 17,
+      "order": 29,
+      "question": "わたしは しずかな まちが すきです。にぎやかな まちは あまり すきじゃありません。\n\nこのひとは どんな まちが すきですか。",
+      "choices": ["にぎやかな まち", "しずかな まち", "ゆうめいな まち", "べんりな まち"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch17_r02",
+      "chapterId": 17,
+      "order": 30,
+      "question": "コーヒーと おちゃと どちらのほうが すきですか。おちゃのほうが すきです。\n\nこのひとは なにが すきですか。",
+      "choices": ["コーヒー", "おちゃ", "みず", "ジュース"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch17_r03",
+      "chapterId": 17,
+      "order": 31,
+      "question": "いちねんで はるが いちばん すきです。はなが きれいです。てんきも いいです。\n\nこのひとは いつが いちばん すきですか。",
+      "choices": ["はる", "なつ", "あき", "ふゆ"],
+      "correctIndex": 0,
+      "category": "reading"
+    },
+    {
+      "id": "ch17_r04",
+      "chapterId": 17,
+      "order": 32,
+      "question": "たなかさんは にほんごが じょうずです。でも、えいごは あまり じょうずじゃありません。\n\nたなかさんは なにが じょうずですか。",
+      "choices": ["えいご", "にほんご", "ちゅうごくご", "かんこくご"],
+      "correctIndex": 1,
+      "category": "reading"
     }
   ]
 }

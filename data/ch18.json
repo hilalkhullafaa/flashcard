@@ -231,6 +231,186 @@
         "よやくを したら どうですか。"
       ],
       "correctIndex": 2
+    },
+    {
+      "id": "ch18_v01",
+      "chapterId": 18,
+      "order": 13,
+      "question": "Bagaimana cara membaca kanji '送ります'?",
+      "choices": ["うけとります", "おくります", "もうしこみます", "とりかえます"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch18_v02",
+      "chapterId": 18,
+      "order": 14,
+      "question": "Bagaimana cara membaca kanji '荷物'?",
+      "choices": ["にもつ", "こづつみ", "ふうとう", "はがき"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch18_v03",
+      "chapterId": 18,
+      "order": 15,
+      "question": "Bagaimana cara membaca kanji '切手'?",
+      "choices": ["はがき", "ふうとう", "きって", "かきとめ"],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch18_v04",
+      "chapterId": 18,
+      "order": 16,
+      "question": "Apa arti kata 'うけとります' (uketorimasu)?",
+      "choices": ["mengirim", "menerima/mengambil", "mendaftar", "menukar"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch18_v05",
+      "chapterId": 18,
+      "order": 17,
+      "question": "Apa arti kata 'こづつみ' (kozutsumi)?",
+      "choices": ["perangko", "kartu pos", "paket/bungkusan", "amplop"],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch18_v06",
+      "chapterId": 18,
+      "order": 18,
+      "question": "Apa arti kata 'ふうとう' (fuutou)?",
+      "choices": ["amplop", "kartu pos", "perangko", "surat tercatat"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch18_v07",
+      "chapterId": 18,
+      "order": 19,
+      "question": "Pilih kata yang tepat: にもつを ___たいんですが。(Saya ingin mengirim barang)",
+      "choices": ["うけとり", "おくり", "もうしこみ", "よやく"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch18_v08",
+      "chapterId": 18,
+      "order": 20,
+      "question": "Pilih kata yang tepat: これを ___して ほしいんですが。(Saya ingin Anda memperbaiki ini)",
+      "choices": ["しゅうり", "よやく", "もうしこみ", "とりかえ"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch18_g01",
+      "chapterId": 18,
+      "order": 21,
+      "question": "Pilih bentuk yang tepat: にほんへ いき___んですが。(Saya ingin pergi ke Jepang)",
+      "choices": ["たい", "ます", "ました", "ません"],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch18_g02",
+      "chapterId": 18,
+      "order": 22,
+      "question": "Pilih bentuk yang tepat: はやく おくって ___んですが。(Saya ingin Anda mengirimnya dengan cepat)",
+      "choices": ["ください", "ほしい", "たい", "ましょう"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch18_g03",
+      "chapterId": 18,
+      "order": 23,
+      "question": "Pilih bentuk yang tepat: そくたつで おくっ___ どうですか。(Bagaimana kalau dikirim dengan pengiriman kilat?)",
+      "choices": ["て", "たら", "ます", "ました"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch18_g04",
+      "chapterId": 18,
+      "order": 24,
+      "question": "Lengkapi kalimat: きってを かい___んですが。(Saya ingin membeli perangko)",
+      "choices": ["ます", "たい", "ました", "ません"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch18_g05",
+      "chapterId": 18,
+      "order": 25,
+      "question": "Lengkapi kalimat: これを なおして ___んですが。(Saya ingin Anda memperbaiki ini)",
+      "choices": ["たい", "ほしい", "ください", "ましょう"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch18_g06",
+      "chapterId": 18,
+      "order": 26,
+      "question": "Lengkapi kalimat: かきとめで だし___ どうですか。(Bagaimana kalau dikirim sebagai surat tercatat?)",
+      "choices": ["て", "ます", "たら", "ました"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch18_g07",
+      "chapterId": 18,
+      "order": 27,
+      "question": "Pola grammar apa yang digunakan dalam 'にもつを おくりたいんですが'?",
+      "choices": ["V ます", "V たいんですが", "V てください", "V ましょう"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch18_g08",
+      "chapterId": 18,
+      "order": 28,
+      "question": "Pola grammar apa yang digunakan dalam 'はやく おくって ほしいんですが'?",
+      "choices": ["V てください", "V たいんですが", "V てほしいんですが", "V たらどうですか"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch18_r01",
+      "chapterId": 18,
+      "order": 29,
+      "question": "わたしは ゆうびんきょくへ いきました。きってを かいました。はがきも かいました。\n\nわたしは なにを かいましたか。",
+      "choices": ["きってだけ", "はがきだけ", "きってと はがき", "ふうとう"],
+      "correctIndex": 2,
+      "category": "reading"
+    },
+    {
+      "id": "ch18_r02",
+      "chapterId": 18,
+      "order": 30,
+      "question": "たなかさんは にもつを おくりたいんですが、どうすれば いいですか わかりません。ゆうびんきょくの ひとに ききました。\n\nたなかさんは だれに ききましたか。",
+      "choices": ["ともだち", "せんせい", "ゆうびんきょくの ひと", "かぞく"],
+      "correctIndex": 2,
+      "category": "reading"
+    },
+    {
+      "id": "ch18_r03",
+      "chapterId": 18,
+      "order": 31,
+      "question": "わたしの とけいが こわれました。しゅうりして ほしいんですが、どこで しゅうりできますか。\n\nなにが こわれましたか。",
+      "choices": ["カメラ", "とけい", "パソコン", "でんわ"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch18_r04",
+      "chapterId": 18,
+      "order": 32,
+      "question": "A: にもつを はやく おくりたいんですが。\nB: そくたつで おくったら どうですか。\n\nBさんは なにを すすめましたか。",
+      "choices": ["かきとめ", "そくたつ", "ふつう", "こづつみ"],
+      "correctIndex": 1,
+      "category": "reading"
     }
   ]
 }

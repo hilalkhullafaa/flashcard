@@ -220,6 +220,186 @@
       "question": "Apa arti kata 'えんぴつ' (enpitsu)?",
       "choices": ["pulpen", "pensil mekanik", "pensil", "spidol"],
       "correctIndex": 2
+    },
+    {
+      "id": "ch02_v01",
+      "chapterId": 2,
+      "order": 11,
+      "question": "Bagaimana cara membaca kanji '本'?",
+      "choices": ["ほん", "もと", "ぼん", "ぽん"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch02_v02",
+      "chapterId": 2,
+      "order": 12,
+      "question": "Bagaimana cara membaca kanji '辞書'?",
+      "choices": ["じしょ", "じしゃ", "ちしょ", "ちしゃ"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch02_v03",
+      "chapterId": 2,
+      "order": 13,
+      "question": "Bagaimana cara membaca kanji '時計'?",
+      "choices": ["ときけい", "とけい", "じけい", "じかん"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch02_v04",
+      "chapterId": 2,
+      "order": 14,
+      "question": "Apa arti kata 'かばん'?",
+      "choices": ["payung", "tas", "kunci", "kursi"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch02_v05",
+      "chapterId": 2,
+      "order": 15,
+      "question": "Apa arti kata 'しんぶん'?",
+      "choices": ["majalah", "buku", "koran", "kamus"],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch02_v06",
+      "chapterId": 2,
+      "order": 16,
+      "question": "Apa arti kata 'くるま'?",
+      "choices": ["sepeda", "mobil", "motor", "bus"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch02_v07",
+      "chapterId": 2,
+      "order": 17,
+      "question": "Pilih kata yang tepat: これは ___です。(Ini adalah kamus)",
+      "choices": ["ほん", "じしょ", "ざっし", "しんぶん"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch02_v08",
+      "chapterId": 2,
+      "order": 18,
+      "question": "Pilih kata yang tepat: それは ___です。(Itu adalah pensil)",
+      "choices": ["ボールペン", "えんぴつ", "ノート", "かぎ"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch02_g01",
+      "chapterId": 2,
+      "order": 19,
+      "question": "Pilih partikel yang tepat: これ___ ほんです。",
+      "choices": ["は", "が", "を", "に"],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch02_g02",
+      "chapterId": 2,
+      "order": 20,
+      "question": "Pilih partikel yang tepat: これは にほんご___ ほんです。",
+      "choices": ["は", "も", "の", "が"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch02_g03",
+      "chapterId": 2,
+      "order": 21,
+      "question": "Pilih partikel yang tepat: それは ミラーさん___ かばんです。",
+      "choices": ["は", "の", "も", "を"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch02_g04",
+      "chapterId": 2,
+      "order": 22,
+      "question": "Lengkapi kalimat: これは じしょ___、ほんですか。",
+      "choices": ["です", "ですか", "でした", "では"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch02_g05",
+      "chapterId": 2,
+      "order": 23,
+      "question": "Lengkapi kalimat: あれ___ テレビです。",
+      "choices": ["が", "を", "は", "に"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch02_g06",
+      "chapterId": 2,
+      "order": 24,
+      "question": "Lengkapi kalimat: この かばんは わたし___ です。",
+      "choices": ["は", "が", "の", "を"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch02_g07",
+      "chapterId": 2,
+      "order": 25,
+      "question": "Pola grammar apa yang digunakan dalam 'これは ほんです'?",
+      "choices": ["これ/それ/あれ は N です", "この/その/あの N です", "N は N の N です", "N も N です"],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch02_g08",
+      "chapterId": 2,
+      "order": 26,
+      "question": "Pola grammar apa yang digunakan dalam 'これは にほんごの ほんです'?",
+      "choices": ["これ/それ/あれ は N です", "N は N の N です", "N も N です", "N は N ですか"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch02_r01",
+      "chapterId": 2,
+      "order": 27,
+      "question": "これは わたしの ほんです。にほんごの ほんです。\n\nこの ほんは なんの ほんですか。",
+      "choices": ["えいごの ほん", "にほんごの ほん", "ちゅうごくごの ほん", "かんこくごの ほん"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch02_r02",
+      "chapterId": 2,
+      "order": 28,
+      "question": "それは ミラーさんの かばんです。あれは サントスさんの かばんです。\n\nミラーさんの かばんは どれですか。",
+      "choices": ["これ", "それ", "あれ", "どれ"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch02_r03",
+      "chapterId": 2,
+      "order": 29,
+      "question": "これは えんぴつですか、ボールペンですか。それは えんぴつです。\n\nそれは なんですか。",
+      "choices": ["ボールペン", "えんぴつ", "ノート", "かぎ"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch02_r04",
+      "chapterId": 2,
+      "order": 30,
+      "question": "あれは テレビです。これは ラジオです。\n\nテレビは どれですか。",
+      "choices": ["これ", "それ", "あれ", "この"],
+      "correctIndex": 2,
+      "category": "reading"
     }
   ]
 }

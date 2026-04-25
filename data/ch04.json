@@ -200,6 +200,186 @@
       "question": "Apa arti kata 'べんきょうします' (benkyou shimasu)?",
       "choices": ["bekerja", "istirahat", "belajar", "tidur"],
       "correctIndex": 2
+    },
+    {
+      "id": "ch04_v01",
+      "chapterId": 4,
+      "order": 11,
+      "question": "Bagaimana cara membaca kanji '起きます'?",
+      "choices": ["おきます", "あきます", "いきます", "ひきます"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch04_v02",
+      "chapterId": 4,
+      "order": 12,
+      "question": "Bagaimana cara membaca kanji '働きます'?",
+      "choices": ["はたらきます", "あたらきます", "わたらきます", "たたらきます"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch04_v03",
+      "chapterId": 4,
+      "order": 13,
+      "question": "Bagaimana cara membaca kanji '毎日'?",
+      "choices": ["まいにち", "まいび", "まいひ", "まいじつ"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch04_v04",
+      "chapterId": 4,
+      "order": 14,
+      "question": "Apa arti kata 'ねます'?",
+      "choices": ["bangun", "tidur", "bekerja", "istirahat"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch04_v05",
+      "chapterId": 4,
+      "order": 15,
+      "question": "Apa arti kata 'おわります'?",
+      "choices": ["mulai", "selesai", "bekerja", "belajar"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch04_v06",
+      "chapterId": 4,
+      "order": 16,
+      "question": "Apa arti kata 'けさ'?",
+      "choices": ["pagi ini", "malam ini", "siang ini", "sore ini"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch04_v07",
+      "chapterId": 4,
+      "order": 17,
+      "question": "Pilih kata yang tepat: わたしは まいあさ 6じに ___。(Saya bangun jam 6 setiap pagi)",
+      "choices": ["ねます", "おきます", "はたらきます", "やすみます"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch04_v08",
+      "chapterId": 4,
+      "order": 18,
+      "question": "Pilih kata yang tepat: じゅぎょうは 9じに ___。(Pelajaran dimulai jam 9)",
+      "choices": ["おわります", "はじまります", "やすみます", "ねます"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch04_g01",
+      "chapterId": 4,
+      "order": 19,
+      "question": "Pilih partikel yang tepat: わたしは 7じ___ おきます。",
+      "choices": ["は", "が", "に", "を"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch04_g02",
+      "chapterId": 4,
+      "order": 20,
+      "question": "Pilih partikel yang tepat: 9じ___ 5じまで はたらきます。",
+      "choices": ["は", "に", "から", "で"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch04_g03",
+      "chapterId": 4,
+      "order": 21,
+      "question": "Pilih partikel yang tepat: げつようび___ きんようびまで べんきょうします。",
+      "choices": ["は", "に", "から", "で"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch04_g04",
+      "chapterId": 4,
+      "order": 22,
+      "question": "Lengkapi kalimat: しごとは 5じ___ おわります。",
+      "choices": ["は", "が", "に", "を"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch04_g05",
+      "chapterId": 4,
+      "order": 23,
+      "question": "Lengkapi kalimat: まいにち なんじ___ ねますか。",
+      "choices": ["は", "が", "に", "を"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch04_g06",
+      "chapterId": 4,
+      "order": 24,
+      "question": "Lengkapi kalimat: 9じから 12じ___ べんきょうします。",
+      "choices": ["は", "まで", "から", "に"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch04_g07",
+      "chapterId": 4,
+      "order": 25,
+      "question": "Pola grammar apa yang digunakan dalam 'わたしは 6じに おきます'?",
+      "choices": ["N は N じ に V", "N から N まで", "N は なんじに V ますか", "N は N です"],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch04_g08",
+      "chapterId": 4,
+      "order": 26,
+      "question": "Pola grammar apa yang digunakan dalam '9じから 5じまで はたらきます'?",
+      "choices": ["N は N じ に V", "N から N まで", "N は なんじに V ますか", "N は N です"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch04_r01",
+      "chapterId": 4,
+      "order": 27,
+      "question": "わたしは まいあさ 6じに おきます。7じに うちを でます。\n\nなんじに おきますか。",
+      "choices": ["5じ", "6じ", "7じ", "8じ"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch04_r02",
+      "chapterId": 4,
+      "order": 28,
+      "question": "しごとは 9じから 5じまでです。12じから 1じまで やすみます。\n\nしごとは なんじに おわりますか。",
+      "choices": ["9じ", "12じ", "1じ", "5じ"],
+      "correctIndex": 3,
+      "category": "reading"
+    },
+    {
+      "id": "ch04_r03",
+      "chapterId": 4,
+      "order": 29,
+      "question": "げつようびから きんようびまで はたらきます。どようびと にちようびは やすみです。\n\nなんようびに やすみますか。",
+      "choices": ["げつようび", "きんようび", "どようびと にちようび", "すいようび"],
+      "correctIndex": 2,
+      "category": "reading"
+    },
+    {
+      "id": "ch04_r04",
+      "chapterId": 4,
+      "order": 30,
+      "question": "じゅぎょうは ごぜん 9じに はじまります。ごご 3じに おわります。\n\nじゅぎょうは なんじに はじまりますか。",
+      "choices": ["ごぜん 9じ", "ごご 9じ", "ごぜん 3じ", "ごご 3じ"],
+      "correctIndex": 0,
+      "category": "reading"
     }
   ]
 }

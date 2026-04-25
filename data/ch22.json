@@ -232,6 +232,186 @@
       "question": "Apa arti kata 'ゆたか' (yutaka)?",
       "choices": ["bahagia", "sehat", "makmur/kaya", "rajin belajar"],
       "correctIndex": 2
+    },
+    {
+      "id": "ch22_v01",
+      "chapterId": 22,
+      "order": 11,
+      "question": "Bagaimana cara membaca kanji '大人'?",
+      "choices": ["こども", "おとな", "わかもの", "としより"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch22_v02",
+      "chapterId": 22,
+      "order": 12,
+      "question": "Bagaimana cara membaca kanji '健康'?",
+      "choices": ["げんき", "けんこう", "びょうき", "しあわせ"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch22_v03",
+      "chapterId": 22,
+      "order": 13,
+      "question": "Bagaimana cara membaca kanji '幸せ'?",
+      "choices": ["しあわせ", "ふしあわせ", "ゆたか", "げんき"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch22_v04",
+      "chapterId": 22,
+      "order": 14,
+      "question": "Apa arti kata 'としより' (toshiyori)?",
+      "choices": ["anak-anak", "anak muda", "orang dewasa", "orang tua/lansia"],
+      "correctIndex": 3,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch22_v05",
+      "chapterId": 22,
+      "order": 15,
+      "question": "Apa arti kata 'だんだん' (dandan)?",
+      "choices": ["sepenuhnya", "semakin lama semakin", "cukup banyak", "tiba-tiba"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch22_v06",
+      "chapterId": 22,
+      "order": 16,
+      "question": "Apa arti kata 'すっかり' (sukkari)?",
+      "choices": ["semakin lama semakin", "sepenuhnya/sama sekali", "cukup banyak", "sedikit"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch22_v07",
+      "chapterId": 22,
+      "order": 17,
+      "question": "Pilih kata yang tepat: かれは ___に なりました。(Dia menjadi dokter)",
+      "choices": ["がくせい", "いしゃ", "こども", "わかもの"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch22_v08",
+      "chapterId": 22,
+      "order": 18,
+      "question": "Pilih kata yang tepat: ___が くらく なりました。(Di luar menjadi gelap)",
+      "choices": ["なか", "そと", "うえ", "した"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch22_g01",
+      "chapterId": 22,
+      "order": 19,
+      "question": "Pilih partikel yang tepat: にほんご___ じょうずに なりました。",
+      "choices": ["は", "が", "を", "で"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch22_g02",
+      "chapterId": 22,
+      "order": 20,
+      "question": "Pilih partikel yang tepat: へや___ きれいに しました。",
+      "choices": ["は", "が", "を", "に"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch22_g03",
+      "chapterId": 22,
+      "order": 21,
+      "question": "Pilih partikel yang tepat: かれは いしゃ___ なりました。",
+      "choices": ["は", "が", "を", "に"],
+      "correctIndex": 3,
+      "category": "grammar"
+    },
+    {
+      "id": "ch22_g04",
+      "chapterId": 22,
+      "order": 22,
+      "question": "Lengkapi kalimat: そとが くら___ なりました。",
+      "choices": ["い", "く", "な", "に"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch22_g05",
+      "chapterId": 22,
+      "order": 23,
+      "question": "Lengkapi kalimat: おとを おおき___ して ください。",
+      "choices": ["い", "く", "な", "に"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch22_g06",
+      "chapterId": 22,
+      "order": 24,
+      "question": "Lengkapi kalimat: にほんごが はなせる___ なりました。",
+      "choices": ["ように", "ような", "ように に", "ような に"],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch22_g07",
+      "chapterId": 22,
+      "order": 25,
+      "question": "Pola grammar apa yang digunakan dalam 'にほんごが じょうずに なりました'?",
+      "choices": ["N に します", "N に なります", "V ように します", "V ように なります"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch22_g08",
+      "chapterId": 22,
+      "order": 26,
+      "question": "Pola grammar apa yang digunakan dalam 'まいにち うんどうするように なりました'?",
+      "choices": ["N に します", "N に なります", "V ように します", "V ように なります"],
+      "correctIndex": 3,
+      "category": "grammar"
+    },
+    {
+      "id": "ch22_r01",
+      "chapterId": 22,
+      "order": 27,
+      "question": "たなかさんは まいにち にほんごを べんきょうして います。だんだん じょうずに なりました。\n\nたなかさんの にほんごは どうですか。",
+      "choices": ["まだ へたです", "すこし じょうずに なりました", "ぜんぜん わかりません", "もう べんきょうして いません"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch22_r02",
+      "chapterId": 22,
+      "order": 28,
+      "question": "こどもは おとなに なります。わかものは としよりに なります。\n\nこの ぶんしょうは なにに ついて はなして いますか。",
+      "choices": ["しごとの へんか", "ひとの せいちょう", "けんこうの もんだい", "がっこうの べんきょう"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch22_r03",
+      "chapterId": 22,
+      "order": 29,
+      "question": "やまださんは まいにち うんどうして います。すっかり げんきに なりました。\n\nやまださんは いま どうですか。",
+      "choices": ["びょうきです", "げんきです", "つかれて います", "ねて います"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch22_r04",
+      "chapterId": 22,
+      "order": 30,
+      "question": "わたしは からいものが たべられませんでした。でも、いま たべられるように なりました。\n\nこの ひとは いま からいものを たべられますか。",
+      "choices": ["はい、たべられます", "いいえ、たべられません", "すこしだけ たべられます", "ぜんぜん たべません"],
+      "correctIndex": 0,
+      "category": "reading"
     }
   ]
 }

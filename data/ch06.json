@@ -211,6 +211,186 @@
       "question": "Apa arti ungkapan 'ひとりで' (hitori de)?",
       "choices": ["bersama-sama", "sendirian", "bersama teman", "dengan keluarga"],
       "correctIndex": 1
+    },
+    {
+      "id": "ch06_v01",
+      "chapterId": 6,
+      "order": 11,
+      "question": "Bagaimana cara membaca kanji '食べます'?",
+      "choices": ["たべます", "のべます", "しょくべます", "くべます"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch06_v02",
+      "chapterId": 6,
+      "order": 12,
+      "question": "Bagaimana cara membaca kanji '飲みます'?",
+      "choices": ["のみます", "いみます", "よみます", "すみます"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch06_v03",
+      "chapterId": 6,
+      "order": 13,
+      "question": "Bagaimana cara membaca kanji '見ます'?",
+      "choices": ["きます", "みます", "にます", "ひます"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch06_v04",
+      "chapterId": 6,
+      "order": 14,
+      "question": "Apa arti kata 'ごはん'?",
+      "choices": ["roti", "nasi/makanan", "daging", "ikan"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch06_v05",
+      "chapterId": 6,
+      "order": 15,
+      "question": "Apa arti kata 'さかな'?",
+      "choices": ["daging", "ikan", "sayuran", "buah"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch06_v06",
+      "chapterId": 6,
+      "order": 16,
+      "question": "Apa arti kata 'くだもの'?",
+      "choices": ["sayuran", "daging", "buah-buahan", "minuman"],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch06_v07",
+      "chapterId": 6,
+      "order": 17,
+      "question": "Pilih kata yang tepat: わたしは まいあさ パンを ___。(Saya makan roti setiap pagi)",
+      "choices": ["のみます", "たべます", "よみます", "かきます"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch06_v08",
+      "chapterId": 6,
+      "order": 18,
+      "question": "Pilih kata yang tepat: コーヒーを ___。(Saya minum kopi)",
+      "choices": ["たべます", "のみます", "みます", "ききます"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch06_g01",
+      "chapterId": 6,
+      "order": 19,
+      "question": "Pilih partikel yang tepat: パン___ たべます。",
+      "choices": ["は", "に", "を", "で"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch06_g02",
+      "chapterId": 6,
+      "order": 20,
+      "question": "Pilih partikel yang tepat: うち___ テレビを みます。",
+      "choices": ["は", "に", "を", "で"],
+      "correctIndex": 3,
+      "category": "grammar"
+    },
+    {
+      "id": "ch06_g03",
+      "chapterId": 6,
+      "order": 21,
+      "question": "Pilih partikel yang tepat: としょかん___ ほんを よみます。",
+      "choices": ["は", "に", "を", "で"],
+      "correctIndex": 3,
+      "category": "grammar"
+    },
+    {
+      "id": "ch06_g04",
+      "chapterId": 6,
+      "order": 22,
+      "question": "Lengkapi kalimat: もう ばんごはん___ たべましたか。",
+      "choices": ["は", "が", "を", "に"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch06_g05",
+      "chapterId": 6,
+      "order": 23,
+      "question": "Lengkapi kalimat: まだ ___ たべていません。",
+      "choices": ["もう", "まだ", "いつも", "ときどき"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch06_g06",
+      "chapterId": 6,
+      "order": 24,
+      "question": "Lengkapi kalimat: はい、___ たべました。",
+      "choices": ["まだ", "もう", "ぜんぜん", "あまり"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch06_g07",
+      "chapterId": 6,
+      "order": 25,
+      "question": "Pola grammar apa yang digunakan dalam 'パンを たべます'?",
+      "choices": ["N を V", "N で V", "N に V", "N が V"],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch06_g08",
+      "chapterId": 6,
+      "order": 26,
+      "question": "Pola grammar apa yang digunakan dalam 'うちで テレビを みます'?",
+      "choices": ["N を V", "N で V", "N に V", "N が V"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch06_r01",
+      "chapterId": 6,
+      "order": 27,
+      "question": "わたしは まいあさ パンを たべます。コーヒーを のみます。\n\nあさごはんに なにを たべますか。",
+      "choices": ["ごはん", "パン", "たまご", "にく"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch06_r02",
+      "chapterId": 6,
+      "order": 28,
+      "question": "わたしは うちで テレビを みます。ともだちは としょかんで ほんを よみます。\n\nともだちは どこで ほんを よみますか。",
+      "choices": ["うち", "としょかん", "がっこう", "かいしゃ"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch06_r03",
+      "chapterId": 6,
+      "order": 29,
+      "question": "もう ばんごはんを たべましたか。いいえ、まだ たべていません。\n\nばんごはんを たべましたか。",
+      "choices": ["はい、たべました", "いいえ、まだです", "はい、もうです", "いいえ、たべます"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch06_r04",
+      "chapterId": 6,
+      "order": 30,
+      "question": "わたしは まいにち さかなを たべます。にくは あまり たべません。\n\nなにを まいにち たべますか。",
+      "choices": ["にく", "さかな", "やさい", "くだもの"],
+      "correctIndex": 1,
+      "category": "reading"
     }
   ]
 }

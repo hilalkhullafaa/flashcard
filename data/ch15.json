@@ -209,6 +209,191 @@
       "question": "Apa arti kata 'ちゅうしゃじょう' (chuushajou)?",
       "choices": ["persimpangan", "lampu lalu lintas", "halte bus", "tempat parkir"],
       "correctIndex": 3
+    },
+    {
+      "id": "ch15_v01",
+      "chapterId": 15,
+      "order": 13,
+      "question": "Bagaimana cara membaca kanji '禁煙'?",
+      "choices": ["きんえん", "きんねん", "きえん", "けんえん"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch15_v02",
+      "chapterId": 15,
+      "order": 14,
+      "question": "Bagaimana cara membaca kanji '右'?",
+      "choices": ["ひだり", "みぎ", "まえ", "うしろ"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch15_v03",
+      "chapterId": 15,
+      "order": 15,
+      "question": "Bagaimana cara membaca kanji '左'?",
+      "choices": ["みぎ", "ひだり", "まえ", "うしろ"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch15_v04",
+      "chapterId": 15,
+      "order": 16,
+      "question": "Apa arti kata 'まがります' (magarimasu)?",
+      "choices": ["berhenti", "berbelok", "menyeberang", "masuk"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch15_v05",
+      "chapterId": 15,
+      "order": 17,
+      "question": "Apa arti kata 'とめます' (tomemasu)?",
+      "choices": ["masuk", "keluar", "menghentikan/memarkir", "berbelok"],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch15_v06",
+      "chapterId": 15,
+      "order": 18,
+      "question": "Apa arti kata 'ちかてつ' (chikatetsu)?",
+      "choices": ["kereta listrik", "kereta bawah tanah/MRT", "bus", "taksi"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch15_v07",
+      "chapterId": 15,
+      "order": 19,
+      "question": "Pilih kata yang tepat: ___ いって、しんごうを みぎに まがります。(Jalan lurus)",
+      "choices": ["ゆっくり", "まっすぐ", "すぐ", "もう"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch15_v08",
+      "chapterId": 15,
+      "order": 20,
+      "question": "Pilih kata yang tepat: ここで たばこを ___ いけません。(Tidak boleh merokok di sini)",
+      "choices": ["すって は", "すいて は", "すって も", "すいて も"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch15_g01",
+      "chapterId": 15,
+      "order": 21,
+      "question": "Bentuk nai dari 'かきます' (kakimasu) adalah...",
+      "choices": ["かきない", "かかない", "かいない", "かんない"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch15_g02",
+      "chapterId": 15,
+      "order": 22,
+      "question": "Lengkapi kalimat: くすりを のま___ なりません。(Harus minum obat)",
+      "choices": ["なくても", "なければ", "ないで", "ないと"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch15_g03",
+      "chapterId": 15,
+      "order": 23,
+      "question": "Bentuk nai dari 'します' (shimasu) adalah...",
+      "choices": ["しない", "しいない", "しんない", "しらない"],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch15_g04",
+      "chapterId": 15,
+      "order": 24,
+      "question": "Pola grammar apa yang digunakan untuk menyatakan 'tidak perlu V'?",
+      "choices": ["V なければなりません", "V なくてもいいです", "V てはいけません", "V てもいいですか"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch15_g05",
+      "chapterId": 15,
+      "order": 25,
+      "question": "Lengkapi kalimat: あしたは こ___ いいです。(Besok tidak perlu datang)",
+      "choices": ["なければ", "なくても", "ないで", "ないと"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch15_g06",
+      "chapterId": 15,
+      "order": 26,
+      "question": "Bentuk nai dari 'たべます' (tabemasu) adalah...",
+      "choices": ["たべない", "たばない", "たべんない", "たべいない"],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch15_g07",
+      "chapterId": 15,
+      "order": 27,
+      "question": "Bagaimana cara mengatakan 'Harus bangun pagi besok'?",
+      "choices": [
+        "あした はやく おきなくても いいです。",
+        "あした はやく おきなければ なりません。",
+        "あした はやく おきても いいです。",
+        "あした はやく おきては いけません。"
+      ],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch15_g08",
+      "chapterId": 15,
+      "order": 28,
+      "question": "Pola 〜なければなりません digunakan untuk...",
+      "choices": ["menyatakan izin", "menyatakan kewajiban", "menyatakan larangan", "menyatakan kemampuan"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch15_r01",
+      "chapterId": 15,
+      "order": 29,
+      "question": "まっすぐ いって、しんごうを みぎに まがって ください。\n\nどこで まがりますか。",
+      "choices": ["こうさてん", "しんごう", "はし", "えき"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch15_r02",
+      "chapterId": 15,
+      "order": 30,
+      "question": "あした しけんが あります。だから、きょう べんきょうしなければ なりません。\n\nこのひとは きょう なにを しなければ なりませんか。",
+      "choices": ["しけん", "べんきょう", "しごと", "かいもの"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch15_r03",
+      "chapterId": 15,
+      "order": 31,
+      "question": "ここは きんえんです。たばこを すっては いけません。\n\nここで なにが できませんか。",
+      "choices": ["たべること", "のむこと", "たばこを すうこと", "はなすこと"],
+      "correctIndex": 2,
+      "category": "reading"
+    },
+    {
+      "id": "ch15_r04",
+      "chapterId": 15,
+      "order": 32,
+      "question": "きょうは やすみです。しごとに いかなくても いいです。\n\nこのひとは きょう しごとに いきますか。",
+      "choices": ["はい、いきます", "いいえ、いかなくても いいです", "わかりません", "たぶん いきます"],
+      "correctIndex": 1,
+      "category": "reading"
     }
   ]
 }

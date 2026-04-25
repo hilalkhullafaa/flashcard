@@ -205,6 +205,186 @@
       "question": "Ungkapan 'こちらこそ' (kochira koso) digunakan untuk...",
       "choices": ["memperkenalkan diri", "menanyakan usia", "membalas salam perkenalan (saya juga)", "mengucapkan selamat tinggal"],
       "correctIndex": 2
+    },
+    {
+      "id": "ch01_v01",
+      "chapterId": 1,
+      "order": 11,
+      "question": "Bagaimana cara membaca kanji '私'?",
+      "choices": ["あなた", "わたし", "かれ", "かのじょ"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch01_v02",
+      "chapterId": 1,
+      "order": 12,
+      "question": "Bagaimana cara membaca kanji '先生'?",
+      "choices": ["がくせい", "せんせい", "かいしゃいん", "いしゃ"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch01_v03",
+      "chapterId": 1,
+      "order": 13,
+      "question": "Bagaimana cara membaca kanji '学生'?",
+      "choices": ["せんせい", "がくせい", "きょうし", "しゃいん"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch01_v04",
+      "chapterId": 1,
+      "order": 14,
+      "question": "Apa arti kata 'かいしゃいん'?",
+      "choices": ["guru", "pelajar", "karyawan perusahaan", "dokter"],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch01_v05",
+      "chapterId": 1,
+      "order": 15,
+      "question": "Apa arti kata 'けんきゅうしゃ'?",
+      "choices": ["insinyur", "peneliti", "pegawai bank", "pengajar"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch01_v06",
+      "chapterId": 1,
+      "order": 16,
+      "question": "Apa arti sufiks '〜じん'?",
+      "choices": ["usia ~ tahun", "orang berkebangsaan ~", "sebutan hormat", "pekerjaan ~"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch01_v07",
+      "chapterId": 1,
+      "order": 17,
+      "question": "Pilih kata yang tepat: わたしは ___です。(Saya adalah guru)",
+      "choices": ["がくせい", "せんせい", "かいしゃいん", "いしゃ"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch01_v08",
+      "chapterId": 1,
+      "order": 18,
+      "question": "Pilih kata yang tepat: あのひとは ___です。(Orang itu adalah dokter)",
+      "choices": ["せんせい", "がくせい", "いしゃ", "エンジニア"],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch01_g01",
+      "chapterId": 1,
+      "order": 19,
+      "question": "Pilih partikel yang tepat: わたし___ がくせいです。",
+      "choices": ["は", "が", "を", "に"],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch01_g02",
+      "chapterId": 1,
+      "order": 20,
+      "question": "Pilih partikel yang tepat: サントスさん___ がくせいです。",
+      "choices": ["は", "も", "が", "を"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch01_g03",
+      "chapterId": 1,
+      "order": 21,
+      "question": "Pilih partikel yang tepat: ミラーさんは がくせいです___。",
+      "choices": ["ね", "よ", "か", "な"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch01_g04",
+      "chapterId": 1,
+      "order": 22,
+      "question": "Lengkapi kalimat: わたしは せんせい___ ありません。",
+      "choices": ["です", "では", "でも", "でした"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch01_g05",
+      "chapterId": 1,
+      "order": 23,
+      "question": "Lengkapi kalimat: ミラーさんは がくせい___か。",
+      "choices": ["でした", "です", "では", "でも"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch01_g06",
+      "chapterId": 1,
+      "order": 24,
+      "question": "Bentuk negatif dari 'です' adalah...",
+      "choices": ["ではない", "では ありません", "じゃない", "ません"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch01_g07",
+      "chapterId": 1,
+      "order": 25,
+      "question": "Pola grammar apa yang digunakan dalam 'わたしは マイクです'?",
+      "choices": ["N は N です", "N も N です", "N が N です", "N を N です"],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch01_g08",
+      "chapterId": 1,
+      "order": 26,
+      "question": "Pola grammar apa yang digunakan dalam 'サントスさんも がくせいです'?",
+      "choices": ["N は N です", "N も N です", "N が N です", "N は N ですか"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch01_r01",
+      "chapterId": 1,
+      "order": 27,
+      "question": "わたしは マイク・ミラーです。アメリカじんです。エンジニアです。\n\nミラーさんは なにじんですか。",
+      "choices": ["にほんじん", "アメリカじん", "イギリスじん", "オーストラリアじん"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch01_r02",
+      "chapterId": 1,
+      "order": 28,
+      "question": "サントスさんは がくせいです。ブラジルじんです。\n\nサントスさんの しごとは なんですか。",
+      "choices": ["せんせい", "がくせい", "かいしゃいん", "いしゃ"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch01_r03",
+      "chapterId": 1,
+      "order": 29,
+      "question": "あのひとは たなかせんせいです。にほんじんです。だいがくの せんせいです。\n\nたなかさんは どこで はたらきますか。",
+      "choices": ["びょういん", "だいがく", "かいしゃ", "ぎんこう"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch01_r04",
+      "chapterId": 1,
+      "order": 30,
+      "question": "わたしは マリアです。がくせいでは ありません。かいしゃいんです。\n\nマリアさんは がくせいですか。",
+      "choices": ["はい、がくせいです", "いいえ、かいしゃいんです", "はい、せんせいです", "いいえ、いしゃです"],
+      "correctIndex": 1,
+      "category": "reading"
     }
   ]
 }

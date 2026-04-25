@@ -192,6 +192,186 @@
       "question": "Apa arti kata 'へた' (heta)?",
       "choices": ["pandai/mahir", "ahli", "tidak pandai/kurang mahir", "biasa saja"],
       "correctIndex": 2
+    },
+    {
+      "id": "ch10_v01",
+      "chapterId": 10,
+      "order": 11,
+      "question": "Bagaimana cara membaca kanji '日本語'?",
+      "choices": ["にほんご", "にっぽんご", "にほんこ", "にっぽんこ"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch10_v02",
+      "chapterId": 10,
+      "order": 12,
+      "question": "Bagaimana cara membaca kanji '英語'?",
+      "choices": ["えいご", "えご", "いご", "えいこ"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch10_v03",
+      "chapterId": 10,
+      "order": 13,
+      "question": "Bagaimana cara membaca kanji '漢字'?",
+      "choices": ["かんじ", "かんし", "がんじ", "がんし"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch10_v04",
+      "chapterId": 10,
+      "order": 14,
+      "question": "Apa arti kata 'わかります'?",
+      "choices": ["berbicara", "membaca", "mengerti/memahami", "menulis"],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch10_v05",
+      "chapterId": 10,
+      "order": 15,
+      "question": "Apa arti kata 'できます'?",
+      "choices": ["mengerti", "bisa/mampu", "belajar", "mencoba"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch10_v06",
+      "chapterId": 10,
+      "order": 16,
+      "question": "Apa arti kata 'すこし'?",
+      "choices": ["banyak", "sedikit", "sama sekali tidak", "sangat"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch10_v07",
+      "chapterId": 10,
+      "order": 17,
+      "question": "Pilih kata yang tepat: にほんごが すこし ___。(Saya bisa sedikit berbicara bahasa Jepang)",
+      "choices": ["よみます", "かきます", "はなせます", "ききます"],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch10_v08",
+      "chapterId": 10,
+      "order": 18,
+      "question": "Pilih kata yang tepat: ピアノが ___。(Saya bisa bermain piano)",
+      "choices": ["わかります", "できます", "します", "あります"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch10_g01",
+      "chapterId": 10,
+      "order": 19,
+      "question": "Pilih partikel yang tepat: にほんご___ わかります。",
+      "choices": ["は", "を", "が", "に"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch10_g02",
+      "chapterId": 10,
+      "order": 20,
+      "question": "Pilih partikel yang tepat: うんてん___ できます。",
+      "choices": ["は", "を", "が", "に"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch10_g03",
+      "chapterId": 10,
+      "order": 21,
+      "question": "Pilih partikel yang tepat: ミラーさんは にほんご___ じょうずです。",
+      "choices": ["は", "を", "が", "に"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch10_g04",
+      "chapterId": 10,
+      "order": 22,
+      "question": "Lengkapi kalimat: かんじ___ すこし わかります。",
+      "choices": ["は", "を", "が", "に"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch10_g05",
+      "chapterId": 10,
+      "order": 23,
+      "question": "Lengkapi kalimat: わたしは りょうり___ とくいです。",
+      "choices": ["は", "を", "が", "に"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch10_g06",
+      "chapterId": 10,
+      "order": 24,
+      "question": "Lengkapi kalimat: えいご___ わかりますか。",
+      "choices": ["は", "を", "が", "に"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch10_g07",
+      "chapterId": 10,
+      "order": 25,
+      "question": "Pola grammar apa yang digunakan dalam 'にほんごが できます'?",
+      "choices": ["N が できます", "N が じょうずです", "N が わかります", "N は N です"],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch10_g08",
+      "chapterId": 10,
+      "order": 26,
+      "question": "Pola grammar apa yang digunakan dalam 'ミラーさんは にほんごが じょうずです'?",
+      "choices": ["N が できます", "N が じょうずです", "N が わかります", "N は N です"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch10_r01",
+      "chapterId": 10,
+      "order": 27,
+      "question": "わたしは にほんごが すこし はなせます。かんじは まだ よめません。\n\nかんじが よめますか。",
+      "choices": ["はい、よめます", "いいえ、よめません", "はい、すこし", "いいえ、ぜんぜん"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch10_r02",
+      "chapterId": 10,
+      "order": 28,
+      "question": "ミラーさんは にほんごが じょうずです。かんじも よく わかります。\n\nミラーさんは にほんごが じょうずですか。",
+      "choices": ["いいえ、へたです", "はい、じょうずです", "いいえ、わかりません", "はい、すこしです"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch10_r03",
+      "chapterId": 10,
+      "order": 29,
+      "question": "わたしは ピアノが できます。ギターは できません。\n\nなにが できますか。",
+      "choices": ["ギター", "ピアノ", "バイオリン", "うた"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch10_r04",
+      "chapterId": 10,
+      "order": 30,
+      "question": "わたしは りょうりが とくいです。まいにち りょうりを します。\n\nなにが とくいですか。",
+      "choices": ["うんてん", "りょうり", "スポーツ", "おんがく"],
+      "correctIndex": 1,
+      "category": "reading"
     }
   ]
 }

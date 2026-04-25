@@ -217,6 +217,186 @@
       "question": "Partikel apa yang digunakan untuk menandai pelaku dalam kalimat pasif?",
       "choices": ["が", "を", "で", "に"],
       "correctIndex": 3
+    },
+    {
+      "id": "ch24_v01",
+      "chapterId": 24,
+      "order": 11,
+      "question": "Bagaimana cara membaca kanji '届きます'?",
+      "choices": ["とどきます", "こわれます", "なくなります", "みつかります"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch24_v02",
+      "chapterId": 24,
+      "order": 12,
+      "question": "Bagaimana cara membaca kanji '地震'?",
+      "choices": ["じこ", "かじ", "じしん", "たいふう"],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch24_v03",
+      "chapterId": 24,
+      "order": 13,
+      "question": "Bagaimana cara membaca kanji '荷物'?",
+      "choices": ["しんぶん", "にもつ", "ニュース", "じこ"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch24_v04",
+      "chapterId": 24,
+      "order": 14,
+      "question": "Apa arti kata 'こわれます' (kowaremasu)?",
+      "choices": ["tiba/sampai", "rusak/pecah", "hilang/habis", "ditemukan"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch24_v05",
+      "chapterId": 24,
+      "order": 15,
+      "question": "Apa arti kata 'おこります' (okorimasu)?",
+      "choices": ["lahir", "terjadi", "selesai/jadi", "terluka"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch24_v06",
+      "chapterId": 24,
+      "order": 16,
+      "question": "Apa arti kata 'うまれます' (umaremasu)?",
+      "choices": ["terjadi", "selesai", "lahir", "terluka"],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch24_v07",
+      "chapterId": 24,
+      "order": 17,
+      "question": "Pilih kata yang tepat: きのう おおきな ___が おこりました。(Kemarin terjadi gempa bumi besar)",
+      "choices": ["じこ", "かじ", "じしん", "たいふう"],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch24_v08",
+      "chapterId": 24,
+      "order": 18,
+      "question": "Pilih kata yang tepat: ___が とどきました。(Barang sudah tiba)",
+      "choices": ["しんぶん", "ニュース", "にもつ", "でんわ"],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch24_g01",
+      "chapterId": 24,
+      "order": 19,
+      "question": "Pilih partikel yang tepat: この ほん___ 1990ねんに かかれました。",
+      "choices": ["は", "が", "を", "で"],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch24_g02",
+      "chapterId": 24,
+      "order": 20,
+      "question": "Pilih partikel yang tepat: わたしは どろぼう___ さいふを ぬすまれました。",
+      "choices": ["は", "が", "を", "に"],
+      "correctIndex": 3,
+      "category": "grammar"
+    },
+    {
+      "id": "ch24_g03",
+      "chapterId": 24,
+      "order": 21,
+      "question": "Pilih partikel yang tepat: がくせい___ せんせいに ほめられました。",
+      "choices": ["は", "が", "を", "に"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch24_g04",
+      "chapterId": 24,
+      "order": 22,
+      "question": "Lengkapi kalimat: かく → か___れる (bentuk pasif)",
+      "choices": ["か", "き", "く", "け"],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch24_g05",
+      "chapterId": 24,
+      "order": 23,
+      "question": "Lengkapi kalimat: たべる → たべ___れる (bentuk pasif)",
+      "choices": ["", "ら", "り", "れ"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch24_g06",
+      "chapterId": 24,
+      "order": 24,
+      "question": "Lengkapi kalimat: する → ___れる (bentuk pasif)",
+      "choices": ["し", "さ", "す", "せ"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch24_g07",
+      "chapterId": 24,
+      "order": 25,
+      "question": "Pola grammar apa yang digunakan dalam 'この えは ゆうめいな がかに かかれました'?",
+      "choices": ["N が V られます", "N に V られます", "N を V られます", "N で V られます"],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch24_g08",
+      "chapterId": 24,
+      "order": 26,
+      "question": "Pola grammar apa yang digunakan dalam 'わたしは どろぼうに さいふを ぬすまれました'?",
+      "choices": ["N が V られます", "N に V られます", "N を V られます", "N で V られます"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch24_r01",
+      "chapterId": 24,
+      "order": 27,
+      "question": "きのう おおきな じしんが おこりました。たくさんの ひとが けがを しました。\n\nなにが おこりましたか。",
+      "choices": ["じこ", "かじ", "じしん", "たいふう"],
+      "correctIndex": 2,
+      "category": "reading"
+    },
+    {
+      "id": "ch24_r02",
+      "chapterId": 24,
+      "order": 28,
+      "question": "わたしは ともだちに うそを つかれました。とても かなしいです。\n\nこの ひとは どう おもって いますか。",
+      "choices": ["うれしいです", "かなしいです", "たのしいです", "おもしろいです"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch24_r03",
+      "chapterId": 24,
+      "order": 29,
+      "question": "この ほんは ゆうめいな さっかに かかれました。せかいじゅうで よまれて います。\n\nこの ほんは どうですか。",
+      "choices": ["だれも よみません", "せかいじゅうで よまれて います", "まだ かかれて いません", "ふるいです"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch24_r04",
+      "chapterId": 24,
+      "order": 30,
+      "question": "あめに ふられて びしょぬれに なりました。かさを もって いませんでした。\n\nなぜ びしょぬれに なりましたか。",
+      "choices": ["かさを もって いませんでしたから", "あついですから", "およぎましたから", "シャワーを あびましたから"],
+      "correctIndex": 0,
+      "category": "reading"
     }
   ]
 }

@@ -222,6 +222,186 @@
       "question": "Apa arti kata 'みつかります' (mitsukarimasu)?",
       "choices": ["mencari", "memilih", "ditemukan/ketemu", "memutuskan"],
       "correctIndex": 2
+    },
+    {
+      "id": "ch19_v01",
+      "chapterId": 19,
+      "order": 13,
+      "question": "Bagaimana cara membaca kanji '借ります'?",
+      "choices": ["かします", "かります", "さがします", "きめます"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch19_v02",
+      "chapterId": 19,
+      "order": 14,
+      "question": "Bagaimana cara membaca kanji '家賃'?",
+      "choices": ["やちん", "しきん", "れいきん", "かちん"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch19_v03",
+      "chapterId": 19,
+      "order": 15,
+      "question": "Bagaimana cara membaca kanji '探します'?",
+      "choices": ["かります", "かします", "さがします", "えらびます"],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch19_v04",
+      "chapterId": 19,
+      "order": 16,
+      "question": "Apa arti kata 'しきん' (shikikin)?",
+      "choices": ["uang sewa", "uang jaminan", "uang terima kasih", "uang muka"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch19_v05",
+      "chapterId": 19,
+      "order": 17,
+      "question": "Apa arti kata 'ひっこします' (hikkoshimasu)?",
+      "choices": ["menyewa", "pindah rumah", "mencari", "memutuskan"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch19_v06",
+      "chapterId": 19,
+      "order": 18,
+      "question": "Apa arti kata 'れいきん' (reikin)?",
+      "choices": ["uang sewa", "uang jaminan", "uang terima kasih untuk pemilik", "uang administrasi"],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch19_v07",
+      "chapterId": 19,
+      "order": 19,
+      "question": "Pilih kata yang tepat: へやを ___たいんですが。(Saya ingin menyewa kamar)",
+      "choices": ["かり", "かし", "さがし", "きめ"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch19_v08",
+      "chapterId": 19,
+      "order": 20,
+      "question": "Pilih kata yang tepat: いい マンションが ___ました。(Apartemen yang bagus ditemukan)",
+      "choices": ["さがし", "みつかり", "きめ", "えらび"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch19_g01",
+      "chapterId": 19,
+      "order": 21,
+      "question": "Pilih bentuk yang tepat: このボタンを おす___、ドアが あきます。(Jika menekan tombol ini, pintu akan terbuka)",
+      "choices": ["と", "たら", "ば", "なら"],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch19_g02",
+      "chapterId": 19,
+      "order": 22,
+      "question": "Pilih bentuk yang tepat: にほんに いっ___、ふじさんを みたいです。(Kalau pergi ke Jepang, saya ingin melihat Gunung Fuji)",
+      "choices": ["と", "たら", "ば", "なら"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch19_g03",
+      "chapterId": 19,
+      "order": 23,
+      "question": "Pilih bentuk yang tepat: やちんが やす___、かりたいです。(Jika uang sewanya murah, saya ingin menyewa)",
+      "choices": ["いと", "いたら", "ければ", "いなら"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch19_g04",
+      "chapterId": 19,
+      "order": 24,
+      "question": "Lengkapi kalimat: へやが しずか___、もうしこみます。(Jika kamarnya tenang, saya akan mendaftar)",
+      "choices": ["と", "たら", "なら", "ば"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch19_g05",
+      "chapterId": 19,
+      "order": 25,
+      "question": "Lengkapi kalimat: しごとが おわっ___、でんわして ください。(Kalau pekerjaan selesai, tolong telepon)",
+      "choices": ["と", "たら", "ば", "なら"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch19_g06",
+      "chapterId": 19,
+      "order": 26,
+      "question": "Lengkapi kalimat: みぎに まがる___、えきが あります。(Jika belok kanan, ada stasiun)",
+      "choices": ["と", "たら", "ば", "なら"],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch19_g07",
+      "chapterId": 19,
+      "order": 27,
+      "question": "Pola grammar apa yang digunakan dalam 'このボタンを おすと、ドアが あきます'?",
+      "choices": ["V たら、〜", "V と、〜", "V ば、〜", "V なら、〜"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch19_g08",
+      "chapterId": 19,
+      "order": 28,
+      "question": "Pola grammar apa yang digunakan dalam 'やちんが やすければ、かりたいです'?",
+      "choices": ["V たら、〜", "V と、〜", "い-adj ければ、〜", "な-adj なら、〜"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch19_r01",
+      "chapterId": 19,
+      "order": 29,
+      "question": "たなかさんは へやを さがして います。やちんが やすければ、かりたいです。ペットも だいじょうぶな へやが いいです。\n\nたなかさんは どんな へやを さがして いますか。",
+      "choices": ["やちんが たかい へや", "ペットが だいじょうぶな へや", "きんえんの へや", "おおきい へや"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch19_r02",
+      "chapterId": 19,
+      "order": 30,
+      "question": "マリアさんは あたらしい マンションに ひっこしました。やちんは 8まんえんです。しきんは 2かげつぶんです。\n\nしきんは いくらですか。",
+      "choices": ["8まんえん", "10まんえん", "16まんえん", "2まんえん"],
+      "correctIndex": 2,
+      "category": "reading"
+    },
+    {
+      "id": "ch19_r03",
+      "chapterId": 19,
+      "order": 31,
+      "question": "やまださんは アパートを さがして います。えきに ちかければ、べんりです。まいにち でんしゃで かいしゃへ いきます。\n\nやまださんは どうして えきに ちかい アパートが いいですか。",
+      "choices": ["やすいから", "しずかだから", "まいにち でんしゃで かいしゃへ いくから", "ペットが いるから"],
+      "correctIndex": 2,
+      "category": "reading"
+    },
+    {
+      "id": "ch19_r04",
+      "chapterId": 19,
+      "order": 32,
+      "question": "ふどうさんやへ いくと、いろいろな へやを みせて くれます。きに いった へやが みつかったら、もうしこみを します。\n\nへやを きめたら、なにを しますか。",
+      "choices": ["ふどうさんやへ いきます", "もうしこみを します", "やちんを はらいます", "ひっこしを します"],
+      "correctIndex": 1,
+      "category": "reading"
     }
   ]
 }

@@ -196,6 +196,186 @@
       "question": "Bagaimana cara mengatakan 'delapan' dalam sistem bilangan asli Jepang?",
       "choices": ["ここのつ", "ななつ", "やっつ", "むっつ"],
       "correctIndex": 2
+    },
+    {
+      "id": "ch08_v01",
+      "chapterId": 8,
+      "order": 11,
+      "question": "Bagaimana cara membaca kanji '牛乳'?",
+      "choices": ["ぎゅうにゅう", "ぎゅうにく", "うしにゅう", "うしにく"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch08_v02",
+      "chapterId": 8,
+      "order": 12,
+      "question": "Bagaimana cara membaca kanji '林檎'?",
+      "choices": ["りんご", "みかん", "りんこ", "みかこ"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch08_v03",
+      "chapterId": 8,
+      "order": 13,
+      "question": "Bagaimana cara membaca kanji '卵'?",
+      "choices": ["たまご", "たまこ", "らんご", "らんこ"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch08_v04",
+      "chapterId": 8,
+      "order": 14,
+      "question": "Apa arti kata 'みかん'?",
+      "choices": ["apel", "pisang", "jeruk mandarin", "anggur"],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch08_v05",
+      "chapterId": 8,
+      "order": 15,
+      "question": "Apa arti kata 'いくつ'?",
+      "choices": ["berapa harga", "berapa banyak", "berapa lama", "berapa jauh"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch08_v06",
+      "chapterId": 8,
+      "order": 16,
+      "question": "Apa arti kata 'ください'?",
+      "choices": ["terima kasih", "tolong berikan/minta", "maaf", "permisi"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch08_v07",
+      "chapterId": 8,
+      "order": 17,
+      "question": "Pilih kata yang tepat: りんごを ___ ください。(Tolong tiga buah apel)",
+      "choices": ["さん", "みっつ", "さんほん", "さんまい"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch08_v08",
+      "chapterId": 8,
+      "order": 18,
+      "question": "Pilih kata yang tepat: ぎゅうにゅうを 1___ ください。(Tolong satu botol susu)",
+      "choices": ["まい", "さつ", "ほん", "だい"],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch08_g01",
+      "chapterId": 8,
+      "order": 19,
+      "question": "Pilih partikel yang tepat: りんご___ みっつ ください。",
+      "choices": ["は", "が", "を", "に"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch08_g02",
+      "chapterId": 8,
+      "order": 20,
+      "question": "Pilih partikel yang tepat: この ほん___ いくらですか。",
+      "choices": ["は", "が", "を", "に"],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch08_g03",
+      "chapterId": 8,
+      "order": 21,
+      "question": "Pilih partikel yang tepat: ぎゅうにゅう___ 1ほん ください。",
+      "choices": ["は", "が", "を", "に"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch08_g04",
+      "chapterId": 8,
+      "order": 22,
+      "question": "Lengkapi kalimat: きって___ 5まい ください。",
+      "choices": ["は", "が", "を", "に"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch08_g05",
+      "chapterId": 8,
+      "order": 23,
+      "question": "Lengkapi kalimat: たまご___ ふたつ あります。",
+      "choices": ["は", "が", "を", "に"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch08_g06",
+      "chapterId": 8,
+      "order": 24,
+      "question": "Lengkapi kalimat: ざっし___ 2さつ ください。",
+      "choices": ["は", "が", "を", "に"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch08_g07",
+      "chapterId": 8,
+      "order": 25,
+      "question": "Pola grammar apa yang digunakan dalam 'りんごを みっつ ください'?",
+      "choices": ["N を N ください", "N は いくらですか", "N が あります", "N は N です"],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch08_g08",
+      "chapterId": 8,
+      "order": 26,
+      "question": "Pola grammar apa yang digunakan dalam 'この ほんは いくらですか'?",
+      "choices": ["N を N ください", "N は いくらですか", "N が あります", "N は N です"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch08_r01",
+      "chapterId": 8,
+      "order": 27,
+      "question": "りんごを みっつ ください。みかんを ふたつ ください。\n\nりんごを いくつ かいますか。",
+      "choices": ["ひとつ", "ふたつ", "みっつ", "よっつ"],
+      "correctIndex": 2,
+      "category": "reading"
+    },
+    {
+      "id": "ch08_r02",
+      "chapterId": 8,
+      "order": 28,
+      "question": "ぎゅうにゅうを 1ほん ください。たまごを 5こ ください。\n\nぎゅうにゅうを なんぼん かいますか。",
+      "choices": ["1ほん", "2ほん", "3ほん", "5ほん"],
+      "correctIndex": 0,
+      "category": "reading"
+    },
+    {
+      "id": "ch08_r03",
+      "chapterId": 8,
+      "order": 29,
+      "question": "この りんごは 100えんです。あの みかんは 80えんです。\n\nりんごは いくらですか。",
+      "choices": ["80えん", "100えん", "120えん", "150えん"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch08_r04",
+      "chapterId": 8,
+      "order": 30,
+      "question": "きってを 5まい ください。ざっしを 2さつ ください。\n\nきってを なんまい かいますか。",
+      "choices": ["2まい", "3まい", "5まい", "7まい"],
+      "correctIndex": 2,
+      "category": "reading"
     }
   ]
 }

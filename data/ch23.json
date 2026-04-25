@@ -237,6 +237,186 @@
         "でんきを けして います。"
       ],
       "correctIndex": 2
+    },
+    {
+      "id": "ch23_v01",
+      "chapterId": 23,
+      "order": 11,
+      "question": "Bagaimana cara membaca kanji '消します'?",
+      "choices": ["つけます", "けします", "あけます", "しめます"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch23_v02",
+      "chapterId": 23,
+      "order": 12,
+      "question": "Bagaimana cara membaca kanji '片付けます'?",
+      "choices": ["かたづけます", "そうじします", "せんたくします", "りょうりします"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch23_v03",
+      "chapterId": 23,
+      "order": 13,
+      "question": "Bagaimana cara membaca kanji '会議'?",
+      "choices": ["よてい", "じゅんび", "かいぎ", "でんき"],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch23_v04",
+      "chapterId": 23,
+      "order": 14,
+      "question": "Apa arti kata 'しめます' (shimemasu)?",
+      "choices": ["membuka", "menutup", "menyalakan", "mematikan"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch23_v05",
+      "chapterId": 23,
+      "order": 15,
+      "question": "Apa arti kata 'よういします' (youi shimasu)?",
+      "choices": ["membersihkan", "mencuci", "memasak", "mempersiapkan"],
+      "correctIndex": 3,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch23_v06",
+      "chapterId": 23,
+      "order": 16,
+      "question": "Apa arti kata 'まだ' (mada)?",
+      "choices": ["sudah", "belum/masih", "sebentar lagi", "akhirnya"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch23_v07",
+      "chapterId": 23,
+      "order": 17,
+      "question": "Pilih kata yang tepat: かいぎの まえに しりょうを ___て おきます。(Saya akan membaca materi sebelum rapat)",
+      "choices": ["よみ", "よん", "よめ", "よも"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch23_v08",
+      "chapterId": 23,
+      "order": 18,
+      "question": "Pilih kata yang tepat: ___を けして おいて ください。(Tolong matikan lampu)",
+      "choices": ["まど", "ドア", "でんき", "テレビ"],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch23_g01",
+      "chapterId": 23,
+      "order": 19,
+      "question": "Pilih partikel yang tepat: まど___ あけて あります。",
+      "choices": ["は", "が", "を", "に"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch23_g02",
+      "chapterId": 23,
+      "order": 20,
+      "question": "Pilih partikel yang tepat: かいぎ___ まえに しりょうを よんで おきます。",
+      "choices": ["は", "が", "を", "の"],
+      "correctIndex": 3,
+      "category": "grammar"
+    },
+    {
+      "id": "ch23_g03",
+      "chapterId": 23,
+      "order": 21,
+      "question": "Pilih partikel yang tepat: テーブル___ りょうりが ならべて あります。",
+      "choices": ["は", "が", "を", "に"],
+      "correctIndex": 3,
+      "category": "grammar"
+    },
+    {
+      "id": "ch23_g04",
+      "chapterId": 23,
+      "order": 22,
+      "question": "Lengkapi kalimat: しゅくだいを ぜんぶ やって ___ました。(Saya sudah menyelesaikan semua PR)",
+      "choices": ["おき", "あり", "しまい", "い"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch23_g05",
+      "chapterId": 23,
+      "order": 23,
+      "question": "Lengkapi kalimat: りょこうの まえに ホテルを よやくして ___ます。(Saya akan memesan hotel sebelum perjalanan)",
+      "choices": ["おき", "あり", "しまい", "い"],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch23_g06",
+      "chapterId": 23,
+      "order": 24,
+      "question": "Lengkapi kalimat: よていが かいて ___ます。(Jadwal sudah ditulis)",
+      "choices": ["おき", "あり", "しまい", "い"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch23_g07",
+      "chapterId": 23,
+      "order": 25,
+      "question": "Pola grammar apa yang digunakan dalam 'でんきを けして おきます'?",
+      "choices": ["V て おきます", "V て しまいます", "V て あります", "V て います"],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch23_g08",
+      "chapterId": 23,
+      "order": 26,
+      "question": "Pola grammar apa yang digunakan dalam 'まどが あけて あります'?",
+      "choices": ["V て おきます", "V て しまいます", "V て あります", "V て います"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch23_r01",
+      "chapterId": 23,
+      "order": 27,
+      "question": "あしたは かいぎが あります。わたしは きょう しりょうを よんで おきました。\n\nこの ひとは なにを しましたか。",
+      "choices": ["かいぎを しました", "しりょうを よみました", "しりょうを かきました", "かいぎを やめました"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch23_r02",
+      "chapterId": 23,
+      "order": 28,
+      "question": "へやの まどが あけて あります。だれかが あけました。\n\nまどは いま どうですか。",
+      "choices": ["しまって います", "あいて います", "こわれて います", "ありません"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch23_r03",
+      "chapterId": 23,
+      "order": 29,
+      "question": "わたしは しゅくだいを ぜんぶ やって しまいました。もう ねます。\n\nこの ひとの しゅくだいは どうですか。",
+      "choices": ["まだ やって いません", "すこし やりました", "ぜんぶ おわりました", "あした やります"],
+      "correctIndex": 2,
+      "category": "reading"
+    },
+    {
+      "id": "ch23_r04",
+      "chapterId": 23,
+      "order": 30,
+      "question": "でかける まえに でんきを けして おいて ください。でんきだいが たかく なりますから。\n\nなぜ でんきを けしますか。",
+      "choices": ["あかるいですから", "でんきだいが たかく なりますから", "さむいですから", "あついですから"],
+      "correctIndex": 1,
+      "category": "reading"
     }
   ]
 }

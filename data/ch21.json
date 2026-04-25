@@ -237,6 +237,186 @@
         "いもうとに ほんを かって いただきました。"
       ],
       "correctIndex": 2
+    },
+    {
+      "id": "ch21_v01",
+      "chapterId": 21,
+      "order": 11,
+      "question": "Bagaimana cara membaca kanji '貸します'?",
+      "choices": ["かります", "かします", "かえします", "かいます"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch21_v02",
+      "chapterId": 21,
+      "order": 12,
+      "question": "Bagaimana cara membaca kanji '借ります'?",
+      "choices": ["かります", "かします", "かえります", "かいます"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch21_v03",
+      "chapterId": 21,
+      "order": 13,
+      "question": "Bagaimana cara membaca kanji '電話'?",
+      "choices": ["でんき", "でんしゃ", "でんわ", "でんぽう"],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch21_v04",
+      "chapterId": 21,
+      "order": 14,
+      "question": "Apa arti kata 'いただけませんか' (itadakemasen ka)?",
+      "choices": ["bisakah saya ~", "bisakah Anda ~ (sangat sopan)", "tolong ~ (biasa)", "jangan ~"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch21_v05",
+      "chapterId": 21,
+      "order": 15,
+      "question": "Apa arti kata 'ながら' (nagara)?",
+      "choices": ["setelah", "sebelum", "sambil (kegiatan simultan)", "karena"],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch21_v06",
+      "chapterId": 21,
+      "order": 16,
+      "question": "Apa arti kata 'もうすぐ' (mousugu)?",
+      "choices": ["sudah", "belum", "sebentar lagi", "akhirnya"],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch21_v07",
+      "chapterId": 21,
+      "order": 17,
+      "question": "Pilih kata yang tepat: でんわを ___て いただけませんか。(Bisakah Anda meminjamkan telepon?)",
+      "choices": ["かり", "かし", "かえし", "かい"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch21_v08",
+      "chapterId": 21,
+      "order": 18,
+      "question": "Pilih kata yang tepat: ___、しゅくだいが おわりました。(Akhirnya PR selesai)",
+      "choices": ["ちょうど", "やっと", "もうすぐ", "そろそろ"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch21_g01",
+      "chapterId": 21,
+      "order": 19,
+      "question": "Pilih partikel yang tepat: ともだち___ にほんごを おしえて あげました。(Saya mengajari teman bahasa Jepang)",
+      "choices": ["を", "に", "で", "が"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch21_g02",
+      "chapterId": 21,
+      "order": 20,
+      "question": "Pilih partikel yang tepat: せんせい___ かんじを おしえて もらいました。(Saya mendapat pengajaran kanji dari guru)",
+      "choices": ["を", "に", "で", "が"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch21_g03",
+      "chapterId": 21,
+      "order": 21,
+      "question": "Pilih partikel yang tepat: おんがく___ ききながら、べんきょうします。(Saya belajar sambil mendengarkan musik)",
+      "choices": ["を", "に", "で", "が"],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch21_g04",
+      "chapterId": 21,
+      "order": 22,
+      "question": "Lengkapi kalimat: しゃしんを とって ___。(Bisakah Anda mengambilkan foto? - sangat sopan)",
+      "choices": ["ください", "くれませんか", "いただけませんか", "もらえませんか"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch21_g05",
+      "chapterId": 21,
+      "order": 23,
+      "question": "Lengkapi kalimat: テレビを みながら、ごはんを ___。(Saya makan sambil menonton TV)",
+      "choices": ["たべます", "たべて", "たべながら", "たべました"],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch21_g06",
+      "chapterId": 21,
+      "order": 24,
+      "question": "Lengkapi kalimat: かれは わたしに みちを おしえて ___。(Dia menunjukkan jalan untuk saya)",
+      "choices": ["あげました", "もらいました", "くれました", "いただきました"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch21_g07",
+      "chapterId": 21,
+      "order": 25,
+      "question": "Pola grammar apa yang digunakan dalam 'でんわを かして いただけませんか'?",
+      "choices": ["V て ください", "V て くれませんか", "V て いただけませんか", "V て もらえませんか"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch21_g08",
+      "chapterId": 21,
+      "order": 26,
+      "question": "Pola grammar apa yang digunakan dalam 'おんがくを ききながら、べんきょうします'?",
+      "choices": ["V て V", "V ながら V", "V たり V たり", "V て から V"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch21_r01",
+      "chapterId": 21,
+      "order": 27,
+      "question": "すみません、でんわを かして いただけませんか。はい、どうぞ。ありがとう ございます。\n\nこの ひとは なにを かりましたか。",
+      "choices": ["ほん", "ペン", "でんわ", "かさ"],
+      "correctIndex": 2,
+      "category": "reading"
+    },
+    {
+      "id": "ch21_r02",
+      "chapterId": 21,
+      "order": 28,
+      "question": "わたしは おんがくを ききながら、べんきょうします。でも、ともだちは しずかな ところで べんきょうします。\n\nともだちは どこで べんきょうしますか。",
+      "choices": ["おんがくを ききながら べんきょうします", "しずかな ところで べんきょうします", "テレビを みながら べんきょうします", "ともだちと はなしながら べんきょうします"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch21_r03",
+      "chapterId": 21,
+      "order": 29,
+      "question": "せんせいは わたしに かんじを おしえて くれました。とても わかりやすかったです。せんせいに かんしゃして います。\n\nだれが かんじを おしえましたか。",
+      "choices": ["わたし", "ともだち", "せんせい", "りょうしん"],
+      "correctIndex": 2,
+      "category": "reading"
+    },
+    {
+      "id": "ch21_r04",
+      "chapterId": 21,
+      "order": 30,
+      "question": "いもうとは まだ しゅくだいを して いません。もうすぐ ごはんの じかんです。はやく おわって ほしいです。\n\nいもうとの しゅくだいは どうですか。",
+      "choices": ["もう おわりました", "まだ おわって いません", "やっと おわりました", "いま して います"],
+      "correctIndex": 1,
+      "category": "reading"
     }
   ]
 }

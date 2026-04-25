@@ -219,6 +219,186 @@
       "question": "Apa arti kata 'としょかん' (toshokan)?",
       "choices": ["museum seni", "department store", "perpustakaan", "hotel"],
       "correctIndex": 2
+    },
+    {
+      "id": "ch03_v01",
+      "chapterId": 3,
+      "order": 11,
+      "question": "Bagaimana cara membaca kanji '銀行'?",
+      "choices": ["ぎんこう", "ぎんこ", "きんこう", "きんこ"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch03_v02",
+      "chapterId": 3,
+      "order": 12,
+      "question": "Bagaimana cara membaca kanji '駅'?",
+      "choices": ["えき", "いき", "えぎ", "いぎ"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch03_v03",
+      "chapterId": 3,
+      "order": 13,
+      "question": "Bagaimana cara membaca kanji '図書館'?",
+      "choices": ["としょかん", "ずしょかん", "としかん", "ずしかん"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch03_v04",
+      "chapterId": 3,
+      "order": 14,
+      "question": "Apa arti kata 'デパート'?",
+      "choices": ["supermarket", "minimarket", "department store", "restoran"],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch03_v05",
+      "chapterId": 3,
+      "order": 15,
+      "question": "Apa arti kata 'うしろ'?",
+      "choices": ["depan", "belakang", "atas", "bawah"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch03_v06",
+      "chapterId": 3,
+      "order": 16,
+      "question": "Apa arti kata 'ちかく'?",
+      "choices": ["jauh", "dekat", "antara", "sebelah"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch03_v07",
+      "chapterId": 3,
+      "order": 17,
+      "question": "Pilih kata yang tepat: トイレは ___です。(Toilet ada di sana)",
+      "choices": ["ここ", "そこ", "あそこ", "どこ"],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch03_v08",
+      "chapterId": 3,
+      "order": 18,
+      "question": "Pilih kata yang tepat: ほんは つくえの ___に あります。(Buku ada di atas meja)",
+      "choices": ["した", "うえ", "なか", "そと"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch03_g01",
+      "chapterId": 3,
+      "order": 19,
+      "question": "Pilih partikel yang tepat: トイレ___ どこですか。",
+      "choices": ["は", "が", "を", "に"],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch03_g02",
+      "chapterId": 3,
+      "order": 20,
+      "question": "Pilih partikel yang tepat: コンビニは えき___ まえです。",
+      "choices": ["は", "が", "の", "を"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch03_g03",
+      "chapterId": 3,
+      "order": 21,
+      "question": "Pilih partikel yang tepat: えきの まえ___ バスていが あります。",
+      "choices": ["は", "が", "に", "を"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch03_g04",
+      "chapterId": 3,
+      "order": 22,
+      "question": "Lengkapi kalimat: デパートの となり___ ぎんこうが あります。",
+      "choices": ["は", "が", "に", "を"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch03_g05",
+      "chapterId": 3,
+      "order": 23,
+      "question": "Lengkapi kalimat: この かばん___ いくらですか。",
+      "choices": ["が", "を", "は", "に"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch03_g06",
+      "chapterId": 3,
+      "order": 24,
+      "question": "Lengkapi kalimat: ほんは つくえの うえ___ あります。",
+      "choices": ["は", "が", "に", "を"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch03_g07",
+      "chapterId": 3,
+      "order": 25,
+      "question": "Pola grammar apa yang digunakan dalam 'トイレは どこですか'?",
+      "choices": ["N は どこですか", "N は いくらですか", "N は だれですか", "N は なんですか"],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch03_g08",
+      "chapterId": 3,
+      "order": 26,
+      "question": "Pola grammar apa yang digunakan dalam 'えきの まえに バスていが あります'?",
+      "choices": ["N は N です", "N に N が あります", "N は N の N です", "N も N です"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch03_r01",
+      "chapterId": 3,
+      "order": 27,
+      "question": "ゆうびんきょくは あそこです。ぎんこうの となりです。\n\nゆうびんきょくは どこですか。",
+      "choices": ["ぎんこうの となり", "ぎんこうの まえ", "ぎんこうの うしろ", "ぎんこうの なか"],
+      "correctIndex": 0,
+      "category": "reading"
+    },
+    {
+      "id": "ch03_r02",
+      "chapterId": 3,
+      "order": 28,
+      "question": "コンビニは えきの まえに あります。デパートは えきの うしろに あります。\n\nコンビニは どこですか。",
+      "choices": ["えきの うしろ", "えきの まえ", "えきの となり", "えきの なか"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch03_r03",
+      "chapterId": 3,
+      "order": 29,
+      "question": "としょかんは ここです。びょういんは あそこです。\n\nとしょかんは どこですか。",
+      "choices": ["あそこ", "そこ", "ここ", "どこ"],
+      "correctIndex": 2,
+      "category": "reading"
+    },
+    {
+      "id": "ch03_r04",
+      "chapterId": 3,
+      "order": 30,
+      "question": "ほんは つくえの うえに あります。ノートは つくえの したに あります。\n\nノートは どこですか。",
+      "choices": ["つくえの うえ", "つくえの した", "つくえの なか", "つくえの となり"],
+      "correctIndex": 1,
+      "category": "reading"
     }
   ]
 }

@@ -224,6 +224,186 @@
         "あるいて 10ぷんぐらい いきます。"
       ],
       "correctIndex": 0
+    },
+    {
+      "id": "ch20_v01",
+      "chapterId": 20,
+      "order": 13,
+      "question": "Bagaimana cara membaca kanji '教えます'?",
+      "choices": ["わかります", "おしえます", "まがります", "わたります"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch20_v02",
+      "chapterId": 20,
+      "order": 14,
+      "question": "Bagaimana cara membaca kanji '曲がります'?",
+      "choices": ["わたります", "とおります", "まがります", "わかります"],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch20_v03",
+      "chapterId": 20,
+      "order": 15,
+      "question": "Bagaimana cara membaca kanji '渡ります'?",
+      "choices": ["まがります", "わたります", "とおります", "おしえます"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch20_v04",
+      "chapterId": 20,
+      "order": 16,
+      "question": "Apa arti kata 'こうさてん' (kousaten)?",
+      "choices": ["lampu lalu lintas", "jembatan", "persimpangan", "sudut/pojok"],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch20_v05",
+      "chapterId": 20,
+      "order": 17,
+      "question": "Apa arti kata 'しんごう' (shingou)?",
+      "choices": ["jembatan", "lampu lalu lintas", "persimpangan", "jalan"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch20_v06",
+      "chapterId": 20,
+      "order": 18,
+      "question": "Apa arti kata 'とおります' (toorimasu)?",
+      "choices": ["berbelok", "menyeberang", "melewati", "berjalan lurus"],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch20_v07",
+      "chapterId": 20,
+      "order": 19,
+      "question": "Pilih kata yang tepat: みちを ___て ください。(Tolong tunjukkan jalannya)",
+      "choices": ["わかり", "おしえ", "まがり", "わたり"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch20_v08",
+      "chapterId": 20,
+      "order": 20,
+      "question": "Pilih kata yang tepat: はしを ___て、まっすぐ いって ください。(Seberangi jembatan, lalu jalan lurus)",
+      "choices": ["まがっ", "わたっ", "とおっ", "おしえ"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch20_g01",
+      "chapterId": 20,
+      "order": 21,
+      "question": "Pilih partikel yang tepat: しんごう___ みぎに まがって ください。(Belok kanan di lampu merah)",
+      "choices": ["を", "に", "で", "へ"],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch20_g02",
+      "chapterId": 20,
+      "order": 22,
+      "question": "Pilih partikel yang tepat: えき___ ここまで どのくらい かかりますか。(Berapa lama dari stasiun ke sini?)",
+      "choices": ["を", "に", "から", "で"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch20_g03",
+      "chapterId": 20,
+      "order": 23,
+      "question": "Pilih partikel yang tepat: こうえんの まえ___ とおって ください。(Lewati depan taman)",
+      "choices": ["を", "に", "で", "へ"],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch20_g04",
+      "chapterId": 20,
+      "order": 24,
+      "question": "Lengkapi kalimat: まっすぐ いって、かど___ みぎに まがって ください。(Jalan lurus, lalu belok kanan di pojok)",
+      "choices": ["が", "を", "に", "で"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch20_g05",
+      "chapterId": 20,
+      "order": 25,
+      "question": "Lengkapi kalimat: あるいて 10ぷんぐらい ___。(Kira-kira 10 menit berjalan kaki)",
+      "choices": ["です", "あります", "かかります", "いきます"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch20_g06",
+      "chapterId": 20,
+      "order": 26,
+      "question": "Lengkapi kalimat: このみちを まっすぐ いく___、えきが あります。(Jika jalan lurus di jalan ini, ada stasiun)",
+      "choices": ["と", "たら", "ば", "なら"],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch20_g07",
+      "chapterId": 20,
+      "order": 27,
+      "question": "Pola grammar apa yang digunakan dalam 'しんごうを みぎに まがって ください'?",
+      "choices": ["N を まがって ください", "N に まがって ください", "N で まがって ください", "N へ まがって ください"],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch20_g08",
+      "chapterId": 20,
+      "order": 28,
+      "question": "Pola grammar apa yang digunakan dalam 'えきから ここまで どのくらい かかりますか'?",
+      "choices": ["N を N まで どのくらい かかりますか", "N から N まで どのくらい かかりますか", "N に N まで どのくらい かかりますか", "N で N まで どのくらい かかりますか"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch20_r01",
+      "chapterId": 20,
+      "order": 29,
+      "question": "すみません、ゆうびんきょくへの みちを おしえて ください。まっすぐ いって、しんごうを みぎに まがって ください。すると、ゆうびんきょくが あります。\n\nゆうびんきょくへ いくには、どう しますか。",
+      "choices": ["しんごうを ひだりに まがります", "しんごうを みぎに まがります", "こうさてんを わたります", "はしを とおります"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch20_r02",
+      "chapterId": 20,
+      "order": 30,
+      "question": "えきから わたしの うちまで あるいて 15ふんぐらい かかります。ちかいですから、べんりです。\n\nえきから うちまで どのくらい かかりますか。",
+      "choices": ["5ふん", "10ふん", "15ふん", "20ふん"],
+      "correctIndex": 2,
+      "category": "reading"
+    },
+    {
+      "id": "ch20_r03",
+      "chapterId": 20,
+      "order": 31,
+      "question": "えきの きたぐちを でて ください。まっすぐ いって、こうさてんを ひだりに まがると、ぎんこうが あります。\n\nぎんこうは えきの どこに ありますか。",
+      "choices": ["えきの みなみ", "えきの きた", "えきの ひがし", "えきの にし"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch20_r04",
+      "chapterId": 20,
+      "order": 32,
+      "question": "このはしを わたって、まっすぐ いって ください。200メートルぐらい いくと、みぎに びょういんが あります。\n\nびょういんは どこに ありますか。",
+      "choices": ["はしの まえ", "はしを わたって、みぎ", "はしを わたって、ひだり", "はしの うえ"],
+      "correctIndex": 1,
+      "category": "reading"
     }
   ]
 }

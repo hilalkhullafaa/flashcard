@@ -205,6 +205,186 @@
       "question": "Bentuk te dari verba 'します' (shimasu) adalah...",
       "choices": ["しいて", "して", "しって", "しんで"],
       "correctIndex": 1
+    },
+    {
+      "id": "ch11_v01",
+      "chapterId": 11,
+      "order": 13,
+      "question": "Bagaimana cara membaca kanji '見せます'?",
+      "choices": ["みせます", "みます", "みえます", "みせます"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch11_v02",
+      "chapterId": 11,
+      "order": 14,
+      "question": "Bagaimana cara membaca kanji '教えます'?",
+      "choices": ["かえます", "おしえます", "おくります", "かえります"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch11_v03",
+      "chapterId": 11,
+      "order": 15,
+      "question": "Bagaimana cara membaca kanji '待ちます'?",
+      "choices": ["もちます", "まちます", "たちます", "はちます"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch11_v04",
+      "chapterId": 11,
+      "order": 16,
+      "question": "Apa arti kata 'かします' (kashimasu)?",
+      "choices": ["meminjam", "meminjamkan", "menggunakan", "membantu"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch11_v05",
+      "chapterId": 11,
+      "order": 17,
+      "question": "Apa arti kata 'よびます' (yobimasu)?",
+      "choices": ["menunggu", "memanggil", "berbicara", "mengajar"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch11_v06",
+      "chapterId": 11,
+      "order": 18,
+      "question": "Apa arti kata 'もういちど' (mou ichido)?",
+      "choices": ["perlahan-lahan", "sekali lagi", "sebentar", "permisi"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch11_v07",
+      "chapterId": 11,
+      "order": 19,
+      "question": "Pilih kata yang tepat: ちょっと ペンを ___ ください。(Tolong pinjamkan pena sebentar)",
+      "choices": ["かして", "つかって", "まって", "よんで"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch11_v08",
+      "chapterId": 11,
+      "order": 20,
+      "question": "Pilih kata yang tepat: でんわばんごうを ___ ください。(Tolong ajarkan nomor telepon)",
+      "choices": ["みせて", "おしえて", "かいて", "よんで"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch11_g01",
+      "chapterId": 11,
+      "order": 21,
+      "question": "Pilih pola yang tepat untuk membuat permintaan sopan:",
+      "choices": ["V てください", "V てもいいですか", "V てはいけません", "V ています"],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch11_g02",
+      "chapterId": 11,
+      "order": 22,
+      "question": "Lengkapi kalimat: ここに なまえを ___ ください。",
+      "choices": ["かいて", "かきて", "かって", "かして"],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch11_g03",
+      "chapterId": 11,
+      "order": 23,
+      "question": "Pilih partikel yang tepat: しゃしんを とって___ いいですか。",
+      "choices": ["は", "が", "も", "を"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch11_g04",
+      "chapterId": 11,
+      "order": 24,
+      "question": "Lengkapi kalimat: ここで たばこを すって___ いけません。",
+      "choices": ["も", "が", "は", "を"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch11_g05",
+      "chapterId": 11,
+      "order": 25,
+      "question": "Pola grammar apa yang digunakan dalam 'まどを あけても いいですか'?",
+      "choices": ["V てください", "V てもいいですか", "V てはいけません", "V ています"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch11_g06",
+      "chapterId": 11,
+      "order": 26,
+      "question": "Bentuk te dari 'まちます' (machimasu) adalah...",
+      "choices": ["まいて", "まって", "まちて", "まんで"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch11_g07",
+      "chapterId": 11,
+      "order": 27,
+      "question": "Bentuk te dari 'よびます' (yobimasu) adalah...",
+      "choices": ["よいて", "よんで", "よびて", "よって"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch11_g08",
+      "chapterId": 11,
+      "order": 28,
+      "question": "Bagaimana cara menolak permintaan 〜てもいいですか dengan sopan?",
+      "choices": ["いいですよ", "はい、どうぞ", "すみません、ちょっと…", "ありがとうございます"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch11_r01",
+      "chapterId": 11,
+      "order": 29,
+      "question": "すみません。ちょっと ペンを かして ください。\n\nこのひとは なにを たのみますか。",
+      "choices": ["ペンを かりること", "ペンを かすこと", "ペンを かうこと", "ペンを みること"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch11_r02",
+      "chapterId": 11,
+      "order": 30,
+      "question": "ゆっくり はなして ください。もう いちど いって ください。\n\nこのひとは なにを たのみますか。",
+      "choices": ["はやく はなすこと", "ゆっくり はなすこと と もう いちど いうこと", "かくこと", "まつこと"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch11_r03",
+      "chapterId": 11,
+      "order": 31,
+      "question": "ここで しゃしんを とっても いいですか。— すみません、ちょっと…。\n\nしゃしんを とることが できますか。",
+      "choices": ["はい、できます", "いいえ、できません", "わかりません", "たぶん できます"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch11_r04",
+      "chapterId": 11,
+      "order": 32,
+      "question": "としょかんで さわいでは いけません。ここで たべても いいですか。— いいえ、だめです。\n\nとしょかんで なにが できませんか。",
+      "choices": ["よむこと", "さわぐこと と たべること", "べんきょうすること", "すわること"],
+      "correctIndex": 1,
+      "category": "reading"
     }
   ]
 }

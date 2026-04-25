@@ -188,6 +188,186 @@
       "question": "Bagaimana cara mengatakan 'tanggal 14' dalam bahasa Jepang?",
       "choices": ["じゅうよんにち", "じゅうよっか", "じゅうしにち", "じゅうよか"],
       "correctIndex": 1
+    },
+    {
+      "id": "ch09_v01",
+      "chapterId": 9,
+      "order": 11,
+      "question": "Bagaimana cara membaca kanji '誕生日'?",
+      "choices": ["たんじょうび", "たんせいび", "たんしょうび", "だんじょうび"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch09_v02",
+      "chapterId": 9,
+      "order": 12,
+      "question": "Bagaimana cara membaca kanji '今年'?",
+      "choices": ["こんねん", "ことし", "きょねん", "らいねん"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch09_v03",
+      "chapterId": 9,
+      "order": 13,
+      "question": "Bagaimana cara membaca kanji '来年'?",
+      "choices": ["きょねん", "ことし", "らいねん", "さくねん"],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch09_v04",
+      "chapterId": 9,
+      "order": 14,
+      "question": "Apa arti kata 'ついたち'?",
+      "choices": ["tanggal 1", "tanggal 10", "tanggal 20", "tanggal 30"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch09_v05",
+      "chapterId": 9,
+      "order": 15,
+      "question": "Apa arti kata 'はつか'?",
+      "choices": ["tanggal 10", "tanggal 14", "tanggal 20", "tanggal 24"],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch09_v06",
+      "chapterId": 9,
+      "order": 16,
+      "question": "Apa arti kata 'いつ'?",
+      "choices": ["di mana", "siapa", "kapan", "apa"],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch09_v07",
+      "chapterId": 9,
+      "order": 17,
+      "question": "Pilih kata yang tepat: たんじょうびは ___ ですか。(Kapan ulang tahun Anda?)",
+      "choices": ["どこ", "だれ", "いつ", "なに"],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch09_v08",
+      "chapterId": 9,
+      "order": 18,
+      "question": "Pilih kata yang tepat: きょうは 4がつ ___ です。(Hari ini tanggal 1 April)",
+      "choices": ["いちにち", "ついたち", "ひとつ", "いちがつ"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch09_g01",
+      "chapterId": 9,
+      "order": 19,
+      "question": "Pilih partikel yang tepat: たんじょうび___ いつですか。",
+      "choices": ["は", "が", "を", "に"],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch09_g02",
+      "chapterId": 9,
+      "order": 20,
+      "question": "Pilih partikel yang tepat: わたしの たんじょうび___ 3がつ 15にちです。",
+      "choices": ["は", "が", "を", "に"],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch09_g03",
+      "chapterId": 9,
+      "order": 21,
+      "question": "Pilih partikel yang tepat: 1990ねん 7がつ 20にち___ うまれました。",
+      "choices": ["は", "が", "を", "に"],
+      "correctIndex": 3,
+      "category": "grammar"
+    },
+    {
+      "id": "ch09_g04",
+      "chapterId": 9,
+      "order": 22,
+      "question": "Lengkapi kalimat: きょう___ 4がつ ついたちです。",
+      "choices": ["は", "が", "を", "に"],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch09_g05",
+      "chapterId": 9,
+      "order": 23,
+      "question": "Lengkapi kalimat: パーティー___ いつですか。",
+      "choices": ["は", "が", "を", "に"],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch09_g06",
+      "chapterId": 9,
+      "order": 24,
+      "question": "Lengkapi kalimat: わたし___ 1990ねんに うまれました。",
+      "choices": ["は", "が", "を", "に"],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch09_g07",
+      "chapterId": 9,
+      "order": 25,
+      "question": "Pola grammar apa yang digunakan dalam 'たんじょうびは いつですか'?",
+      "choices": ["たんじょうびは いつですか", "N は N がつ N にちです", "N ねん N がつ N にち", "N は N です"],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch09_g08",
+      "chapterId": 9,
+      "order": 26,
+      "question": "Pola grammar apa yang digunakan dalam 'わたしの たんじょうびは 3がつ 15にちです'?",
+      "choices": ["たんじょうびは いつですか", "N は N がつ N にちです", "N ねん N がつ N にち", "N は N です"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch09_r01",
+      "chapterId": 9,
+      "order": 27,
+      "question": "わたしの たんじょうびは 3がつ 15にちです。ともだちの たんじょうびは 7がつ 20にちです。\n\nわたしの たんじょうびは いつですか。",
+      "choices": ["3がつ 15にち", "7がつ 20にち", "3がつ 20にち", "7がつ 15にち"],
+      "correctIndex": 0,
+      "category": "reading"
+    },
+    {
+      "id": "ch09_r02",
+      "chapterId": 9,
+      "order": 28,
+      "question": "きょうは 4がつ ついたちです。あしたは 4がつ ふつかです。\n\nきょうは なんにちですか。",
+      "choices": ["4がつ ついたち", "4がつ ふつか", "3がつ ついたち", "5がつ ついたち"],
+      "correctIndex": 0,
+      "category": "reading"
+    },
+    {
+      "id": "ch09_r03",
+      "chapterId": 9,
+      "order": 29,
+      "question": "わたしは 1990ねん 7がつ 20にちに うまれました。ことしは 2024ねんです。\n\nなんねんに うまれましたか。",
+      "choices": ["1990ねん", "2024ねん", "1980ねん", "2000ねん"],
+      "correctIndex": 0,
+      "category": "reading"
+    },
+    {
+      "id": "ch09_r04",
+      "chapterId": 9,
+      "order": 30,
+      "question": "パーティーは らいしゅうの どようびです。どようびは 4がつ 10にちです。\n\nパーティーは いつですか。",
+      "choices": ["4がつ 10にち", "4がつ 20にち", "5がつ 10にち", "3がつ 10にち"],
+      "correctIndex": 0,
+      "category": "reading"
     }
   ]
 }

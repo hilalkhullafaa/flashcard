@@ -205,6 +205,186 @@
       "question": "Apa fungsi kata 'こと' (koto) dalam pola 〜たことがあります?",
       "choices": ["partikel penanda subjek", "nominalizer (mengubah klausa verba menjadi nomina)", "konjungsi", "adverbia waktu"],
       "correctIndex": 1
+    },
+    {
+      "id": "ch13_v01",
+      "chapterId": 13,
+      "order": 12,
+      "question": "Bagaimana cara membaca kanji '登ります'?",
+      "choices": ["のぼります", "のります", "おります", "わたります"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch13_v02",
+      "chapterId": 13,
+      "order": 13,
+      "question": "Bagaimana cara membaca kanji '富士山'?",
+      "choices": ["ふじやま", "ふじさん", "とみやま", "とみさん"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch13_v03",
+      "chapterId": 13,
+      "order": 14,
+      "question": "Bagaimana cara membaca kanji '温泉'?",
+      "choices": ["おんせん", "おせん", "うんせん", "あつせん"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch13_v04",
+      "chapterId": 13,
+      "order": 15,
+      "question": "Apa arti kata 'わたります' (watarimasu)?",
+      "choices": ["mendaki", "menyeberangi", "turun", "naik"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch13_v05",
+      "chapterId": 13,
+      "order": 16,
+      "question": "Apa arti kata 'きめます' (kimemasu)?",
+      "choices": ["memulai", "berhenti", "memutuskan", "berpikir"],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch13_v06",
+      "chapterId": 13,
+      "order": 17,
+      "question": "Apa arti kata 'それから' (sorekara)?",
+      "choices": ["pertama-tama", "kemudian/setelah itu", "tapi/namun", "oleh karena itu"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch13_v07",
+      "chapterId": 13,
+      "order": 18,
+      "question": "Pilih kata yang tepat: ふじさんに ___ ことが あります。(Saya pernah mendaki Gunung Fuji)",
+      "choices": ["のぼった", "のった", "おりた", "わたった"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch13_v08",
+      "chapterId": 13,
+      "order": 19,
+      "question": "Pilih kata yang tepat: ___ しごとを はじめます。(Pertama-tama saya memulai pekerjaan)",
+      "choices": ["それから", "まず", "でも", "だから"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch13_g01",
+      "chapterId": 13,
+      "order": 20,
+      "question": "Pilih pola yang tepat untuk menyatakan pengalaman 'pernah V':",
+      "choices": ["V ています", "V たことがあります", "V てください", "V たあとで"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch13_g02",
+      "chapterId": 13,
+      "order": 21,
+      "question": "Lengkapi kalimat: すしを たべた こと___ あります。",
+      "choices": ["は", "が", "を", "に"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch13_g03",
+      "chapterId": 13,
+      "order": 22,
+      "question": "Bentuk ta dari 'いきます' (ikimasu) adalah...",
+      "choices": ["いきた", "いった", "いいた", "いんだ"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch13_g04",
+      "chapterId": 13,
+      "order": 23,
+      "question": "Pola grammar apa yang digunakan untuk menyatakan 'setelah V'?",
+      "choices": ["V たことがあります", "V たあとで", "V ています", "V てください"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch13_g05",
+      "chapterId": 13,
+      "order": 24,
+      "question": "Bentuk ta dari 'かきます' (kakimasu) adalah...",
+      "choices": ["かきた", "かいた", "かった", "かんだ"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch13_g06",
+      "chapterId": 13,
+      "order": 25,
+      "question": "Bentuk ta dari 'します' (shimasu) adalah...",
+      "choices": ["しいた", "した", "しった", "しんだ"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch13_g07",
+      "chapterId": 13,
+      "order": 26,
+      "question": "Bagaimana cara mengatakan 'Saya belum pernah pergi ke Jepang'?",
+      "choices": ["にほんに いった ことが あります", "にほんに いった ことが ありません", "にほんに いって ください", "にほんに いっても いいですか"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch13_g08",
+      "chapterId": 13,
+      "order": 27,
+      "question": "Pola 'V てから' digunakan untuk...",
+      "choices": ["menyatakan pengalaman", "menyatakan urutan kegiatan", "meminta izin", "menyatakan larangan"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch13_r01",
+      "chapterId": 13,
+      "order": 28,
+      "question": "わたしは ふじさんに のぼった ことが あります。とても きれいでした。\n\nこのひとは ふじさんに のぼりましたか。",
+      "choices": ["はい、のぼりました", "いいえ、のぼりませんでした", "わかりません", "たぶん のぼりました"],
+      "correctIndex": 0,
+      "category": "reading"
+    },
+    {
+      "id": "ch13_r02",
+      "chapterId": 13,
+      "order": 29,
+      "question": "すしを たべた ことが ありますか。— いいえ、ありません。でも たべたいです。\n\nこのひとは すしを たべた ことが ありますか。",
+      "choices": ["はい、あります", "いいえ、ありません", "わかりません", "たぶん あります"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch13_r03",
+      "chapterId": 13,
+      "order": 30,
+      "question": "まず ごはんを たべます。それから しゅくだいを します。\n\nこのひとは なにを さきに しますか。",
+      "choices": ["しゅくだい", "ごはん", "べんきょう", "ねること"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch13_r04",
+      "chapterId": 13,
+      "order": 31,
+      "question": "てを あらってから、ごはんを たべます。ごはんを たべた あとで、さんぽします。\n\nこのひとは いつ さんぽしますか。",
+      "choices": ["てを あらう まえ", "ごはんを たべる まえ", "ごはんを たべた あと", "ねる まえ"],
+      "correctIndex": 2,
+      "category": "reading"
     }
   ]
 }

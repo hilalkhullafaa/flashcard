@@ -226,6 +226,186 @@
       "question": "Apa arti kata 'ゆめ' (yume) dalam konteks cita-cita?",
       "choices": ["tujuan/target", "usaha", "mimpi/cita-cita", "rencana"],
       "correctIndex": 2
+    },
+    {
+      "id": "ch25_v01",
+      "chapterId": 25,
+      "order": 11,
+      "question": "Bagaimana cara membaca kanji '話せます'?",
+      "choices": ["はなせます", "よめます", "かけます", "きけます"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch25_v02",
+      "chapterId": 25,
+      "order": 12,
+      "question": "Bagaimana cara membaca kanji '夢'?",
+      "choices": ["もくひょう", "どりょく", "ゆめ", "がんばり"],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch25_v03",
+      "chapterId": 25,
+      "order": 13,
+      "question": "Bagaimana cara membaca kanji '目標'?",
+      "choices": ["ゆめ", "もくひょう", "どりょく", "がんばり"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch25_v04",
+      "chapterId": 25,
+      "order": 14,
+      "question": "Apa arti kata 'よめます' (yomemasu)?",
+      "choices": ["bisa berbicara", "bisa membaca", "bisa menulis", "bisa mendengar"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch25_v05",
+      "chapterId": 25,
+      "order": 15,
+      "question": "Apa arti kata 'かけます' (kakemasu)?",
+      "choices": ["bisa berbicara", "bisa membaca", "bisa menulis", "bisa mendengar"],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch25_v06",
+      "chapterId": 25,
+      "order": 16,
+      "question": "Apa arti kata 'たべられます' (taberaremasu)?",
+      "choices": ["bisa melihat", "bisa makan", "bisa minum", "bisa memasak"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch25_v07",
+      "chapterId": 25,
+      "order": 17,
+      "question": "Pilih kata yang tepat: にほんごが ___ように なりたいです。(Saya ingin bisa berbicara bahasa Jepang)",
+      "choices": ["はなす", "はなせる", "はなし", "はなした"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch25_v08",
+      "chapterId": 25,
+      "order": 18,
+      "question": "Pilih kata yang tepat: しけんに うかる___、いっしょうけんめい べんきょうします。(Saya belajar sungguh-sungguh untuk lulus ujian)",
+      "choices": ["ように", "ために", "のに", "でしょう"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch25_g01",
+      "chapterId": 25,
+      "order": 19,
+      "question": "Pilih partikel yang tepat: にほんご___ はなせるように なりたいです。",
+      "choices": ["は", "が", "を", "に"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch25_g02",
+      "chapterId": 25,
+      "order": 20,
+      "question": "Pilih partikel yang tepat: けんこう___ ために、まいにち やさいを たべます。",
+      "choices": ["は", "が", "を", "の"],
+      "correctIndex": 3,
+      "category": "grammar"
+    },
+    {
+      "id": "ch25_g03",
+      "chapterId": 25,
+      "order": 21,
+      "question": "Pilih partikel yang tepat: かぞく___ ために、はたらきます。",
+      "choices": ["は", "が", "を", "の"],
+      "correctIndex": 3,
+      "category": "grammar"
+    },
+    {
+      "id": "ch25_g04",
+      "chapterId": 25,
+      "order": 22,
+      "question": "Lengkapi kalimat: あしたは あめが ふる___。(Besok sepertinya hujan)",
+      "choices": ["かもしれません", "でしょう", "はずです", "たいです"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch25_g05",
+      "chapterId": 25,
+      "order": 23,
+      "question": "Lengkapi kalimat: かれは もう かえった___。(Dia mungkin saja sudah pulang)",
+      "choices": ["でしょう", "はずです", "かもしれません", "たいです"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch25_g06",
+      "chapterId": 25,
+      "order": 24,
+      "question": "Lengkapi kalimat: かれは もう しっている___。(Dia seharusnya sudah tahu)",
+      "choices": ["でしょう", "かもしれません", "はずです", "たいです"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch25_g07",
+      "chapterId": 25,
+      "order": 25,
+      "question": "Pola grammar apa yang digunakan dalam 'にほんごが はなせるように なりたいです'?",
+      "choices": ["V ように なりたいです", "V ために なりたいです", "V のに なりたいです", "V でしょう なりたいです"],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch25_g08",
+      "chapterId": 25,
+      "order": 26,
+      "question": "Pola grammar apa yang digunakan dalam 'にほんごを べんきょうするために、にほんに きました'?",
+      "choices": ["V ように", "V ために", "V のに", "V でしょう"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch25_r01",
+      "chapterId": 25,
+      "order": 27,
+      "question": "わたしの ゆめは いしゃに なることです。いま いっしょうけんめい べんきょうして います。\n\nこの ひとの ゆめは なんですか。",
+      "choices": ["せんせいに なること", "いしゃに なること", "かいしゃいんに なること", "がくせいに なること"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch25_r02",
+      "chapterId": 25,
+      "order": 28,
+      "question": "けんこうの ために、まいにち うんどうします。やさいも たくさん たべます。\n\nなぜ うんどうしますか。",
+      "choices": ["たのしいですから", "けんこうの ためにです", "ともだちが いますから", "やすいですから"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch25_r03",
+      "chapterId": 25,
+      "order": 29,
+      "question": "あしたは あめが ふるかもしれません。かさを もって いって ください。\n\nあしたの てんきは どうですか。",
+      "choices": ["かならず あめです", "あめかもしれません", "はれです", "ゆきです"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch25_r04",
+      "chapterId": 25,
+      "order": 30,
+      "question": "たなかさんは まいにち にほんごを べんきょうして います。かんじが よめるように なりたいそうです。\n\nたなかさんは なにが したいですか。",
+      "choices": ["かんじを かきたい", "かんじを よめるように なりたい", "にほんごを おしえたい", "にほんに いきたい"],
+      "correctIndex": 1,
+      "category": "reading"
     }
   ]
 }

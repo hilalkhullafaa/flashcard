@@ -208,6 +208,186 @@
         "だれと にほんに きましたか。"
       ],
       "correctIndex": 2
+    },
+    {
+      "id": "ch05_v01",
+      "chapterId": 5,
+      "order": 11,
+      "question": "Bagaimana cara membaca kanji '行きます'?",
+      "choices": ["いきます", "ゆきます", "こうきます", "ぎょうきます"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch05_v02",
+      "chapterId": 5,
+      "order": 12,
+      "question": "Bagaimana cara membaca kanji '帰ります'?",
+      "choices": ["かえります", "きります", "かいります", "けります"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch05_v03",
+      "chapterId": 5,
+      "order": 13,
+      "question": "Bagaimana cara membaca kanji '電車'?",
+      "choices": ["でんしゃ", "でんしゃ", "てんしゃ", "でんち"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch05_v04",
+      "chapterId": 5,
+      "order": 14,
+      "question": "Apa arti kata 'じてんしゃ'?",
+      "choices": ["mobil", "motor", "sepeda", "bus"],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch05_v05",
+      "chapterId": 5,
+      "order": 15,
+      "question": "Apa arti kata 'きのう'?",
+      "choices": ["hari ini", "kemarin", "besok", "minggu lalu"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch05_v06",
+      "chapterId": 5,
+      "order": 16,
+      "question": "Apa arti kata 'らいねん'?",
+      "choices": ["tahun lalu", "tahun ini", "tahun depan", "bulan depan"],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch05_v07",
+      "chapterId": 5,
+      "order": 17,
+      "question": "Pilih kata yang tepat: わたしは ___で がっこうに いきます。(Saya pergi ke sekolah dengan kereta)",
+      "choices": ["バス", "でんしゃ", "タクシー", "ひこうき"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch05_v08",
+      "chapterId": 5,
+      "order": 18,
+      "question": "Pilih kata yang tepat: ___ うちに かえります。(Besok saya pulang ke rumah)",
+      "choices": ["きのう", "きょう", "あした", "せんしゅう"],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch05_g01",
+      "chapterId": 5,
+      "order": 19,
+      "question": "Pilih partikel yang tepat: でんしゃ___ がっこうに いきます。",
+      "choices": ["は", "に", "で", "を"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch05_g02",
+      "chapterId": 5,
+      "order": 20,
+      "question": "Pilih partikel yang tepat: にほん___ いきます。",
+      "choices": ["は", "が", "に", "を"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch05_g03",
+      "chapterId": 5,
+      "order": 21,
+      "question": "Pilih partikel yang tepat: ともだち___ えきに いきます。",
+      "choices": ["は", "に", "で", "と"],
+      "correctIndex": 3,
+      "category": "grammar"
+    },
+    {
+      "id": "ch05_g04",
+      "chapterId": 5,
+      "order": 22,
+      "question": "Lengkapi kalimat: バス___ えきに いきます。",
+      "choices": ["は", "に", "で", "を"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch05_g05",
+      "chapterId": 5,
+      "order": 23,
+      "question": "Lengkapi kalimat: うち___ かえります。",
+      "choices": ["は", "が", "に", "を"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch05_g06",
+      "chapterId": 5,
+      "order": 24,
+      "question": "Lengkapi kalimat: かぞく___ にほんに きました。",
+      "choices": ["は", "に", "で", "と"],
+      "correctIndex": 3,
+      "category": "grammar"
+    },
+    {
+      "id": "ch05_g07",
+      "chapterId": 5,
+      "order": 25,
+      "question": "Pola grammar apa yang digunakan dalam 'でんしゃで がっこうに いきます'?",
+      "choices": ["N は N で いきます", "N に いきます", "N と いきます", "N は N です"],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch05_g08",
+      "chapterId": 5,
+      "order": 26,
+      "question": "Pola grammar apa yang digunakan dalam 'ともだちと えきに いきます'?",
+      "choices": ["N は N で いきます", "N に いきます", "N と いきます", "N は N です"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch05_r01",
+      "chapterId": 5,
+      "order": 27,
+      "question": "わたしは まいにち でんしゃで がっこうに いきます。ともだちは バスで いきます。\n\nわたしは なんで がっこうに いきますか。",
+      "choices": ["バス", "でんしゃ", "タクシー", "あるいて"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch05_r02",
+      "chapterId": 5,
+      "order": 28,
+      "question": "きのう ともだちと えいがを みに いきました。あしたは ひとりで としょかんに いきます。\n\nきのう だれと いきましたか。",
+      "choices": ["ひとり", "ともだち", "かぞく", "せんせい"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch05_r03",
+      "chapterId": 5,
+      "order": 29,
+      "question": "せんしゅう にほんに きました。らいしゅう うちに かえります。\n\nいつ にほんに きましたか。",
+      "choices": ["こんしゅう", "せんしゅう", "らいしゅう", "きのう"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch05_r04",
+      "chapterId": 5,
+      "order": 30,
+      "question": "わたしは ひこうきで にほんに きました。ともだちは ふねで きました。\n\nともだちは なんで にほんに きましたか。",
+      "choices": ["ひこうき", "ふね", "でんしゃ", "バス"],
+      "correctIndex": 1,
+      "category": "reading"
     }
   ]
 }

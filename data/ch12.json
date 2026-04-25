@@ -198,6 +198,186 @@
       "question": "Apa arti kata 'かみ' (kami) dalam konteks penampilan?",
       "choices": ["tinggi badan", "kacamata", "rambut", "kemeja"],
       "correctIndex": 2
+    },
+    {
+      "id": "ch12_v01",
+      "chapterId": 12,
+      "order": 12,
+      "question": "Bagaimana cara membaca kanji '着ます'?",
+      "choices": ["きます", "きます", "つきます", "ちます"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch12_v02",
+      "chapterId": 12,
+      "order": 13,
+      "question": "Bagaimana cara membaca kanji '眼鏡'?",
+      "choices": ["めがね", "がんきょう", "がんきょ", "めかね"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch12_v03",
+      "chapterId": 12,
+      "order": 14,
+      "question": "Bagaimana cara membaca kanji '結婚'?",
+      "choices": ["けっこ", "けっこん", "けこん", "けつこん"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch12_v04",
+      "chapterId": 12,
+      "order": 15,
+      "question": "Apa arti kata 'ぬぎます' (nugimasu)?",
+      "choices": ["memakai (pakaian)", "melepas (pakaian)", "mencuci (pakaian)", "membeli (pakaian)"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch12_v05",
+      "chapterId": 12,
+      "order": 16,
+      "question": "Apa arti kata 'もっています' (motte imasu)?",
+      "choices": ["sedang makan", "memiliki/membawa", "sedang tidur", "sedang belajar"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch12_v06",
+      "chapterId": 12,
+      "order": 17,
+      "question": "Apa arti kata 'みじかい' (mijikai)?",
+      "choices": ["panjang", "pendek (benda)", "tinggi", "rendah"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch12_v07",
+      "chapterId": 12,
+      "order": 18,
+      "question": "Pilih kata yang tepat: わたしは とうきょうに ___ います。(Saya tinggal di Tokyo)",
+      "choices": ["すんで", "きて", "いって", "はたらいて"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch12_v08",
+      "chapterId": 12,
+      "order": 19,
+      "question": "Pilih kata yang tepat: あのひとは ___ を かけています。(Orang itu sedang memakai kacamata)",
+      "choices": ["シャツ", "スーツ", "めがね", "かみ"],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch12_g01",
+      "chapterId": 12,
+      "order": 20,
+      "question": "Pilih partikel yang tepat: あおい シャツ___ きています。",
+      "choices": ["を", "が", "に", "で"],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch12_g02",
+      "chapterId": 12,
+      "order": 21,
+      "question": "Lengkapi kalimat: やまださんは けっこん___ います。",
+      "choices": ["して", "しいて", "しって", "しんで"],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch12_g03",
+      "chapterId": 12,
+      "order": 22,
+      "question": "Pilih partikel yang tepat: おおさか___ すんでいます。",
+      "choices": ["を", "が", "に", "で"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch12_g04",
+      "chapterId": 12,
+      "order": 23,
+      "question": "Pola grammar apa yang digunakan untuk menyatakan 'sedang memakai pakaian'?",
+      "choices": ["V ます", "V ています", "V てください", "V てもいいですか"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch12_g05",
+      "chapterId": 12,
+      "order": 24,
+      "question": "Bagaimana cara mengatakan 'tahu' dalam bahasa Jepang?",
+      "choices": ["しります", "しっています", "しりません", "しっていません"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch12_g06",
+      "chapterId": 12,
+      "order": 25,
+      "question": "Bentuk 〜ています dari 'すみます' (sumimasu) adalah...",
+      "choices": ["すみています", "すんでいます", "すまっています", "すめています"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch12_g07",
+      "chapterId": 12,
+      "order": 26,
+      "question": "Bentuk 〜ています dari 'はたらきます' (hatarakimasu) adalah...",
+      "choices": ["はたらきています", "はたらいています", "はたらきいています", "はたらっています"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch12_g08",
+      "chapterId": 12,
+      "order": 27,
+      "question": "Apa perbedaan antara 'しっています' dan 'しりません'?",
+      "choices": ["Tidak ada perbedaan", "しっています = tahu, しりません = tidak tahu", "しっています = tidak tahu, しりません = tahu", "Keduanya berarti tahu"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch12_r01",
+      "chapterId": 12,
+      "order": 28,
+      "question": "やまださんは あおい シャツを きています。めがねを かけています。\n\nやまださんは なにを きていますか。",
+      "choices": ["あかい シャツ", "あおい シャツ", "スーツ", "めがね"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch12_r02",
+      "chapterId": 12,
+      "order": 29,
+      "question": "わたしは とうきょうに すんでいます。かいしゃで はたらいています。\n\nこのひとは どこに すんでいますか。",
+      "choices": ["おおさか", "とうきょう", "きょうと", "よこはま"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch12_r03",
+      "chapterId": 12,
+      "order": 30,
+      "question": "たなかさんは けっこんしています。こどもが ふたり います。\n\nたなかさんは けっこんしていますか。",
+      "choices": ["はい、しています", "いいえ、していません", "わかりません", "たぶん しています"],
+      "correctIndex": 0,
+      "category": "reading"
+    },
+    {
+      "id": "ch12_r04",
+      "chapterId": 12,
+      "order": 31,
+      "question": "やまださんを しっていますか。— はい、しっています。かいしゃの ともだちです。\n\nこのひとは やまださんを しっていますか。",
+      "choices": ["はい、しっています", "いいえ、しりません", "わかりません", "たぶん しっています"],
+      "correctIndex": 0,
+      "category": "reading"
     }
   ]
 }

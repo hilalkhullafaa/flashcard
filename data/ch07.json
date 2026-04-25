@@ -196,6 +196,186 @@
       "question": "Apa arti kata 'かします' (kashimasu)?",
       "choices": ["meminjam", "membeli", "meminjamkan", "menjual"],
       "correctIndex": 2
+    },
+    {
+      "id": "ch07_v01",
+      "chapterId": 7,
+      "order": 11,
+      "question": "Bagaimana cara membaca kanji '映画'?",
+      "choices": ["えいが", "えが", "いが", "えいかく"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch07_v02",
+      "chapterId": 7,
+      "order": 12,
+      "question": "Bagaimana cara membaca kanji '音楽'?",
+      "choices": ["おんがく", "おとがく", "いんがく", "おんらく"],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch07_v03",
+      "chapterId": 7,
+      "order": 13,
+      "question": "Bagaimana cara membaca kanji '趣味'?",
+      "choices": ["しゅび", "しゅみ", "すみ", "すび"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch07_v04",
+      "chapterId": 7,
+      "order": 14,
+      "question": "Apa arti kata 'およぎます'?",
+      "choices": ["berlari", "berenang", "menari", "bermain"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch07_v05",
+      "chapterId": 7,
+      "order": 15,
+      "question": "Apa arti kata 'うたいます'?",
+      "choices": ["menari", "bernyanyi", "bermain", "berjalan"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch07_v06",
+      "chapterId": 7,
+      "order": 16,
+      "question": "Apa arti kata 'あそびます'?",
+      "choices": ["bekerja", "belajar", "bermain/bersenang-senang", "istirahat"],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch07_v07",
+      "chapterId": 7,
+      "order": 17,
+      "question": "Pilih kata yang tepat: ともだちに プレゼントを ___。(Saya memberi hadiah kepada teman)",
+      "choices": ["もらいます", "あげます", "かります", "かします"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch07_v08",
+      "chapterId": 7,
+      "order": 18,
+      "question": "Pilih kata yang tepat: せんせいに ほんを ___。(Saya mendapat buku dari guru)",
+      "choices": ["あげます", "もらいます", "かします", "おくります"],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch07_g01",
+      "chapterId": 7,
+      "order": 19,
+      "question": "Pilih partikel yang tepat: ともだち___ プレゼントを あげます。",
+      "choices": ["は", "が", "に", "を"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch07_g02",
+      "chapterId": 7,
+      "order": 20,
+      "question": "Pilih partikel yang tepat: ともだち___ テニスを します。",
+      "choices": ["は", "に", "で", "と"],
+      "correctIndex": 3,
+      "category": "grammar"
+    },
+    {
+      "id": "ch07_g03",
+      "chapterId": 7,
+      "order": 21,
+      "question": "Pilih partikel yang tepat: せんせい___ ほんを もらいました。",
+      "choices": ["は", "が", "に", "を"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch07_g04",
+      "chapterId": 7,
+      "order": 22,
+      "question": "Lengkapi kalimat: かぞく___ えいがを みます。",
+      "choices": ["は", "に", "で", "と"],
+      "correctIndex": 3,
+      "category": "grammar"
+    },
+    {
+      "id": "ch07_g05",
+      "chapterId": 7,
+      "order": 23,
+      "question": "Lengkapi kalimat: わたしの しゅみ___ えいがを みることです。",
+      "choices": ["が", "を", "は", "に"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch07_g06",
+      "chapterId": 7,
+      "order": 24,
+      "question": "Lengkapi kalimat: ともだち___ ほんを かしました。",
+      "choices": ["は", "が", "に", "を"],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch07_g07",
+      "chapterId": 7,
+      "order": 25,
+      "question": "Pola grammar apa yang digunakan dalam 'ともだちに プレゼントを あげます'?",
+      "choices": ["N に N を あげます", "N と N を します", "N で V", "N は N です"],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch07_g08",
+      "chapterId": 7,
+      "order": 26,
+      "question": "Pola grammar apa yang digunakan dalam 'ともだちと テニスを します'?",
+      "choices": ["N に N を あげます", "N と N を します", "N で V", "N は N です"],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch07_r01",
+      "chapterId": 7,
+      "order": 27,
+      "question": "わたしの しゅみは えいがを みることです。まいしゅう ともだちと えいがを みます。\n\nしゅみは なんですか。",
+      "choices": ["おんがく", "えいが", "スポーツ", "りょうり"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch07_r02",
+      "chapterId": 7,
+      "order": 28,
+      "question": "きのう ともだちに ほんを あげました。ともだちは とても よろこびました。\n\nだれに ほんを あげましたか。",
+      "choices": ["せんせい", "ともだち", "かぞく", "いもうと"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch07_r03",
+      "chapterId": 7,
+      "order": 29,
+      "question": "わたしは テニスが すきです。まいしゅう ともだちと テニスを します。\n\nだれと テニスを しますか。",
+      "choices": ["ひとり", "ともだち", "かぞく", "せんせい"],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch07_r04",
+      "chapterId": 7,
+      "order": 30,
+      "question": "せんせいに にほんごを おしえて もらいました。とても わかりやすかったです。\n\nだれに にほんごを おしえて もらいましたか。",
+      "choices": ["ともだち", "せんせい", "かぞく", "がくせい"],
+      "correctIndex": 1,
+      "category": "reading"
     }
   ]
 }
