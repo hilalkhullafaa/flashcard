@@ -142,14 +142,14 @@ Fitur ini menambahkan 15-20 soal JLPT N5 per bab untuk semua 25 bab dengan distr
     - Gunakan vocabulary dan grammar dari data/ch20.json
     - _Requirements: 1.1, 1.2, 1.3, 1.4, 1.5, 2.1-2.6, 3.1-3.5, 4.1-4.5, 5.1-5.5, 7.1-7.4, 8.1-8.4, 9.1-9.4_
 
-- [ ] 11. Validasi struktur JSON dan distribusi kategori untuk Batch 4
+- [x] 11. Validasi struktur JSON dan distribusi kategori untuk Batch 4
   - Validasi struktur dan distribusi kategori untuk Bab 16-20
   - _Requirements: 1.1-1.5, 2.1-2.6, 8.1-8.4, 10.1-10.4_
 
-- [ ] 12. Checkpoint - Review Batch 4 dengan user
+- [x] 12. Checkpoint - Review Batch 4 dengan user
   - Ensure all tests pass, ask the user if questions arise.
 
-- [-] 13. Buat soal JLPT N5 untuk Bab 21-25 (Batch 5)
+- [x] 13. Buat soal JLPT N5 untuk Bab 21-25 (Batch 5)
   - [x] 13.1 Buat 20 soal JLPT N5 untuk Bab 21
     - Buat 8 soal vocabulary, 8 soal grammar, 4 soal reading
     - Gunakan vocabulary dan grammar dari data/ch21.json
@@ -175,14 +175,14 @@ Fitur ini menambahkan 15-20 soal JLPT N5 per bab untuk semua 25 bab dengan distr
     - Gunakan vocabulary dan grammar dari data/ch25.json
     - _Requirements: 1.1, 1.2, 1.3, 1.4, 1.5, 2.1-2.6, 3.1-3.5, 4.1-4.5, 5.1-5.5, 7.1-7.4, 8.1-8.4, 9.1-9.4_
 
-- [ ] 14. Validasi struktur JSON dan distribusi kategori untuk Batch 5
+- [x] 14. Validasi struktur JSON dan distribusi kategori untuk Batch 5
   - Validasi struktur dan distribusi kategori untuk Bab 21-25
   - _Requirements: 1.1-1.5, 2.1-2.6, 8.1-8.4, 10.1-10.4_
 
-- [ ] 15. Checkpoint - Review Batch 5 dengan user
+- [x] 15. Checkpoint - Review Batch 5 dengan user
   - Ensure all tests pass, ask the user if questions arise.
 
-- [ ] 16. Testing manual untuk semua bab
+- [~] 16. Testing manual untuk semua bab
   - [ ] 16.1 Test fungsional untuk Bab 1-5
     - Buka aplikasi dan navigasi ke setiap bab
     - Mulai kuis dan verifikasi soal JLPT N5 muncul
@@ -207,14 +207,14 @@ Fitur ini menambahkan 15-20 soal JLPT N5 per bab untuk semua 25 bab dengan distr
     - Test fungsionalitas kuis untuk Bab 21-25
     - _Requirements: 6.1-6.5_
 
-- [ ] 17. Update VALIDATION_CHECKLIST.md
+- [x] 17. Update VALIDATION_CHECKLIST.md
   - Tambahkan section untuk validasi soal JLPT N5
   - Tambahkan checklist untuk distribusi kategori (40% vocab, 40% grammar, 20% reading)
   - Tambahkan checklist untuk validasi field category
   - Tambahkan checklist untuk kualitas soal (relevansi materi, tingkat kesulitan N5, distractor quality)
   - _Requirements: 1.1-1.5, 2.1-2.6_
 
-- [ ] 18. Final checkpoint - Review keseluruhan implementasi
+- [x] 18. Final checkpoint - Review keseluruhan implementasi
   - Ensure all tests pass, ask the user if questions arise.
 
 ## Notes

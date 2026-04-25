@@ -293,6 +293,126 @@ Untuk bab 4-25, gunakan template berikut:
 
 ---
 
+## Validasi Soal JLPT N5
+
+### Struktur dan Jumlah Soal
+- [ ] Setiap bab memiliki minimal 15 soal JLPT N5
+- [ ] Setiap bab memiliki maksimal 20 soal JLPT N5
+- [ ] Total soal per bab: 25-30 soal (10 soal lama + 15-20 soal JLPT N5)
+- [ ] Setiap soal JLPT N5 memiliki field wajib: id, chapterId, order, question, choices, correctIndex
+- [ ] Setiap soal JLPT N5 memiliki field `category` dengan nilai "vocabulary", "grammar", atau "reading"
+
+### Distribusi Kategori Soal
+
+#### Untuk Bab dengan 15 Soal JLPT N5
+- [ ] Minimal 6 soal kategori "vocabulary" (40%)
+- [ ] Minimal 6 soal kategori "grammar" (40%)
+- [ ] Minimal 3 soal kategori "reading" (20%)
+
+#### Untuk Bab dengan 20 Soal JLPT N5
+- [ ] Minimal 8 soal kategori "vocabulary" (40%)
+- [ ] Minimal 8 soal kategori "grammar" (40%)
+- [ ] Minimal 4 soal kategori "reading" (20%)
+
+### Validasi Field Category
+- [ ] Semua soal JLPT N5 memiliki field `category`
+- [ ] Nilai field `category` hanya "vocabulary", "grammar", atau "reading"
+- [ ] Soal lama (10 soal pertama) tidak memiliki field `category`
+- [ ] Field `category` tidak mengganggu fungsi quiz.js yang sudah ada
+
+### Validasi Format Multiple Choice
+- [ ] Setiap soal memiliki tepat 4 pilihan jawaban dalam array `choices`
+- [ ] Field `correctIndex` berada dalam rentang 0-3
+- [ ] Tidak ada duplikat pilihan jawaban dalam satu soal
+- [ ] Jawaban benar ditandai dengan `correctIndex` yang tepat
+
+### Kualitas Soal Vocabulary
+
+#### Relevansi Materi
+- [ ] Vocabulary questions menggunakan kosakata dari field `vocabulary` bab tersebut
+- [ ] Tidak menggunakan kosakata dari bab yang lebih tinggi
+- [ ] Kosakata relevan dengan tema bab
+
+#### Tingkat Kesulitan N5
+- [ ] Hanya menggunakan kosakata dalam silabus JLPT N5
+- [ ] Kanji yang digunakan sesuai level N5
+- [ ] Tingkat kesulitan konsisten dengan level N5
+
+#### Tipe Soal Vocabulary
+- [ ] Ada soal kanji reading (membaca kanji dengan hiragana yang benar)
+- [ ] Ada soal word meaning (memilih arti kata yang tepat)
+- [ ] Ada soal contextual usage (memilih kata yang tepat untuk melengkapi kalimat)
+
+#### Distractor Quality (Pilihan Salah)
+- [ ] Distractor masuk akal dan tidak terlalu mudah dibedakan
+- [ ] Menggunakan kata yang mirip atau sering tertukar
+- [ ] Tidak ada pilihan yang jelas salah atau tidak relevan
+
+### Kualitas Soal Grammar
+
+#### Relevansi Materi
+- [ ] Grammar questions menggunakan pola dari field `patterns` atau `grammar` bab tersebut
+- [ ] Tidak menggunakan pola grammar dari bab yang lebih tinggi
+- [ ] Pola grammar relevan dengan materi bab
+
+#### Tingkat Kesulitan N5
+- [ ] Hanya menggunakan pola grammar dalam silabus JLPT N5
+- [ ] Struktur kalimat sesuai level N5
+- [ ] Tingkat kesulitan konsisten dengan level N5
+
+#### Tipe Soal Grammar
+- [ ] Ada soal particle selection (memilih partikel yang tepat)
+- [ ] Ada soal sentence completion (melengkapi kalimat dengan pola yang benar)
+- [ ] Ada soal grammar pattern recognition (mengidentifikasi pola grammar)
+
+#### Distractor Quality (Pilihan Salah)
+- [ ] Distractor menggunakan partikel atau pola yang mirip
+- [ ] Pilihan salah masuk akal dalam konteks tertentu
+- [ ] Tidak ada pilihan yang jelas salah secara grammar
+
+### Kualitas Soal Reading Comprehension
+
+#### Struktur Bacaan
+- [ ] Bacaan terdiri dari 2-4 kalimat
+- [ ] Bacaan tidak melebihi 50 karakter Jepang
+- [ ] Bacaan dan pertanyaan digabung dalam field `question` (dipisah dengan `\n\n`)
+
+#### Relevansi Materi
+- [ ] Bacaan menggunakan vocabulary dari bab tersebut atau sebelumnya
+- [ ] Bacaan menggunakan grammar dari bab tersebut atau sebelumnya
+- [ ] Tidak menggunakan materi dari bab yang lebih tinggi
+
+#### Tingkat Kesulitan N5
+- [ ] Kalimat sederhana dengan struktur level N5
+- [ ] Vocabulary sesuai silabus JLPT N5
+- [ ] Tingkat kesulitan konsisten dengan level N5
+
+#### Kualitas Pertanyaan
+- [ ] Pertanyaan menguji pemahaman isi bacaan
+- [ ] Tidak hanya menguji vocabulary atau grammar
+- [ ] Pertanyaan jelas dan tidak ambigu
+
+#### Distractor Quality (Pilihan Salah)
+- [ ] Distractor relevan dengan konteks bacaan
+- [ ] Pilihan salah masuk akal tetapi tidak sesuai dengan isi bacaan
+- [ ] Tidak ada pilihan yang jelas salah tanpa membaca bacaan
+
+### Validasi Teknis
+- [ ] Struktur JSON valid (tidak ada syntax error)
+- [ ] Field `id` unik untuk setiap soal
+- [ ] Field `order` berurutan (soal lama: 1-10, soal JLPT N5: 11-30)
+- [ ] Field `chapterId` sesuai dengan nomor bab
+- [ ] Tidak ada field yang kosong atau null
+
+### Pengujian Fungsional
+- [ ] Soal JLPT N5 muncul saat kuis dimulai
+- [ ] Soal dapat diacak dengan tombol "Acak"
+- [ ] Jawaban benar/salah ditampilkan dengan warna yang tepat
+- [ ] Skor dihitung dengan benar (termasuk soal JLPT N5)
+- [ ] Tombol "Ulangi Kuis" mengacak semua soal (lama + baru)
+
+---
+
 ## Prioritas Validasi
 
 ### Prioritas Tinggi (Wajib)
