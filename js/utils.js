@@ -59,6 +59,28 @@ function getPrevIndex(currentIndex, total) {
 }
 
 /**
+ * Memeriksa apakah string mengandung minimal satu karakter kanji sebenarnya.
+ * Menggunakan Unicode range untuk CJK Unified Ideographs dan Extension A.
+ *
+ * @param {string} text - String yang akan diperiksa
+ * @returns {boolean} true jika mengandung minimal satu kanji, false jika tidak
+ */
+function hasKanji(text) {
+  if (!text || typeof text !== 'string') return false;
+  
+  for (let i = 0; i < text.length; i++) {
+    const charCode = text.codePointAt(i);
+    // CJK Unified Ideographs: U+4E00-U+9FAF
+    // CJK Extension A: U+3400-U+4DBF
+    if ((charCode >= 0x4E00 && charCode <= 0x9FAF) || 
+        (charCode >= 0x3400 && charCode <= 0x4DBF)) {
+      return true;
+    }
+  }
+  return false;
+}
+
+/**
  * Mencari kosakata dan pola kalimat dari semua bab berdasarkan kata kunci.
  * Pencarian bersifat case-insensitive.
  *
@@ -101,4 +123,4 @@ function searchVocabAndPatterns(allChaptersData, query) {
   return results;
 }
 
-export { shuffleArray, calculateQuizResult, getNextIndex, getPrevIndex, searchVocabAndPatterns };
+export { shuffleArray, calculateQuizResult, getNextIndex, getPrevIndex, searchVocabAndPatterns, hasKanji };

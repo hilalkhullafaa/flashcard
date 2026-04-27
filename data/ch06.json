@@ -6,22 +6,22 @@
     "titleId": "Saya bangun jam 6 setiap pagi"
   },
   "vocabulary": [
-    { "id": "ch06_001", "chapterId": 6, "order": 1, "kanji": "食べます", "kana": "たべます", "romaji": "tabemasu", "wordClass": "verba-ru", "meaning": "makan" },
-    { "id": "ch06_002", "chapterId": 6, "order": 2, "kanji": "飲みます", "kana": "のみます", "romaji": "nomimasu", "wordClass": "verba-i", "meaning": "minum" },
-    { "id": "ch06_003", "chapterId": 6, "order": 3, "kanji": "吸います", "kana": "すいます", "romaji": "suimasu", "wordClass": "verba-i", "meaning": "menghisap (rokok)" },
-    { "id": "ch06_004", "chapterId": 6, "order": 4, "kanji": "見ます", "kana": "みます", "romaji": "mimasu", "wordClass": "verba-ru", "meaning": "melihat/menonton" },
-    { "id": "ch06_005", "chapterId": 6, "order": 5, "kanji": "聞きます", "kana": "ききます", "romaji": "kikimasu", "wordClass": "verba-i", "meaning": "mendengar/mendengarkan" },
-    { "id": "ch06_006", "chapterId": 6, "order": 6, "kanji": "読みます", "kana": "よみます", "romaji": "yomimasu", "wordClass": "verba-i", "meaning": "membaca" },
-    { "id": "ch06_007", "chapterId": 6, "order": 7, "kanji": "書きます", "kana": "かきます", "romaji": "kakimasu", "wordClass": "verba-i", "meaning": "menulis" },
-    { "id": "ch06_008", "chapterId": 6, "order": 8, "kanji": "買います", "kana": "かいます", "romaji": "kaimasu", "wordClass": "verba-i", "meaning": "membeli" },
-    { "id": "ch06_009", "chapterId": 6, "order": 9, "kanji": "撮ります", "kana": "とります", "romaji": "torimasu", "wordClass": "verba-i", "meaning": "mengambil/mengambil foto" },
-    { "id": "ch06_010", "chapterId": 6, "order": 10, "kanji": "", "kana": "します", "romaji": "shimasu", "wordClass": "verba-ireguler", "meaning": "melakukan" },
-    { "id": "ch06_011", "chapterId": 6, "order": 11, "kanji": "会います", "kana": "あいます", "romaji": "aimasu", "wordClass": "verba-i", "meaning": "bertemu" },
-    { "id": "ch06_012", "chapterId": 6, "order": 12, "kanji": "ご飯", "kana": "ごはん", "romaji": "gohan", "wordClass": "nomina", "meaning": "nasi/makanan" },
+    { "id": "ch06_001", "chapterId": 6, "order": 1, "kanji": "食べます", "kana": "たべます", "romaji": "tabemasu", "wordClass": "verba-II", "meaning": "makan" },
+    { "id": "ch06_002", "chapterId": 6, "order": 2, "kanji": "飲みます", "kana": "のみます", "romaji": "nomimasu", "wordClass": "verba-I", "meaning": "minum" },
+    { "id": "ch06_003", "chapterId": 6, "order": 3, "kanji": "吸います", "kana": "すいます", "romaji": "suimasu", "wordClass": "verba-I", "meaning": "menghisap (rokok)" },
+    { "id": "ch06_004", "chapterId": 6, "order": 4, "kanji": "見ます", "kana": "みます", "romaji": "mimasu", "wordClass": "verba-II", "meaning": "melihat; menonton" },
+    { "id": "ch06_005", "chapterId": 6, "order": 5, "kanji": "聞きます", "kana": "ききます", "romaji": "kikimasu", "wordClass": "verba-I", "meaning": "mendengar; mendengarkan" },
+    { "id": "ch06_006", "chapterId": 6, "order": 6, "kanji": "読みます", "kana": "よみます", "romaji": "yomimasu", "wordClass": "verba-I", "meaning": "membaca" },
+    { "id": "ch06_007", "chapterId": 6, "order": 7, "kanji": "書きます", "kana": "かきます", "romaji": "kakimasu", "wordClass": "verba-I", "meaning": "menulis" },
+    { "id": "ch06_008", "chapterId": 6, "order": 8, "kanji": "買います", "kana": "かいます", "romaji": "kaimasu", "wordClass": "verba-I", "meaning": "membeli" },
+    { "id": "ch06_009", "chapterId": 6, "order": 9, "kanji": "撮ります", "kana": "とります", "romaji": "torimasu", "wordClass": "verba-I", "meaning": "mengambil (foto)" },
+    { "id": "ch06_010", "chapterId": 6, "order": 10, "kanji": "します", "kana": "します", "romaji": "shimasu", "wordClass": "verba-III", "meaning": "melakukan" },
+    { "id": "ch06_011", "chapterId": 6, "order": 11, "kanji": "会います", "kana": "あいます", "romaji": "aimasu", "wordClass": "verba-I", "meaning": "bertemu" },
+    { "id": "ch06_012", "chapterId": 6, "order": 12, "kanji": "ご飯", "kana": "ごはん", "romaji": "gohan", "wordClass": "nomina", "meaning": "nasi; makanan" },
     { "id": "ch06_013", "chapterId": 6, "order": 13, "kanji": "朝ご飯", "kana": "あさごはん", "romaji": "asagohan", "wordClass": "nomina", "meaning": "sarapan" },
     { "id": "ch06_014", "chapterId": 6, "order": 14, "kanji": "昼ご飯", "kana": "ひるごはん", "romaji": "hirugohan", "wordClass": "nomina", "meaning": "makan siang" },
     { "id": "ch06_015", "chapterId": 6, "order": 15, "kanji": "晩ご飯", "kana": "ばんごはん", "romaji": "bangohan", "wordClass": "nomina", "meaning": "makan malam" },
-    { "id": "ch06_016", "chapterId": 6, "order": 16, "kanji": "", "kana": "パン", "romaji": "pan", "wordClass": "nomina", "meaning": "roti" },
+    { "id": "ch06_016", "chapterId": 6, "order": 16, "kanji": "パン", "kana": "パン", "romaji": "pan", "wordClass": "nomina", "meaning": "roti" },
     { "id": "ch06_017", "chapterId": 6, "order": 17, "kanji": "卵", "kana": "たまご", "romaji": "tamago", "wordClass": "nomina", "meaning": "telur" },
     { "id": "ch06_018", "chapterId": 6, "order": 18, "kanji": "肉", "kana": "にく", "romaji": "niku", "wordClass": "nomina", "meaning": "daging" },
     { "id": "ch06_019", "chapterId": 6, "order": 19, "kanji": "魚", "kana": "さかな", "romaji": "sakana", "wordClass": "nomina", "meaning": "ikan" },
@@ -29,16 +29,43 @@
     { "id": "ch06_021", "chapterId": 6, "order": 21, "kanji": "果物", "kana": "くだもの", "romaji": "kudamono", "wordClass": "nomina", "meaning": "buah-buahan" },
     { "id": "ch06_022", "chapterId": 6, "order": 22, "kanji": "水", "kana": "みず", "romaji": "mizu", "wordClass": "nomina", "meaning": "air" },
     { "id": "ch06_023", "chapterId": 6, "order": 23, "kanji": "お茶", "kana": "おちゃ", "romaji": "ocha", "wordClass": "nomina", "meaning": "teh" },
-    { "id": "ch06_024", "chapterId": 6, "order": 24, "kanji": "", "kana": "ジュース", "romaji": "juusu", "wordClass": "nomina", "meaning": "jus" },
-    { "id": "ch06_025", "chapterId": 6, "order": 25, "kanji": "", "kana": "ビール", "romaji": "biiru", "wordClass": "nomina", "meaning": "bir" },
-    { "id": "ch06_026", "chapterId": 6, "order": 26, "kanji": "お酒", "kana": "おさけ", "romaji": "osake", "wordClass": "nomina", "meaning": "minuman beralkohol/sake" },
-    { "id": "ch06_027", "chapterId": 6, "order": 27, "kanji": "", "kana": "ミルク", "romaji": "miruku", "wordClass": "nomina", "meaning": "susu" },
-    { "id": "ch06_028", "chapterId": 6, "order": 28, "kanji": "", "kana": "を", "romaji": "wo", "wordClass": "partikel", "meaning": "menandai objek langsung" },
-    { "id": "ch06_029", "chapterId": 6, "order": 29, "kanji": "", "kana": "で", "romaji": "de", "wordClass": "partikel", "meaning": "di (tempat kegiatan)" },
-    { "id": "ch06_030", "chapterId": 6, "order": 30, "kanji": "一人で", "kana": "ひとりで", "romaji": "hitori de", "wordClass": "ekspresi", "meaning": "sendirian" },
-    { "id": "ch06_031", "chapterId": 6, "order": 31, "kanji": "一緒に", "kana": "いっしょに", "romaji": "issho ni", "wordClass": "ekspresi", "meaning": "bersama-sama" },
-    { "id": "ch06_032", "chapterId": 6, "order": 32, "kanji": "", "kana": "もう", "romaji": "mou", "wordClass": "adverbia", "meaning": "sudah/lagi" },
-    { "id": "ch06_033", "chapterId": 6, "order": 33, "kanji": "", "kana": "まだ", "romaji": "mada", "wordClass": "adverbia", "meaning": "belum/masih" }
+    { "id": "ch06_024", "chapterId": 6, "order": 24, "kanji": "ジュース", "kana": "ジュース", "romaji": "juusu", "wordClass": "nomina", "meaning": "jus" },
+    { "id": "ch06_025", "chapterId": 6, "order": 25, "kanji": "ビール", "kana": "ビール", "romaji": "biiru", "wordClass": "nomina", "meaning": "bir" },
+    { "id": "ch06_026", "chapterId": 6, "order": 26, "kanji": "お酒", "kana": "おさけ", "romaji": "osake", "wordClass": "nomina", "meaning": "minuman beralkohol; sake" },
+    { "id": "ch06_027", "chapterId": 6, "order": 27, "kanji": "ミルク", "kana": "ミルク", "romaji": "miruku", "wordClass": "nomina", "meaning": "susu" },
+    { "id": "ch06_028", "chapterId": 6, "order": 28, "kanji": "新聞", "kana": "しんぶん", "romaji": "shinbun", "wordClass": "nomina", "meaning": "koran" },
+    { "id": "ch06_029", "chapterId": 6, "order": 29, "kanji": "テレビ", "kana": "テレビ", "romaji": "terebi", "wordClass": "nomina", "meaning": "televisi" },
+    { "id": "ch06_030", "chapterId": 6, "order": 30, "kanji": "ラジオ", "kana": "ラジオ", "romaji": "rajio", "wordClass": "nomina", "meaning": "radio" },
+    { "id": "ch06_031", "chapterId": 6, "order": 31, "kanji": "手紙", "kana": "てがみ", "romaji": "tegami", "wordClass": "nomina", "meaning": "surat" },
+    { "id": "ch06_032", "chapterId": 6, "order": 32, "kanji": "レポート", "kana": "レポート", "romaji": "repooto", "wordClass": "nomina", "meaning": "laporan" },
+    { "id": "ch06_033", "chapterId": 6, "order": 33, "kanji": "写真", "kana": "しゃしん", "romaji": "shashin", "wordClass": "nomina", "meaning": "foto" },
+    { "id": "ch06_034", "chapterId": 6, "order": 34, "kanji": "もう", "kana": "もう", "romaji": "mou", "wordClass": "adverbia", "meaning": "sudah" },
+    { "id": "ch06_035", "chapterId": 6, "order": 35, "kanji": "まだ", "kana": "まだ", "romaji": "mada", "wordClass": "adverbia", "meaning": "belum; masih" }
+  ],
+  "conversations": [
+    {
+      "id": "ch06_conv01",
+      "chapterId": 6,
+      "order": 1,
+      "title": "Percakapan 1 — Kegiatan Sehari-hari",
+      "turns": [
+        { "speaker": "やまだ", "japanese": "ミラーさんは まいあさ なにを たべますか。", "romaji": "Miraa-san wa maiasa nani o tabemasu ka.", "indonesian": "Tuan Miller, setiap pagi makan apa?" },
+        { "speaker": "ミラー", "japanese": "パンと たまごを たべます。コーヒーも のみます。やまださんは？", "romaji": "Pan to tamago o tabemasu. Koohii mo nomimasu. Yamada-san wa?", "indonesian": "Saya makan roti dan telur. Minum kopi juga. Yamada?" },
+        { "speaker": "やまだ", "japanese": "わたしは ごはんと みそしるを たべます。", "romaji": "Watashi wa gohan to misoshiru o tabemasu.", "indonesian": "Saya makan nasi dan sup miso." }
+      ]
+    },
+    {
+      "id": "ch06_conv02",
+      "chapterId": 6,
+      "order": 2,
+      "title": "Percakapan 2 — Sudah Makan?",
+      "turns": [
+        { "speaker": "カリナ", "japanese": "もう ひるごはんを たべましたか。", "romaji": "Mou hirugohan o tabemashita ka.", "indonesian": "Sudah makan siang?" },
+        { "speaker": "ミラー", "japanese": "いいえ、まだです。カリナさんは？", "romaji": "Iie, mada desu. Karina-san wa?", "indonesian": "Belum. Karina?" },
+        { "speaker": "カリナ", "japanese": "わたしも まだです。いっしょに しょくどうへ いきませんか。", "romaji": "Watashi mo mada desu. Issho ni shokudou e ikimasen ka.", "indonesian": "Saya juga belum. Mau pergi ke kantin bersama?" },
+        { "speaker": "ミラー", "japanese": "いいですね。いきましょう。", "romaji": "Ii desu ne. Ikimashou.", "indonesian": "Bagus. Ayo pergi." }
+      ]
+    }
   ],
   "grammar": [
     {

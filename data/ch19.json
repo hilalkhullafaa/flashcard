@@ -6,24 +6,50 @@
     "titleId": "Saya ingin menyewa kamar"
   },
   "vocabulary": [
-    { "id": "ch19_001", "chapterId": 19, "order": 1, "kanji": "借ります", "kana": "かります", "romaji": "karimasu", "wordClass": "verba-ru", "meaning": "menyewa/meminjam" },
-    { "id": "ch19_002", "chapterId": 19, "order": 2, "kanji": "貸します", "kana": "かします", "romaji": "kashimasu", "wordClass": "verba-i", "meaning": "menyewakan/meminjamkan" },
-    { "id": "ch19_003", "chapterId": 19, "order": 3, "kanji": "引っ越します", "kana": "ひっこします", "romaji": "hikkoshimasu", "wordClass": "verba-i", "meaning": "pindah rumah" },
-    { "id": "ch19_004", "chapterId": 19, "order": 4, "kanji": "探します", "kana": "さがします", "romaji": "sagashimasu", "wordClass": "verba-i", "meaning": "mencari" },
-    { "id": "ch19_005", "chapterId": 19, "order": 5, "kanji": "見つかります", "kana": "みつかります", "romaji": "mitsukarimasu", "wordClass": "verba-i", "meaning": "ditemukan/ketemu" },
-    { "id": "ch19_006", "chapterId": 19, "order": 6, "kanji": "決めます", "kana": "きめます", "romaji": "kimemasu", "wordClass": "verba-ru", "meaning": "memutuskan" },
-    { "id": "ch19_007", "chapterId": 19, "order": 7, "kanji": "選びます", "kana": "えらびます", "romaji": "erabimasu", "wordClass": "verba-i", "meaning": "memilih" },
-    { "id": "ch19_008", "chapterId": 19, "order": 8, "kanji": "申し込みます", "kana": "もうしこみます", "romaji": "moushikomimasu", "wordClass": "verba-i", "meaning": "mendaftar" },
+    { "id": "ch19_001", "chapterId": 19, "order": 1, "kanji": "借ります", "kana": "かります", "romaji": "karimasu", "wordClass": "verba-II", "meaning": "menyewa; meminjam" },
+    { "id": "ch19_002", "chapterId": 19, "order": 2, "kanji": "貸します", "kana": "かします", "romaji": "kashimasu", "wordClass": "verba-I", "meaning": "menyewakan; meminjamkan" },
+    { "id": "ch19_003", "chapterId": 19, "order": 3, "kanji": "引っ越します", "kana": "ひっこします", "romaji": "hikkoshimasu", "wordClass": "verba-III", "meaning": "pindah rumah" },
+    { "id": "ch19_004", "chapterId": 19, "order": 4, "kanji": "探します", "kana": "さがします", "romaji": "sagashimasu", "wordClass": "verba-I", "meaning": "mencari" },
+    { "id": "ch19_005", "chapterId": 19, "order": 5, "kanji": "見つかります", "kana": "みつかります", "romaji": "mitsukarimasu", "wordClass": "verba-I", "meaning": "ditemukan; ketemu" },
+    { "id": "ch19_006", "chapterId": 19, "order": 6, "kanji": "決めます", "kana": "きめます", "romaji": "kimemasu", "wordClass": "verba-II", "meaning": "memutuskan" },
+    { "id": "ch19_007", "chapterId": 19, "order": 7, "kanji": "選びます", "kana": "えらびます", "romaji": "erabimasu", "wordClass": "verba-I", "meaning": "memilih" },
+    { "id": "ch19_008", "chapterId": 19, "order": 8, "kanji": "申し込みます", "kana": "もうしこみます", "romaji": "moushikomimasu", "wordClass": "verba-I", "meaning": "mendaftar" },
     { "id": "ch19_009", "chapterId": 19, "order": 9, "kanji": "家賃", "kana": "やちん", "romaji": "yachin", "wordClass": "nomina", "meaning": "uang sewa" },
     { "id": "ch19_010", "chapterId": 19, "order": 10, "kanji": "敷金", "kana": "しきん", "romaji": "shikikin", "wordClass": "nomina", "meaning": "uang jaminan" },
     { "id": "ch19_011", "chapterId": 19, "order": 11, "kanji": "礼金", "kana": "れいきん", "romaji": "reikin", "wordClass": "nomina", "meaning": "uang terima kasih (untuk pemilik)" },
-    { "id": "ch19_012", "chapterId": 19, "order": 12, "kanji": "", "kana": "マンション", "romaji": "manshon", "wordClass": "nomina", "meaning": "apartemen (besar/mewah)" },
-    { "id": "ch19_013", "chapterId": 19, "order": 13, "kanji": "", "kana": "アパート", "romaji": "apaato", "wordClass": "nomina", "meaning": "apartemen (lebih kecil)" },
-    { "id": "ch19_014", "chapterId": 19, "order": 14, "kanji": "", "kana": "ペット", "romaji": "petto", "wordClass": "nomina", "meaning": "hewan peliharaan" },
+    { "id": "ch19_012", "chapterId": 19, "order": 12, "kanji": "マンション", "kana": "マンション", "romaji": "manshon", "wordClass": "nomina", "meaning": "apartemen (besar/mewah)" },
+    { "id": "ch19_013", "chapterId": 19, "order": 13, "kanji": "アパート", "kana": "アパート", "romaji": "apaato", "wordClass": "nomina", "meaning": "apartemen (lebih kecil)" },
+    { "id": "ch19_014", "chapterId": 19, "order": 14, "kanji": "ペット", "kana": "ペット", "romaji": "petto", "wordClass": "nomina", "meaning": "hewan peliharaan" },
     { "id": "ch19_015", "chapterId": 19, "order": 15, "kanji": "禁煙", "kana": "きんえん", "romaji": "kin'en", "wordClass": "nomina", "meaning": "dilarang merokok" },
-    { "id": "ch19_016", "chapterId": 19, "order": 16, "kanji": "", "kana": "〜と", "romaji": "~to", "wordClass": "partikel", "meaning": "jika/kalau (kondisional alami)" },
-    { "id": "ch19_017", "chapterId": 19, "order": 17, "kanji": "", "kana": "〜ば", "romaji": "~ba", "wordClass": "partikel", "meaning": "jika (kondisional)" },
-    { "id": "ch19_018", "chapterId": 19, "order": 18, "kanji": "", "kana": "〜たら", "romaji": "~tara", "wordClass": "ekspresi", "meaning": "kalau/jika (kondisional hipotetis)" }
+    { "id": "ch19_016", "chapterId": 19, "order": 16, "kanji": "〜と", "kana": "〜と", "romaji": "~to", "wordClass": "partikel", "meaning": "jika; kalau (kondisional alami)" },
+    { "id": "ch19_017", "chapterId": 19, "order": 17, "kanji": "〜ば", "kana": "〜ば", "romaji": "~ba", "wordClass": "partikel", "meaning": "jika (kondisional)" },
+    { "id": "ch19_018", "chapterId": 19, "order": 18, "kanji": "〜たら", "kana": "〜たら", "romaji": "~tara", "wordClass": "ekspresi", "meaning": "kalau; jika (kondisional hipotetis)" }
+  ],
+  "conversations": [
+    {
+      "id": "ch19_conv01",
+      "chapterId": 19,
+      "order": 1,
+      "title": "Percakapan 1 — Mencari Apartemen",
+      "turns": [
+        { "speaker": "カリナ", "japanese": "すみません、へやを かりたいんですが。", "romaji": "Sumimasen, heya o karitain desu ga.", "indonesian": "Permisi, saya ingin menyewa kamar." },
+        { "speaker": "ふどうさん", "japanese": "どんな へやを さがして いますか。", "romaji": "Donna heya o sagashite imasu ka.", "indonesian": "Kamar seperti apa yang dicari?" },
+        { "speaker": "カリナ", "japanese": "えきに ちかくて、やちんが やすければ いいです。ペットは だいじょうぶですか。", "romaji": "Eki ni chikakute, yachin ga yasukereba ii desu. Petto wa daijoubu desu ka.", "indonesian": "Dekat stasiun dan kalau sewanya murah bagus. Apakah hewan peliharaan boleh?" },
+        { "speaker": "ふどうさん", "japanese": "ペットは だめです。きんえんの へやも あります。やちんは 6まんえんです。", "romaji": "Petto wa dame desu. Kin'en no heya mo arimasu. Yachin wa rokuman en desu.", "indonesian": "Hewan peliharaan tidak boleh. Ada juga kamar bebas rokok. Sewanya 60.000 yen." }
+      ]
+    },
+    {
+      "id": "ch19_conv02",
+      "chapterId": 19,
+      "order": 2,
+      "title": "Percakapan 2 — Kondisional",
+      "turns": [
+        { "speaker": "ミラー", "japanese": "このボタンを おすと、どう なりますか。", "romaji": "Kono botan o osu to, dou narimasu ka.", "indonesian": "Kalau tombol ini ditekan, apa yang terjadi?" },
+        { "speaker": "やまだ", "japanese": "エレベーターが きます。", "romaji": "Erebeetaa ga kimasu.", "indonesian": "Lift akan datang." },
+        { "speaker": "ミラー", "japanese": "わかりました。しごとが おわったら、でんわして ください。", "romaji": "Wakarimashita. Shigoto ga owattara, denwa shite kudasai.", "indonesian": "Mengerti. Kalau pekerjaan selesai, tolong telepon." },
+        { "speaker": "やまだ", "japanese": "はい、わかりました。", "romaji": "Hai, wakarimashita.", "indonesian": "Ya, mengerti." }
+      ]
+    }
   ],
   "patterns": [
     {

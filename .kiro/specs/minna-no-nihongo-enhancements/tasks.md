@@ -57,7 +57,7 @@ This implementation plan breaks down the four major enhancements into discrete c
 - [ ] 3. Checkpoint - Verify flashcard and progress tracking
   - Ensure all tests pass, ask the user if questions arise.
 
-- [~] 4. Create Consolidated Materi Module
+- [ ] 4. Create Consolidated Materi Module
   - [x] 4.1 Implement materi module with pattern and grammar merging
     - Create `js/modules/materi.js` with `renderMateri` function
     - Accept `container` and `chapterData` parameters

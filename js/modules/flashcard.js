@@ -1,4 +1,4 @@
-import { shuffleArray, getNextIndex, getPrevIndex } from '../utils.js';
+import { shuffleArray, getNextIndex, getPrevIndex, hasKanji } from '../utils.js';
 import { progressTracker } from './progress.js';
 
 function renderFlashcard(container, chapterData, options = {}) {
@@ -45,7 +45,7 @@ function renderFlashcard(container, chapterData, options = {}) {
   
   // Filter vocabulary based on mode
   const allVocabulary = [...vocabulary].sort((a, b) => a.order - b.order);
-  const kanjiVocabulary = allVocabulary.filter(v => v.kanji && v.kanji !== '');
+  const kanjiVocabulary = allVocabulary.filter(v => v.kanji && hasKanji(v.kanji));
   
   // Check for empty kanji vocabulary
   if (mode === 'kanji' && kanjiVocabulary.length === 0) {

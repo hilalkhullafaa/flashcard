@@ -6,23 +6,50 @@
     "titleId": "Saya ingin mengirim barang"
   },
   "vocabulary": [
-    { "id": "ch18_001", "chapterId": 18, "order": 1, "kanji": "送ります", "kana": "おくります", "romaji": "okurimasu", "wordClass": "verba-i", "meaning": "mengirim" },
-    { "id": "ch18_002", "chapterId": 18, "order": 2, "kanji": "受け取ります", "kana": "うけとります", "romaji": "uketorimasu", "wordClass": "verba-i", "meaning": "menerima/mengambil" },
-    { "id": "ch18_003", "chapterId": 18, "order": 3, "kanji": "申し込みます", "kana": "もうしこみます", "romaji": "moushikomimasu", "wordClass": "verba-i", "meaning": "mendaftar/mengajukan" },
-    { "id": "ch18_004", "chapterId": 18, "order": 4, "kanji": "予約します", "kana": "よやくします", "romaji": "yoyaku shimasu", "wordClass": "verba-ireguler", "meaning": "memesan/reservasi" },
-    { "id": "ch18_005", "chapterId": 18, "order": 5, "kanji": "取り替えます", "kana": "とりかえます", "romaji": "torikaemasu", "wordClass": "verba-ru", "meaning": "menukar/mengganti" },
-    { "id": "ch18_006", "chapterId": 18, "order": 6, "kanji": "修理します", "kana": "しゅうりします", "romaji": "shuuri shimasu", "wordClass": "verba-ireguler", "meaning": "memperbaiki" },
-    { "id": "ch18_007", "chapterId": 18, "order": 7, "kanji": "荷物", "kana": "にもつ", "romaji": "nimotsu", "wordClass": "nomina", "meaning": "barang/bagasi" },
-    { "id": "ch18_008", "chapterId": 18, "order": 8, "kanji": "小包", "kana": "こづつみ", "romaji": "kozutsumi", "wordClass": "nomina", "meaning": "paket/bungkusan" },
+    { "id": "ch18_001", "chapterId": 18, "order": 1, "kanji": "送ります", "kana": "おくります", "romaji": "okurimasu", "wordClass": "verba-I", "meaning": "mengirim" },
+    { "id": "ch18_002", "chapterId": 18, "order": 2, "kanji": "受け取ります", "kana": "うけとります", "romaji": "uketorimasu", "wordClass": "verba-I", "meaning": "menerima; mengambil" },
+    { "id": "ch18_003", "chapterId": 18, "order": 3, "kanji": "申し込みます", "kana": "もうしこみます", "romaji": "moushikomimasu", "wordClass": "verba-I", "meaning": "mendaftar; mengajukan" },
+    { "id": "ch18_004", "chapterId": 18, "order": 4, "kanji": "予約します", "kana": "よやくします", "romaji": "yoyaku shimasu", "wordClass": "verba-III", "meaning": "memesan; reservasi" },
+    { "id": "ch18_005", "chapterId": 18, "order": 5, "kanji": "取り替えます", "kana": "とりかえます", "romaji": "torikaemasu", "wordClass": "verba-II", "meaning": "menukar; mengganti" },
+    { "id": "ch18_006", "chapterId": 18, "order": 6, "kanji": "修理します", "kana": "しゅうりします", "romaji": "shuuri shimasu", "wordClass": "verba-III", "meaning": "memperbaiki" },
+    { "id": "ch18_007", "chapterId": 18, "order": 7, "kanji": "荷物", "kana": "にもつ", "romaji": "nimotsu", "wordClass": "nomina", "meaning": "barang; bagasi" },
+    { "id": "ch18_008", "chapterId": 18, "order": 8, "kanji": "小包", "kana": "こづつみ", "romaji": "kozutsumi", "wordClass": "nomina", "meaning": "paket; bungkusan" },
     { "id": "ch18_009", "chapterId": 18, "order": 9, "kanji": "切手", "kana": "きって", "romaji": "kitte", "wordClass": "nomina", "meaning": "perangko" },
     { "id": "ch18_010", "chapterId": 18, "order": 10, "kanji": "葉書", "kana": "はがき", "romaji": "hagaki", "wordClass": "nomina", "meaning": "kartu pos" },
     { "id": "ch18_011", "chapterId": 18, "order": 11, "kanji": "封筒", "kana": "ふうとう", "romaji": "fuutou", "wordClass": "nomina", "meaning": "amplop" },
     { "id": "ch18_012", "chapterId": 18, "order": 12, "kanji": "書留", "kana": "かきとめ", "romaji": "kakitome", "wordClass": "nomina", "meaning": "surat tercatat" },
     { "id": "ch18_013", "chapterId": 18, "order": 13, "kanji": "速達", "kana": "そくたつ", "romaji": "sokutatsu", "wordClass": "nomina", "meaning": "pengiriman kilat" },
-    { "id": "ch18_014", "chapterId": 18, "order": 14, "kanji": "", "kana": "〜たいんですが", "romaji": "~tai n desu ga", "wordClass": "ekspresi", "meaning": "saya ingin ~ (tapi...)" },
-    { "id": "ch18_015", "chapterId": 18, "order": 15, "kanji": "", "kana": "〜てほしいんですが", "romaji": "~te hoshii n desu ga", "wordClass": "ekspresi", "meaning": "saya ingin Anda ~" },
-    { "id": "ch18_016", "chapterId": 18, "order": 16, "kanji": "", "kana": "どうすれば いいですか", "romaji": "dou sureba ii desu ka", "wordClass": "ekspresi", "meaning": "apa yang harus saya lakukan?" },
-    { "id": "ch18_017", "chapterId": 18, "order": 17, "kanji": "", "kana": "〜たら どうですか", "romaji": "~tara dou desu ka", "wordClass": "ekspresi", "meaning": "bagaimana kalau ~?" }
+    { "id": "ch18_014", "chapterId": 18, "order": 14, "kanji": "〜たいんですが", "kana": "〜たいんですが", "romaji": "~tai n desu ga", "wordClass": "ekspresi", "meaning": "saya ingin ~ (tapi...)" },
+    { "id": "ch18_015", "chapterId": 18, "order": 15, "kanji": "〜てほしいんですが", "kana": "〜てほしいんですが", "romaji": "~te hoshii n desu ga", "wordClass": "ekspresi", "meaning": "saya ingin Anda ~" },
+    { "id": "ch18_016", "chapterId": 18, "order": 16, "kanji": "どうすればいいですか", "kana": "どうすればいいですか", "romaji": "dou sureba ii desu ka", "wordClass": "ekspresi", "meaning": "apa yang harus saya lakukan?" },
+    { "id": "ch18_017", "chapterId": 18, "order": 17, "kanji": "〜たらどうですか", "kana": "〜たらどうですか", "romaji": "~tara dou desu ka", "wordClass": "ekspresi", "meaning": "bagaimana kalau ~?" }
+  ],
+  "conversations": [
+    {
+      "id": "ch18_conv01",
+      "chapterId": 18,
+      "order": 1,
+      "title": "Percakapan 1 — Di Kantor Pos",
+      "turns": [
+        { "speaker": "ミラー", "japanese": "すみません、この にもつを おくりたいんですが。", "romaji": "Sumimasen, kono nimotsu o okuritain desu ga.", "indonesian": "Permisi, saya ingin mengirim barang ini." },
+        { "speaker": "てんいん", "japanese": "どこへ おくりますか。", "romaji": "Doko e okurimasu ka.", "indonesian": "Mau dikirim ke mana?" },
+        { "speaker": "ミラー", "japanese": "インドネシアへ おくりたいんですが、どうすれば いいですか。", "romaji": "Indoneshia e okuritain desu ga, dou sureba ii desu ka.", "indonesian": "Ingin dikirim ke Indonesia, apa yang harus saya lakukan?" },
+        { "speaker": "てんいん", "japanese": "こちらの ようしに なまえと じゅうしょを かいて ください。そくたつに しますか。", "romaji": "Kochira no youshi ni namae to juusho o kaite kudasai. Sokutatsu ni shimasu ka.", "indonesian": "Tolong tulis nama dan alamat di formulir ini. Mau pengiriman kilat?" },
+        { "speaker": "ミラー", "japanese": "はい、そくたつで おねがいします。", "romaji": "Hai, sokutatsu de onegai shimasu.", "indonesian": "Ya, tolong pengiriman kilat." }
+      ]
+    },
+    {
+      "id": "ch18_conv02",
+      "chapterId": 18,
+      "order": 2,
+      "title": "Percakapan 2 — Memberi Saran",
+      "turns": [
+        { "speaker": "カリナ", "japanese": "あたまが いたいです。", "romaji": "Atama ga itai desu.", "indonesian": "Kepala saya sakit." },
+        { "speaker": "ミラー", "japanese": "それは たいへんですね。くすりを のんだら どうですか。", "romaji": "Sore wa taihen desu ne. Kusuri o nondara dou desu ka.", "indonesian": "Itu berat ya. Bagaimana kalau minum obat?" },
+        { "speaker": "カリナ", "japanese": "くすりは もう のみました。でも まだ いたいです。", "romaji": "Kusuri wa mou nomimashita. Demo mada itai desu.", "indonesian": "Obat sudah diminum. Tapi masih sakit." },
+        { "speaker": "ミラー", "japanese": "じゃあ、はやく うちへ かえって やすんだら どうですか。", "romaji": "Jaa, hayaku uchi e kaette yasundara dou desu ka.", "indonesian": "Kalau begitu, bagaimana kalau cepat pulang ke rumah dan istirahat?" }
+      ]
+    }
   ],
   "patterns": [
     {

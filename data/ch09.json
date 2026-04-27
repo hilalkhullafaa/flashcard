@@ -22,16 +22,40 @@
     { "id": "ch09_014", "chapterId": 9, "order": 14, "kanji": "二十日", "kana": "はつか", "romaji": "hatsuka", "wordClass": "nomina", "meaning": "tanggal 20" },
     { "id": "ch09_015", "chapterId": 9, "order": 15, "kanji": "二十四日", "kana": "にじゅうよっか", "romaji": "nijuuyokka", "wordClass": "nomina", "meaning": "tanggal 24" },
     { "id": "ch09_016", "chapterId": 9, "order": 16, "kanji": "誕生日", "kana": "たんじょうび", "romaji": "tanjoubi", "wordClass": "nomina", "meaning": "ulang tahun" },
-    { "id": "ch09_017", "chapterId": 9, "order": 17, "kanji": "年月日", "kana": "ねんがっぴ", "romaji": "nengappi", "wordClass": "nomina", "meaning": "tanggal lengkap (tahun/bulan/tanggal)" },
-    { "id": "ch09_018", "chapterId": 9, "order": 18, "kanji": "", "kana": "いつ", "romaji": "itsu", "wordClass": "nomina", "meaning": "kapan" },
-    { "id": "ch09_019", "chapterId": 9, "order": 19, "kanji": "何日", "kana": "なんにち", "romaji": "nannichi", "wordClass": "nomina", "meaning": "tanggal berapa" },
-    { "id": "ch09_020", "chapterId": 9, "order": 20, "kanji": "何月", "kana": "なんがつ", "romaji": "nangatsu", "wordClass": "nomina", "meaning": "bulan apa" },
-    { "id": "ch09_021", "chapterId": 9, "order": 21, "kanji": "今年", "kana": "ことし", "romaji": "kotoshi", "wordClass": "nomina", "meaning": "tahun ini" },
-    { "id": "ch09_022", "chapterId": 9, "order": 22, "kanji": "来年", "kana": "らいねん", "romaji": "rainen", "wordClass": "nomina", "meaning": "tahun depan" },
-    { "id": "ch09_023", "chapterId": 9, "order": 23, "kanji": "去年", "kana": "きょねん", "romaji": "kyonen", "wordClass": "nomina", "meaning": "tahun lalu" },
-    { "id": "ch09_024", "chapterId": 9, "order": 24, "kanji": "〜年", "kana": "〜ねん", "romaji": "~nen", "wordClass": "sufiks", "meaning": "tahun ke-~" },
-    { "id": "ch09_025", "chapterId": 9, "order": 25, "kanji": "", "kana": "おめでとうございます", "romaji": "omedetou gozaimasu", "wordClass": "ekspresi", "meaning": "selamat" },
-    { "id": "ch09_026", "chapterId": 9, "order": 26, "kanji": "", "kana": "ありがとうございます", "romaji": "arigatou gozaimasu", "wordClass": "ekspresi", "meaning": "terima kasih" }
+    { "id": "ch09_017", "chapterId": 9, "order": 17, "kanji": "〜年", "kana": "〜ねん", "romaji": "~nen", "wordClass": "sufiks", "meaning": "tahun ke-~" },
+    { "id": "ch09_018", "chapterId": 9, "order": 18, "kanji": "何日", "kana": "なんにち", "romaji": "nannichi", "wordClass": "nomina", "meaning": "tanggal berapa" },
+    { "id": "ch09_019", "chapterId": 9, "order": 19, "kanji": "何月", "kana": "なんがつ", "romaji": "nangatsu", "wordClass": "nomina", "meaning": "bulan apa" },
+    { "id": "ch09_020", "chapterId": 9, "order": 20, "kanji": "今年", "kana": "ことし", "romaji": "kotoshi", "wordClass": "nomina", "meaning": "tahun ini" },
+    { "id": "ch09_021", "chapterId": 9, "order": 21, "kanji": "来年", "kana": "らいねん", "romaji": "rainen", "wordClass": "nomina", "meaning": "tahun depan" },
+    { "id": "ch09_022", "chapterId": 9, "order": 22, "kanji": "去年", "kana": "きょねん", "romaji": "kyonen", "wordClass": "nomina", "meaning": "tahun lalu" },
+    { "id": "ch09_023", "chapterId": 9, "order": 23, "kanji": "おめでとうございます", "kana": "おめでとうございます", "romaji": "omedetou gozaimasu", "wordClass": "ekspresi", "meaning": "selamat" },
+    { "id": "ch09_024", "chapterId": 9, "order": 24, "kanji": "ありがとうございます", "kana": "ありがとうございます", "romaji": "arigatou gozaimasu", "wordClass": "ekspresi", "meaning": "terima kasih" }
+  ],
+  "conversations": [
+    {
+      "id": "ch09_conv01",
+      "chapterId": 9,
+      "order": 1,
+      "title": "Percakapan 1 — Ulang Tahun",
+      "turns": [
+        { "speaker": "カリナ", "japanese": "ミラーさん、たんじょうびは いつですか。", "romaji": "Miraa-san, tanjoubi wa itsu desu ka.", "indonesian": "Tuan Miller, kapan ulang tahunnya?" },
+        { "speaker": "ミラー", "japanese": "12がつ 25にちです。カリナさんは？", "romaji": "Juunigatsu nijuugonichi desu. Karina-san wa?", "indonesian": "Tanggal 25 Desember. Karina?" },
+        { "speaker": "カリナ", "japanese": "わたしは 8がつ 17にちです。", "romaji": "Watashi wa hachigatsu juushichinichi desu.", "indonesian": "Saya tanggal 17 Agustus." },
+        { "speaker": "ミラー", "japanese": "そうですか。インドネシアの どくりつきねんびと おなじですね。", "romaji": "Sou desu ka. Indoneshia no dokuritsu kinenbi to onaji desu ne.", "indonesian": "Oh begitu. Sama dengan hari kemerdekaan Indonesia ya." }
+      ]
+    },
+    {
+      "id": "ch09_conv02",
+      "chapterId": 9,
+      "order": 2,
+      "title": "Percakapan 2 — Merayakan Ulang Tahun",
+      "turns": [
+        { "speaker": "やまだ", "japanese": "ミラーさん、おたんじょうびおめでとうございます。", "romaji": "Miraa-san, otanjoubi omedetou gozaimasu.", "indonesian": "Tuan Miller, selamat ulang tahun." },
+        { "speaker": "ミラー", "japanese": "ありがとうございます。", "romaji": "Arigatou gozaimasu.", "indonesian": "Terima kasih." },
+        { "speaker": "やまだ", "japanese": "おいくつに なりましたか。", "romaji": "Oikutsu ni narimashita ka.", "indonesian": "Sudah berapa tahun?" },
+        { "speaker": "ミラー", "japanese": "35さいに なりました。", "romaji": "Sanjuugosai ni narimashita.", "indonesian": "Sudah 35 tahun." }
+      ]
+    }
   ],
   "grammar": [
     {

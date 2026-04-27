@@ -25,16 +25,43 @@
     { "id": "ch08_017", "chapterId": 8, "order": 17, "kanji": "〜匹", "kana": "〜ひき", "romaji": "~hiki", "wordClass": "sufiks", "meaning": "penggolong hewan kecil" },
     { "id": "ch08_018", "chapterId": 8, "order": 18, "kanji": "〜頭", "kana": "〜とう", "romaji": "~tou", "wordClass": "sufiks", "meaning": "penggolong hewan besar" },
     { "id": "ch08_019", "chapterId": 8, "order": 19, "kanji": "〜羽", "kana": "〜わ", "romaji": "~wa", "wordClass": "sufiks", "meaning": "penggolong burung" },
-    { "id": "ch08_020", "chapterId": 8, "order": 20, "kanji": "", "kana": "ください", "romaji": "kudasai", "wordClass": "ekspresi", "meaning": "tolong berikan/minta" },
+    { "id": "ch08_020", "chapterId": 8, "order": 20, "kanji": "ください", "kana": "ください", "romaji": "kudasai", "wordClass": "ekspresi", "meaning": "tolong berikan; minta" },
     { "id": "ch08_021", "chapterId": 8, "order": 21, "kanji": "お願いします", "kana": "おねがいします", "romaji": "onegai shimasu", "wordClass": "ekspresi", "meaning": "tolong (permintaan sopan)" },
-    { "id": "ch08_022", "chapterId": 8, "order": 22, "kanji": "", "kana": "いらっしゃいませ", "romaji": "irasshaimase", "wordClass": "ekspresi", "meaning": "selamat datang (di toko)" },
+    { "id": "ch08_022", "chapterId": 8, "order": 22, "kanji": "いらっしゃいませ", "kana": "いらっしゃいませ", "romaji": "irasshaimase", "wordClass": "ekspresi", "meaning": "selamat datang (di toko)" },
     { "id": "ch08_023", "chapterId": 8, "order": 23, "kanji": "〜円", "kana": "〜えん", "romaji": "~en", "wordClass": "sufiks", "meaning": "yen (mata uang Jepang)" },
-    { "id": "ch08_024", "chapterId": 8, "order": 24, "kanji": "林檎", "kana": "りんご", "romaji": "ringo", "wordClass": "nomina", "meaning": "apel" },
-    { "id": "ch08_025", "chapterId": 8, "order": 25, "kanji": "蜜柑", "kana": "みかん", "romaji": "mikan", "wordClass": "nomina", "meaning": "jeruk mandarin" },
-    { "id": "ch08_026", "chapterId": 8, "order": 26, "kanji": "", "kana": "バナナ", "romaji": "banana", "wordClass": "nomina", "meaning": "pisang" },
+    { "id": "ch08_024", "chapterId": 8, "order": 24, "kanji": "りんご", "kana": "りんご", "romaji": "ringo", "wordClass": "nomina", "meaning": "apel" },
+    { "id": "ch08_025", "chapterId": 8, "order": 25, "kanji": "みかん", "kana": "みかん", "romaji": "mikan", "wordClass": "nomina", "meaning": "jeruk mandarin" },
+    { "id": "ch08_026", "chapterId": 8, "order": 26, "kanji": "バナナ", "kana": "バナナ", "romaji": "banana", "wordClass": "nomina", "meaning": "pisang" },
     { "id": "ch08_027", "chapterId": 8, "order": 27, "kanji": "牛乳", "kana": "ぎゅうにゅう", "romaji": "gyuunyuu", "wordClass": "nomina", "meaning": "susu sapi" },
     { "id": "ch08_028", "chapterId": 8, "order": 28, "kanji": "卵", "kana": "たまご", "romaji": "tamago", "wordClass": "nomina", "meaning": "telur" },
     { "id": "ch08_029", "chapterId": 8, "order": 29, "kanji": "日本酒", "kana": "にほんしゅ", "romaji": "nihonshu", "wordClass": "nomina", "meaning": "sake Jepang" }
+  ],
+  "conversations": [
+    {
+      "id": "ch08_conv01",
+      "chapterId": 8,
+      "order": 1,
+      "title": "Percakapan 1 — Di Toko Buah",
+      "turns": [
+        { "speaker": "てんいん", "japanese": "いらっしゃいませ。", "romaji": "Irasshaimase.", "indonesian": "Selamat datang." },
+        { "speaker": "ミラー", "japanese": "りんごを みっつ ください。", "romaji": "Ringo o mittsu kudasai.", "indonesian": "Tolong tiga buah apel." },
+        { "speaker": "てんいん", "japanese": "はい。ほかに なにか？", "romaji": "Hai. Hoka ni nanika?", "indonesian": "Baik. Ada yang lain?" },
+        { "speaker": "ミラー", "japanese": "ぎゅうにゅうを 1ほん おねがいします。ぜんぶで いくらですか。", "romaji": "Gyuunyuu o ippon onegai shimasu. Zenbu de ikura desu ka.", "indonesian": "Satu botol susu juga. Semuanya berapa?" },
+        { "speaker": "てんいん", "japanese": "580えんです。", "romaji": "Gohyaku hachijuu en desu.", "indonesian": "580 yen." }
+      ]
+    },
+    {
+      "id": "ch08_conv02",
+      "chapterId": 8,
+      "order": 2,
+      "title": "Percakapan 2 — Menanyakan Jumlah",
+      "turns": [
+        { "speaker": "カリナ", "japanese": "ねこが なんびき いますか。", "romaji": "Neko ga nanbiki imasu ka.", "indonesian": "Ada berapa ekor kucing?" },
+        { "speaker": "ミラー", "japanese": "3びき います。", "romaji": "Sanbiki imasu.", "indonesian": "Ada 3 ekor." },
+        { "speaker": "カリナ", "japanese": "かわいいですね。いぬは いますか。", "romaji": "Kawaii desu ne. Inu wa imasu ka.", "indonesian": "Lucu ya. Ada anjing?" },
+        { "speaker": "ミラー", "japanese": "いいえ、いません。", "romaji": "Iie, imasen.", "indonesian": "Tidak ada." }
+      ]
+    }
   ],
   "grammar": [
     {

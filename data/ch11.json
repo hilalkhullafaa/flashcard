@@ -6,24 +6,50 @@
     "titleId": "Bagaimana mengatakannya dalam bahasa Jepang?"
   },
   "vocabulary": [
-    { "id": "ch11_001", "chapterId": 11, "order": 1, "kanji": "見せます", "kana": "みせます", "romaji": "misemasu", "wordClass": "verba-ru", "meaning": "memperlihatkan" },
-    { "id": "ch11_002", "chapterId": 11, "order": 2, "kanji": "教えます", "kana": "おしえます", "romaji": "oshiemasu", "wordClass": "verba-ru", "meaning": "mengajar/memberitahu" },
-    { "id": "ch11_003", "chapterId": 11, "order": 3, "kanji": "話します", "kana": "はなします", "romaji": "hanashimasu", "wordClass": "verba-i", "meaning": "berbicara" },
-    { "id": "ch11_004", "chapterId": 11, "order": 4, "kanji": "呼びます", "kana": "よびます", "romaji": "yobimasu", "wordClass": "verba-i", "meaning": "memanggil" },
-    { "id": "ch11_005", "chapterId": 11, "order": 5, "kanji": "待ちます", "kana": "まちます", "romaji": "machimasu", "wordClass": "verba-i", "meaning": "menunggu" },
-    { "id": "ch11_006", "chapterId": 11, "order": 6, "kanji": "貸します", "kana": "かします", "romaji": "kashimasu", "wordClass": "verba-i", "meaning": "meminjamkan" },
-    { "id": "ch11_007", "chapterId": 11, "order": 7, "kanji": "使います", "kana": "つかいます", "romaji": "tsukaimasu", "wordClass": "verba-i", "meaning": "menggunakan" },
-    { "id": "ch11_008", "chapterId": 11, "order": 8, "kanji": "手伝います", "kana": "てつだいます", "romaji": "tetsudaimasu", "wordClass": "verba-i", "meaning": "membantu" },
-    { "id": "ch11_009", "chapterId": 11, "order": 9, "kanji": "持ってきます", "kana": "もってきます", "romaji": "motte kimasu", "wordClass": "verba-ireguler", "meaning": "membawa (ke sini)" },
-    { "id": "ch11_010", "chapterId": 11, "order": 10, "kanji": "電話します", "kana": "でんわします", "romaji": "denwa shimasu", "wordClass": "verba-ireguler", "meaning": "menelepon" },
-    { "id": "ch11_011", "chapterId": 11, "order": 11, "kanji": "", "kana": "ゆっくり", "romaji": "yukkuri", "wordClass": "adverbia", "meaning": "perlahan-lahan" },
-    { "id": "ch11_012", "chapterId": 11, "order": 12, "kanji": "もう一度", "kana": "もういちど", "romaji": "mou ichido", "wordClass": "adverbia", "meaning": "sekali lagi" },
-    { "id": "ch11_013", "chapterId": 11, "order": 13, "kanji": "", "kana": "ちょっと", "romaji": "chotto", "wordClass": "adverbia", "meaning": "sebentar/sedikit" },
-    { "id": "ch11_014", "chapterId": 11, "order": 14, "kanji": "", "kana": "すみません", "romaji": "sumimasen", "wordClass": "ekspresi", "meaning": "permisi/maaf" },
-    { "id": "ch11_015", "chapterId": 11, "order": 15, "kanji": "", "kana": "いいですか", "romaji": "ii desu ka", "wordClass": "ekspresi", "meaning": "bolehkah?" },
-    { "id": "ch11_016", "chapterId": 11, "order": 16, "kanji": "", "kana": "いいですよ", "romaji": "ii desu yo", "wordClass": "ekspresi", "meaning": "boleh saja" },
-    { "id": "ch11_017", "chapterId": 11, "order": 17, "kanji": "", "kana": "だめです", "romaji": "dame desu", "wordClass": "ekspresi", "meaning": "tidak boleh/tidak bisa" },
-    { "id": "ch11_018", "chapterId": 11, "order": 18, "kanji": "書きます", "kana": "かきます", "romaji": "kakimasu", "wordClass": "verba-i", "meaning": "menulis" }
+    { "id": "ch11_001", "chapterId": 11, "order": 1, "kanji": "見せます", "kana": "みせます", "romaji": "misemasu", "wordClass": "verba-II", "meaning": "memperlihatkan" },
+    { "id": "ch11_002", "chapterId": 11, "order": 2, "kanji": "教えます", "kana": "おしえます", "romaji": "oshiemasu", "wordClass": "verba-II", "meaning": "mengajar; memberitahu" },
+    { "id": "ch11_003", "chapterId": 11, "order": 3, "kanji": "話します", "kana": "はなします", "romaji": "hanashimasu", "wordClass": "verba-I", "meaning": "berbicara" },
+    { "id": "ch11_004", "chapterId": 11, "order": 4, "kanji": "呼びます", "kana": "よびます", "romaji": "yobimasu", "wordClass": "verba-I", "meaning": "memanggil" },
+    { "id": "ch11_005", "chapterId": 11, "order": 5, "kanji": "待ちます", "kana": "まちます", "romaji": "machimasu", "wordClass": "verba-I", "meaning": "menunggu" },
+    { "id": "ch11_006", "chapterId": 11, "order": 6, "kanji": "貸します", "kana": "かします", "romaji": "kashimasu", "wordClass": "verba-I", "meaning": "meminjamkan" },
+    { "id": "ch11_007", "chapterId": 11, "order": 7, "kanji": "使います", "kana": "つかいます", "romaji": "tsukaimasu", "wordClass": "verba-I", "meaning": "menggunakan" },
+    { "id": "ch11_008", "chapterId": 11, "order": 8, "kanji": "手伝います", "kana": "てつだいます", "romaji": "tetsudaimasu", "wordClass": "verba-I", "meaning": "membantu" },
+    { "id": "ch11_009", "chapterId": 11, "order": 9, "kanji": "持って来ます", "kana": "もってきます", "romaji": "motte kimasu", "wordClass": "verba-III", "meaning": "membawa (ke sini)" },
+    { "id": "ch11_010", "chapterId": 11, "order": 10, "kanji": "電話します", "kana": "でんわします", "romaji": "denwa shimasu", "wordClass": "verba-III", "meaning": "menelepon" },
+    { "id": "ch11_011", "chapterId": 11, "order": 11, "kanji": "ゆっくり", "kana": "ゆっくり", "romaji": "yukkuri", "wordClass": "adverbia", "meaning": "perlahan-lahan; santai" },
+    { "id": "ch11_012", "chapterId": 11, "order": 12, "kanji": "もう一度", "kana": "もういちど", "romaji": "mou ichido", "wordClass": "ekspresi", "meaning": "sekali lagi" },
+    { "id": "ch11_013", "chapterId": 11, "order": 13, "kanji": "ちょっと", "kana": "ちょっと", "romaji": "chotto", "wordClass": "adverbia", "meaning": "sebentar; sedikit" },
+    { "id": "ch11_014", "chapterId": 11, "order": 14, "kanji": "すみません", "kana": "すみません", "romaji": "sumimasen", "wordClass": "ekspresi", "meaning": "permisi; maaf" },
+    { "id": "ch11_015", "chapterId": 11, "order": 15, "kanji": "いいですか", "kana": "いいですか", "romaji": "ii desu ka", "wordClass": "ekspresi", "meaning": "bolehkah?" },
+    { "id": "ch11_016", "chapterId": 11, "order": 16, "kanji": "いいですよ", "kana": "いいですよ", "romaji": "ii desu yo", "wordClass": "ekspresi", "meaning": "boleh saja" },
+    { "id": "ch11_017", "chapterId": 11, "order": 17, "kanji": "だめです", "kana": "だめです", "romaji": "dame desu", "wordClass": "ekspresi", "meaning": "tidak boleh; tidak bisa" },
+    { "id": "ch11_018", "chapterId": 11, "order": 18, "kanji": "書きます", "kana": "かきます", "romaji": "kakimasu", "wordClass": "verba-I", "meaning": "menulis" }
+  ],
+  "conversations": [
+    {
+      "id": "ch11_conv01",
+      "chapterId": 11,
+      "order": 1,
+      "title": "Percakapan 1 — Meminta Tolong",
+      "turns": [
+        { "speaker": "ミラー", "japanese": "すみません、ちょっと てつだって いただけませんか。", "romaji": "Sumimasen, chotto tetsudatte itadakemasen ka.", "indonesian": "Permisi, bisakah Anda membantu sebentar?" },
+        { "speaker": "やまだ", "japanese": "はい、いいですよ。なんですか。", "romaji": "Hai, ii desu yo. Nan desu ka.", "indonesian": "Ya, boleh. Ada apa?" },
+        { "speaker": "ミラー", "japanese": "この かんじを よんで ください。", "romaji": "Kono kanji o yonde kudasai.", "indonesian": "Tolong bacakan kanji ini." },
+        { "speaker": "やまだ", "japanese": "「でんしゃ」と よみます。「電車」ですよ。", "romaji": "\"Densha\" to yomimasu. \"Densha\" desu yo.", "indonesian": "Dibaca \"densha\". Artinya kereta listrik." }
+      ]
+    },
+    {
+      "id": "ch11_conv02",
+      "chapterId": 11,
+      "order": 2,
+      "title": "Percakapan 2 — Izin dan Larangan",
+      "turns": [
+        { "speaker": "ミラー", "japanese": "すみません、ここで たばこを すっても いいですか。", "romaji": "Sumimasen, koko de tabako o sutte mo ii desu ka.", "indonesian": "Permisi, bolehkah merokok di sini?" },
+        { "speaker": "てんいん", "japanese": "すみません、ここは きんえんです。そとで すって ください。", "romaji": "Sumimasen, koko wa kin'en desu. Soto de sutte kudasai.", "indonesian": "Maaf, di sini dilarang merokok. Tolong merokok di luar." },
+        { "speaker": "ミラー", "japanese": "わかりました。しゃしんは とっても いいですか。", "romaji": "Wakarimashita. Shashin wa totte mo ii desu ka.", "indonesian": "Mengerti. Bolehkah mengambil foto?" },
+        { "speaker": "てんいん", "japanese": "はい、どうぞ。", "romaji": "Hai, douzo.", "indonesian": "Ya, silakan." }
+      ]
+    }
   ],
   "patterns": [
     {

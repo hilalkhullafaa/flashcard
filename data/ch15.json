@@ -6,24 +6,49 @@
     "titleId": "Saya pergi dengan kereta"
   },
   "vocabulary": [
-    { "id": "ch15_001", "chapterId": 15, "order": 1, "kanji": "飲みます", "kana": "のみます", "romaji": "nomimasu", "wordClass": "verba-i", "meaning": "minum" },
-    { "id": "ch15_002", "chapterId": 15, "order": 2, "kanji": "吸います", "kana": "すいます", "romaji": "suimasu", "wordClass": "verba-i", "meaning": "menghisap (rokok)" },
-    { "id": "ch15_003", "chapterId": 15, "order": 3, "kanji": "入ります", "kana": "はいります", "romaji": "hairimasu", "wordClass": "verba-i", "meaning": "masuk" },
-    { "id": "ch15_004", "chapterId": 15, "order": 4, "kanji": "出ます", "kana": "でます", "romaji": "demasu", "wordClass": "verba-ru", "meaning": "keluar" },
-    { "id": "ch15_005", "chapterId": 15, "order": 5, "kanji": "止めます", "kana": "とめます", "romaji": "tomemasu", "wordClass": "verba-ru", "meaning": "menghentikan/memarkir" },
-    { "id": "ch15_006", "chapterId": 15, "order": 6, "kanji": "曲がります", "kana": "まがります", "romaji": "magarimasu", "wordClass": "verba-i", "meaning": "berbelok" },
-    { "id": "ch15_007", "chapterId": 15, "order": 7, "kanji": "渡ります", "kana": "わたります", "romaji": "watarimasu", "wordClass": "verba-i", "meaning": "menyeberang" },
+    { "id": "ch15_001", "chapterId": 15, "order": 1, "kanji": "飲みます", "kana": "のみます", "romaji": "nomimasu", "wordClass": "verba-I", "meaning": "minum" },
+    { "id": "ch15_002", "chapterId": 15, "order": 2, "kanji": "吸います", "kana": "すいます", "romaji": "suimasu", "wordClass": "verba-I", "meaning": "menghisap (rokok)" },
+    { "id": "ch15_003", "chapterId": 15, "order": 3, "kanji": "入ります", "kana": "はいります", "romaji": "hairimasu", "wordClass": "verba-I", "meaning": "masuk" },
+    { "id": "ch15_004", "chapterId": 15, "order": 4, "kanji": "出ます", "kana": "でます", "romaji": "demasu", "wordClass": "verba-II", "meaning": "keluar" },
+    { "id": "ch15_005", "chapterId": 15, "order": 5, "kanji": "止めます", "kana": "とめます", "romaji": "tomemasu", "wordClass": "verba-II", "meaning": "menghentikan; memarkir" },
+    { "id": "ch15_006", "chapterId": 15, "order": 6, "kanji": "曲がります", "kana": "まがります", "romaji": "magarimasu", "wordClass": "verba-I", "meaning": "berbelok" },
+    { "id": "ch15_007", "chapterId": 15, "order": 7, "kanji": "渡ります", "kana": "わたります", "romaji": "watarimasu", "wordClass": "verba-I", "meaning": "menyeberang" },
     { "id": "ch15_008", "chapterId": 15, "order": 8, "kanji": "禁煙", "kana": "きんえん", "romaji": "kin'en", "wordClass": "nomina", "meaning": "dilarang merokok" },
-    { "id": "ch15_009", "chapterId": 15, "order": 9, "kanji": "禁止", "kana": "きんし", "romaji": "kinshi", "wordClass": "nomina", "meaning": "dilarang/terlarang" },
+    { "id": "ch15_009", "chapterId": 15, "order": 9, "kanji": "禁止", "kana": "きんし", "romaji": "kinshi", "wordClass": "nomina", "meaning": "dilarang; terlarang" },
     { "id": "ch15_010", "chapterId": 15, "order": 10, "kanji": "駐車場", "kana": "ちゅうしゃじょう", "romaji": "chuushajou", "wordClass": "nomina", "meaning": "tempat parkir" },
     { "id": "ch15_011", "chapterId": 15, "order": 11, "kanji": "交差点", "kana": "こうさてん", "romaji": "kousaten", "wordClass": "nomina", "meaning": "persimpangan" },
     { "id": "ch15_012", "chapterId": 15, "order": 12, "kanji": "信号", "kana": "しんごう", "romaji": "shingou", "wordClass": "nomina", "meaning": "lampu lalu lintas" },
-    { "id": "ch15_013", "chapterId": 15, "order": 13, "kanji": "", "kana": "まっすぐ", "romaji": "massugu", "wordClass": "adverbia", "meaning": "lurus" },
+    { "id": "ch15_013", "chapterId": 15, "order": 13, "kanji": "まっすぐ", "kana": "まっすぐ", "romaji": "massugu", "wordClass": "adverbia", "meaning": "lurus" },
     { "id": "ch15_014", "chapterId": 15, "order": 14, "kanji": "右", "kana": "みぎ", "romaji": "migi", "wordClass": "nomina", "meaning": "kanan" },
     { "id": "ch15_015", "chapterId": 15, "order": 15, "kanji": "左", "kana": "ひだり", "romaji": "hidari", "wordClass": "nomina", "meaning": "kiri" },
     { "id": "ch15_016", "chapterId": 15, "order": 16, "kanji": "電車", "kana": "でんしゃ", "romaji": "densha", "wordClass": "nomina", "meaning": "kereta listrik" },
-    { "id": "ch15_017", "chapterId": 15, "order": 17, "kanji": "地下鉄", "kana": "ちかてつ", "romaji": "chikatetsu", "wordClass": "nomina", "meaning": "kereta bawah tanah/MRT" },
+    { "id": "ch15_017", "chapterId": 15, "order": 17, "kanji": "地下鉄", "kana": "ちかてつ", "romaji": "chikatetsu", "wordClass": "nomina", "meaning": "kereta bawah tanah; MRT" },
     { "id": "ch15_018", "chapterId": 15, "order": 18, "kanji": "バス停", "kana": "バスてい", "romaji": "basutei", "wordClass": "nomina", "meaning": "halte bus" }
+  ],
+  "conversations": [
+    {
+      "id": "ch15_conv01",
+      "chapterId": 15,
+      "order": 1,
+      "title": "Percakapan 1 — Kewajiban",
+      "turns": [
+        { "speaker": "やまだ", "japanese": "ミラーさん、あしたまでに この しょるいを ださなければ なりません。", "romaji": "Miraa-san, ashita made ni kono shorui o dasanakereba narimasen.", "indonesian": "Tuan Miller, dokumen ini harus dikumpulkan sampai besok." },
+        { "speaker": "ミラー", "japanese": "わかりました。きょうの うちに かかなければ なりませんね。", "romaji": "Wakarimashita. Kyou no uchi ni kakanakereba narimasen ne.", "indonesian": "Mengerti. Harus ditulis hari ini ya." },
+        { "speaker": "やまだ", "japanese": "はい。でも、ぜんぶ かかなくても いいですよ。はじめの ぶぶんだけで いいです。", "romaji": "Hai. Demo, zenbu kakanakulte mo ii desu yo. Hajime no bubun dake de ii desu.", "indonesian": "Ya. Tapi tidak perlu menulis semuanya. Bagian awal saja sudah cukup." }
+      ]
+    },
+    {
+      "id": "ch15_conv02",
+      "chapterId": 15,
+      "order": 2,
+      "title": "Percakapan 2 — Petunjuk Arah",
+      "turns": [
+        { "speaker": "ミラー", "japanese": "すみません、えきへの みちを おしえて いただけませんか。", "romaji": "Sumimasen, eki e no michi o oshiete itadakemasen ka.", "indonesian": "Permisi, bisakah Anda menunjukkan jalan ke stasiun?" },
+        { "speaker": "つうこうにん", "japanese": "まっすぐ いって、しんごうを みぎに まがって ください。", "romaji": "Massugu itte, shingou o migi ni magatte kudasai.", "indonesian": "Jalan lurus, lalu belok kanan di lampu merah." },
+        { "speaker": "ミラー", "japanese": "どのくらい かかりますか。", "romaji": "Donokurai kakarimasu ka.", "indonesian": "Kira-kira berapa lama?" },
+        { "speaker": "つうこうにん", "japanese": "あるいて 5ふんぐらいです。", "romaji": "Aruite gofun gurai desu.", "indonesian": "Kira-kira 5 menit berjalan kaki." }
+      ]
+    }
   ],
   "patterns": [
     {

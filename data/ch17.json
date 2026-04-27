@@ -6,25 +6,49 @@
     "titleId": "Manajer sedang rapat sekarang"
   },
   "vocabulary": [
-    { "id": "ch17_001", "chapterId": 17, "order": 1, "kanji": "綺麗", "kana": "きれい", "romaji": "kirei", "wordClass": "adjektiva-na", "meaning": "cantik/bersih" },
-    { "id": "ch17_002", "chapterId": 17, "order": 2, "kanji": "静か", "kana": "しずか", "romaji": "shizuka", "wordClass": "adjektiva-na", "meaning": "tenang/sepi" },
-    { "id": "ch17_003", "chapterId": 17, "order": 3, "kanji": "賑やか", "kana": "にぎやか", "romaji": "nigiyaka", "wordClass": "adjektiva-na", "meaning": "ramai/meriah" },
-    { "id": "ch17_004", "chapterId": 17, "order": 4, "kanji": "便利", "kana": "べんり", "romaji": "benri", "wordClass": "adjektiva-na", "meaning": "praktis/nyaman" },
-    { "id": "ch17_005", "chapterId": 17, "order": 5, "kanji": "不便", "kana": "ふべん", "romaji": "fuben", "wordClass": "adjektiva-na", "meaning": "tidak praktis" },
+    { "id": "ch17_001", "chapterId": 17, "order": 1, "kanji": "綺麗", "kana": "きれい", "romaji": "kirei", "wordClass": "adjektiva-na", "meaning": "cantik; bersih; indah" },
+    { "id": "ch17_002", "chapterId": 17, "order": 2, "kanji": "静か", "kana": "しずか", "romaji": "shizuka", "wordClass": "adjektiva-na", "meaning": "tenang; sepi" },
+    { "id": "ch17_003", "chapterId": 17, "order": 3, "kanji": "賑やか", "kana": "にぎやか", "romaji": "nigiyaka", "wordClass": "adjektiva-na", "meaning": "ramai; meriah" },
+    { "id": "ch17_004", "chapterId": 17, "order": 4, "kanji": "便利", "kana": "べんり", "romaji": "benri", "wordClass": "adjektiva-na", "meaning": "praktis; nyaman" },
+    { "id": "ch17_005", "chapterId": 17, "order": 5, "kanji": "不便", "kana": "ふべん", "romaji": "fuben", "wordClass": "adjektiva-na", "meaning": "tidak praktis; tidak nyaman" },
     { "id": "ch17_006", "chapterId": 17, "order": 6, "kanji": "好き", "kana": "すき", "romaji": "suki", "wordClass": "adjektiva-na", "meaning": "suka" },
     { "id": "ch17_007", "chapterId": 17, "order": 7, "kanji": "嫌い", "kana": "きらい", "romaji": "kirai", "wordClass": "adjektiva-na", "meaning": "tidak suka" },
-    { "id": "ch17_008", "chapterId": 17, "order": 8, "kanji": "上手", "kana": "じょうず", "romaji": "jouzu", "wordClass": "adjektiva-na", "meaning": "pandai" },
-    { "id": "ch17_009", "chapterId": 17, "order": 9, "kanji": "下手", "kana": "へた", "romaji": "heta", "wordClass": "adjektiva-na", "meaning": "tidak pandai" },
+    { "id": "ch17_008", "chapterId": 17, "order": 8, "kanji": "上手", "kana": "じょうず", "romaji": "jouzu", "wordClass": "adjektiva-na", "meaning": "pandai; mahir" },
+    { "id": "ch17_009", "chapterId": 17, "order": 9, "kanji": "下手", "kana": "へた", "romaji": "heta", "wordClass": "adjektiva-na", "meaning": "tidak pandai; kurang mahir" },
     { "id": "ch17_010", "chapterId": 17, "order": 10, "kanji": "有名", "kana": "ゆうめい", "romaji": "yuumei", "wordClass": "adjektiva-na", "meaning": "terkenal" },
-    { "id": "ch17_011", "chapterId": 17, "order": 11, "kanji": "大切", "kana": "たいせつ", "romaji": "taisetsu", "wordClass": "adjektiva-na", "meaning": "penting/berharga" },
-    { "id": "ch17_012", "chapterId": 17, "order": 12, "kanji": "暇", "kana": "ひま", "romaji": "hima", "wordClass": "adjektiva-na", "meaning": "senggang/tidak sibuk" },
+    { "id": "ch17_011", "chapterId": 17, "order": 11, "kanji": "大切", "kana": "たいせつ", "romaji": "taisetsu", "wordClass": "adjektiva-na", "meaning": "penting; berharga" },
+    { "id": "ch17_012", "chapterId": 17, "order": 12, "kanji": "暇", "kana": "ひま", "romaji": "hima", "wordClass": "adjektiva-na", "meaning": "senggang; tidak sibuk" },
     { "id": "ch17_013", "chapterId": 17, "order": 13, "kanji": "忙しい", "kana": "いそがしい", "romaji": "isogashii", "wordClass": "adjektiva-i", "meaning": "sibuk" },
-    { "id": "ch17_014", "chapterId": 17, "order": 14, "kanji": "", "kana": "どんな", "romaji": "donna", "wordClass": "adverbia", "meaning": "seperti apa/bagaimana" },
-    { "id": "ch17_015", "chapterId": 17, "order": 15, "kanji": "", "kana": "どちら", "romaji": "dochira", "wordClass": "nomina", "meaning": "yang mana (dari dua)" },
-    { "id": "ch17_016", "chapterId": 17, "order": 16, "kanji": "", "kana": "どれ", "romaji": "dore", "wordClass": "nomina", "meaning": "yang mana (dari banyak)" },
-    { "id": "ch17_017", "chapterId": 17, "order": 17, "kanji": "一番", "kana": "いちばん", "romaji": "ichiban", "wordClass": "adverbia", "meaning": "paling/nomor satu" },
-    { "id": "ch17_018", "chapterId": 17, "order": 18, "kanji": "", "kana": "〜より", "romaji": "~yori", "wordClass": "partikel", "meaning": "lebih dari ~" },
-    { "id": "ch17_019", "chapterId": 17, "order": 19, "kanji": "", "kana": "〜のほうが", "romaji": "~no hou ga", "wordClass": "ekspresi", "meaning": "~ lebih (perbandingan)" }
+    { "id": "ch17_014", "chapterId": 17, "order": 14, "kanji": "どんな", "kana": "どんな", "romaji": "donna", "wordClass": "rentaishi", "meaning": "seperti apa; bagaimana" },
+    { "id": "ch17_015", "chapterId": 17, "order": 15, "kanji": "どちら", "kana": "どちら", "romaji": "dochira", "wordClass": "nomina", "meaning": "yang mana (dari dua)" },
+    { "id": "ch17_016", "chapterId": 17, "order": 16, "kanji": "どれ", "kana": "どれ", "romaji": "dore", "wordClass": "nomina", "meaning": "yang mana (dari banyak)" },
+    { "id": "ch17_017", "chapterId": 17, "order": 17, "kanji": "一番", "kana": "いちばん", "romaji": "ichiban", "wordClass": "adverbia", "meaning": "paling; nomor satu" },
+    { "id": "ch17_018", "chapterId": 17, "order": 18, "kanji": "〜より", "kana": "〜より", "romaji": "~yori", "wordClass": "partikel", "meaning": "lebih dari ~; daripada ~" },
+    { "id": "ch17_019", "chapterId": 17, "order": 19, "kanji": "〜のほうが", "kana": "〜のほうが", "romaji": "~no hou ga", "wordClass": "ekspresi", "meaning": "~ lebih (perbandingan)" }
+  ],
+  "conversations": [
+    {
+      "id": "ch17_conv01",
+      "chapterId": 17,
+      "order": 1,
+      "title": "Percakapan 1 — Perbandingan",
+      "turns": [
+        { "speaker": "カリナ", "japanese": "バスと でんしゃと どちらのほうが べんりですか。", "romaji": "Basu to densha to dochira no hou ga benri desu ka.", "indonesian": "Antara bus dan kereta, mana yang lebih praktis?" },
+        { "speaker": "ミラー", "japanese": "でんしゃのほうが べんりです。でも バスのほうが やすいです。", "romaji": "Densha no hou ga benri desu. Demo basu no hou ga yasui desu.", "indonesian": "Kereta lebih praktis. Tapi bus lebih murah." },
+        { "speaker": "カリナ", "japanese": "そうですね。わたしは でんしゃが すきです。はやいですから。", "romaji": "Sou desu ne. Watashi wa densha ga suki desu. Hayai desu kara.", "indonesian": "Betul ya. Saya suka kereta. Karena cepat." }
+      ]
+    },
+    {
+      "id": "ch17_conv02",
+      "chapterId": 17,
+      "order": 2,
+      "title": "Percakapan 2 — Yang Paling Disukai",
+      "turns": [
+        { "speaker": "やまだ", "japanese": "ミラーさんは くだものの なかで なにが いちばん すきですか。", "romaji": "Miraa-san wa kudamono no naka de nani ga ichiban suki desu ka.", "indonesian": "Di antara buah-buahan, Tuan Miller paling suka apa?" },
+        { "speaker": "ミラー", "japanese": "りんごが いちばん すきです。やまださんは？", "romaji": "Ringo ga ichiban suki desu. Yamada-san wa?", "indonesian": "Paling suka apel. Yamada?" },
+        { "speaker": "やまだ", "japanese": "わたしは みかんが いちばん すきです。あまくて おいしいですから。", "romaji": "Watashi wa mikan ga ichiban suki desu. Amakute oishii desu kara.", "indonesian": "Saya paling suka jeruk mandarin. Karena manis dan enak." }
+      ]
+    }
   ],
   "patterns": [
     {

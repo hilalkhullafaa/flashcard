@@ -6,24 +6,49 @@
     "titleId": "Bisakah Anda meminjamkan telepon?"
   },
   "vocabulary": [
-    { "id": "ch21_001", "chapterId": 21, "order": 1, "kanji": "貸します", "kana": "かします", "romaji": "kashimasu", "wordClass": "verba-i", "meaning": "meminjamkan" },
-    { "id": "ch21_002", "chapterId": 21, "order": 2, "kanji": "借ります", "kana": "かります", "romaji": "karimasu", "wordClass": "verba-ru", "meaning": "meminjam" },
-    { "id": "ch21_003", "chapterId": 21, "order": 3, "kanji": "", "kana": "いただけませんか", "romaji": "itadakemasen ka", "wordClass": "ekspresi", "meaning": "bisakah Anda ~ (sangat sopan)" },
-    { "id": "ch21_004", "chapterId": 21, "order": 4, "kanji": "", "kana": "くださいませんか", "romaji": "kudasaimasen ka", "wordClass": "ekspresi", "meaning": "bisakah Anda ~ (sopan)" },
-    { "id": "ch21_005", "chapterId": 21, "order": 5, "kanji": "", "kana": "もらえませんか", "romaji": "moraemasen ka", "wordClass": "ekspresi", "meaning": "bisakah saya mendapat ~" },
-    { "id": "ch21_006", "chapterId": 21, "order": 6, "kanji": "", "kana": "〜てあげます", "romaji": "~te agemasu", "wordClass": "ekspresi", "meaning": "melakukan V untuk orang lain" },
-    { "id": "ch21_007", "chapterId": 21, "order": 7, "kanji": "", "kana": "〜てもらいます", "romaji": "~te moraimasu", "wordClass": "ekspresi", "meaning": "meminta orang lain melakukan V" },
-    { "id": "ch21_008", "chapterId": 21, "order": 8, "kanji": "", "kana": "〜てくれます", "romaji": "~te kuremasu", "wordClass": "ekspresi", "meaning": "orang lain melakukan V untuk saya" },
-    { "id": "ch21_009", "chapterId": 21, "order": 9, "kanji": "", "kana": "ながら", "romaji": "nagara", "wordClass": "konjungsi", "meaning": "sambil (kegiatan simultan)" },
-    { "id": "ch21_010", "chapterId": 21, "order": 10, "kanji": "", "kana": "まま", "romaji": "mama", "wordClass": "ekspresi", "meaning": "tetap dalam keadaan ~" },
-    { "id": "ch21_011", "chapterId": 21, "order": 11, "kanji": "", "kana": "ばかり", "romaji": "bakari", "wordClass": "partikel", "meaning": "hanya/terus-terusan" },
-    { "id": "ch21_012", "chapterId": 21, "order": 12, "kanji": "", "kana": "まだ〜ていません", "romaji": "mada ~te imasen", "wordClass": "ekspresi", "meaning": "belum ~" },
-    { "id": "ch21_013", "chapterId": 21, "order": 13, "kanji": "", "kana": "もう〜ました", "romaji": "mou ~mashita", "wordClass": "ekspresi", "meaning": "sudah ~" },
-    { "id": "ch21_014", "chapterId": 21, "order": 14, "kanji": "丁度", "kana": "ちょうど", "romaji": "choudo", "wordClass": "adverbia", "meaning": "tepat/persis" },
-    { "id": "ch21_015", "chapterId": 21, "order": 15, "kanji": "", "kana": "やっと", "romaji": "yatto", "wordClass": "adverbia", "meaning": "akhirnya" },
-    { "id": "ch21_016", "chapterId": 21, "order": 16, "kanji": "", "kana": "もうすぐ", "romaji": "mousugu", "wordClass": "adverbia", "meaning": "sebentar lagi" },
-    { "id": "ch21_017", "chapterId": 21, "order": 17, "kanji": "", "kana": "そろそろ", "romaji": "sorosoro", "wordClass": "adverbia", "meaning": "sudah waktunya/sebentar lagi" },
+    { "id": "ch21_001", "chapterId": 21, "order": 1, "kanji": "貸します", "kana": "かします", "romaji": "kashimasu", "wordClass": "verba-I", "meaning": "meminjamkan" },
+    { "id": "ch21_002", "chapterId": 21, "order": 2, "kanji": "借ります", "kana": "かります", "romaji": "karimasu", "wordClass": "verba-II", "meaning": "meminjam" },
+    { "id": "ch21_003", "chapterId": 21, "order": 3, "kanji": "いただけませんか", "kana": "いただけませんか", "romaji": "itadakemasen ka", "wordClass": "ekspresi", "meaning": "bisakah Anda ~ (sangat sopan)" },
+    { "id": "ch21_004", "chapterId": 21, "order": 4, "kanji": "くださいませんか", "kana": "くださいませんか", "romaji": "kudasaimasen ka", "wordClass": "ekspresi", "meaning": "bisakah Anda ~ (sopan)" },
+    { "id": "ch21_005", "chapterId": 21, "order": 5, "kanji": "もらえませんか", "kana": "もらえませんか", "romaji": "moraemasen ka", "wordClass": "ekspresi", "meaning": "bisakah saya mendapat ~" },
+    { "id": "ch21_006", "chapterId": 21, "order": 6, "kanji": "〜てあげます", "kana": "〜てあげます", "romaji": "~te agemasu", "wordClass": "ekspresi", "meaning": "melakukan V untuk orang lain" },
+    { "id": "ch21_007", "chapterId": 21, "order": 7, "kanji": "〜てもらいます", "kana": "〜てもらいます", "romaji": "~te moraimasu", "wordClass": "ekspresi", "meaning": "meminta orang lain melakukan V" },
+    { "id": "ch21_008", "chapterId": 21, "order": 8, "kanji": "〜てくれます", "kana": "〜てくれます", "romaji": "~te kuremasu", "wordClass": "ekspresi", "meaning": "orang lain melakukan V untuk saya" },
+    { "id": "ch21_009", "chapterId": 21, "order": 9, "kanji": "ながら", "kana": "ながら", "romaji": "nagara", "wordClass": "konjungsi", "meaning": "sambil (kegiatan simultan)" },
+    { "id": "ch21_010", "chapterId": 21, "order": 10, "kanji": "まま", "kana": "まま", "romaji": "mama", "wordClass": "ekspresi", "meaning": "tetap dalam keadaan ~" },
+    { "id": "ch21_011", "chapterId": 21, "order": 11, "kanji": "ばかり", "kana": "ばかり", "romaji": "bakari", "wordClass": "partikel", "meaning": "hanya; terus-terusan" },
+    { "id": "ch21_012", "chapterId": 21, "order": 12, "kanji": "まだ〜ていません", "kana": "まだ〜ていません", "romaji": "mada ~te imasen", "wordClass": "ekspresi", "meaning": "belum ~" },
+    { "id": "ch21_013", "chapterId": 21, "order": 13, "kanji": "もう〜ました", "kana": "もう〜ました", "romaji": "mou ~mashita", "wordClass": "ekspresi", "meaning": "sudah ~" },
+    { "id": "ch21_014", "chapterId": 21, "order": 14, "kanji": "丁度", "kana": "ちょうど", "romaji": "choudo", "wordClass": "adverbia", "meaning": "tepat; persis" },
+    { "id": "ch21_015", "chapterId": 21, "order": 15, "kanji": "やっと", "kana": "やっと", "romaji": "yatto", "wordClass": "adverbia", "meaning": "akhirnya" },
+    { "id": "ch21_016", "chapterId": 21, "order": 16, "kanji": "もうすぐ", "kana": "もうすぐ", "romaji": "mousugu", "wordClass": "adverbia", "meaning": "sebentar lagi" },
+    { "id": "ch21_017", "chapterId": 21, "order": 17, "kanji": "そろそろ", "kana": "そろそろ", "romaji": "sorosoro", "wordClass": "adverbia", "meaning": "sudah waktunya; sebentar lagi" },
     { "id": "ch21_018", "chapterId": 21, "order": 18, "kanji": "電話", "kana": "でんわ", "romaji": "denwa", "wordClass": "nomina", "meaning": "telepon" }
+  ],
+  "conversations": [
+    {
+      "id": "ch21_conv01",
+      "chapterId": 21,
+      "order": 1,
+      "title": "Percakapan 1 — Permintaan Sopan",
+      "turns": [
+        { "speaker": "ミラー", "japanese": "すみません、でんわを かして いただけませんか。", "romaji": "Sumimasen, denwa o kashite itadakemasen ka.", "indonesian": "Permisi, bisakah Anda meminjamkan telepon?" },
+        { "speaker": "やまだ", "japanese": "はい、どうぞ。", "romaji": "Hai, douzo.", "indonesian": "Ya, silakan." },
+        { "speaker": "ミラー", "japanese": "ありがとうございます。すこし まって いただけませんか。", "romaji": "Arigatou gozaimasu. Sukoshi matte itadakemasen ka.", "indonesian": "Terima kasih. Bisakah Anda menunggu sebentar?" },
+        { "speaker": "やまだ", "japanese": "はい、いいですよ。", "romaji": "Hai, ii desu yo.", "indonesian": "Ya, boleh." }
+      ]
+    },
+    {
+      "id": "ch21_conv02",
+      "chapterId": 21,
+      "order": 2,
+      "title": "Percakapan 2 — Kegiatan Sambil",
+      "turns": [
+        { "speaker": "カリナ", "japanese": "ミラーさんは おんがくを ききながら べんきょうしますか。", "romaji": "Miraa-san wa ongaku o kikinagara benkyou shimasu ka.", "indonesian": "Tuan Miller, belajar sambil mendengarkan musik?" },
+        { "speaker": "ミラー", "japanese": "はい、おんがくを ききながら べんきょうします。カリナさんは？", "romaji": "Hai, ongaku o kikinagara benkyou shimasu. Karina-san wa?", "indonesian": "Ya, belajar sambil mendengarkan musik. Karina?" },
+        { "speaker": "カリナ", "japanese": "わたしは しずかな ところで べんきょうします。おんがくを ききながら べんきょうするのは むずかしいです。", "romaji": "Watashi wa shizuka na tokoro de benkyou shimasu. Ongaku o kikinagara benkyou suru no wa muzukashii desu.", "indonesian": "Saya belajar di tempat yang tenang. Belajar sambil mendengarkan musik itu sulit." }
+      ]
+    }
   ],
   "patterns": [
     {

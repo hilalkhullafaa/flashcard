@@ -6,27 +6,52 @@
     "titleId": "Saya pergi untuk melihat festival salju"
   },
   "vocabulary": [
-    { "id": "ch16_001", "chapterId": 16, "order": 1, "kanji": "見ます", "kana": "みます", "romaji": "mimasu", "wordClass": "verba-ru", "meaning": "melihat/menonton" },
-    { "id": "ch16_002", "chapterId": 16, "order": 2, "kanji": "買います", "kana": "かいます", "romaji": "kaimasu", "wordClass": "verba-i", "meaning": "membeli" },
-    { "id": "ch16_003", "chapterId": 16, "order": 3, "kanji": "会います", "kana": "あいます", "romaji": "aimasu", "wordClass": "verba-i", "meaning": "bertemu" },
-    { "id": "ch16_004", "chapterId": 16, "order": 4, "kanji": "遊びます", "kana": "あそびます", "romaji": "asobimasu", "wordClass": "verba-i", "meaning": "bermain" },
+    { "id": "ch16_001", "chapterId": 16, "order": 1, "kanji": "見ます", "kana": "みます", "romaji": "mimasu", "wordClass": "verba-II", "meaning": "melihat; menonton" },
+    { "id": "ch16_002", "chapterId": 16, "order": 2, "kanji": "買います", "kana": "かいます", "romaji": "kaimasu", "wordClass": "verba-I", "meaning": "membeli" },
+    { "id": "ch16_003", "chapterId": 16, "order": 3, "kanji": "会います", "kana": "あいます", "romaji": "aimasu", "wordClass": "verba-I", "meaning": "bertemu" },
+    { "id": "ch16_004", "chapterId": 16, "order": 4, "kanji": "遊びます", "kana": "あそびます", "romaji": "asobimasu", "wordClass": "verba-I", "meaning": "bermain; bersenang-senang" },
     { "id": "ch16_005", "chapterId": 16, "order": 5, "kanji": "雪祭り", "kana": "ゆきまつり", "romaji": "yukimatsuri", "wordClass": "nomina", "meaning": "festival salju" },
     { "id": "ch16_006", "chapterId": 16, "order": 6, "kanji": "花見", "kana": "はなみ", "romaji": "hanami", "wordClass": "nomina", "meaning": "hanami (melihat bunga sakura)" },
     { "id": "ch16_007", "chapterId": 16, "order": 7, "kanji": "買い物", "kana": "かいもの", "romaji": "kaimono", "wordClass": "nomina", "meaning": "belanja" },
     { "id": "ch16_008", "chapterId": 16, "order": 8, "kanji": "食事", "kana": "しょくじ", "romaji": "shokuji", "wordClass": "nomina", "meaning": "makan (formal)" },
     { "id": "ch16_009", "chapterId": 16, "order": 9, "kanji": "散歩", "kana": "さんぽ", "romaji": "sanpo", "wordClass": "nomina", "meaning": "jalan-jalan" },
-    { "id": "ch16_010", "chapterId": 16, "order": 10, "kanji": "旅行", "kana": "りょこう", "romaji": "ryokou", "wordClass": "nomina", "meaning": "perjalanan/wisata" },
+    { "id": "ch16_010", "chapterId": 16, "order": 10, "kanji": "旅行", "kana": "りょこう", "romaji": "ryokou", "wordClass": "nomina", "meaning": "perjalanan; wisata" },
     { "id": "ch16_011", "chapterId": 16, "order": 11, "kanji": "楽しい", "kana": "たのしい", "romaji": "tanoshii", "wordClass": "adjektiva-i", "meaning": "menyenangkan" },
-    { "id": "ch16_012", "chapterId": 16, "order": 12, "kanji": "面白い", "kana": "おもしろい", "romaji": "omoshiroi", "wordClass": "adjektiva-i", "meaning": "menarik/lucu" },
-    { "id": "ch16_013", "chapterId": 16, "order": 13, "kanji": "", "kana": "つまらない", "romaji": "tsumaranai", "wordClass": "adjektiva-i", "meaning": "membosankan" },
+    { "id": "ch16_012", "chapterId": 16, "order": 12, "kanji": "面白い", "kana": "おもしろい", "romaji": "omoshiroi", "wordClass": "adjektiva-i", "meaning": "menarik; lucu" },
+    { "id": "ch16_013", "chapterId": 16, "order": 13, "kanji": "つまらない", "kana": "つまらない", "romaji": "tsumaranai", "wordClass": "adjektiva-i", "meaning": "membosankan" },
     { "id": "ch16_014", "chapterId": 16, "order": 14, "kanji": "難しい", "kana": "むずかしい", "romaji": "muzukashii", "wordClass": "adjektiva-i", "meaning": "sulit" },
     { "id": "ch16_015", "chapterId": 16, "order": 15, "kanji": "易しい", "kana": "やさしい", "romaji": "yasashii", "wordClass": "adjektiva-i", "meaning": "mudah" },
-    { "id": "ch16_016", "chapterId": 16, "order": 16, "kanji": "美味しい", "kana": "おいしい", "romaji": "oishii", "wordClass": "adjektiva-i", "meaning": "enak/lezat" },
-    { "id": "ch16_017", "chapterId": 16, "order": 17, "kanji": "", "kana": "まずい", "romaji": "mazui", "wordClass": "adjektiva-i", "meaning": "tidak enak" },
+    { "id": "ch16_016", "chapterId": 16, "order": 16, "kanji": "美味しい", "kana": "おいしい", "romaji": "oishii", "wordClass": "adjektiva-i", "meaning": "enak; lezat" },
+    { "id": "ch16_017", "chapterId": 16, "order": 17, "kanji": "まずい", "kana": "まずい", "romaji": "mazui", "wordClass": "adjektiva-i", "meaning": "tidak enak" },
     { "id": "ch16_018", "chapterId": 16, "order": 18, "kanji": "新しい", "kana": "あたらしい", "romaji": "atarashii", "wordClass": "adjektiva-i", "meaning": "baru" },
-    { "id": "ch16_019", "chapterId": 16, "order": 19, "kanji": "古い", "kana": "ふるい", "romaji": "furui", "wordClass": "adjektiva-i", "meaning": "lama/tua" },
+    { "id": "ch16_019", "chapterId": 16, "order": 19, "kanji": "古い", "kana": "ふるい", "romaji": "furui", "wordClass": "adjektiva-i", "meaning": "lama; tua" },
     { "id": "ch16_020", "chapterId": 16, "order": 20, "kanji": "大きい", "kana": "おおきい", "romaji": "ookii", "wordClass": "adjektiva-i", "meaning": "besar" },
     { "id": "ch16_021", "chapterId": 16, "order": 21, "kanji": "小さい", "kana": "ちいさい", "romaji": "chiisai", "wordClass": "adjektiva-i", "meaning": "kecil" }
+  ],
+  "conversations": [
+    {
+      "id": "ch16_conv01",
+      "chapterId": 16,
+      "order": 1,
+      "title": "Percakapan 1 — Pergi untuk Tujuan Tertentu",
+      "turns": [
+        { "speaker": "やまだ", "japanese": "ミラーさん、どこへ いきますか。", "romaji": "Miraa-san, doko e ikimasu ka.", "indonesian": "Tuan Miller, mau pergi ke mana?" },
+        { "speaker": "ミラー", "japanese": "デパートへ かいものを し に いきます。やまださんは？", "romaji": "Depaato e kaimono o shi ni ikimasu. Yamada-san wa?", "indonesian": "Mau pergi ke department store untuk belanja. Yamada?" },
+        { "speaker": "やまだ", "japanese": "わたしは こうえんへ さんぽを し に いきます。いい てんきですから。", "romaji": "Watashi wa kouen e sanpo o shi ni ikimasu. Ii tenki desu kara.", "indonesian": "Saya mau pergi ke taman untuk jalan-jalan. Karena cuacanya bagus." }
+      ]
+    },
+    {
+      "id": "ch16_conv02",
+      "chapterId": 16,
+      "order": 2,
+      "title": "Percakapan 2 — Mendeskripsikan Sesuatu",
+      "turns": [
+        { "speaker": "カリナ", "japanese": "きのうの えいがは どうでしたか。", "romaji": "Kinou no eiga wa dou deshita ka.", "indonesian": "Bagaimana film kemarin?" },
+        { "speaker": "ミラー", "japanese": "とても おもしろかったです。カリナさんも みましたか。", "romaji": "Totemo omoshirokatta desu. Karina-san mo mimashita ka.", "indonesian": "Sangat menarik. Karina juga menonton?" },
+        { "speaker": "カリナ", "japanese": "いいえ、みませんでした。むずかしい えいがですか。", "romaji": "Iie, mimasen deshita. Muzukashii eiga desu ka.", "indonesian": "Tidak, tidak menonton. Apakah film yang sulit?" },
+        { "speaker": "ミラー", "japanese": "いいえ、やさしくて たのしい えいがです。ぜひ みて ください。", "romaji": "Iie, yasashikute tanoshii eiga desu. Zehi mite kudasai.", "indonesian": "Tidak, film yang mudah dan menyenangkan. Silakan tonton." }
+      ]
+    }
   ],
   "patterns": [
     {

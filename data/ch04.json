@@ -11,23 +11,23 @@
     { "id": "ch04_003", "chapterId": 4, "order": 3, "kanji": "今", "kana": "いま", "romaji": "ima", "wordClass": "nomina", "meaning": "sekarang" },
     { "id": "ch04_004", "chapterId": 4, "order": 4, "kanji": "午前", "kana": "ごぜん", "romaji": "gozen", "wordClass": "nomina", "meaning": "pagi (AM)" },
     { "id": "ch04_005", "chapterId": 4, "order": 5, "kanji": "午後", "kana": "ごご", "romaji": "gogo", "wordClass": "nomina", "meaning": "sore/malam (PM)" },
-    { "id": "ch04_006", "chapterId": 4, "order": 6, "kanji": "半", "kana": "はん", "romaji": "han", "wordClass": "nomina", "meaning": "setengah" },
-    { "id": "ch04_007", "chapterId": 4, "order": 7, "kanji": "起きます", "kana": "おきます", "romaji": "okimasu", "wordClass": "verba-i", "meaning": "bangun" },
-    { "id": "ch04_008", "chapterId": 4, "order": 8, "kanji": "寝ます", "kana": "ねます", "romaji": "nemasu", "wordClass": "verba-i", "meaning": "tidur" },
-    { "id": "ch04_009", "chapterId": 4, "order": 9, "kanji": "働きます", "kana": "はたらきます", "romaji": "hatarakimasu", "wordClass": "verba-i", "meaning": "bekerja" },
-    { "id": "ch04_010", "chapterId": 4, "order": 10, "kanji": "休みます", "kana": "やすみます", "romaji": "yasumimasu", "wordClass": "verba-i", "meaning": "istirahat/libur" },
-    { "id": "ch04_011", "chapterId": 4, "order": 11, "kanji": "勉強します", "kana": "べんきょうします", "romaji": "benkyou shimasu", "wordClass": "verba-ireguler", "meaning": "belajar" },
-    { "id": "ch04_012", "chapterId": 4, "order": 12, "kanji": "終わります", "kana": "おわります", "romaji": "owarimasu", "wordClass": "verba-i", "meaning": "selesai/berakhir" },
-    { "id": "ch04_013", "chapterId": 4, "order": 13, "kanji": "始まります", "kana": "はじまります", "romaji": "hajimarimasu", "wordClass": "verba-i", "meaning": "mulai/dimulai" },
-    { "id": "ch04_014", "chapterId": 4, "order": 14, "kanji": "昼", "kana": "ひる", "romaji": "hiru", "wordClass": "nomina", "meaning": "siang" },
-    { "id": "ch04_015", "chapterId": 4, "order": 15, "kanji": "朝", "kana": "あさ", "romaji": "asa", "wordClass": "nomina", "meaning": "pagi" },
+    { "id": "ch04_006", "chapterId": 4, "order": 6, "kanji": "半", "kana": "はん", "romaji": "han", "wordClass": "nomina", "meaning": "setengah (jam)" },
+    { "id": "ch04_007", "chapterId": 4, "order": 7, "kanji": "起きます", "kana": "おきます", "romaji": "okimasu", "wordClass": "verba-II", "meaning": "bangun (dari tidur)" },
+    { "id": "ch04_008", "chapterId": 4, "order": 8, "kanji": "寝ます", "kana": "ねます", "romaji": "nemasu", "wordClass": "verba-II", "meaning": "tidur" },
+    { "id": "ch04_009", "chapterId": 4, "order": 9, "kanji": "働きます", "kana": "はたらきます", "romaji": "hatarakimasu", "wordClass": "verba-I", "meaning": "bekerja" },
+    { "id": "ch04_010", "chapterId": 4, "order": 10, "kanji": "休みます", "kana": "やすみます", "romaji": "yasumimasu", "wordClass": "verba-I", "meaning": "istirahat; libur" },
+    { "id": "ch04_011", "chapterId": 4, "order": 11, "kanji": "勉強します", "kana": "べんきょうします", "romaji": "benkyou shimasu", "wordClass": "verba-III", "meaning": "belajar" },
+    { "id": "ch04_012", "chapterId": 4, "order": 12, "kanji": "終わります", "kana": "おわります", "romaji": "owarimasu", "wordClass": "verba-I", "meaning": "selesai/berakhir" },
+    { "id": "ch04_013", "chapterId": 4, "order": 13, "kanji": "始まります", "kana": "はじまります", "romaji": "hajimarimasu", "wordClass": "verba-I", "meaning": "mulai/dimulai" },
+    { "id": "ch04_014", "chapterId": 4, "order": 14, "kanji": "朝", "kana": "あさ", "romaji": "asa", "wordClass": "nomina", "meaning": "pagi" },
+    { "id": "ch04_015", "chapterId": 4, "order": 15, "kanji": "昼", "kana": "ひる", "romaji": "hiru", "wordClass": "nomina", "meaning": "siang" },
     { "id": "ch04_016", "chapterId": 4, "order": 16, "kanji": "夜", "kana": "よる", "romaji": "yoru", "wordClass": "nomina", "meaning": "malam" },
-    { "id": "ch04_017", "chapterId": 4, "order": 17, "kanji": "毎日", "kana": "まいにち", "romaji": "mainichi", "wordClass": "adverbia", "meaning": "setiap hari" },
-    { "id": "ch04_018", "chapterId": 4, "order": 18, "kanji": "毎朝", "kana": "まいあさ", "romaji": "maiasa", "wordClass": "adverbia", "meaning": "setiap pagi" },
-    { "id": "ch04_019", "chapterId": 4, "order": 19, "kanji": "毎晩", "kana": "まいばん", "romaji": "maiban", "wordClass": "adverbia", "meaning": "setiap malam" },
+    { "id": "ch04_017", "chapterId": 4, "order": 17, "kanji": "毎日", "kana": "まいにち", "romaji": "mainichi", "wordClass": "nomina", "meaning": "setiap hari" },
+    { "id": "ch04_018", "chapterId": 4, "order": 18, "kanji": "毎朝", "kana": "まいあさ", "romaji": "maiasa", "wordClass": "nomina", "meaning": "setiap pagi" },
+    { "id": "ch04_019", "chapterId": 4, "order": 19, "kanji": "毎晩", "kana": "まいばん", "romaji": "maiban", "wordClass": "nomina", "meaning": "setiap malam" },
     { "id": "ch04_020", "chapterId": 4, "order": 20, "kanji": "今朝", "kana": "けさ", "romaji": "kesa", "wordClass": "nomina", "meaning": "pagi ini" },
     { "id": "ch04_021", "chapterId": 4, "order": 21, "kanji": "今晩", "kana": "こんばん", "romaji": "konban", "wordClass": "nomina", "meaning": "malam ini" },
-    { "id": "ch04_022", "chapterId": 4, "order": 22, "kanji": "休み", "kana": "やすみ", "romaji": "yasumi", "wordClass": "nomina", "meaning": "hari libur/istirahat" },
+    { "id": "ch04_022", "chapterId": 4, "order": 22, "kanji": "休み", "kana": "やすみ", "romaji": "yasumi", "wordClass": "nomina", "meaning": "hari libur; istirahat" },
     { "id": "ch04_023", "chapterId": 4, "order": 23, "kanji": "日曜日", "kana": "にちようび", "romaji": "nichiyoubi", "wordClass": "nomina", "meaning": "hari Minggu" },
     { "id": "ch04_024", "chapterId": 4, "order": 24, "kanji": "月曜日", "kana": "げつようび", "romaji": "getsuyoubi", "wordClass": "nomina", "meaning": "hari Senin" },
     { "id": "ch04_025", "chapterId": 4, "order": 25, "kanji": "火曜日", "kana": "かようび", "romaji": "kayoubi", "wordClass": "nomina", "meaning": "hari Selasa" },
@@ -36,9 +36,34 @@
     { "id": "ch04_028", "chapterId": 4, "order": 28, "kanji": "金曜日", "kana": "きんようび", "romaji": "kin'youbi", "wordClass": "nomina", "meaning": "hari Jumat" },
     { "id": "ch04_029", "chapterId": 4, "order": 29, "kanji": "土曜日", "kana": "どようび", "romaji": "doyoubi", "wordClass": "nomina", "meaning": "hari Sabtu" },
     { "id": "ch04_030", "chapterId": 4, "order": 30, "kanji": "何曜日", "kana": "なんようび", "romaji": "nanyoubi", "wordClass": "nomina", "meaning": "hari apa" },
-    { "id": "ch04_031", "chapterId": 4, "order": 31, "kanji": "", "kana": "いつ", "romaji": "itsu", "wordClass": "nomina", "meaning": "kapan" },
-    { "id": "ch04_032", "chapterId": 4, "order": 32, "kanji": "", "kana": "から", "romaji": "kara", "wordClass": "partikel", "meaning": "dari (waktu)" },
-    { "id": "ch04_033", "chapterId": 4, "order": 33, "kanji": "", "kana": "まで", "romaji": "made", "wordClass": "partikel", "meaning": "sampai (waktu)" }
+    { "id": "ch04_031", "chapterId": 4, "order": 31, "kanji": "いつ", "kana": "いつ", "romaji": "itsu", "wordClass": "nomina", "meaning": "kapan" },
+    { "id": "ch04_032", "chapterId": 4, "order": 32, "kanji": "から", "kana": "から", "romaji": "kara", "wordClass": "partikel", "meaning": "dari (waktu/tempat awal)" },
+    { "id": "ch04_033", "chapterId": 4, "order": 33, "kanji": "まで", "kana": "まで", "romaji": "made", "wordClass": "partikel", "meaning": "sampai (waktu/tempat akhir)" }
+  ],
+  "conversations": [
+    {
+      "id": "ch04_conv01",
+      "chapterId": 4,
+      "order": 1,
+      "title": "Percakapan 1 — Jam Kerja",
+      "turns": [
+        { "speaker": "ミラー", "japanese": "ぎんこうは なんじから なんじまでですか。", "romaji": "Ginkou wa nanji kara nanji made desu ka.", "indonesian": "Bank buka dari jam berapa sampai jam berapa?" },
+        { "speaker": "やまだ", "japanese": "ごぜん 9じから ごご 3じまでです。", "romaji": "Gozen kuji kara gogo sanji made desu.", "indonesian": "Dari jam 9 pagi sampai jam 3 sore." },
+        { "speaker": "ミラー", "japanese": "どようびも ひらいていますか。", "romaji": "Doyoubi mo hiraite imasu ka.", "indonesian": "Apakah hari Sabtu juga buka?" },
+        { "speaker": "やまだ", "japanese": "はい。でも にちようびは やすみです。", "romaji": "Hai. Demo nichiyoubi wa yasumi desu.", "indonesian": "Ya. Tapi hari Minggu tutup." }
+      ]
+    },
+    {
+      "id": "ch04_conv02",
+      "chapterId": 4,
+      "order": 2,
+      "title": "Percakapan 2 — Jadwal Harian",
+      "turns": [
+        { "speaker": "カリナ", "japanese": "ミラーさんは まいにち なんじに おきますか。", "romaji": "Miraa-san wa mainichi nanji ni okimasu ka.", "indonesian": "Tuan Miller, setiap hari bangun jam berapa?" },
+        { "speaker": "ミラー", "japanese": "6じに おきます。カリナさんは？", "romaji": "Rokuji ni okimasu. Karina-san wa?", "indonesian": "Bangun jam 6. Karina?" },
+        { "speaker": "カリナ", "japanese": "わたしは 7じに おきます。しごとは 9じから 5じまでです。", "romaji": "Watashi wa shichiji ni okimasu. Shigoto wa kuji kara goji made desu.", "indonesian": "Saya bangun jam 7. Kerja dari jam 9 sampai jam 5." }
+      ]
+    }
   ],
   "patterns": [
     {

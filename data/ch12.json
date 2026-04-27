@@ -6,26 +6,52 @@
     "titleId": "Tolong katakan sekali lagi"
   },
   "vocabulary": [
-    { "id": "ch12_001", "chapterId": 12, "order": 1, "kanji": "着ます", "kana": "きます", "romaji": "kimasu", "wordClass": "verba-ru", "meaning": "memakai (pakaian)" },
-    { "id": "ch12_002", "chapterId": 12, "order": 2, "kanji": "脱ぎます", "kana": "ぬぎます", "romaji": "nugimasu", "wordClass": "verba-i", "meaning": "melepas (pakaian)" },
-    { "id": "ch12_003", "chapterId": 12, "order": 3, "kanji": "着ています", "kana": "きています", "romaji": "kite imasu", "wordClass": "verba-ru", "meaning": "sedang memakai (pakaian)" },
-    { "id": "ch12_004", "chapterId": 12, "order": 4, "kanji": "住んでいます", "kana": "すんでいます", "romaji": "sunde imasu", "wordClass": "verba-i", "meaning": "tinggal di" },
-    { "id": "ch12_005", "chapterId": 12, "order": 5, "kanji": "働いています", "kana": "はたらいています", "romaji": "hataraite imasu", "wordClass": "verba-i", "meaning": "sedang bekerja" },
-    { "id": "ch12_006", "chapterId": 12, "order": 6, "kanji": "結婚しています", "kana": "けっこんしています", "romaji": "kekkon shite imasu", "wordClass": "verba-ireguler", "meaning": "sudah menikah" },
-    { "id": "ch12_007", "chapterId": 12, "order": 7, "kanji": "知っています", "kana": "しっています", "romaji": "shitte imasu", "wordClass": "verba-i", "meaning": "tahu/mengetahui" },
-    { "id": "ch12_008", "chapterId": 12, "order": 8, "kanji": "知りません", "kana": "しりません", "romaji": "shirimasen", "wordClass": "verba-i", "meaning": "tidak tahu" },
-    { "id": "ch12_009", "chapterId": 12, "order": 9, "kanji": "持っています", "kana": "もっています", "romaji": "motte imasu", "wordClass": "verba-i", "meaning": "memiliki/membawa" },
-    { "id": "ch12_010", "chapterId": 12, "order": 10, "kanji": "", "kana": "シャツ", "romaji": "shatsu", "wordClass": "nomina", "meaning": "kemeja" },
-    { "id": "ch12_011", "chapterId": 12, "order": 11, "kanji": "", "kana": "スーツ", "romaji": "suutsu", "wordClass": "nomina", "meaning": "setelan jas" },
-    { "id": "ch12_012", "chapterId": 12, "order": 12, "kanji": "眼鏡", "kana": "めがね", "romaji": "megane", "wordClass": "nomina", "meaning": "kacamata" },
-    { "id": "ch12_013", "chapterId": 12, "order": 13, "kanji": "髪", "kana": "かみ", "romaji": "kami", "wordClass": "nomina", "meaning": "rambut" },
-    { "id": "ch12_014", "chapterId": 12, "order": 14, "kanji": "背", "kana": "せ", "romaji": "se", "wordClass": "nomina", "meaning": "tinggi badan" },
-    { "id": "ch12_015", "chapterId": 12, "order": 15, "kanji": "長い", "kana": "ながい", "romaji": "nagai", "wordClass": "adjektiva-i", "meaning": "panjang" },
-    { "id": "ch12_016", "chapterId": 12, "order": 16, "kanji": "短い", "kana": "みじかい", "romaji": "mijikai", "wordClass": "adjektiva-i", "meaning": "pendek (benda)" },
-    { "id": "ch12_017", "chapterId": 12, "order": 17, "kanji": "高い", "kana": "たかい", "romaji": "takai", "wordClass": "adjektiva-i", "meaning": "tinggi/mahal" },
-    { "id": "ch12_018", "chapterId": 12, "order": 18, "kanji": "低い", "kana": "ひくい", "romaji": "hikui", "wordClass": "adjektiva-i", "meaning": "rendah/pendek (badan)" },
-    { "id": "ch12_019", "chapterId": 12, "order": 19, "kanji": "太い", "kana": "ふとい", "romaji": "futoi", "wordClass": "adjektiva-i", "meaning": "gemuk/tebal" },
-    { "id": "ch12_020", "chapterId": 12, "order": 20, "kanji": "細い", "kana": "ほそい", "romaji": "hosoi", "wordClass": "adjektiva-i", "meaning": "kurus/tipis" }
+    { "id": "ch12_001", "chapterId": 12, "order": 1, "kanji": "着ます", "kana": "きます", "romaji": "kimasu", "wordClass": "verba-II", "meaning": "memakai (pakaian atas)" },
+    { "id": "ch12_002", "chapterId": 12, "order": 2, "kanji": "脱ぎます", "kana": "ぬぎます", "romaji": "nugimasu", "wordClass": "verba-I", "meaning": "melepas (pakaian)" },
+    { "id": "ch12_003", "chapterId": 12, "order": 3, "kanji": "住みます", "kana": "すみます", "romaji": "sumimasu", "wordClass": "verba-I", "meaning": "tinggal; berdomisili" },
+    { "id": "ch12_004", "chapterId": 12, "order": 4, "kanji": "結婚します", "kana": "けっこんします", "romaji": "kekkon shimasu", "wordClass": "verba-III", "meaning": "menikah" },
+    { "id": "ch12_005", "chapterId": 12, "order": 5, "kanji": "知ります", "kana": "しります", "romaji": "shirimasu", "wordClass": "verba-I", "meaning": "mengetahui" },
+    { "id": "ch12_006", "chapterId": 12, "order": 6, "kanji": "持ちます", "kana": "もちます", "romaji": "mochimasu", "wordClass": "verba-I", "meaning": "memiliki; membawa" },
+    { "id": "ch12_007", "chapterId": 12, "order": 7, "kanji": "シャツ", "kana": "シャツ", "romaji": "shatsu", "wordClass": "nomina", "meaning": "kemeja" },
+    { "id": "ch12_008", "chapterId": 12, "order": 8, "kanji": "スーツ", "kana": "スーツ", "romaji": "suutsu", "wordClass": "nomina", "meaning": "setelan jas" },
+    { "id": "ch12_009", "chapterId": 12, "order": 9, "kanji": "眼鏡", "kana": "めがね", "romaji": "megane", "wordClass": "nomina", "meaning": "kacamata" },
+    { "id": "ch12_010", "chapterId": 12, "order": 10, "kanji": "髪", "kana": "かみ", "romaji": "kami", "wordClass": "nomina", "meaning": "rambut" },
+    { "id": "ch12_011", "chapterId": 12, "order": 11, "kanji": "背", "kana": "せ", "romaji": "se", "wordClass": "nomina", "meaning": "tinggi badan" },
+    { "id": "ch12_012", "chapterId": 12, "order": 12, "kanji": "長い", "kana": "ながい", "romaji": "nagai", "wordClass": "adjektiva-i", "meaning": "panjang" },
+    { "id": "ch12_013", "chapterId": 12, "order": 13, "kanji": "短い", "kana": "みじかい", "romaji": "mijikai", "wordClass": "adjektiva-i", "meaning": "pendek (benda)" },
+    { "id": "ch12_014", "chapterId": 12, "order": 14, "kanji": "高い", "kana": "たかい", "romaji": "takai", "wordClass": "adjektiva-i", "meaning": "tinggi; mahal" },
+    { "id": "ch12_015", "chapterId": 12, "order": 15, "kanji": "低い", "kana": "ひくい", "romaji": "hikui", "wordClass": "adjektiva-i", "meaning": "rendah; pendek (badan)" },
+    { "id": "ch12_016", "chapterId": 12, "order": 16, "kanji": "太い", "kana": "ふとい", "romaji": "futoi", "wordClass": "adjektiva-i", "meaning": "gemuk; tebal" },
+    { "id": "ch12_017", "chapterId": 12, "order": 17, "kanji": "細い", "kana": "ほそい", "romaji": "hosoi", "wordClass": "adjektiva-i", "meaning": "kurus; tipis" },
+    { "id": "ch12_018", "chapterId": 12, "order": 18, "kanji": "若い", "kana": "わかい", "romaji": "wakai", "wordClass": "adjektiva-i", "meaning": "muda" },
+    { "id": "ch12_019", "chapterId": 12, "order": 19, "kanji": "年を取っています", "kana": "としをとっています", "romaji": "toshi o totte imasu", "wordClass": "ekspresi", "meaning": "sudah tua; berumur" },
+    { "id": "ch12_020", "chapterId": 12, "order": 20, "kanji": "どんな", "kana": "どんな", "romaji": "donna", "wordClass": "rentaishi", "meaning": "seperti apa; bagaimana" }
+  ],
+  "conversations": [
+    {
+      "id": "ch12_conv01",
+      "chapterId": 12,
+      "order": 1,
+      "title": "Percakapan 1 — Mendeskripsikan Seseorang",
+      "turns": [
+        { "speaker": "ミラー", "japanese": "すみません、やまださんを しっていますか。", "romaji": "Sumimasen, Yamada-san o shitte imasu ka.", "indonesian": "Permisi, apakah Anda mengenal Yamada?" },
+        { "speaker": "てんいん", "japanese": "やまださんは どんな ひとですか。", "romaji": "Yamada-san wa donna hito desu ka.", "indonesian": "Yamada itu seperti apa orangnya?" },
+        { "speaker": "ミラー", "japanese": "せが たかくて、かみが みじかいです。めがねを かけています。", "romaji": "Se ga takakute, kami ga mijikai desu. Megane o kakete imasu.", "indonesian": "Tinggi, rambutnya pendek. Memakai kacamata." },
+        { "speaker": "てんいん", "japanese": "ああ、あのひとですか。あそこに います。", "romaji": "Aa, ano hito desu ka. Asoko ni imasu.", "indonesian": "Oh, orang itu? Ada di sana." }
+      ]
+    },
+    {
+      "id": "ch12_conv02",
+      "chapterId": 12,
+      "order": 2,
+      "title": "Percakapan 2 — Keadaan Sekarang",
+      "turns": [
+        { "speaker": "カリナ", "japanese": "ミラーさんは どこに すんでいますか。", "romaji": "Miraa-san wa doko ni sunde imasu ka.", "indonesian": "Tuan Miller tinggal di mana?" },
+        { "speaker": "ミラー", "japanese": "しんじゅくに すんでいます。カリナさんは？", "romaji": "Shinjuku ni sunde imasu. Karina-san wa?", "indonesian": "Tinggal di Shinjuku. Karina?" },
+        { "speaker": "カリナ", "japanese": "わたしは よこはまに すんでいます。けっこんしていますか。", "romaji": "Watashi wa Yokohama ni sunde imasu. Kekkon shite imasu ka.", "indonesian": "Saya tinggal di Yokohama. Sudah menikah?" },
+        { "speaker": "ミラー", "japanese": "はい、けっこんしています。こどもが ひとり います。", "romaji": "Hai, kekkon shite imasu. Kodomo ga hitori imasu.", "indonesian": "Ya, sudah menikah. Punya satu anak." }
+      ]
+    }
   ],
   "patterns": [
     {

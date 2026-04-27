@@ -6,24 +6,50 @@
     "titleId": "Barang sudah tiba"
   },
   "vocabulary": [
-    { "id": "ch24_001", "chapterId": 24, "order": 1, "kanji": "届きます", "kana": "とどきます", "romaji": "todokimasu", "wordClass": "verba-i", "meaning": "tiba/sampai" },
-    { "id": "ch24_002", "chapterId": 24, "order": 2, "kanji": "壊れます", "kana": "こわれます", "romaji": "kowaremasu", "wordClass": "verba-ru", "meaning": "rusak/pecah" },
-    { "id": "ch24_003", "chapterId": 24, "order": 3, "kanji": "無くなります", "kana": "なくなります", "romaji": "nakunarimasu", "wordClass": "verba-i", "meaning": "hilang/habis" },
-    { "id": "ch24_004", "chapterId": 24, "order": 4, "kanji": "見つかります", "kana": "みつかります", "romaji": "mitsukarimasu", "wordClass": "verba-i", "meaning": "ditemukan" },
-    { "id": "ch24_005", "chapterId": 24, "order": 5, "kanji": "起こります", "kana": "おこります", "romaji": "okorimasu", "wordClass": "verba-i", "meaning": "terjadi" },
-    { "id": "ch24_006", "chapterId": 24, "order": 6, "kanji": "出来ます", "kana": "できます", "romaji": "dekimasu", "wordClass": "verba-ru", "meaning": "selesai/jadi" },
-    { "id": "ch24_007", "chapterId": 24, "order": 7, "kanji": "生まれます", "kana": "うまれます", "romaji": "umaremasu", "wordClass": "verba-ru", "meaning": "lahir" },
-    { "id": "ch24_008", "chapterId": 24, "order": 8, "kanji": "怪我をします", "kana": "けがをします", "romaji": "kega o shimasu", "wordClass": "verba-ireguler", "meaning": "terluka" },
-    { "id": "ch24_009", "chapterId": 24, "order": 9, "kanji": "風邪を引きます", "kana": "かぜをひきます", "romaji": "kaze o hikimasu", "wordClass": "verba-i", "meaning": "masuk angin" },
+    { "id": "ch24_001", "chapterId": 24, "order": 1, "kanji": "届きます", "kana": "とどきます", "romaji": "todokimasu", "wordClass": "verba-I", "meaning": "tiba; sampai" },
+    { "id": "ch24_002", "chapterId": 24, "order": 2, "kanji": "壊れます", "kana": "こわれます", "romaji": "kowaremasu", "wordClass": "verba-II", "meaning": "rusak; pecah" },
+    { "id": "ch24_003", "chapterId": 24, "order": 3, "kanji": "無くなります", "kana": "なくなります", "romaji": "nakunarimasu", "wordClass": "verba-I", "meaning": "hilang; habis" },
+    { "id": "ch24_004", "chapterId": 24, "order": 4, "kanji": "見つかります", "kana": "みつかります", "romaji": "mitsukarimasu", "wordClass": "verba-I", "meaning": "ditemukan" },
+    { "id": "ch24_005", "chapterId": 24, "order": 5, "kanji": "起こります", "kana": "おこります", "romaji": "okorimasu", "wordClass": "verba-I", "meaning": "terjadi" },
+    { "id": "ch24_006", "chapterId": 24, "order": 6, "kanji": "出来ます", "kana": "できます", "romaji": "dekimasu", "wordClass": "verba-II", "meaning": "selesai; jadi" },
+    { "id": "ch24_007", "chapterId": 24, "order": 7, "kanji": "生まれます", "kana": "うまれます", "romaji": "umaremasu", "wordClass": "verba-II", "meaning": "lahir" },
+    { "id": "ch24_008", "chapterId": 24, "order": 8, "kanji": "怪我をします", "kana": "けがをします", "romaji": "kega o shimasu", "wordClass": "verba-III", "meaning": "terluka" },
+    { "id": "ch24_009", "chapterId": 24, "order": 9, "kanji": "風邪を引きます", "kana": "かぜをひきます", "romaji": "kaze o hikimasu", "wordClass": "verba-I", "meaning": "masuk angin" },
     { "id": "ch24_010", "chapterId": 24, "order": 10, "kanji": "事故", "kana": "じこ", "romaji": "jiko", "wordClass": "nomina", "meaning": "kecelakaan" },
     { "id": "ch24_011", "chapterId": 24, "order": 11, "kanji": "火事", "kana": "かじ", "romaji": "kaji", "wordClass": "nomina", "meaning": "kebakaran" },
     { "id": "ch24_012", "chapterId": 24, "order": 12, "kanji": "地震", "kana": "じしん", "romaji": "jishin", "wordClass": "nomina", "meaning": "gempa bumi" },
-    { "id": "ch24_013", "chapterId": 24, "order": 13, "kanji": "台風", "kana": "たいふう", "romaji": "taifuu", "wordClass": "nomina", "meaning": "topan/badai" },
-    { "id": "ch24_014", "chapterId": 24, "order": 14, "kanji": "", "kana": "ニュース", "romaji": "nyuusu", "wordClass": "nomina", "meaning": "berita" },
+    { "id": "ch24_013", "chapterId": 24, "order": 13, "kanji": "台風", "kana": "たいふう", "romaji": "taifuu", "wordClass": "nomina", "meaning": "topan; badai" },
+    { "id": "ch24_014", "chapterId": 24, "order": 14, "kanji": "ニュース", "kana": "ニュース", "romaji": "nyuusu", "wordClass": "nomina", "meaning": "berita" },
     { "id": "ch24_015", "chapterId": 24, "order": 15, "kanji": "新聞", "kana": "しんぶん", "romaji": "shinbun", "wordClass": "nomina", "meaning": "koran" },
-    { "id": "ch24_016", "chapterId": 24, "order": 16, "kanji": "荷物", "kana": "にもつ", "romaji": "nimotsu", "wordClass": "nomina", "meaning": "barang/bagasi" },
-    { "id": "ch24_017", "chapterId": 24, "order": 17, "kanji": "", "kana": "〜られます", "romaji": "~raremasu", "wordClass": "ekspresi", "meaning": "bentuk pasif" },
-    { "id": "ch24_018", "chapterId": 24, "order": 18, "kanji": "", "kana": "〜に 〜られます", "romaji": "~ni ~raremasu", "wordClass": "ekspresi", "meaning": "dikenai tindakan oleh ~" }
+    { "id": "ch24_016", "chapterId": 24, "order": 16, "kanji": "荷物", "kana": "にもつ", "romaji": "nimotsu", "wordClass": "nomina", "meaning": "barang; bagasi" },
+    { "id": "ch24_017", "chapterId": 24, "order": 17, "kanji": "〜られます", "kana": "〜られます", "romaji": "~raremasu", "wordClass": "ekspresi", "meaning": "bentuk pasif" },
+    { "id": "ch24_018", "chapterId": 24, "order": 18, "kanji": "〜に〜られます", "kana": "〜に〜られます", "romaji": "~ni ~raremasu", "wordClass": "ekspresi", "meaning": "dikenai tindakan oleh ~" }
+  ],
+  "conversations": [
+    {
+      "id": "ch24_conv01",
+      "chapterId": 24,
+      "order": 1,
+      "title": "Percakapan 1 — Barang Tiba",
+      "turns": [
+        { "speaker": "やまだ", "japanese": "ミラーさん、にもつが とどきましたよ。", "romaji": "Miraa-san, nimotsu ga todokimashita yo.", "indonesian": "Tuan Miller, barangnya sudah tiba." },
+        { "speaker": "ミラー", "japanese": "ほんとうですか。どこから おくられましたか。", "romaji": "Hontou desu ka. Doko kara okuraremashita ka.", "indonesian": "Benarkah? Dikirim dari mana?" },
+        { "speaker": "やまだ", "japanese": "アメリカから おくられた みたいです。", "romaji": "Amerika kara okurareta mitai desu.", "indonesian": "Sepertinya dikirim dari Amerika." },
+        { "speaker": "ミラー", "japanese": "ああ、かぞくから おくられた プレゼントです。たのしみに して いました。", "romaji": "Aa, kazoku kara okurareta purezento desu. Tanoshimi ni shite imashita.", "indonesian": "Oh, hadiah yang dikirim dari keluarga. Saya sudah menantikannya." }
+      ]
+    },
+    {
+      "id": "ch24_conv02",
+      "chapterId": 24,
+      "order": 2,
+      "title": "Percakapan 2 — Kejadian Tidak Menyenangkan",
+      "turns": [
+        { "speaker": "カリナ", "japanese": "ミラーさん、どうしたんですか。かおいろが わるいですね。", "romaji": "Miraa-san, dou shita n desu ka. Kaoiro ga warui desu ne.", "indonesian": "Tuan Miller, ada apa? Wajahnya pucat ya." },
+        { "speaker": "ミラー", "japanese": "じつは でんしゃの なかで さいふを ぬすまれて しまいました。", "romaji": "Jitsu wa densha no naka de saifu o nusumarete shimaimashita.", "indonesian": "Sebenarnya dompet saya dicuri di dalam kereta." },
+        { "speaker": "カリナ", "japanese": "えっ、それは たいへんでしたね。けいさつに とどけましたか。", "romaji": "E, sore wa taihen deshita ne. Keisatsu ni todokemashita ka.", "indonesian": "Eh, itu susah ya. Sudah dilaporkan ke polisi?" },
+        { "speaker": "ミラー", "japanese": "はい、もう とどけました。きを つけなければ いけませんでした。", "romaji": "Hai, mou todokemashita. Ki o tsukenakereba ikemasen deshita.", "indonesian": "Ya, sudah dilaporkan. Saya harus lebih berhati-hati." }
+      ]
+    }
   ],
   "patterns": [
     {

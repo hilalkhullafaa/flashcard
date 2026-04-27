@@ -6,23 +6,49 @@
     "titleId": "Saya ingin bisa berbicara bahasa Jepang"
   },
   "vocabulary": [
-    { "id": "ch25_001", "chapterId": 25, "order": 1, "kanji": "話せます", "kana": "はなせます", "romaji": "hanasemasu", "wordClass": "verba-ru", "meaning": "bisa berbicara (bentuk potensial)" },
-    { "id": "ch25_002", "chapterId": 25, "order": 2, "kanji": "読めます", "kana": "よめます", "romaji": "yomemasu", "wordClass": "verba-ru", "meaning": "bisa membaca (bentuk potensial)" },
-    { "id": "ch25_003", "chapterId": 25, "order": 3, "kanji": "書けます", "kana": "かけます", "romaji": "kakemasu", "wordClass": "verba-ru", "meaning": "bisa menulis (bentuk potensial)" },
-    { "id": "ch25_004", "chapterId": 25, "order": 4, "kanji": "聞けます", "kana": "きけます", "romaji": "kikemasu", "wordClass": "verba-ru", "meaning": "bisa mendengar (bentuk potensial)" },
-    { "id": "ch25_005", "chapterId": 25, "order": 5, "kanji": "見られます", "kana": "みられます", "romaji": "miraremas", "wordClass": "verba-ru", "meaning": "bisa melihat (bentuk potensial)" },
-    { "id": "ch25_006", "chapterId": 25, "order": 6, "kanji": "食べられます", "kana": "たべられます", "romaji": "taberaremasu", "wordClass": "verba-ru", "meaning": "bisa makan (bentuk potensial)" },
-    { "id": "ch25_007", "chapterId": 25, "order": 7, "kanji": "", "kana": "〜ように なりたいです", "romaji": "~you ni naritai desu", "wordClass": "ekspresi", "meaning": "ingin menjadi bisa ~" },
-    { "id": "ch25_008", "chapterId": 25, "order": 8, "kanji": "", "kana": "〜ために", "romaji": "~tame ni", "wordClass": "ekspresi", "meaning": "untuk tujuan ~" },
-    { "id": "ch25_009", "chapterId": 25, "order": 9, "kanji": "", "kana": "〜のに", "romaji": "~no ni", "wordClass": "konjungsi", "meaning": "meskipun ~ (kontras)" },
-    { "id": "ch25_010", "chapterId": 25, "order": 10, "kanji": "", "kana": "〜し、〜し", "romaji": "~shi, ~shi", "wordClass": "ekspresi", "meaning": "dan juga ~ (alasan berganda)" },
-    { "id": "ch25_011", "chapterId": 25, "order": 11, "kanji": "", "kana": "〜でしょう", "romaji": "~deshou", "wordClass": "ekspresi", "meaning": "mungkin/sepertinya (perkiraan)" },
-    { "id": "ch25_012", "chapterId": 25, "order": 12, "kanji": "", "kana": "〜かもしれません", "romaji": "~kamoshiremasen", "wordClass": "ekspresi", "meaning": "mungkin saja" },
-    { "id": "ch25_013", "chapterId": 25, "order": 13, "kanji": "", "kana": "〜はずです", "romaji": "~hazu desu", "wordClass": "ekspresi", "meaning": "seharusnya/pasti" },
-    { "id": "ch25_014", "chapterId": 25, "order": 14, "kanji": "夢", "kana": "ゆめ", "romaji": "yume", "wordClass": "nomina", "meaning": "mimpi/cita-cita" },
-    { "id": "ch25_015", "chapterId": 25, "order": 15, "kanji": "目標", "kana": "もくひょう", "romaji": "mokuhyou", "wordClass": "nomina", "meaning": "tujuan/target" },
-    { "id": "ch25_016", "chapterId": 25, "order": 16, "kanji": "努力", "kana": "どりょく", "romaji": "doryoku", "wordClass": "nomina", "meaning": "usaha/kerja keras" },
-    { "id": "ch25_017", "chapterId": 25, "order": 17, "kanji": "頑張ります", "kana": "がんばります", "romaji": "ganbarimasu", "wordClass": "verba-i", "meaning": "berusaha keras/semangat" }
+    { "id": "ch25_001", "chapterId": 25, "order": 1, "kanji": "話せます", "kana": "はなせます", "romaji": "hanasemasu", "wordClass": "verba-II", "meaning": "bisa berbicara (bentuk potensial)" },
+    { "id": "ch25_002", "chapterId": 25, "order": 2, "kanji": "読めます", "kana": "よめます", "romaji": "yomemasu", "wordClass": "verba-II", "meaning": "bisa membaca (bentuk potensial)" },
+    { "id": "ch25_003", "chapterId": 25, "order": 3, "kanji": "書けます", "kana": "かけます", "romaji": "kakemasu", "wordClass": "verba-II", "meaning": "bisa menulis (bentuk potensial)" },
+    { "id": "ch25_004", "chapterId": 25, "order": 4, "kanji": "聞けます", "kana": "きけます", "romaji": "kikemasu", "wordClass": "verba-II", "meaning": "bisa mendengar (bentuk potensial)" },
+    { "id": "ch25_005", "chapterId": 25, "order": 5, "kanji": "見られます", "kana": "みられます", "romaji": "miraremasu", "wordClass": "verba-II", "meaning": "bisa melihat (bentuk potensial)" },
+    { "id": "ch25_006", "chapterId": 25, "order": 6, "kanji": "食べられます", "kana": "たべられます", "romaji": "taberaremasu", "wordClass": "verba-II", "meaning": "bisa makan (bentuk potensial)" },
+    { "id": "ch25_007", "chapterId": 25, "order": 7, "kanji": "〜ようになりたいです", "kana": "〜ようになりたいです", "romaji": "~you ni naritai desu", "wordClass": "ekspresi", "meaning": "ingin menjadi bisa ~" },
+    { "id": "ch25_008", "chapterId": 25, "order": 8, "kanji": "〜ために", "kana": "〜ために", "romaji": "~tame ni", "wordClass": "ekspresi", "meaning": "untuk tujuan ~; demi ~" },
+    { "id": "ch25_009", "chapterId": 25, "order": 9, "kanji": "〜のに", "kana": "〜のに", "romaji": "~no ni", "wordClass": "konjungsi", "meaning": "meskipun ~ (kontras)" },
+    { "id": "ch25_010", "chapterId": 25, "order": 10, "kanji": "〜し、〜し", "kana": "〜し、〜し", "romaji": "~shi, ~shi", "wordClass": "ekspresi", "meaning": "dan juga ~ (alasan berganda)" },
+    { "id": "ch25_011", "chapterId": 25, "order": 11, "kanji": "〜でしょう", "kana": "〜でしょう", "romaji": "~deshou", "wordClass": "ekspresi", "meaning": "mungkin; sepertinya (perkiraan)" },
+    { "id": "ch25_012", "chapterId": 25, "order": 12, "kanji": "〜かもしれません", "kana": "〜かもしれません", "romaji": "~kamoshiremasen", "wordClass": "ekspresi", "meaning": "mungkin saja" },
+    { "id": "ch25_013", "chapterId": 25, "order": 13, "kanji": "〜はずです", "kana": "〜はずです", "romaji": "~hazu desu", "wordClass": "ekspresi", "meaning": "seharusnya; pasti" },
+    { "id": "ch25_014", "chapterId": 25, "order": 14, "kanji": "夢", "kana": "ゆめ", "romaji": "yume", "wordClass": "nomina", "meaning": "mimpi; cita-cita" },
+    { "id": "ch25_015", "chapterId": 25, "order": 15, "kanji": "目標", "kana": "もくひょう", "romaji": "mokuhyou", "wordClass": "nomina", "meaning": "tujuan; target" },
+    { "id": "ch25_016", "chapterId": 25, "order": 16, "kanji": "努力", "kana": "どりょく", "romaji": "doryoku", "wordClass": "nomina", "meaning": "usaha; kerja keras" },
+    { "id": "ch25_017", "chapterId": 25, "order": 17, "kanji": "頑張ります", "kana": "がんばります", "romaji": "ganbarimasu", "wordClass": "verba-I", "meaning": "berusaha keras; semangat" }
+  ],
+  "conversations": [
+    {
+      "id": "ch25_conv01",
+      "chapterId": 25,
+      "order": 1,
+      "title": "Percakapan 1 — Cita-cita dan Tujuan",
+      "turns": [
+        { "speaker": "やまだ", "japanese": "ミラーさんは にほんごの べんきょうを つづけますか。", "romaji": "Miraa-san wa nihongo no benkyou o tsuzukemasu ka.", "indonesian": "Tuan Miller, apakah akan terus belajar bahasa Jepang?" },
+        { "speaker": "ミラー", "japanese": "はい、にほんごが ぺらぺら はなせるように なりたいです。", "romaji": "Hai, nihongo ga perapera hanaseru you ni naritai desu.", "indonesian": "Ya, saya ingin bisa berbicara bahasa Jepang dengan lancar." },
+        { "speaker": "やまだ", "japanese": "そのために なにを して いますか。", "romaji": "Sono tame ni nani o shite imasu ka.", "indonesian": "Untuk itu, apa yang sedang Anda lakukan?" },
+        { "speaker": "ミラー", "japanese": "まいにち にほんごの ニュースを きいて います。それから にほんじんの ともだちと はなすように して います。", "romaji": "Mainichi nihongo no nyuusu o kiite imasu. Sorekara nihonjin no tomodachi to hanasu you ni shite imasu.", "indonesian": "Setiap hari saya mendengarkan berita bahasa Jepang. Selain itu, saya berusaha berbicara dengan teman orang Jepang." }
+      ]
+    },
+    {
+      "id": "ch25_conv02",
+      "chapterId": 25,
+      "order": 2,
+      "title": "Percakapan 2 — Rencana Masa Depan",
+      "turns": [
+        { "speaker": "カリナ", "japanese": "ミラーさん、しょうらい どんな しごとを したいですか。", "romaji": "Miraa-san, shourai donna shigoto o shitai desu ka.", "indonesian": "Tuan Miller, di masa depan ingin bekerja seperti apa?" },
+        { "speaker": "ミラー", "japanese": "にほんの かいしゃで はたらけるように なりたいです。そのために にほんごを がんばって います。", "romaji": "Nihon no kaisha de hatarakeru you ni naritai desu. Sono tame ni nihongo o ganbatte imasu.", "indonesian": "Saya ingin bisa bekerja di perusahaan Jepang. Untuk itu saya berusaha keras belajar bahasa Jepang." },
+        { "speaker": "カリナ", "japanese": "すばらしいですね。きっと できますよ。", "romaji": "Subarashii desu ne. Kitto dekimasu yo.", "indonesian": "Luar biasa ya. Pasti bisa." },
+        { "speaker": "ミラー", "japanese": "ありがとうございます。カリナさんの ゆめは なんですか。", "romaji": "Arigatou gozaimasu. Karina-san no yume wa nan desu ka.", "indonesian": "Terima kasih. Apa cita-cita Karina?" }
+      ]
+    }
   ],
   "patterns": [
     {

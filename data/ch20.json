@@ -6,26 +6,53 @@
     "titleId": "Tolong tunjukkan jalannya"
   },
   "vocabulary": [
-    { "id": "ch20_001", "chapterId": 20, "order": 1, "kanji": "教えます", "kana": "おしえます", "romaji": "oshiemasu", "wordClass": "verba-ru", "meaning": "memberitahu/mengajar" },
-    { "id": "ch20_002", "chapterId": 20, "order": 2, "kanji": "分かります", "kana": "わかります", "romaji": "wakarimasu", "wordClass": "verba-i", "meaning": "mengerti/tahu" },
-    { "id": "ch20_003", "chapterId": 20, "order": 3, "kanji": "曲がります", "kana": "まがります", "romaji": "magarimasu", "wordClass": "verba-i", "meaning": "berbelok" },
-    { "id": "ch20_004", "chapterId": 20, "order": 4, "kanji": "渡ります", "kana": "わたります", "romaji": "watarimasu", "wordClass": "verba-i", "meaning": "menyeberang" },
-    { "id": "ch20_005", "chapterId": 20, "order": 5, "kanji": "通ります", "kana": "とおります", "romaji": "toorimasu", "wordClass": "verba-i", "meaning": "melewati" },
+    { "id": "ch20_001", "chapterId": 20, "order": 1, "kanji": "教えます", "kana": "おしえます", "romaji": "oshiemasu", "wordClass": "verba-II", "meaning": "memberitahu; mengajar" },
+    { "id": "ch20_002", "chapterId": 20, "order": 2, "kanji": "分かります", "kana": "わかります", "romaji": "wakarimasu", "wordClass": "verba-I", "meaning": "mengerti; tahu" },
+    { "id": "ch20_003", "chapterId": 20, "order": 3, "kanji": "曲がります", "kana": "まがります", "romaji": "magarimasu", "wordClass": "verba-I", "meaning": "berbelok" },
+    { "id": "ch20_004", "chapterId": 20, "order": 4, "kanji": "渡ります", "kana": "わたります", "romaji": "watarimasu", "wordClass": "verba-I", "meaning": "menyeberang" },
+    { "id": "ch20_005", "chapterId": 20, "order": 5, "kanji": "通ります", "kana": "とおります", "romaji": "toorimasu", "wordClass": "verba-I", "meaning": "melewati" },
     { "id": "ch20_006", "chapterId": 20, "order": 6, "kanji": "道", "kana": "みち", "romaji": "michi", "wordClass": "nomina", "meaning": "jalan" },
-    { "id": "ch20_007", "chapterId": 20, "order": 7, "kanji": "角", "kana": "かど", "romaji": "kado", "wordClass": "nomina", "meaning": "sudut/pojok" },
+    { "id": "ch20_007", "chapterId": 20, "order": 7, "kanji": "角", "kana": "かど", "romaji": "kado", "wordClass": "nomina", "meaning": "sudut; pojok" },
     { "id": "ch20_008", "chapterId": 20, "order": 8, "kanji": "信号", "kana": "しんごう", "romaji": "shingou", "wordClass": "nomina", "meaning": "lampu lalu lintas" },
     { "id": "ch20_009", "chapterId": 20, "order": 9, "kanji": "交差点", "kana": "こうさてん", "romaji": "kousaten", "wordClass": "nomina", "meaning": "persimpangan" },
     { "id": "ch20_010", "chapterId": 20, "order": 10, "kanji": "橋", "kana": "はし", "romaji": "hashi", "wordClass": "nomina", "meaning": "jembatan" },
-    { "id": "ch20_011", "chapterId": 20, "order": 11, "kanji": "", "kana": "まっすぐ", "romaji": "massugu", "wordClass": "adverbia", "meaning": "lurus" },
+    { "id": "ch20_011", "chapterId": 20, "order": 11, "kanji": "まっすぐ", "kana": "まっすぐ", "romaji": "massugu", "wordClass": "adverbia", "meaning": "lurus" },
     { "id": "ch20_012", "chapterId": 20, "order": 12, "kanji": "右", "kana": "みぎ", "romaji": "migi", "wordClass": "nomina", "meaning": "kanan" },
     { "id": "ch20_013", "chapterId": 20, "order": 13, "kanji": "左", "kana": "ひだり", "romaji": "hidari", "wordClass": "nomina", "meaning": "kiri" },
     { "id": "ch20_014", "chapterId": 20, "order": 14, "kanji": "北", "kana": "きた", "romaji": "kita", "wordClass": "nomina", "meaning": "utara" },
     { "id": "ch20_015", "chapterId": 20, "order": 15, "kanji": "南", "kana": "みなみ", "romaji": "minami", "wordClass": "nomina", "meaning": "selatan" },
     { "id": "ch20_016", "chapterId": 20, "order": 16, "kanji": "東", "kana": "ひがし", "romaji": "higashi", "wordClass": "nomina", "meaning": "timur" },
     { "id": "ch20_017", "chapterId": 20, "order": 17, "kanji": "西", "kana": "にし", "romaji": "nishi", "wordClass": "nomina", "meaning": "barat" },
-    { "id": "ch20_018", "chapterId": 20, "order": 18, "kanji": "", "kana": "〜メートル", "romaji": "~meetoru", "wordClass": "sufiks", "meaning": "~ meter" },
-    { "id": "ch20_019", "chapterId": 20, "order": 19, "kanji": "", "kana": "〜キロ", "romaji": "~kiro", "wordClass": "sufiks", "meaning": "~ kilometer" },
-    { "id": "ch20_020", "chapterId": 20, "order": 20, "kanji": "", "kana": "すぐ", "romaji": "sugu", "wordClass": "adverbia", "meaning": "segera/langsung" }
+    { "id": "ch20_018", "chapterId": 20, "order": 18, "kanji": "〜メートル", "kana": "〜メートル", "romaji": "~meetoru", "wordClass": "sufiks", "meaning": "~ meter" },
+    { "id": "ch20_019", "chapterId": 20, "order": 19, "kanji": "〜キロ", "kana": "〜キロ", "romaji": "~kiro", "wordClass": "sufiks", "meaning": "~ kilometer" },
+    { "id": "ch20_020", "chapterId": 20, "order": 20, "kanji": "すぐ", "kana": "すぐ", "romaji": "sugu", "wordClass": "adverbia", "meaning": "segera; langsung" }
+  ],
+  "conversations": [
+    {
+      "id": "ch20_conv01",
+      "chapterId": 20,
+      "order": 1,
+      "title": "Percakapan 1 — Menanyakan Jalan",
+      "turns": [
+        { "speaker": "ミラー", "japanese": "すみません、ゆうびんきょくへの みちを おしえて ください。", "romaji": "Sumimasen, yuubinkyoku e no michi o oshiete kudasai.", "indonesian": "Permisi, tolong tunjukkan jalan ke kantor pos." },
+        { "speaker": "つうこうにん", "japanese": "まっすぐ いって、しんごうを みぎに まがって ください。", "romaji": "Massugu itte, shingou o migi ni magatte kudasai.", "indonesian": "Jalan lurus, lalu belok kanan di lampu merah." },
+        { "speaker": "ミラー", "japanese": "しんごうを みぎに まがりますね。それから？", "romaji": "Shingou o migi ni magarimasu ne. Sorekara?", "indonesian": "Belok kanan di lampu merah ya. Lalu?" },
+        { "speaker": "つうこうにん", "japanese": "すぐ みぎに あります。あるいて 3ぷんぐらいです。", "romaji": "Sugu migi ni arimasu. Aruite sanpun gurai desu.", "indonesian": "Langsung ada di sebelah kanan. Kira-kira 3 menit berjalan kaki." },
+        { "speaker": "ミラー", "japanese": "ありがとうございます。", "romaji": "Arigatou gozaimasu.", "indonesian": "Terima kasih." }
+      ]
+    },
+    {
+      "id": "ch20_conv02",
+      "chapterId": 20,
+      "order": 2,
+      "title": "Percakapan 2 — Waktu Tempuh",
+      "turns": [
+        { "speaker": "カリナ", "japanese": "えきから かいしゃまで どのくらい かかりますか。", "romaji": "Eki kara kaisha made donokurai kakarimasu ka.", "indonesian": "Dari stasiun ke kantor berapa lama?" },
+        { "speaker": "ミラー", "japanese": "でんしゃで 20ぷんぐらい かかります。", "romaji": "Densha de nijuppun gurai kakarimasu.", "indonesian": "Naik kereta kira-kira 20 menit." },
+        { "speaker": "カリナ", "japanese": "あるいては？", "romaji": "Aruite wa?", "indonesian": "Kalau jalan kaki?" },
+        { "speaker": "ミラー", "japanese": "あるいては 1じかんぐらい かかります。とおいですから、でんしゃで いきます。", "romaji": "Aruite wa ichijikan gurai kakarimasu. Tooi desu kara, densha de ikimasu.", "indonesian": "Jalan kaki kira-kira 1 jam. Karena jauh, saya naik kereta." }
+      ]
+    }
   ],
   "patterns": [
     {

@@ -6,26 +6,52 @@
     "titleId": "Ada televisi di kamar"
   },
   "vocabulary": [
-    { "id": "ch14_001", "chapterId": 14, "order": 1, "kanji": "あります", "kana": "あります", "romaji": "arimasu", "wordClass": "verba-i", "meaning": "ada (benda mati/tumbuhan)" },
-    { "id": "ch14_002", "chapterId": 14, "order": 2, "kanji": "います", "kana": "います", "romaji": "imasu", "wordClass": "verba-ru", "meaning": "ada (orang/hewan)" },
-    { "id": "ch14_003", "chapterId": 14, "order": 3, "kanji": "部屋", "kana": "へや", "romaji": "heya", "wordClass": "nomina", "meaning": "kamar/ruangan" },
-    { "id": "ch14_004", "chapterId": 14, "order": 4, "kanji": "建物", "kana": "たてもの", "romaji": "tatemono", "wordClass": "nomina", "meaning": "gedung/bangunan" },
+    { "id": "ch14_001", "chapterId": 14, "order": 1, "kanji": "あります", "kana": "あります", "romaji": "arimasu", "wordClass": "verba-I", "meaning": "ada (benda mati; tumbuhan)" },
+    { "id": "ch14_002", "chapterId": 14, "order": 2, "kanji": "います", "kana": "います", "romaji": "imasu", "wordClass": "verba-II", "meaning": "ada (orang; hewan)" },
+    { "id": "ch14_003", "chapterId": 14, "order": 3, "kanji": "部屋", "kana": "へや", "romaji": "heya", "wordClass": "nomina", "meaning": "kamar; ruangan" },
+    { "id": "ch14_004", "chapterId": 14, "order": 4, "kanji": "建物", "kana": "たてもの", "romaji": "tatemono", "wordClass": "nomina", "meaning": "gedung; bangunan" },
     { "id": "ch14_005", "chapterId": 14, "order": 5, "kanji": "公園", "kana": "こうえん", "romaji": "kouen", "wordClass": "nomina", "meaning": "taman" },
-    { "id": "ch14_006", "chapterId": 14, "order": 6, "kanji": "", "kana": "プール", "romaji": "puuru", "wordClass": "nomina", "meaning": "kolam renang" },
-    { "id": "ch14_007", "chapterId": 14, "order": 7, "kanji": "近く", "kana": "ちかく", "romaji": "chikaku", "wordClass": "nomina", "meaning": "dekat/sekitar" },
-    { "id": "ch14_008", "chapterId": 14, "order": 8, "kanji": "向こう", "kana": "むこう", "romaji": "mukou", "wordClass": "nomina", "meaning": "seberang/sana" },
+    { "id": "ch14_006", "chapterId": 14, "order": 6, "kanji": "プール", "kana": "プール", "romaji": "puuru", "wordClass": "nomina", "meaning": "kolam renang" },
+    { "id": "ch14_007", "chapterId": 14, "order": 7, "kanji": "近く", "kana": "ちかく", "romaji": "chikaku", "wordClass": "nomina", "meaning": "dekat; sekitar" },
+    { "id": "ch14_008", "chapterId": 14, "order": 8, "kanji": "向こう", "kana": "むこう", "romaji": "mukou", "wordClass": "nomina", "meaning": "seberang; sana" },
     { "id": "ch14_009", "chapterId": 14, "order": 9, "kanji": "横", "kana": "よこ", "romaji": "yoko", "wordClass": "nomina", "meaning": "samping" },
-    { "id": "ch14_010", "chapterId": 14, "order": 10, "kanji": "角", "kana": "かど", "romaji": "kado", "wordClass": "nomina", "meaning": "sudut/pojok" },
+    { "id": "ch14_010", "chapterId": 14, "order": 10, "kanji": "角", "kana": "かど", "romaji": "kado", "wordClass": "nomina", "meaning": "sudut; pojok" },
     { "id": "ch14_011", "chapterId": 14, "order": 11, "kanji": "信号", "kana": "しんごう", "romaji": "shingou", "wordClass": "nomina", "meaning": "lampu lalu lintas" },
     { "id": "ch14_012", "chapterId": 14, "order": 12, "kanji": "橋", "kana": "はし", "romaji": "hashi", "wordClass": "nomina", "meaning": "jembatan" },
     { "id": "ch14_013", "chapterId": 14, "order": 13, "kanji": "川", "kana": "かわ", "romaji": "kawa", "wordClass": "nomina", "meaning": "sungai" },
     { "id": "ch14_014", "chapterId": 14, "order": 14, "kanji": "山", "kana": "やま", "romaji": "yama", "wordClass": "nomina", "meaning": "gunung" },
     { "id": "ch14_015", "chapterId": 14, "order": 15, "kanji": "海", "kana": "うみ", "romaji": "umi", "wordClass": "nomina", "meaning": "laut" },
     { "id": "ch14_016", "chapterId": 14, "order": 16, "kanji": "森", "kana": "もり", "romaji": "mori", "wordClass": "nomina", "meaning": "hutan" },
-    { "id": "ch14_017", "chapterId": 14, "order": 17, "kanji": "いくつ", "kana": "いくつ", "romaji": "ikutsu", "wordClass": "nomina", "meaning": "berapa banyak (benda)" },
+    { "id": "ch14_017", "chapterId": 14, "order": 17, "kanji": "幾つ", "kana": "いくつ", "romaji": "ikutsu", "wordClass": "nomina", "meaning": "berapa banyak (benda)" },
     { "id": "ch14_018", "chapterId": 14, "order": 18, "kanji": "何人", "kana": "なんにん", "romaji": "nannin", "wordClass": "nomina", "meaning": "berapa orang" },
     { "id": "ch14_019", "chapterId": 14, "order": 19, "kanji": "一人", "kana": "ひとり", "romaji": "hitori", "wordClass": "nomina", "meaning": "satu orang" },
     { "id": "ch14_020", "chapterId": 14, "order": 20, "kanji": "二人", "kana": "ふたり", "romaji": "futari", "wordClass": "nomina", "meaning": "dua orang" }
+  ],
+  "conversations": [
+    {
+      "id": "ch14_conv01",
+      "chapterId": 14,
+      "order": 1,
+      "title": "Percakapan 1 — Mendeskripsikan Kamar",
+      "turns": [
+        { "speaker": "カリナ", "japanese": "ミラーさんの へやに なにが ありますか。", "romaji": "Miraa-san no heya ni nani ga arimasu ka.", "indonesian": "Di kamar Tuan Miller ada apa saja?" },
+        { "speaker": "ミラー", "japanese": "テレビと つくえと いすが あります。ベッドも あります。", "romaji": "Terebi to tsukue to isu ga arimasu. Beddo mo arimasu.", "indonesian": "Ada TV, meja, dan kursi. Ada tempat tidur juga." },
+        { "speaker": "カリナ", "japanese": "パソコンは ありますか。", "romaji": "Pasokon wa arimasu ka.", "indonesian": "Ada komputer?" },
+        { "speaker": "ミラー", "japanese": "はい、つくえの うえに あります。", "romaji": "Hai, tsukue no ue ni arimasu.", "indonesian": "Ya, ada di atas meja." }
+      ]
+    },
+    {
+      "id": "ch14_conv02",
+      "chapterId": 14,
+      "order": 2,
+      "title": "Percakapan 2 — Menanyakan Lokasi",
+      "turns": [
+        { "speaker": "ミラー", "japanese": "すみません、この ちかくに ぎんこうが ありますか。", "romaji": "Sumimasen, kono chikaku ni ginkou ga arimasu ka.", "indonesian": "Permisi, di dekat sini ada bank?" },
+        { "speaker": "つうこうにん", "japanese": "はい、あります。えきの まえに あります。", "romaji": "Hai, arimasu. Eki no mae ni arimasu.", "indonesian": "Ya, ada. Ada di depan stasiun." },
+        { "speaker": "ミラー", "japanese": "ゆうびんきょくも ありますか。", "romaji": "Yuubinkyoku mo arimasu ka.", "indonesian": "Ada kantor pos juga?" },
+        { "speaker": "つうこうにん", "japanese": "はい、ぎんこうの となりに あります。", "romaji": "Hai, ginkou no tonari ni arimasu.", "indonesian": "Ya, ada di sebelah bank." }
+      ]
+    }
   ],
   "patterns": [
     {

@@ -6,35 +6,60 @@
     "titleId": "Apa yang Anda lakukan pada hari Minggu?"
   },
   "vocabulary": [
-    { "id": "ch07_001", "chapterId": 7, "order": 1, "kanji": "切ります", "kana": "きります", "romaji": "kirimasu", "wordClass": "verba-i", "meaning": "memotong" },
-    { "id": "ch07_002", "chapterId": 7, "order": 2, "kanji": "送ります", "kana": "おくります", "romaji": "okurimasu", "wordClass": "verba-i", "meaning": "mengirim/mengantarkan" },
-    { "id": "ch07_003", "chapterId": 7, "order": 3, "kanji": "", "kana": "あげます", "romaji": "agemasu", "wordClass": "verba-ru", "meaning": "memberi (kepada orang lain)" },
-    { "id": "ch07_004", "chapterId": 7, "order": 4, "kanji": "", "kana": "もらいます", "romaji": "moraimasu", "wordClass": "verba-i", "meaning": "menerima/mendapat" },
-    { "id": "ch07_005", "chapterId": 7, "order": 5, "kanji": "貸します", "kana": "かします", "romaji": "kashimasu", "wordClass": "verba-i", "meaning": "meminjamkan" },
-    { "id": "ch07_006", "chapterId": 7, "order": 6, "kanji": "借ります", "kana": "かります", "romaji": "karimasu", "wordClass": "verba-ru", "meaning": "meminjam" },
-    { "id": "ch07_007", "chapterId": 7, "order": 7, "kanji": "教えます", "kana": "おしえます", "romaji": "oshiemasu", "wordClass": "verba-ru", "meaning": "mengajar/memberitahu" },
-    { "id": "ch07_008", "chapterId": 7, "order": 8, "kanji": "習います", "kana": "ならいます", "romaji": "naraimasu", "wordClass": "verba-i", "meaning": "belajar dari seseorang" },
-    { "id": "ch07_009", "chapterId": 7, "order": 9, "kanji": "", "kana": "かけます", "romaji": "kakemasu", "wordClass": "verba-ru", "meaning": "menelepon" },
-    { "id": "ch07_010", "chapterId": 7, "order": 10, "kanji": "出かけます", "kana": "でかけます", "romaji": "dekakemasu", "wordClass": "verba-ru", "meaning": "keluar/pergi keluar" },
+    { "id": "ch07_001", "chapterId": 7, "order": 1, "kanji": "切ります", "kana": "きります", "romaji": "kirimasu", "wordClass": "verba-I", "meaning": "memotong" },
+    { "id": "ch07_002", "chapterId": 7, "order": 2, "kanji": "送ります", "kana": "おくります", "romaji": "okurimasu", "wordClass": "verba-I", "meaning": "mengirim; mengantarkan" },
+    { "id": "ch07_003", "chapterId": 7, "order": 3, "kanji": "あげます", "kana": "あげます", "romaji": "agemasu", "wordClass": "verba-II", "meaning": "memberi (kepada orang lain)" },
+    { "id": "ch07_004", "chapterId": 7, "order": 4, "kanji": "もらいます", "kana": "もらいます", "romaji": "moraimasu", "wordClass": "verba-I", "meaning": "menerima; mendapat" },
+    { "id": "ch07_005", "chapterId": 7, "order": 5, "kanji": "貸します", "kana": "かします", "romaji": "kashimasu", "wordClass": "verba-I", "meaning": "meminjamkan" },
+    { "id": "ch07_006", "chapterId": 7, "order": 6, "kanji": "借ります", "kana": "かります", "romaji": "karimasu", "wordClass": "verba-II", "meaning": "meminjam" },
+    { "id": "ch07_007", "chapterId": 7, "order": 7, "kanji": "教えます", "kana": "おしえます", "romaji": "oshiemasu", "wordClass": "verba-II", "meaning": "mengajar; memberitahu" },
+    { "id": "ch07_008", "chapterId": 7, "order": 8, "kanji": "習います", "kana": "ならいます", "romaji": "naraimasu", "wordClass": "verba-I", "meaning": "belajar (dari seseorang)" },
+    { "id": "ch07_009", "chapterId": 7, "order": 9, "kanji": "かけます", "kana": "かけます", "romaji": "kakemasu", "wordClass": "verba-II", "meaning": "menelepon" },
+    { "id": "ch07_010", "chapterId": 7, "order": 10, "kanji": "出かけます", "kana": "でかけます", "romaji": "dekakemasu", "wordClass": "verba-II", "meaning": "keluar; pergi keluar" },
     { "id": "ch07_011", "chapterId": 7, "order": 11, "kanji": "映画", "kana": "えいが", "romaji": "eiga", "wordClass": "nomina", "meaning": "film" },
     { "id": "ch07_012", "chapterId": 7, "order": 12, "kanji": "音楽", "kana": "おんがく", "romaji": "ongaku", "wordClass": "nomina", "meaning": "musik" },
-    { "id": "ch07_013", "chapterId": 7, "order": 13, "kanji": "", "kana": "スポーツ", "romaji": "supootsu", "wordClass": "nomina", "meaning": "olahraga" },
-    { "id": "ch07_014", "chapterId": 7, "order": 14, "kanji": "", "kana": "テニス", "romaji": "tenisu", "wordClass": "nomina", "meaning": "tenis" },
-    { "id": "ch07_015", "chapterId": 7, "order": 15, "kanji": "", "kana": "サッカー", "romaji": "sakkaa", "wordClass": "nomina", "meaning": "sepak bola" },
+    { "id": "ch07_013", "chapterId": 7, "order": 13, "kanji": "スポーツ", "kana": "スポーツ", "romaji": "supootsu", "wordClass": "nomina", "meaning": "olahraga" },
+    { "id": "ch07_014", "chapterId": 7, "order": 14, "kanji": "テニス", "kana": "テニス", "romaji": "tenisu", "wordClass": "nomina", "meaning": "tenis" },
+    { "id": "ch07_015", "chapterId": 7, "order": 15, "kanji": "サッカー", "kana": "サッカー", "romaji": "sakkaa", "wordClass": "nomina", "meaning": "sepak bola" },
     { "id": "ch07_016", "chapterId": 7, "order": 16, "kanji": "野球", "kana": "やきゅう", "romaji": "yakyuu", "wordClass": "nomina", "meaning": "bisbol" },
-    { "id": "ch07_017", "chapterId": 7, "order": 17, "kanji": "", "kana": "ゴルフ", "romaji": "gorufu", "wordClass": "nomina", "meaning": "golf" },
-    { "id": "ch07_018", "chapterId": 7, "order": 18, "kanji": "", "kana": "スキー", "romaji": "sukii", "wordClass": "nomina", "meaning": "ski" },
-    { "id": "ch07_019", "chapterId": 7, "order": 19, "kanji": "泳ぎます", "kana": "およぎます", "romaji": "oyogimasu", "wordClass": "verba-i", "meaning": "berenang" },
-    { "id": "ch07_020", "chapterId": 7, "order": 20, "kanji": "歌います", "kana": "うたいます", "romaji": "utaimasu", "wordClass": "verba-i", "meaning": "bernyanyi" },
-    { "id": "ch07_021", "chapterId": 7, "order": 21, "kanji": "踊ります", "kana": "おどります", "romaji": "odorimasu", "wordClass": "verba-i", "meaning": "menari" },
-    { "id": "ch07_022", "chapterId": 7, "order": 22, "kanji": "遊びます", "kana": "あそびます", "romaji": "asobimasu", "wordClass": "verba-i", "meaning": "bermain/bersenang-senang" },
-    { "id": "ch07_023", "chapterId": 7, "order": 23, "kanji": "散歩します", "kana": "さんぽします", "romaji": "sanpo shimasu", "wordClass": "verba-ireguler", "meaning": "berjalan-jalan" },
-    { "id": "ch07_024", "chapterId": 7, "order": 24, "kanji": "買い物します", "kana": "かいものします", "romaji": "kaimono shimasu", "wordClass": "verba-ireguler", "meaning": "berbelanja" },
-    { "id": "ch07_025", "chapterId": 7, "order": 25, "kanji": "料理します", "kana": "りょうりします", "romaji": "ryouri shimasu", "wordClass": "verba-ireguler", "meaning": "memasak" },
+    { "id": "ch07_017", "chapterId": 7, "order": 17, "kanji": "ゴルフ", "kana": "ゴルフ", "romaji": "gorufu", "wordClass": "nomina", "meaning": "golf" },
+    { "id": "ch07_018", "chapterId": 7, "order": 18, "kanji": "スキー", "kana": "スキー", "romaji": "sukii", "wordClass": "nomina", "meaning": "ski" },
+    { "id": "ch07_019", "chapterId": 7, "order": 19, "kanji": "泳ぎます", "kana": "およぎます", "romaji": "oyogimasu", "wordClass": "verba-I", "meaning": "berenang" },
+    { "id": "ch07_020", "chapterId": 7, "order": 20, "kanji": "歌います", "kana": "うたいます", "romaji": "utaimasu", "wordClass": "verba-I", "meaning": "bernyanyi" },
+    { "id": "ch07_021", "chapterId": 7, "order": 21, "kanji": "踊ります", "kana": "おどります", "romaji": "odorimasu", "wordClass": "verba-I", "meaning": "menari" },
+    { "id": "ch07_022", "chapterId": 7, "order": 22, "kanji": "遊びます", "kana": "あそびます", "romaji": "asobimasu", "wordClass": "verba-I", "meaning": "bermain; bersenang-senang" },
+    { "id": "ch07_023", "chapterId": 7, "order": 23, "kanji": "散歩します", "kana": "さんぽします", "romaji": "sanpo shimasu", "wordClass": "verba-III", "meaning": "berjalan-jalan" },
+    { "id": "ch07_024", "chapterId": 7, "order": 24, "kanji": "買い物します", "kana": "かいものします", "romaji": "kaimono shimasu", "wordClass": "verba-III", "meaning": "berbelanja" },
+    { "id": "ch07_025", "chapterId": 7, "order": 25, "kanji": "料理します", "kana": "りょうりします", "romaji": "ryouri shimasu", "wordClass": "verba-III", "meaning": "memasak" },
     { "id": "ch07_026", "chapterId": 7, "order": 26, "kanji": "趣味", "kana": "しゅみ", "romaji": "shumi", "wordClass": "nomina", "meaning": "hobi" },
-    { "id": "ch07_027", "chapterId": 7, "order": 27, "kanji": "", "kana": "に", "romaji": "ni", "wordClass": "partikel", "meaning": "kepada (orang)" },
-    { "id": "ch07_028", "chapterId": 7, "order": 28, "kanji": "", "kana": "と", "romaji": "to", "wordClass": "partikel", "meaning": "bersama/dan" },
-    { "id": "ch07_029", "chapterId": 7, "order": 29, "kanji": "", "kana": "で", "romaji": "de", "wordClass": "partikel", "meaning": "di (tempat)" }
+    { "id": "ch07_027", "chapterId": 7, "order": 27, "kanji": "プレゼント", "kana": "プレゼント", "romaji": "purezento", "wordClass": "nomina", "meaning": "hadiah" },
+    { "id": "ch07_028", "chapterId": 7, "order": 28, "kanji": "手紙", "kana": "てがみ", "romaji": "tegami", "wordClass": "nomina", "meaning": "surat" },
+    { "id": "ch07_029", "chapterId": 7, "order": 29, "kanji": "電話", "kana": "でんわ", "romaji": "denwa", "wordClass": "nomina", "meaning": "telepon" }
+  ],
+  "conversations": [
+    {
+      "id": "ch07_conv01",
+      "chapterId": 7,
+      "order": 1,
+      "title": "Percakapan 1 — Kegiatan Hari Minggu",
+      "turns": [
+        { "speaker": "やまだ", "japanese": "ミラーさんは にちようびに なにを しますか。", "romaji": "Miraa-san wa nichiyoubi ni nani o shimasu ka.", "indonesian": "Tuan Miller, hari Minggu melakukan apa?" },
+        { "speaker": "ミラー", "japanese": "ともだちと テニスを します。やまださんは？", "romaji": "Tomodachi to tenisu o shimasu. Yamada-san wa?", "indonesian": "Saya bermain tenis bersama teman. Yamada?" },
+        { "speaker": "やまだ", "japanese": "わたしは うちで おんがくを ききます。ときどき えいがも みます。", "romaji": "Watashi wa uchi de ongaku o kikimasu. Tokidoki eiga mo mimasu.", "indonesian": "Saya mendengarkan musik di rumah. Kadang-kadang juga menonton film." }
+      ]
+    },
+    {
+      "id": "ch07_conv02",
+      "chapterId": 7,
+      "order": 2,
+      "title": "Percakapan 2 — Memberi Hadiah",
+      "turns": [
+        { "speaker": "カリナ", "japanese": "ミラーさん、これを どうぞ。", "romaji": "Miraa-san, kore o douzo.", "indonesian": "Tuan Miller, ini untuk Anda." },
+        { "speaker": "ミラー", "japanese": "ありがとうございます。なんですか。", "romaji": "Arigatou gozaimasu. Nan desu ka.", "indonesian": "Terima kasih. Apa ini?" },
+        { "speaker": "カリナ", "japanese": "インドネシアの おかしです。どうぞ たべて ください。", "romaji": "Indoneshia no okashi desu. Douzo tabete kudasai.", "indonesian": "Ini kue dari Indonesia. Silakan dimakan." },
+        { "speaker": "ミラー", "japanese": "わあ、おいしそうですね。ありがとうございます。", "romaji": "Waa, oishisou desu ne. Arigatou gozaimasu.", "indonesian": "Wah, kelihatannya enak. Terima kasih." }
+      ]
+    }
   ],
   "grammar": [
     {

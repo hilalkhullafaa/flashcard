@@ -7,32 +7,56 @@
   },
   "vocabulary": [
     { "id": "ch01_001", "chapterId": 1, "order": 1, "kanji": "私", "kana": "わたし", "romaji": "watashi", "wordClass": "nomina", "meaning": "saya" },
-    { "id": "ch01_002", "chapterId": 1, "order": 2, "kanji": "", "kana": "あなた", "romaji": "anata", "wordClass": "nomina", "meaning": "Anda/kamu" },
+    { "id": "ch01_002", "chapterId": 1, "order": 2, "kanji": "あなた", "kana": "あなた", "romaji": "anata", "wordClass": "nomina", "meaning": "Anda/kamu" },
     { "id": "ch01_003", "chapterId": 1, "order": 3, "kanji": "あの人", "kana": "あのひと", "romaji": "ano hito", "wordClass": "nomina", "meaning": "orang itu" },
-    { "id": "ch01_004", "chapterId": 1, "order": 4, "kanji": "", "kana": "みなさん", "romaji": "minasan", "wordClass": "nomina", "meaning": "semua orang" },
-    { "id": "ch01_005", "chapterId": 1, "order": 5, "kanji": "", "kana": "〜さん", "romaji": "~san", "wordClass": "sufiks", "meaning": "sebutan hormat" },
-    { "id": "ch01_006", "chapterId": 1, "order": 6, "kanji": "", "kana": "〜ちゃん", "romaji": "~chan", "wordClass": "sufiks", "meaning": "sebutan akrab" },
-    { "id": "ch01_007", "chapterId": 1, "order": 7, "kanji": "", "kana": "〜くん", "romaji": "~kun", "wordClass": "sufiks", "meaning": "sebutan untuk laki-laki muda" },
+    { "id": "ch01_004", "chapterId": 1, "order": 4, "kanji": "皆さん", "kana": "みなさん", "romaji": "minasan", "wordClass": "nomina", "meaning": "semua orang" },
+    { "id": "ch01_005", "chapterId": 1, "order": 5, "kanji": "〜さん", "kana": "〜さん", "romaji": "~san", "wordClass": "sufiks", "meaning": "sebutan hormat (Tuan/Nyonya/Nona)" },
+    { "id": "ch01_006", "chapterId": 1, "order": 6, "kanji": "〜ちゃん", "kana": "〜ちゃん", "romaji": "~chan", "wordClass": "sufiks", "meaning": "sebutan akrab (untuk anak-anak/perempuan)" },
+    { "id": "ch01_007", "chapterId": 1, "order": 7, "kanji": "〜くん", "kana": "〜くん", "romaji": "~kun", "wordClass": "sufiks", "meaning": "sebutan untuk laki-laki muda" },
     { "id": "ch01_008", "chapterId": 1, "order": 8, "kanji": "〜人", "kana": "〜じん", "romaji": "~jin", "wordClass": "sufiks", "meaning": "orang berkebangsaan ~" },
-    { "id": "ch01_009", "chapterId": 1, "order": 9, "kanji": "先生", "kana": "せんせい", "romaji": "sensei", "wordClass": "nomina", "meaning": "guru/dokter" },
-    { "id": "ch01_010", "chapterId": 1, "order": 10, "kanji": "教師", "kana": "きょうし", "romaji": "kyoushi", "wordClass": "nomina", "meaning": "pengajar" },
+    { "id": "ch01_009", "chapterId": 1, "order": 9, "kanji": "先生", "kana": "せんせい", "romaji": "sensei", "wordClass": "nomina", "meaning": "guru; dokter (sebutan)" },
+    { "id": "ch01_010", "chapterId": 1, "order": 10, "kanji": "教師", "kana": "きょうし", "romaji": "kyoushi", "wordClass": "nomina", "meaning": "guru (profesi)" },
     { "id": "ch01_011", "chapterId": 1, "order": 11, "kanji": "学生", "kana": "がくせい", "romaji": "gakusei", "wordClass": "nomina", "meaning": "pelajar/mahasiswa" },
     { "id": "ch01_012", "chapterId": 1, "order": 12, "kanji": "会社員", "kana": "かいしゃいん", "romaji": "kaishain", "wordClass": "nomina", "meaning": "karyawan perusahaan" },
-    { "id": "ch01_013", "chapterId": 1, "order": 13, "kanji": "社員", "kana": "しゃいん", "romaji": "shain", "wordClass": "nomina", "meaning": "karyawan" },
+    { "id": "ch01_013", "chapterId": 1, "order": 13, "kanji": "社員", "kana": "しゃいん", "romaji": "shain", "wordClass": "nomina", "meaning": "karyawan (perusahaan ~)" },
     { "id": "ch01_014", "chapterId": 1, "order": 14, "kanji": "銀行員", "kana": "ぎんこういん", "romaji": "ginkouin", "wordClass": "nomina", "meaning": "pegawai bank" },
     { "id": "ch01_015", "chapterId": 1, "order": 15, "kanji": "医者", "kana": "いしゃ", "romaji": "isha", "wordClass": "nomina", "meaning": "dokter" },
     { "id": "ch01_016", "chapterId": 1, "order": 16, "kanji": "研究者", "kana": "けんきゅうしゃ", "romaji": "kenkyuusha", "wordClass": "nomina", "meaning": "peneliti" },
-    { "id": "ch01_017", "chapterId": 1, "order": 17, "kanji": "", "kana": "エンジニア", "romaji": "enjinia", "wordClass": "nomina", "meaning": "insinyur/teknisi" },
+    { "id": "ch01_017", "chapterId": 1, "order": 17, "kanji": "エンジニア", "kana": "エンジニア", "romaji": "enjinia", "wordClass": "nomina", "meaning": "insinyur/teknisi" },
     { "id": "ch01_018", "chapterId": 1, "order": 18, "kanji": "大学", "kana": "だいがく", "romaji": "daigaku", "wordClass": "nomina", "meaning": "universitas" },
     { "id": "ch01_019", "chapterId": 1, "order": 19, "kanji": "病院", "kana": "びょういん", "romaji": "byouin", "wordClass": "nomina", "meaning": "rumah sakit" },
-    { "id": "ch01_020", "chapterId": 1, "order": 20, "kanji": "電気", "kana": "でんき", "romaji": "denki", "wordClass": "nomina", "meaning": "listrik/elektronik" },
+    { "id": "ch01_020", "chapterId": 1, "order": 20, "kanji": "電気", "kana": "でんき", "romaji": "denki", "wordClass": "nomina", "meaning": "listrik; elektronik" },
     { "id": "ch01_021", "chapterId": 1, "order": 21, "kanji": "誰", "kana": "だれ", "romaji": "dare", "wordClass": "nomina", "meaning": "siapa" },
-    { "id": "ch01_022", "chapterId": 1, "order": 22, "kanji": "〜歳", "kana": "〜さい", "romaji": "~sai", "wordClass": "sufiks", "meaning": "usia ~ tahun" },
+    { "id": "ch01_022", "chapterId": 1, "order": 22, "kanji": "〜歳", "kana": "〜さい", "romaji": "~sai", "wordClass": "sufiks", "meaning": "~ tahun (usia)" },
     { "id": "ch01_023", "chapterId": 1, "order": 23, "kanji": "何歳", "kana": "なんさい", "romaji": "nansai", "wordClass": "ekspresi", "meaning": "berapa tahun usianya?" },
-    { "id": "ch01_024", "chapterId": 1, "order": 24, "kanji": "", "kana": "おいくつ", "romaji": "oikutsu", "wordClass": "ekspresi", "meaning": "berapa usia Anda? (sopan)" },
-    { "id": "ch01_025", "chapterId": 1, "order": 25, "kanji": "", "kana": "はじめまして", "romaji": "hajimemashite", "wordClass": "ekspresi", "meaning": "salam perkenalan" },
-    { "id": "ch01_026", "chapterId": 1, "order": 26, "kanji": "", "kana": "どうぞよろしく", "romaji": "douzo yoroshiku", "wordClass": "ekspresi", "meaning": "senang berkenalan" },
-    { "id": "ch01_027", "chapterId": 1, "order": 27, "kanji": "", "kana": "こちらこそ", "romaji": "kochira koso", "wordClass": "ekspresi", "meaning": "saya juga" }
+    { "id": "ch01_024", "chapterId": 1, "order": 24, "kanji": "おいくつ", "kana": "おいくつ", "romaji": "oikutsu", "wordClass": "ekspresi", "meaning": "berapa usia Anda? (sopan)" },
+    { "id": "ch01_025", "chapterId": 1, "order": 25, "kanji": "はじめまして", "kana": "はじめまして", "romaji": "hajimemashite", "wordClass": "ekspresi", "meaning": "salam perkenalan (pertama kali bertemu)" },
+    { "id": "ch01_026", "chapterId": 1, "order": 26, "kanji": "どうぞ よろしく", "kana": "どうぞ よろしく", "romaji": "douzo yoroshiku", "wordClass": "ekspresi", "meaning": "senang berkenalan dengan Anda" },
+    { "id": "ch01_027", "chapterId": 1, "order": 27, "kanji": "こちらこそ", "kana": "こちらこそ", "romaji": "kochira koso", "wordClass": "ekspresi", "meaning": "saya juga (membalas salam)" }
+  ],
+  "conversations": [
+    {
+      "id": "ch01_conv01",
+      "chapterId": 1,
+      "order": 1,
+      "title": "Percakapan 1 — Perkenalan Diri",
+      "turns": [
+        { "speaker": "ミラー", "japanese": "はじめまして。わたしは マイク・ミラーです。アメリカじんです。IMCの エンジニアです。どうぞ よろしく。", "romaji": "Hajimemashite. Watashi wa Maiku Miraa desu. Amerikajin desu. IMC no enjinia desu. Douzo yoroshiku.", "indonesian": "Salam perkenalan. Saya Mike Miller. Orang Amerika. Saya insinyur di IMC. Senang berkenalan." },
+        { "speaker": "サントス", "japanese": "サントスです。ブラジルじんです。どうぞ よろしく。", "romaji": "Santosu desu. Burajirujin desu. Douzo yoroshiku.", "indonesian": "Saya Santos. Orang Brasil. Senang berkenalan." }
+      ]
+    },
+    {
+      "id": "ch01_conv02",
+      "chapterId": 1,
+      "order": 2,
+      "title": "Percakapan 2 — Menanyakan Identitas",
+      "turns": [
+        { "speaker": "ミラー", "japanese": "あのひとは だれですか。", "romaji": "Ano hito wa dare desu ka.", "indonesian": "Siapa orang itu?" },
+        { "speaker": "サントス", "japanese": "グプタさんです。", "romaji": "Guputa-san desu.", "indonesian": "Itu Tuan Gupta." },
+        { "speaker": "ミラー", "japanese": "グプタさんは インドじんですか。", "romaji": "Guputa-san wa Indojin desu ka.", "indonesian": "Apakah Tuan Gupta orang India?" },
+        { "speaker": "サントス", "japanese": "はい、そうです。インドの けんきゅうしゃです。", "romaji": "Hai, sou desu. Indo no kenkyuusha desu.", "indonesian": "Ya, betul. Beliau peneliti dari India." }
+      ]
+    }
   ],
   "patterns": [
     {

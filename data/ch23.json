@@ -6,24 +6,50 @@
     "titleId": "Saya akan mematikan lampu"
   },
   "vocabulary": [
-    { "id": "ch23_001", "chapterId": 23, "order": 1, "kanji": "消します", "kana": "けします", "romaji": "keshimasu", "wordClass": "verba-i", "meaning": "mematikan/menghapus" },
-    { "id": "ch23_002", "chapterId": 23, "order": 2, "kanji": "付けます", "kana": "つけます", "romaji": "tsukemasu", "wordClass": "verba-ru", "meaning": "menyalakan/memasang" },
-    { "id": "ch23_003", "chapterId": 23, "order": 3, "kanji": "開けます", "kana": "あけます", "romaji": "akemasu", "wordClass": "verba-ru", "meaning": "membuka" },
-    { "id": "ch23_004", "chapterId": 23, "order": 4, "kanji": "閉めます", "kana": "しめます", "romaji": "shimemasu", "wordClass": "verba-ru", "meaning": "menutup" },
-    { "id": "ch23_005", "chapterId": 23, "order": 5, "kanji": "片付けます", "kana": "かたづけます", "romaji": "katazukemasu", "wordClass": "verba-ru", "meaning": "membereskan/merapikan" },
-    { "id": "ch23_006", "chapterId": 23, "order": 6, "kanji": "掃除します", "kana": "そうじします", "romaji": "souji shimasu", "wordClass": "verba-ireguler", "meaning": "membersihkan" },
-    { "id": "ch23_007", "chapterId": 23, "order": 7, "kanji": "洗濯します", "kana": "せんたくします", "romaji": "sentaku shimasu", "wordClass": "verba-ireguler", "meaning": "mencuci (pakaian)" },
-    { "id": "ch23_008", "chapterId": 23, "order": 8, "kanji": "料理します", "kana": "りょうりします", "romaji": "ryouri shimasu", "wordClass": "verba-ireguler", "meaning": "memasak" },
-    { "id": "ch23_009", "chapterId": 23, "order": 9, "kanji": "用意します", "kana": "よういします", "romaji": "youi shimasu", "wordClass": "verba-ireguler", "meaning": "mempersiapkan" },
+    { "id": "ch23_001", "chapterId": 23, "order": 1, "kanji": "消します", "kana": "けします", "romaji": "keshimasu", "wordClass": "verba-I", "meaning": "mematikan; menghapus" },
+    { "id": "ch23_002", "chapterId": 23, "order": 2, "kanji": "付けます", "kana": "つけます", "romaji": "tsukemasu", "wordClass": "verba-II", "meaning": "menyalakan; memasang" },
+    { "id": "ch23_003", "chapterId": 23, "order": 3, "kanji": "開けます", "kana": "あけます", "romaji": "akemasu", "wordClass": "verba-II", "meaning": "membuka" },
+    { "id": "ch23_004", "chapterId": 23, "order": 4, "kanji": "閉めます", "kana": "しめます", "romaji": "shimemasu", "wordClass": "verba-II", "meaning": "menutup" },
+    { "id": "ch23_005", "chapterId": 23, "order": 5, "kanji": "片付けます", "kana": "かたづけます", "romaji": "katazukemasu", "wordClass": "verba-II", "meaning": "membereskan; merapikan" },
+    { "id": "ch23_006", "chapterId": 23, "order": 6, "kanji": "掃除します", "kana": "そうじします", "romaji": "souji shimasu", "wordClass": "verba-III", "meaning": "membersihkan" },
+    { "id": "ch23_007", "chapterId": 23, "order": 7, "kanji": "洗濯します", "kana": "せんたくします", "romaji": "sentaku shimasu", "wordClass": "verba-III", "meaning": "mencuci (pakaian)" },
+    { "id": "ch23_008", "chapterId": 23, "order": 8, "kanji": "料理します", "kana": "りょうりします", "romaji": "ryouri shimasu", "wordClass": "verba-III", "meaning": "memasak" },
+    { "id": "ch23_009", "chapterId": 23, "order": 9, "kanji": "用意します", "kana": "よういします", "romaji": "youi shimasu", "wordClass": "verba-III", "meaning": "mempersiapkan" },
     { "id": "ch23_010", "chapterId": 23, "order": 10, "kanji": "会議", "kana": "かいぎ", "romaji": "kaigi", "wordClass": "nomina", "meaning": "rapat" },
-    { "id": "ch23_011", "chapterId": 23, "order": 11, "kanji": "予定", "kana": "よてい", "romaji": "yotei", "wordClass": "nomina", "meaning": "rencana/jadwal" },
+    { "id": "ch23_011", "chapterId": 23, "order": 11, "kanji": "予定", "kana": "よてい", "romaji": "yotei", "wordClass": "nomina", "meaning": "rencana; jadwal" },
     { "id": "ch23_012", "chapterId": 23, "order": 12, "kanji": "準備", "kana": "じゅんび", "romaji": "junbi", "wordClass": "nomina", "meaning": "persiapan" },
-    { "id": "ch23_013", "chapterId": 23, "order": 13, "kanji": "電気", "kana": "でんき", "romaji": "denki", "wordClass": "nomina", "meaning": "listrik/lampu" },
-    { "id": "ch23_014", "chapterId": 23, "order": 14, "kanji": "", "kana": "〜ておきます", "romaji": "~te okimasu", "wordClass": "ekspresi", "meaning": "melakukan V sebagai persiapan" },
-    { "id": "ch23_015", "chapterId": 23, "order": 15, "kanji": "", "kana": "〜てしまいます", "romaji": "~te shimaimasu", "wordClass": "ekspresi", "meaning": "melakukan V sampai selesai/menyesal" },
-    { "id": "ch23_016", "chapterId": 23, "order": 16, "kanji": "", "kana": "〜てあります", "romaji": "~te arimasu", "wordClass": "ekspresi", "meaning": "sudah dilakukan (keadaan hasil)" },
-    { "id": "ch23_017", "chapterId": 23, "order": 17, "kanji": "", "kana": "まだ", "romaji": "mada", "wordClass": "adverbia", "meaning": "belum/masih" },
-    { "id": "ch23_018", "chapterId": 23, "order": 18, "kanji": "", "kana": "もう", "romaji": "mou", "wordClass": "adverbia", "meaning": "sudah" }
+    { "id": "ch23_013", "chapterId": 23, "order": 13, "kanji": "電気", "kana": "でんき", "romaji": "denki", "wordClass": "nomina", "meaning": "listrik; lampu" },
+    { "id": "ch23_014", "chapterId": 23, "order": 14, "kanji": "〜ておきます", "kana": "〜ておきます", "romaji": "~te okimasu", "wordClass": "ekspresi", "meaning": "melakukan V sebagai persiapan" },
+    { "id": "ch23_015", "chapterId": 23, "order": 15, "kanji": "〜てしまいます", "kana": "〜てしまいます", "romaji": "~te shimaimasu", "wordClass": "ekspresi", "meaning": "melakukan V sampai selesai; menyesal" },
+    { "id": "ch23_016", "chapterId": 23, "order": 16, "kanji": "〜てあります", "kana": "〜てあります", "romaji": "~te arimasu", "wordClass": "ekspresi", "meaning": "sudah dilakukan (keadaan hasil)" },
+    { "id": "ch23_017", "chapterId": 23, "order": 17, "kanji": "まだ", "kana": "まだ", "romaji": "mada", "wordClass": "adverbia", "meaning": "belum; masih" },
+    { "id": "ch23_018", "chapterId": 23, "order": 18, "kanji": "もう", "kana": "もう", "romaji": "mou", "wordClass": "adverbia", "meaning": "sudah" }
+  ],
+  "conversations": [
+    {
+      "id": "ch23_conv01",
+      "chapterId": 23,
+      "order": 1,
+      "title": "Percakapan 1 — Persiapan Rapat",
+      "turns": [
+        { "speaker": "やまだ", "japanese": "ミラーさん、あしたの かいぎの じゅんびは できましたか。", "romaji": "Miraa-san, ashita no kaigi no junbi wa dekimashita ka.", "indonesian": "Tuan Miller, persiapan rapat besok sudah selesai?" },
+        { "speaker": "ミラー", "japanese": "はい、しりょうを よんで おきました。", "romaji": "Hai, shiryou o yonde okimashita.", "indonesian": "Ya, saya sudah membaca materi." },
+        { "speaker": "やまだ", "japanese": "かいぎしつは よやくして ありますか。", "romaji": "Kaigishitsu wa yoyaku shite arimasu ka.", "indonesian": "Ruang rapat sudah dipesan?" },
+        { "speaker": "ミラー", "japanese": "はい、もう よやくして あります。でんきも つけて おきました。", "romaji": "Hai, mou yoyaku shite arimasu. Denki mo tsukete okimashita.", "indonesian": "Ya, sudah dipesan. Lampu juga sudah saya nyalakan." }
+      ]
+    },
+    {
+      "id": "ch23_conv02",
+      "chapterId": 23,
+      "order": 2,
+      "title": "Percakapan 2 — Lupa Membawa Sesuatu",
+      "turns": [
+        { "speaker": "カリナ", "japanese": "あっ、さいふを わすれて しまいました。", "romaji": "A, saifu o wasurete shimaimashita.", "indonesian": "Ah, saya lupa membawa dompet." },
+        { "speaker": "ミラー", "japanese": "だいじょうぶですか。おかねを かして あげましょうか。", "romaji": "Daijoubu desu ka. Okane o kashite agemashou ka.", "indonesian": "Tidak apa-apa? Mau saya pinjamkan uang?" },
+        { "speaker": "カリナ", "japanese": "ありがとうございます。たすかります。", "romaji": "Arigatou gozaimasu. Tasukarimasu.", "indonesian": "Terima kasih. Sangat membantu." },
+        { "speaker": "ミラー", "japanese": "いいえ。かえったら わすれないように きを つけて くださいね。", "romaji": "Iie. Kaettara wasurenai you ni ki o tsukete kudasai ne.", "indonesian": "Tidak masalah. Nanti pulang hati-hati jangan lupa ya." }
+      ]
+    }
   ],
   "patterns": [
     {
