@@ -1,5 +1,14 @@
 {
   "name": "minna-no-nihongo-flashcard",
   "version": "1.0.0",
-  "description": "Aplikasi flashcard interaktif Minna no Nihongo 1 — 25 bab dengan modul Kotoba, Pola Kalimat, Materi, Flashcard, dan Kuis"
+  "description": "Aplikasi flashcard interaktif Minna no Nihongo 1 — 25 bab dengan modul Kotoba, Pola Kalimat, Materi, Flashcard, dan Kuis",
+  "type": "module",
+  "scripts": {
+    "test": "vitest --run",
+    "test:watch": "vitest"
+  },
+  "devDependencies": {
+    "vitest": "^1.0.0",
+    "jsdom": "^23.0.0"
+  }
 }

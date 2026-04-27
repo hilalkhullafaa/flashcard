@@ -1,8 +1,23 @@
 function renderPattern(container, chapterData) {
   container.innerHTML = '';
+  
+  // Handle missing or invalid chapter data
+  if (!chapterData || typeof chapterData !== 'object') {
+    console.error('Invalid chapter data provided to renderPattern');
+    container.innerHTML = `<p class="text-slate-500 text-center py-12 text-sm">Gagal memuat data pola kalimat.</p>`;
+    return;
+  }
+  
   const patterns = chapterData?.patterns;
 
-  if (!patterns || patterns.length === 0) {
+  // Validate patterns array
+  if (!Array.isArray(patterns)) {
+    console.error('Invalid patterns data: not an array', patterns);
+    container.innerHTML = `<p class="text-slate-500 text-center py-12 text-sm">Data pola kalimat tidak valid.</p>`;
+    return;
+  }
+
+  if (patterns.length === 0) {
     container.innerHTML = `<p class="text-slate-500 text-center py-12 text-sm">Pola kalimat untuk bab ini belum tersedia.</p>`;
     return;
   }

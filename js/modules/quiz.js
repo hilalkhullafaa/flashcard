@@ -13,9 +13,27 @@ import { shuffleArray, calculateQuizResult } from '../utils.js';
 function renderQuiz(container, chapterData) {
   container.innerHTML = '';
 
+  // Handle missing or invalid chapter data
+  if (!chapterData || typeof chapterData !== 'object') {
+    console.error('Invalid chapter data provided to renderQuiz');
+    container.innerHTML = `
+      <p class="text-gray-500 text-center py-12">Gagal memuat data kuis.</p>
+    `;
+    return;
+  }
+
   const quizData = chapterData?.quiz;
 
-  if (!quizData || quizData.length === 0) {
+  // Validate quiz array
+  if (!Array.isArray(quizData)) {
+    console.error('Invalid quiz data: not an array', quizData);
+    container.innerHTML = `
+      <p class="text-gray-500 text-center py-12">Data kuis tidak valid.</p>
+    `;
+    return;
+  }
+
+  if (quizData.length === 0) {
     container.innerHTML = `
       <p class="text-gray-500 text-center py-12">Kuis untuk bab ini belum tersedia.</p>
     `;

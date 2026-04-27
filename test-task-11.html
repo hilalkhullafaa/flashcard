@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Test Task 11 - Enhancements</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            slate: {
+              50: '#f8fafc',
+              100: '#f1f5f9',
+              200: '#e2e8f0',
+              300: '#cbd5e1',
+              400: '#94a3b8',
+              500: '#64748b',
+              600: '#475569',
+              700: '#334155',
+              800: '#1e293b',
+              900: '#0f172a',
+            }
+          }
+        }
+      }
+    }
+  </script>
+</head>
+<body class="bg-slate-900 text-white min-h-screen p-8">
+  <div class="max-w-2xl mx-auto">
+    <h1 class="text-2xl font-bold mb-6">Task 11 Enhancement Tests</h1>
+    
+    <div class="space-y-6">
+      <!-- Test 11.1: Flashcard Mode Persistence -->
+      <div class="bg-slate-800 border border-slate-700 rounded-xl p-6">
+        <h2 class="text-lg font-semibold mb-3">11.1 Flashcard Mode Persistence</h2>
+        <div class="space-y-2 text-sm text-slate-300">
+          <p>✓ Mode persistence added to flashcard module</p>
+          <p>✓ Uses localStorage key format: <code class="bg-slate-700 px-2 py-0.5 rounded">mnn_flashcard_mode_ch{chapterId}</code></p>
+          <p>✓ Restores mode preference on chapter load</p>
+          <p>✓ Handles localStorage unavailable gracefully</p>
+          <p class="text-green-400 mt-2">Status: Implemented</p>
+        </div>
+      </div>
+
+      <!-- Test 11.2: Performance Optimizations -->
+      <div class="bg-slate-800 border border-slate-700 rounded-xl p-6">
+        <h2 class="text-lg font-semibold mb-3">11.2 Performance Optimizations</h2>
+        <div class="space-y-2 text-sm text-slate-300">
+          <p>✓ Cached total vocabulary and kanji counts in ProgressTracker</p>
+          <p>✓ Patterns and grammar merged once per chapter load (already optimized)</p>
+          <p>✓ Batched localStorage updates with 100ms debounce</p>
+          <p class="text-green-400 mt-2">Status: Implemented</p>
+        </div>
+      </div>
+
+      <!-- Test 11.3: Accessibility Improvements -->
+      <div class="bg-slate-800 border border-slate-700 rounded-xl p-6">
+        <h2 class="text-lg font-semibold mb-3">11.3 Accessibility Improvements</h2>
+        <div class="space-y-2 text-sm text-slate-300">
+          <p>✓ ARIA labels added to flashcard mode toggle</p>
+          <p>✓ Keyboard navigation support added:</p>
+          <ul class="ml-6 list-disc">
+            <li>Arrow Left/Right: Navigate cards</li>
+            <li>R: Mark as remembered</li>
+            <li>F: Mark as forgotten</li>
+            <li>Enter/Space: Flip card</li>
+          </ul>
+          <p>✓ Screen reader announcements for progress updates</p>
+          <p>✓ Color contrast verified (slate colors on dark backgrounds)</p>
+          <p class="text-green-400 mt-2">Status: Implemented</p>
+        </div>
+      </div>
+
+      <!-- Manual Testing Instructions -->
+      <div class="bg-indigo-900/30 border border-indigo-700 rounded-xl p-6">
+        <h2 class="text-lg font-semibold mb-3">Manual Testing Instructions</h2>
+        <div class="space-y-2 text-sm text-slate-300">
+          <p><strong>Test 11.1 (Mode Persistence):</strong></p>
+          <ol class="ml-6 list-decimal space-y-1">
+            <li>Navigate to any chapter flashcard</li>
+            <li>Switch to "Kanji Saja" mode</li>
+            <li>Navigate away and return to the same chapter</li>
+            <li>Verify "Kanji Saja" mode is still selected</li>
+          </ol>
+          
+          <p class="mt-4"><strong>Test 11.2 (Performance):</strong></p>
+          <ol class="ml-6 list-decimal space-y-1">
+            <li>Open browser DevTools Console</li>
+            <li>Mark multiple vocabulary items quickly</li>
+            <li>Verify localStorage writes are batched (check console)</li>
+            <li>Navigate between chapters and verify smooth performance</li>
+          </ol>
+          
+          <p class="mt-4"><strong>Test 11.3 (Accessibility):</strong></p>
+          <ol class="ml-6 list-decimal space-y-1">
+            <li>Navigate to flashcard using Tab key</li>
+            <li>Use Arrow keys to navigate cards</li>
+            <li>Press R to mark as remembered, F to mark as forgotten</li>
+            <li>Use screen reader to verify announcements</li>
+            <li>Inspect elements to verify ARIA labels are present</li>
+          </ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

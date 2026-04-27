@@ -15,9 +15,24 @@ const wordClassColors = {
 
 function renderKotoba(container, chapterData) {
   container.innerHTML = '';
+  
+  // Handle missing or invalid chapter data
+  if (!chapterData || typeof chapterData !== 'object') {
+    console.error('Invalid chapter data provided to renderKotoba');
+    container.innerHTML = `<p class="text-slate-500 text-center py-12 text-sm">Gagal memuat data kosakata.</p>`;
+    return;
+  }
+  
   const vocabulary = chapterData?.vocabulary;
 
-  if (!vocabulary || vocabulary.length === 0) {
+  // Validate vocabulary array
+  if (!Array.isArray(vocabulary)) {
+    console.error('Invalid vocabulary data: not an array', vocabulary);
+    container.innerHTML = `<p class="text-slate-500 text-center py-12 text-sm">Data kosakata tidak valid.</p>`;
+    return;
+  }
+
+  if (vocabulary.length === 0) {
     container.innerHTML = `<p class="text-slate-500 text-center py-12 text-sm">Kosakata untuk bab ini belum tersedia.</p>`;
     return;
   }

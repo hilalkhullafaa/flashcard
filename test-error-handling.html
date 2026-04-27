@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Error Handling Test</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-900 text-white p-8">
+  <h1 class="text-2xl font-bold mb-6">Error Handling Tests</h1>
+  
+  <div class="space-y-4">
+    <div class="bg-slate-800 p-4 rounded-lg">
+      <h2 class="font-bold mb-2">Test 1: Invalid Chapter Data</h2>
+      <div id="test1-result" class="text-sm"></div>
+    </div>
+    
+    <div class="bg-slate-800 p-4 rounded-lg">
+      <h2 class="font-bold mb-2">Test 2: Invalid Conversation Data</h2>
+      <div id="test2-result" class="text-sm"></div>
+    </div>
+    
+    <div class="bg-slate-800 p-4 rounded-lg">
+      <h2 class="font-bold mb-2">Test 3: Invalid Materi Data</h2>
+      <div id="test3-result" class="text-sm"></div>
+    </div>
+    
+    <div class="bg-slate-800 p-4 rounded-lg">
+      <h2 class="font-bold mb-2">Test 4: localStorage Unavailable</h2>
+      <div id="test4-result" class="text-sm"></div>
+    </div>
+    
+    <div class="bg-slate-800 p-4 rounded-lg">
+      <h2 class="font-bold mb-2">Test 5: Data Loading Errors</h2>
+      <div id="test5-result" class="text-sm"></div>
+    </div>
+  </div>
+
+  <script type="module">
+    import { renderConversation } from './js/modules/conversation.js';
+    import { renderMateri } from './js/modules/materi.js';
+    import { renderKotoba } from './js/modules/kotoba.js';
+    import { progressTracker } from './js/modules/progress.js';
+    import { fetchChapterData, fetchChapters } from './js/data.js';
+
+    // Test 1: Invalid Chapter Data
+    const test1Container = document.createElement('div');
+    renderKotoba(test1Container, null);
+    document.getElementById('test1-result').innerHTML = 
+      test1Container.innerHTML.includes('Gagal memuat') ? 
+      '✅ Handled null chapter data correctly' : 
+      '❌ Failed to handle null chapter data';
+
+    // Test 2: Invalid Conversation Data
+    const test2Container = document.createElement('div');
+    const invalidConvData = {
+      conversations: [
+        { id: 'test', turns: [] } // Missing required fields
+      ]
+    };
+    renderConversation(test2Container, invalidConvData);
+    document.getElementById('test2-result').innerHTML = 
+      test2Container.innerHTML.includes('tidak valid') || test2Container.innerHTML.includes('belum tersedia') ? 
+      '✅ Handled invalid conversation data correctly' : 
+      '❌ Failed to handle invalid conversation data';
+
+    // Test 3: Invalid Materi Data
+    const test3Container = document.createElement('div');
+    const invalidMateriData = {
+      patterns: 'not an array', // Invalid type
+      grammar: []
+    };
+    renderMateri(test3Container, invalidMateriData);
+    document.getElementById('test3-result').innerHTML = 
+      test3Container.innerHTML.includes('tidak valid') ? 
+      '✅ Handled invalid materi data correctly' : 
+      '❌ Failed to handle invalid materi data';
+
+    // Test 4: localStorage Unavailable
+    const originalSetItem = localStorage.setItem;
+    let storageErrorCaught = false;
+    try {
+      localStorage.setItem = () => {
+        throw new Error('localStorage unavailable');
+      };
+      progressTracker.markVocabMemorized('test_vocab');
+      storageErrorCaught = true;
+    } catch (e) {
+      storageErrorCaught = false;
+    } finally {
+      localStorage.setItem = originalSetItem;
+    }
+    document.getElementById('test4-result').innerHTML = 
+      storageErrorCaught ? 
+      '✅ Handled localStorage unavailable correctly' : 
+      '❌ Failed to handle localStorage unavailable';
+
+    // Test 5: Data Loading Errors
+    const chapters = await fetchChapters();
+    const invalidChapter = await fetchChapterData(999); // Invalid chapter ID
+    document.getElementById('test5-result').innerHTML = 
+      (chapters !== null && invalidChapter === null) ? 
+      '✅ Handled data loading errors correctly' : 
+      '❌ Failed to handle data loading errors';
+
+    console.log('All error handling tests completed');
+  </script>
+</body>
+</html>

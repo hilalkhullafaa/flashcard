@@ -182,7 +182,7 @@ Fitur ini menambahkan 15-20 soal JLPT N5 per bab untuk semua 25 bab dengan distr
 - [x] 15. Checkpoint - Review Batch 5 dengan user
   - Ensure all tests pass, ask the user if questions arise.
 
-- [~] 16. Testing manual untuk semua bab
+- [ ] 16. Testing manual untuk semua bab
   - [ ] 16.1 Test fungsional untuk Bab 1-5
     - Buka aplikasi dan navigasi ke setiap bab
     - Mulai kuis dan verifikasi soal JLPT N5 muncul

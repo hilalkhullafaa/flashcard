@@ -11,9 +11,27 @@
 function renderGrammar(container, chapterData) {
   container.innerHTML = '';
 
+  // Handle missing or invalid chapter data
+  if (!chapterData || typeof chapterData !== 'object') {
+    console.error('Invalid chapter data provided to renderGrammar');
+    container.innerHTML = `
+      <p class="text-gray-500 text-center py-12">Gagal memuat data tata bahasa.</p>
+    `;
+    return;
+  }
+
   const notes = chapterData?.grammar;
 
-  if (!notes || notes.length === 0) {
+  // Validate grammar array
+  if (!Array.isArray(notes)) {
+    console.error('Invalid grammar data: not an array', notes);
+    container.innerHTML = `
+      <p class="text-gray-500 text-center py-12">Data tata bahasa tidak valid.</p>
+    `;
+    return;
+  }
+
+  if (notes.length === 0) {
     container.innerHTML = `
       <p class="text-gray-500 text-center py-12">Materi untuk bab ini belum tersedia.</p>
     `;

@@ -1,5 +1,6 @@
 import { fetchChapters, fetchAllChaptersData } from '../data.js';
 import { searchVocabAndPatterns } from '../utils.js';
+import { progressTracker } from '../modules/progress.js';
 
 function debounce(fn, delay) {
   let timer = null;
@@ -27,6 +28,12 @@ async function renderChapterList(container) {
   const main = document.createElement('main');
   main.className = 'max-w-2xl mx-auto px-4 py-5';
   container.appendChild(main);
+
+  // ── Progress Statistics ───────────────────────────────────────────────────
+  const progressSection = document.createElement('div');
+  progressSection.id = 'progress-section';
+  progressSection.className = 'mb-5';
+  main.appendChild(progressSection);
 
   // ── Search ────────────────────────────────────────────────────────────────
   const searchWrapper = document.createElement('div');
@@ -76,6 +83,10 @@ async function renderChapterList(container) {
   const chapters = await fetchChapters();
   if (!chapters) { renderChapterError(chapterListArea, container); return; }
 
+  // Fetch all chapters data and render progress statistics
+  const allChaptersData = await fetchAllChaptersData();
+  renderProgressStats(progressSection, allChaptersData);
+
   renderChapterCards(chapterListArea, chapters);
 
   // ── Search logic ──────────────────────────────────────────────────────────
@@ -104,6 +115,56 @@ async function renderChapterList(container) {
   }, 300);
 
   searchInput.addEventListener('input', (e) => handleSearch(e.target.value));
+}
+
+function renderProgressStats(container, allChaptersData) {
+  try {
+    // Validate input
+    if (!Array.isArray(allChaptersData)) {
+      console.error('Invalid allChaptersData: not an array', allChaptersData);
+      container.innerHTML = '';
+      return;
+    }
+
+    if (allChaptersData.length === 0) {
+      console.warn('No chapter data available for progress statistics');
+      container.innerHTML = '';
+      return;
+    }
+
+    const stats = progressTracker.getStats(allChaptersData);
+
+    container.innerHTML = `
+      <div class="bg-slate-800 border border-slate-700 rounded-xl p-4">
+        <h2 class="text-sm font-bold text-white mb-4">Progress Keseluruhan</h2>
+        
+        <!-- Vocabulary Progress -->
+        <div class="mb-4">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-medium text-slate-300">Kosakata</span>
+            <span class="text-xs font-semibold text-slate-300">${stats.vocab.memorized} / ${stats.vocab.total} (${stats.vocab.percentage}%)</span>
+          </div>
+          <div class="w-full bg-slate-700 rounded-full h-2 overflow-hidden">
+            <div class="bg-green-500 h-full rounded-full transition-all duration-300" style="width: ${stats.vocab.percentage}%"></div>
+          </div>
+        </div>
+
+        <!-- Kanji Progress -->
+        <div>
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-medium text-slate-300">Kanji</span>
+            <span class="text-xs font-semibold text-slate-300">${stats.kanji.memorized} / ${stats.kanji.total} (${stats.kanji.percentage}%)</span>
+          </div>
+          <div class="w-full bg-slate-700 rounded-full h-2 overflow-hidden">
+            <div class="bg-green-500 h-full rounded-full transition-all duration-300" style="width: ${stats.kanji.percentage}%"></div>
+          </div>
+        </div>
+      </div>
+    `;
+  } catch (error) {
+    console.error('Error rendering progress stats:', error);
+    container.innerHTML = '';
+  }
 }
 
 function renderChapterCards(container, chapters) {

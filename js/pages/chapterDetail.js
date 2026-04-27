@@ -1,16 +1,16 @@
 import { fetchChapterData } from '../data.js';
 import { renderKotoba } from '../modules/kotoba.js';
-import { renderPattern } from '../modules/pattern.js';
-import { renderGrammar } from '../modules/grammar.js';
+import { renderMateri } from '../modules/materi.js';
+import { renderConversation } from '../modules/conversation.js';
 import { renderFlashcard } from '../modules/flashcard.js';
 import { renderQuiz } from '../modules/quiz.js';
 
 const TABS = [
-  { key: 'kotoba',    label: 'Kotoba',       render: renderKotoba    },
-  { key: 'pola',      label: 'Pola Kalimat', render: renderPattern   },
-  { key: 'materi',    label: 'Materi',       render: renderGrammar   },
-  { key: 'flashcard', label: 'Flashcard',    render: renderFlashcard },
-  { key: 'kuis',      label: 'Kuis',         render: renderQuiz      },
+  { key: 'kotoba',      label: 'Kotoba',       render: renderKotoba       },
+  { key: 'materi',      label: 'Materi',       render: renderMateri       },
+  { key: 'percakapan',  label: 'Percakapan',   render: renderConversation },
+  { key: 'flashcard',   label: 'Flashcard',    render: renderFlashcard    },
+  { key: 'kuis',        label: 'Kuis',         render: renderQuiz         },
 ];
 
 async function renderChapterDetail(container, chapterId, activeTab) {
