@@ -340,5 +340,145 @@ runner.test('integration: should persist and restore state across load/save cycl
   assert(progressTracker.isKanjiMemorized('ch01_001'), 'Kanji 私 should persist');
 });
 
+// Tests for new methods (Task 1.5)
+
+runner.test('getMemorizedVocabList should return empty array when no items memorized', () => {
+  resetState();
+  const list = progressTracker.getMemorizedVocabList();
+  assertEqual(list.length, 0, 'Should return empty array');
+});
+
+runner.test('getMemorizedVocabList should return correct items with full details', () => {
+  resetState();
+  progressTracker.markVocabMemorized('ch01_001');
+  progressTracker.markVocabMemorized('ch02_001');
+  
+  const list = progressTracker.getMemorizedVocabList();
+  
+  assertEqual(list.length, 2, 'Should return 2 items');
+  assertEqual(list[0].id, 'ch01_001', 'First item should be ch01_001');
+  assertEqual(list[0].kanji, '私', 'First item kanji should be 私');
+  assertEqual(list[0].kana, 'わたし', 'First item kana should be わたし');
+  assertEqual(list[0].chapterId, 1, 'First item chapterId should be 1');
+  assertEqual(list[1].id, 'ch02_001', 'Second item should be ch02_001');
+  assertEqual(list[1].kanji, '学生', 'Second item kanji should be 学生');
+  assertEqual(list[1].chapterId, 2, 'Second item chapterId should be 2');
+});
+
+runner.test('getMemorizedVocabList should handle missing vocabulary IDs gracefully', () => {
+  resetState();
+  progressTracker.markVocabMemorized('ch01_001');
+  progressTracker.vocabMemorized.add('ch99_999'); // Non-existent vocab ID
+  
+  const list = progressTracker.getMemorizedVocabList();
+  
+  assertEqual(list.length, 1, 'Should skip missing vocab ID');
+  assertEqual(list[0].id, 'ch01_001', 'Should only include valid vocab');
+});
+
+runner.test('getMemorizedKanjiList should return empty array when no kanji memorized', () => {
+  resetState();
+  const list = progressTracker.getMemorizedKanjiList();
+  assertEqual(list.length, 0, 'Should return empty array');
+});
+
+runner.test('getMemorizedKanjiList should return correct kanji with associated vocabulary', () => {
+  resetState();
+  progressTracker.markKanjiMemorized('ch01_001'); // marks kanji '私'
+  progressTracker.markKanjiMemorized('ch02_001'); // marks kanji '学生'
+  
+  const list = progressTracker.getMemorizedKanjiList();
+  
+  assertEqual(list.length, 2, 'Should return 2 kanji items');
+  assertEqual(list[0].kanjiText, '私', 'First kanji should be 私');
+  assertEqual(list[0].vocab.id, 'ch01_001', 'First kanji vocab ID should be ch01_001');
+  assertEqual(list[0].vocab.kana, 'わたし', 'First kanji vocab kana should be わたし');
+  assertEqual(list[0].chapterId, 1, 'First kanji chapterId should be 1');
+  assertEqual(list[1].kanjiText, '学生', 'Second kanji should be 学生');
+  assertEqual(list[1].vocab.id, 'ch02_001', 'Second kanji vocab ID should be ch02_001');
+  assertEqual(list[1].chapterId, 2, 'Second kanji chapterId should be 2');
+});
+
+runner.test('getMemorizedKanjiList should handle missing kanji texts gracefully', () => {
+  resetState();
+  progressTracker.markKanjiMemorized('ch01_001'); // marks kanji '私'
+  progressTracker.kanjiMemorized.add('無効'); // Non-existent kanji text
+  
+  const list = progressTracker.getMemorizedKanjiList();
+  
+  assertEqual(list.length, 1, 'Should skip missing kanji text');
+  assertEqual(list[0].kanjiText, '私', 'Should only include valid kanji');
+});
+
+runner.test('deleteMemorizedVocab should successfully remove item and return true', async () => {
+  resetState();
+  progressTracker.markVocabMemorized('ch01_001');
+  
+  const result = progressTracker.deleteMemorizedVocab('ch01_001');
+  
+  assert(result === true, 'Should return true on success');
+  assert(!progressTracker.isVocabMemorized('ch01_001'), 'Vocab should be removed');
+  
+  // Wait for debounced save
+  await new Promise(resolve => setTimeout(resolve, 150));
+  
+  const stored = JSON.parse(localStorage.getItem('mnn_vocab_progress'));
+  assertNotContains(stored, 'ch01_001', 'Should be removed from localStorage');
+});
+
+runner.test('deleteMemorizedVocab should return false when item not found', () => {
+  resetState();
+  
+  const result = progressTracker.deleteMemorizedVocab('ch99_999');
+  
+  assert(result === false, 'Should return false when item not found');
+});
+
+runner.test('deleteMemorizedKanji should successfully remove kanji and return true', async () => {
+  resetState();
+  progressTracker.markKanjiMemorized('ch01_001'); // marks kanji '私'
+  
+  const result = progressTracker.deleteMemorizedKanji('私');
+  
+  assert(result === true, 'Should return true on success');
+  assert(!progressTracker.isKanjiMemorized('ch01_001'), 'Kanji should be removed');
+  
+  // Wait for debounced save
+  await new Promise(resolve => setTimeout(resolve, 150));
+  
+  const stored = JSON.parse(localStorage.getItem('mnn_kanji_progress'));
+  assertNotContains(stored, '私', 'Should be removed from localStorage');
+});
+
+runner.test('deleteMemorizedKanji should return false when kanji not found', () => {
+  resetState();
+  
+  const result = progressTracker.deleteMemorizedKanji('無効');
+  
+  assert(result === false, 'Should return false when kanji not found');
+});
+
+runner.test('data consistency: deleting vocab should not affect kanji status', () => {
+  resetState();
+  progressTracker.markVocabMemorized('ch01_001');
+  progressTracker.markKanjiMemorized('ch01_001'); // marks kanji '私'
+  
+  progressTracker.deleteMemorizedVocab('ch01_001');
+  
+  assert(!progressTracker.isVocabMemorized('ch01_001'), 'Vocab should be deleted');
+  assert(progressTracker.isKanjiMemorized('ch01_001'), 'Kanji should still be memorized');
+});
+
+runner.test('data consistency: deleting kanji should not affect vocab status', () => {
+  resetState();
+  progressTracker.markVocabMemorized('ch01_001');
+  progressTracker.markKanjiMemorized('ch01_001'); // marks kanji '私'
+  
+  progressTracker.deleteMemorizedKanji('私');
+  
+  assert(progressTracker.isVocabMemorized('ch01_001'), 'Vocab should still be memorized');
+  assert(!progressTracker.isKanjiMemorized('ch01_001'), 'Kanji should be deleted');
+});
+
 // Run all tests
 runner.run();

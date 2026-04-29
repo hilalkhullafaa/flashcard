@@ -19,7 +19,7 @@ async function renderChapterList(container) {
   header.innerHTML = `
     <div class="max-w-2xl mx-auto text-center">
       <h1 class="text-2xl font-bold text-white tracking-tight">みんなの日本語</h1>
-      <p class="text-slate-400 text-sm mt-1">Minna no Nihongo 1 — Flashcard Interaktif</p>
+      <p class="text-slate-400 text-sm mt-1">Flashcard Interaktif</p>
     </div>
   `;
   container.appendChild(header);
@@ -154,7 +154,7 @@ function renderProgressStats(container, allChaptersData) {
         </div>
 
         <!-- Kanji Progress -->
-        <div>
+        <div class="mb-4">
           <div class="flex items-center justify-between mb-2">
             <span class="text-xs font-medium text-slate-300">Kanji</span>
             <span class="text-xs font-semibold text-slate-300">${stats.kanji.memorized} / ${stats.kanji.total} (${stats.kanji.percentage}%)</span>
@@ -163,8 +163,21 @@ function renderProgressStats(container, allChaptersData) {
             <div class="bg-green-500 h-full rounded-full transition-all duration-300" style="width: ${stats.kanji.percentage}%"></div>
           </div>
         </div>
+
+        <!-- View Details Button -->
+        <button id="view-progress-details-btn" type="button" class="w-full px-4 py-2 bg-indigo-600 text-white rounded-lg hover:bg-indigo-700 text-sm font-medium transition-colors focus:outline-none focus:ring-2 focus:ring-indigo-500">
+          Lihat Detail Progress
+        </button>
       </div>
     `;
+
+    // Add click handler for view details button
+    const viewDetailsBtn = container.querySelector('#view-progress-details-btn');
+    if (viewDetailsBtn) {
+      viewDetailsBtn.addEventListener('click', () => {
+        window.location.hash = '#/progress';
+      });
+    }
   } catch (error) {
     console.error('Error rendering progress stats:', error);
     container.innerHTML = '';

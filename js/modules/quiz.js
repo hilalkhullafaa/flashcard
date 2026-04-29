@@ -59,13 +59,13 @@ function renderQuiz(container, chapterData) {
 
     // Progress indicator
     const progress = document.createElement('p');
-    progress.className = 'text-sm text-gray-400 font-medium';
+    progress.className = 'text-sm text-slate-300 font-medium';
     progress.textContent = `Soal ${currentIndex + 1} dari ${questions.length}`;
     wrapper.appendChild(progress);
 
     // Question text
     const questionEl = document.createElement('p');
-    questionEl.className = 'text-base font-semibold text-gray-800 leading-relaxed';
+    questionEl.className = 'text-base font-semibold text-white leading-relaxed';
     questionEl.textContent = q.question;
     wrapper.appendChild(questionEl);
 

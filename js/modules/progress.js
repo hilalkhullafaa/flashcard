@@ -171,6 +171,126 @@ class ProgressTracker {
   }
 
   /**
+   * Get all memorized vocabulary items with full details
+   * @returns {Array<{id: string, kanji: string, kana: string, romaji: string, meaning: string, chapterId: number}>}
+   */
+  getMemorizedVocabList() {
+    const result = [];
+    
+    if (!this.allChaptersData || !Array.isArray(this.allChaptersData)) {
+      return result;
+    }
+
+    // Iterate through memorized vocab IDs
+    for (const vocabId of this.vocabMemorized) {
+      const vocab = this._getVocabById(vocabId);
+      if (vocab) {
+        // Extract chapter ID from vocab ID (e.g., "ch01_001" -> 1)
+        const chapterIdMatch = vocabId.match(/ch(\d+)_/);
+        const chapterId = chapterIdMatch ? parseInt(chapterIdMatch[1], 10) : 0;
+        
+        result.push({
+          id: vocab.id,
+          kanji: vocab.kanji || '',
+          kana: vocab.kana || '',
+          romaji: vocab.romaji || '',
+          meaning: vocab.meaning || '',
+          chapterId
+        });
+      }
+    }
+
+    // Sort by chapter ID for consistent ordering
+    result.sort((a, b) => a.chapterId - b.chapterId);
+    
+    return result;
+  }
+
+  /**
+   * Get all memorized kanji items with full details
+   * @returns {Array<{kanjiText: string, vocab: {id: string, kanji: string, kana: string, romaji: string, meaning: string}, chapterId: number}>}
+   */
+  getMemorizedKanjiList() {
+    const result = [];
+    
+    if (!this.allChaptersData || !Array.isArray(this.allChaptersData)) {
+      return result;
+    }
+
+    // Iterate through memorized kanji texts
+    for (const kanjiText of this.kanjiMemorized) {
+      // Find the first vocabulary item with this kanji text
+      let foundVocab = null;
+      let chapterId = 0;
+      
+      for (const chapterData of this.allChaptersData) {
+        if (chapterData && Array.isArray(chapterData.vocabulary)) {
+          const vocab = chapterData.vocabulary.find(v => 
+            v && v.kanji === kanjiText
+          );
+          
+          if (vocab) {
+            foundVocab = vocab;
+            // Extract chapter ID from vocab ID
+            const chapterIdMatch = vocab.id.match(/ch(\d+)_/);
+            chapterId = chapterIdMatch ? parseInt(chapterIdMatch[1], 10) : 0;
+            break;
+          }
+        }
+      }
+      
+      if (foundVocab) {
+        result.push({
+          kanjiText,
+          vocab: {
+            id: foundVocab.id,
+            kanji: foundVocab.kanji || '',
+            kana: foundVocab.kana || '',
+            romaji: foundVocab.romaji || '',
+            meaning: foundVocab.meaning || ''
+          },
+          chapterId
+        });
+      }
+    }
+
+    // Sort by chapter ID for consistent ordering
+    result.sort((a, b) => a.chapterId - b.chapterId);
+    
+    return result;
+  }
+
+  /**
+   * Delete vocabulary from memorized list
+   * @param {string} vocabId - Vocabulary ID to delete
+   * @returns {boolean} Success status
+   */
+  deleteMemorizedVocab(vocabId) {
+    if (!this.vocabMemorized.has(vocabId)) {
+      return false;
+    }
+    
+    this.vocabMemorized.delete(vocabId);
+    this.save();
+    return true;
+  }
+
+  /**
+   * Delete kanji from memorized list
+   * @param {string} kanjiText - Kanji text to delete
+   * @returns {boolean} Success status
+   */
+  deleteMemorizedKanji(kanjiText) {
+    if (!this.kanjiMemorized.has(kanjiText)) {
+      return false;
+    }
+    
+    this.kanjiMemorized.delete(kanjiText);
+    this.save();
+    return true;
+  }
+
+  /**
    * Get overall statistics with unique counting
    * @param {import('../data.js').ChapterData[]} allChaptersData - All chapter data
    * @returns {{
@@ -322,7 +442,31 @@ class ProgressTracker {
       if (kanjiData) {
         const parsed = JSON.parse(kanjiData);
         if (Array.isArray(parsed)) {
-          this.kanjiMemorized = new Set(parsed);
+          // Filter out invalid entries (vocab IDs instead of kanji text)
+          // Valid kanji text should not contain underscore (vocab ID format: ch01_001)
+          const validKanjiTexts = parsed.filter(item => {
+            // Check if item is a string and doesn't look like a vocab ID
+            if (typeof item !== 'string') return false;
+            // Vocab IDs have format: ch##_###
+            if (/^ch\d+_\d+$/.test(item)) {
+              console.warn(`Removing invalid kanji entry (vocab ID): ${item}`);
+              return false;
+            }
+            // Valid kanji text should have actual kanji characters
+            if (!hasKanji(item)) {
+              console.warn(`Removing invalid kanji entry (no kanji): ${item}`);
+              return false;
+            }
+            return true;
+          });
+          
+          this.kanjiMemorized = new Set(validKanjiTexts);
+          
+          // If we filtered out invalid entries, save the cleaned data
+          if (validKanjiTexts.length !== parsed.length) {
+            console.log(`Cleaned kanji progress: ${parsed.length} -> ${validKanjiTexts.length} entries`);
+            this.save();
+          }
         } else {
           console.warn('Invalid kanji progress data format, resetting');
           this.kanjiMemorized = new Set();

@@ -1,13 +1,18 @@
 // Router and app initialization
 import { renderChapterList } from './pages/chapterList.js';
 import { renderChapterDetail } from './pages/chapterDetail.js';
+import { renderProgressDetail } from './pages/progressDetail.js';
+import { fetchAllChaptersData } from './data.js';
 
-function router() {
+async function router() {
   const appContainer = document.getElementById('app');
   const hash = window.location.hash;
 
   if (!hash || hash === '#/') {
     renderChapterList(appContainer);
+  } else if (hash === '#/progress') {
+    const allChaptersData = await fetchAllChaptersData();
+    renderProgressDetail(appContainer, allChaptersData);
   } else {
     const chapterMatch = hash.match(/^#\/chapter\/(\d+)(?:\/(\w+))?$/);
     if (chapterMatch) {
