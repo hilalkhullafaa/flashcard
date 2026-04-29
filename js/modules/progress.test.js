@@ -85,11 +85,33 @@ import { progressTracker } from './progress.js';
 // Test suite
 const runner = new TestRunner();
 
+// Mock chapter data for testing
+const mockChaptersData = [
+  {
+    vocabulary: [
+      { id: 'ch01_001', kanji: '私', kana: 'わたし' },
+      { id: 'ch01_002', kanji: '', kana: 'あなた' },
+      { id: 'ch01_003', kanji: '先生', kana: 'せんせい' }
+    ]
+  },
+  {
+    vocabulary: [
+      { id: 'ch02_001', kanji: '学生', kana: 'がくせい' },
+      { id: 'ch02_002', kanji: '', kana: 'はい' }
+    ]
+  }
+];
+
 // Helper to reset state
 function resetState() {
   localStorage.clear();
   progressTracker.vocabMemorized = new Set();
   progressTracker.kanjiMemorized = new Set();
+  progressTracker.cachedTotals = null;
+  progressTracker.storageAvailable = true; // Re-enable storage for tests
+  progressTracker.storageWarningShown = false;
+  // Set up chapter data for kanji lookup
+  progressTracker.setChaptersData(mockChaptersData);
 }
 
 // Tests
@@ -99,9 +121,11 @@ runner.test('markVocabMemorized should mark vocabulary as memorized', () => {
   assert(progressTracker.isVocabMemorized('ch01_001'), 'Vocab should be memorized');
 });
 
-runner.test('markVocabMemorized should persist to localStorage', () => {
+runner.test('markVocabMemorized should persist to localStorage', async () => {
   resetState();
   progressTracker.markVocabMemorized('ch01_001');
+  // Wait for debounced save (100ms + buffer)
+  await new Promise(resolve => setTimeout(resolve, 150));
   const stored = JSON.parse(localStorage.getItem('mnn_vocab_progress'));
   assertContains(stored, 'ch01_001', 'localStorage should contain vocab ID');
 });
@@ -121,30 +145,34 @@ runner.test('markVocabForgotten should remove vocabulary from memorized set', ()
   assert(!progressTracker.isVocabMemorized('ch01_001'), 'Vocab should not be memorized');
 });
 
-runner.test('markVocabForgotten should persist removal to localStorage', () => {
+runner.test('markVocabForgotten should persist removal to localStorage', async () => {
   resetState();
   progressTracker.markVocabMemorized('ch01_001');
+  await new Promise(resolve => setTimeout(resolve, 150));
   progressTracker.markVocabForgotten('ch01_001');
+  await new Promise(resolve => setTimeout(resolve, 150));
   const stored = JSON.parse(localStorage.getItem('mnn_vocab_progress'));
   assertNotContains(stored, 'ch01_001', 'localStorage should not contain vocab ID');
 });
 
 runner.test('markKanjiMemorized should mark kanji as memorized', () => {
   resetState();
-  progressTracker.markKanjiMemorized('ch01_001');
+  progressTracker.markKanjiMemorized('ch01_001'); // vocab with kanji '私'
   assert(progressTracker.isKanjiMemorized('ch01_001'), 'Kanji should be memorized');
 });
 
-runner.test('markKanjiMemorized should persist to localStorage', () => {
+runner.test('markKanjiMemorized should persist kanji text to localStorage', async () => {
   resetState();
-  progressTracker.markKanjiMemorized('ch01_001');
+  progressTracker.markKanjiMemorized('ch01_001'); // vocab with kanji '私'
+  // Wait for debounced save
+  await new Promise(resolve => setTimeout(resolve, 150));
   const stored = JSON.parse(localStorage.getItem('mnn_kanji_progress'));
-  assertContains(stored, 'ch01_001', 'localStorage should contain kanji ID');
+  assertContains(stored, '私', 'localStorage should contain kanji text');
 });
 
 runner.test('markKanjiForgotten should remove kanji from memorized set', () => {
   resetState();
-  progressTracker.markKanjiMemorized('ch01_001');
+  progressTracker.markKanjiMemorized('ch01_001'); // vocab with kanji '私'
   progressTracker.markKanjiForgotten('ch01_001');
   assert(!progressTracker.isKanjiMemorized('ch01_001'), 'Kanji should not be memorized');
 });
@@ -167,9 +195,10 @@ runner.test('getStats should calculate correct statistics', () => {
     }
   ];
 
+  progressTracker.setChaptersData(mockChapters);
   progressTracker.markVocabMemorized('ch01_001');
   progressTracker.markVocabMemorized('ch02_001');
-  progressTracker.markKanjiMemorized('ch01_001');
+  progressTracker.markKanjiMemorized('ch01_001'); // marks kanji '私' as memorized
 
   const stats = progressTracker.getStats(mockChapters);
 
@@ -204,13 +233,13 @@ runner.test('getStats should handle chapters without vocabulary', () => {
 runner.test('load should restore progress from localStorage', () => {
   resetState();
   localStorage.setItem('mnn_vocab_progress', JSON.stringify(['ch01_001', 'ch01_002']));
-  localStorage.setItem('mnn_kanji_progress', JSON.stringify(['ch01_001']));
+  localStorage.setItem('mnn_kanji_progress', JSON.stringify(['私'])); // kanji text, not vocab ID
 
   progressTracker.load();
 
   assert(progressTracker.isVocabMemorized('ch01_001'), 'Vocab ch01_001 should be memorized');
   assert(progressTracker.isVocabMemorized('ch01_002'), 'Vocab ch01_002 should be memorized');
-  assert(progressTracker.isKanjiMemorized('ch01_001'), 'Kanji ch01_001 should be memorized');
+  assert(progressTracker.isKanjiMemorized('ch01_001'), 'Kanji 私 should be memorized');
 });
 
 runner.test('load should handle corrupted vocab data', () => {
@@ -237,18 +266,21 @@ runner.test('load should handle missing localStorage data', () => {
   assertEqual(progressTracker.kanjiMemorized.size, 0, 'Should have 0 kanji memorized');
 });
 
-runner.test('save should persist progress to localStorage', () => {
+runner.test('save should persist progress to localStorage', async () => {
   resetState();
   progressTracker.vocabMemorized.add('ch01_001');
-  progressTracker.kanjiMemorized.add('ch01_001');
+  progressTracker.kanjiMemorized.add('私'); // kanji text, not vocab ID
   
   progressTracker.save();
+
+  // Wait for debounced save (100ms + buffer)
+  await new Promise(resolve => setTimeout(resolve, 150));
 
   const vocabStored = JSON.parse(localStorage.getItem('mnn_vocab_progress'));
   const kanjiStored = JSON.parse(localStorage.getItem('mnn_kanji_progress'));
 
   assertContains(vocabStored, 'ch01_001', 'Vocab should be in localStorage');
-  assertContains(kanjiStored, 'ch01_001', 'Kanji should be in localStorage');
+  assertContains(kanjiStored, '私', 'Kanji text should be in localStorage');
 });
 
 runner.test('save should handle localStorage quota exceeded', () => {
@@ -285,11 +317,14 @@ runner.test('save should handle localStorage unavailable', () => {
   localStorage.setItem = originalSetItem;
 });
 
-runner.test('integration: should persist and restore state across load/save cycles', () => {
+runner.test('integration: should persist and restore state across load/save cycles', async () => {
   resetState();
   progressTracker.markVocabMemorized('ch01_001');
   progressTracker.markVocabMemorized('ch01_002');
-  progressTracker.markKanjiMemorized('ch01_001');
+  progressTracker.markKanjiMemorized('ch01_001'); // marks kanji '私'
+
+  // Wait for debounced save
+  await new Promise(resolve => setTimeout(resolve, 150));
 
   // Simulate page reload
   const vocabData = localStorage.getItem('mnn_vocab_progress');
@@ -302,7 +337,7 @@ runner.test('integration: should persist and restore state across load/save cycl
 
   assert(progressTracker.isVocabMemorized('ch01_001'), 'Vocab ch01_001 should persist');
   assert(progressTracker.isVocabMemorized('ch01_002'), 'Vocab ch01_002 should persist');
-  assert(progressTracker.isKanjiMemorized('ch01_001'), 'Kanji ch01_001 should persist');
+  assert(progressTracker.isKanjiMemorized('ch01_001'), 'Kanji 私 should persist');
 });
 
 // Run all tests

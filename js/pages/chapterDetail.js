@@ -1,9 +1,10 @@
-import { fetchChapterData } from '../data.js';
+import { fetchChapterData, fetchAllChaptersData } from '../data.js';
 import { renderKotoba } from '../modules/kotoba.js';
 import { renderMateri } from '../modules/materi.js';
 import { renderConversation } from '../modules/conversation.js';
 import { renderFlashcard } from '../modules/flashcard.js';
 import { renderQuiz } from '../modules/quiz.js';
+import { progressTracker } from '../modules/progress.js';
 
 const TABS = [
   { key: 'kotoba',      label: 'Kotoba',       render: renderKotoba       },
@@ -73,10 +74,20 @@ async function renderChapterDetail(container, chapterId, activeTab) {
 
   showLoading(contentArea);
 
-  const chapterData = await fetchChapterData(chapterId);
+  // Fetch chapter data and all chapters data for progress tracking
+  const [chapterData, allChaptersData] = await Promise.all([
+    fetchChapterData(chapterId),
+    fetchAllChaptersData()
+  ]);
+  
   if (!chapterData) {
     showError(contentArea, () => renderChapterDetail(container, chapterId, activeTab));
     return;
+  }
+
+  // Set chapters data in progress tracker for kanji text lookup
+  if (allChaptersData && allChaptersData.length > 0) {
+    progressTracker.setChaptersData(allChaptersData);
   }
 
   // Update title

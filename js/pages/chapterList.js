@@ -85,6 +85,10 @@ async function renderChapterList(container) {
 
   // Fetch all chapters data and render progress statistics
   const allChaptersData = await fetchAllChaptersData();
+  
+  // Set chapters data in progress tracker for kanji text lookup
+  progressTracker.setChaptersData(allChaptersData);
+  
   renderProgressStats(progressSection, allChaptersData);
 
   renderChapterCards(chapterListArea, chapters);

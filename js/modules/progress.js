@@ -4,6 +4,8 @@
  * Persists state to localStorage
  */
 
+import { hasKanji } from '../utils.js';
+
 class ProgressTracker {
   constructor() {
     this.vocabMemorized = new Set();
@@ -14,7 +16,57 @@ class ProgressTracker {
     this.cachedTotals = null;
     // Batch localStorage updates
     this.saveTimeout = null;
+    // Reference to all chapters data for kanji text lookup
+    this.allChaptersData = null;
     this.load();
+  }
+
+  /**
+   * Set reference to all chapters data for kanji text lookup
+   * @param {import('../data.js').ChapterData[]} allChaptersData - All chapter data
+   */
+  setChaptersData(allChaptersData) {
+    if (!Array.isArray(allChaptersData)) {
+      console.error('Invalid allChaptersData: not an array', allChaptersData);
+      this.allChaptersData = null;
+      return;
+    }
+    this.allChaptersData = allChaptersData;
+  }
+
+  /**
+   * Get vocabulary item by ID from all chapters data
+   * @private
+   * @param {string} vocabId - Vocabulary ID (e.g., "ch01_001")
+   * @returns {Object|null} Vocabulary item or null if not found
+   */
+  _getVocabById(vocabId) {
+    if (!this.allChaptersData || !Array.isArray(this.allChaptersData)) {
+      return null;
+    }
+
+    for (const chapterData of this.allChaptersData) {
+      if (chapterData && Array.isArray(chapterData.vocabulary)) {
+        const vocab = chapterData.vocabulary.find(v => v && v.id === vocabId);
+        if (vocab) {
+          return vocab;
+        }
+      }
+    }
+    return null;
+  }
+
+  /**
+   * Extract kanji text from vocabulary item
+   * @private
+   * @param {Object} vocab - Vocabulary item
+   * @returns {string} Kanji text or empty string
+   */
+  _extractKanjiText(vocab) {
+    if (!vocab || !vocab.kanji || typeof vocab.kanji !== 'string') {
+      return '';
+    }
+    return vocab.kanji;
   }
 
   /**
@@ -40,7 +92,23 @@ class ProgressTracker {
    * @param {string} vocabId - Vocabulary ID
    */
   markKanjiMemorized(vocabId) {
-    this.kanjiMemorized.add(vocabId);
+    // Look up vocabulary item by ID
+    const vocab = this._getVocabById(vocabId);
+    if (!vocab) {
+      console.warn(`Vocabulary item not found: ${vocabId}`);
+      return;
+    }
+
+    // Extract kanji text
+    const kanjiText = this._extractKanjiText(vocab);
+    
+    // If no kanji or no actual kanji characters, return early
+    if (!kanjiText || !hasKanji(kanjiText)) {
+      return;
+    }
+
+    // Add kanji text to memorized set
+    this.kanjiMemorized.add(kanjiText);
     this.save();
   }
 
@@ -49,7 +117,23 @@ class ProgressTracker {
    * @param {string} vocabId - Vocabulary ID
    */
   markKanjiForgotten(vocabId) {
-    this.kanjiMemorized.delete(vocabId);
+    // Look up vocabulary item by ID
+    const vocab = this._getVocabById(vocabId);
+    if (!vocab) {
+      console.warn(`Vocabulary item not found: ${vocabId}`);
+      return;
+    }
+
+    // Extract kanji text
+    const kanjiText = this._extractKanjiText(vocab);
+    
+    // If no kanji or no actual kanji characters, return early
+    if (!kanjiText || !hasKanji(kanjiText)) {
+      return;
+    }
+
+    // Remove kanji text from memorized set
+    this.kanjiMemorized.delete(kanjiText);
     this.save();
   }
 
@@ -68,11 +152,26 @@ class ProgressTracker {
    * @returns {boolean}
    */
   isKanjiMemorized(vocabId) {
-    return this.kanjiMemorized.has(vocabId);
+    // Look up vocabulary item by ID
+    const vocab = this._getVocabById(vocabId);
+    if (!vocab) {
+      return false;
+    }
+
+    // Extract kanji text
+    const kanjiText = this._extractKanjiText(vocab);
+    
+    // If no kanji or no actual kanji characters, return false
+    if (!kanjiText || !hasKanji(kanjiText)) {
+      return false;
+    }
+
+    // Check if kanji text exists in memorized set
+    return this.kanjiMemorized.has(kanjiText);
   }
 
   /**
-   * Get overall statistics
+   * Get overall statistics with unique counting
    * @param {import('../data.js').ChapterData[]} allChaptersData - All chapter data
    * @returns {{
    *   vocab: { memorized: number, total: number, percentage: number },
@@ -98,13 +197,33 @@ class ProgressTracker {
         totalVocab = this.cachedTotals.vocab;
         totalKanji = this.cachedTotals.kanji;
       } else {
-        // Calculate and cache totals
+        // Calculate unique counts and cache totals
+        // Use Map to track unique vocabulary by kanji|kana combination
+        const uniqueVocabMap = new Map();
+        // Use Set to track unique kanji texts
+        const uniqueKanjiSet = new Set();
+        
         for (const chapterData of allChaptersData) {
           if (chapterData && Array.isArray(chapterData.vocabulary)) {
-            totalVocab += chapterData.vocabulary.length;
-            totalKanji += chapterData.vocabulary.filter(v => v && v.kanji && v.kanji !== '').length;
+            for (const vocab of chapterData.vocabulary) {
+              if (!vocab) continue;
+              
+              // Track unique vocabulary by kanji|kana combination
+              const vocabKey = `${vocab.kanji || ''}|${vocab.kana || ''}`;
+              if (!uniqueVocabMap.has(vocabKey)) {
+                uniqueVocabMap.set(vocabKey, vocab);
+              }
+              
+              // Track unique kanji texts (only actual kanji characters)
+              if (vocab.kanji && vocab.kanji !== '' && hasKanji(vocab.kanji)) {
+                uniqueKanjiSet.add(vocab.kanji);
+              }
+            }
           }
         }
+        
+        totalVocab = uniqueVocabMap.size;
+        totalKanji = uniqueKanjiSet.size;
         this.cachedTotals = { vocab: totalVocab, kanji: totalKanji };
       }
 

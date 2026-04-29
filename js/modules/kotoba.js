@@ -1,3 +1,5 @@
+import { progressTracker } from './progress.js';
+
 const wordClassColors = {
   'nomina':         'bg-blue-900/50 text-blue-300',
   'verba-I':        'bg-green-900/50 text-green-300',
@@ -26,6 +28,20 @@ function hasKanji(str) {
 function buildVocabCard(vocab) {
   const card = document.createElement('div');
   card.className = 'bg-slate-800 border border-slate-700 rounded-xl px-4 py-3 flex items-center gap-3';
+  card.style.position = 'relative';
+
+  // Check if kanji is memorized
+  const isMemorized = vocab.kanji && hasKanji(vocab.kanji) 
+    ? progressTracker.isKanjiMemorized(vocab.id)
+    : false;
+  
+  // Add memorization badge if memorized
+  if (isMemorized) {
+    const badge = document.createElement('span');
+    badge.className = 'absolute top-2 right-2 text-xs bg-green-900/60 text-green-400 px-2 py-0.5 rounded-full';
+    badge.textContent = '✓ Ingat';
+    card.appendChild(badge);
+  }
 
   // Left: Japanese
   const textBlock = document.createElement('div');
