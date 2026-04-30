@@ -250,7 +250,7 @@
     "id": "ch03_025",
     "chapterId": 3,
     "order": 25,
-    "kanji": "家",
+    "kanji": "うち",
     "kana": "うち",
     "romaji": "uchi",
     "wordClass": "nomina",
@@ -510,116 +510,6 @@
     "id": "ch03_051",
     "chapterId": 3,
     "order": 51,
-    "kanji": "上",
-    "kana": "うえ",
-    "romaji": "ue",
-    "wordClass": "nomina",
-    "meaning": "atas"
-  },
-  {
-    "id": "ch03_052",
-    "chapterId": 3,
-    "order": 52,
-    "kanji": "下",
-    "kana": "した",
-    "romaji": "shita",
-    "wordClass": "nomina",
-    "meaning": "bawah"
-  },
-  {
-    "id": "ch03_053",
-    "chapterId": 3,
-    "order": 53,
-    "kanji": "前",
-    "kana": "まえ",
-    "romaji": "mae",
-    "wordClass": "nomina",
-    "meaning": "depan"
-  },
-  {
-    "id": "ch03_054",
-    "chapterId": 3,
-    "order": 54,
-    "kanji": "後ろ",
-    "kana": "うしろ",
-    "romaji": "ushiro",
-    "wordClass": "nomina",
-    "meaning": "belakang"
-  },
-  {
-    "id": "ch03_055",
-    "chapterId": 3,
-    "order": 55,
-    "kanji": "右",
-    "kana": "みぎ",
-    "romaji": "migi",
-    "wordClass": "nomina",
-    "meaning": "kanan"
-  },
-  {
-    "id": "ch03_056",
-    "chapterId": 3,
-    "order": 56,
-    "kanji": "左",
-    "kana": "ひだり",
-    "romaji": "hidari",
-    "wordClass": "nomina",
-    "meaning": "kiri"
-  },
-  {
-    "id": "ch03_057",
-    "chapterId": 3,
-    "order": 57,
-    "kanji": "中",
-    "kana": "なか",
-    "romaji": "naka",
-    "wordClass": "nomina",
-    "meaning": "dalam/ di dalam"
-  },
-  {
-    "id": "ch03_058",
-    "chapterId": 3,
-    "order": 58,
-    "kanji": "外",
-    "kana": "そと",
-    "romaji": "soto",
-    "wordClass": "nomina",
-    "meaning": "luar/di luar"
-  },
-  {
-    "id": "ch03_059",
-    "chapterId": 3,
-    "order": 59,
-    "kanji": "隣",
-    "kana": "となり",
-    "romaji": "tonari",
-    "wordClass": "nomina",
-    "meaning": "sebelah/di sebelah"
-  },
-  {
-    "id": "ch03_060",
-    "chapterId": 3,
-    "order": 60,
-    "kanji": "近く",
-    "kana": "ちかく",
-    "romaji": "chikaku",
-    "wordClass": "nomina",
-    "meaning": "dekat/di dekat"
-  },
-  {
-    "id": "ch03_061",
-    "chapterId": 3,
-    "order": 61,
-    "kanji": "間",
-    "kana": "あいだ",
-    "romaji": "aida",
-    "wordClass": "nomina",
-    "meaning": "antara/di antara"
-  },
-  {
-    "id": "ch03_062",
-    "chapterId": 3,
-    "order": 62,
     "kanji": "レストラン",
     "kana": "レストラン",
     "romaji": "resutoran",
@@ -627,9 +517,9 @@
     "meaning": "restoran"
   },
   {
-    "id": "ch03_063",
+    "id": "ch03_052",
     "chapterId": 3,
-    "order": 63,
+    "order": 52,
     "kanji": "遊園地",
     "kana": "ゆうえんち",
     "romaji": "yuuenchi",
@@ -637,9 +527,9 @@
     "meaning": "tempat hiburan"
   },
   {
-    "id": "ch03_064",
+    "id": "ch03_053",
     "chapterId": 3,
-    "order": 64,
+    "order": 53,
     "kanji": "催し物会場",
     "kana": "もよおしものかいじょう",
     "romaji": "moyooshimono kaijou",
@@ -647,9 +537,9 @@
     "meaning": "tempat pertunjukan"
   },
   {
-    "id": "ch03_065",
+    "id": "ch03_054",
     "chapterId": 3,
-    "order": 65,
+    "order": 54,
     "kanji": "眼鏡",
     "kana": "めがね",
     "romaji": "megane",
@@ -657,9 +547,9 @@
     "meaning": "kacamata"
   },
   {
-    "id": "ch03_066",
+    "id": "ch03_055",
     "chapterId": 3,
-    "order": 66,
+    "order": 55,
     "kanji": "スポーツ用品",
     "kana": "スポーツようひん",
     "romaji": "supootsu youhin",
@@ -667,9 +557,9 @@
     "meaning": "peralatan olahraga"
   },
   {
-    "id": "ch03_067",
+    "id": "ch03_056",
     "chapterId": 3,
-    "order": 67,
+    "order": 56,
     "kanji": "旅行用品",
     "kana": "りょこうようひん",
     "romaji": "ryokou youhin",
@@ -677,9 +567,9 @@
     "meaning": "peralatan wisata"
   },
   {
-    "id": "ch03_068",
+    "id": "ch03_057",
     "chapterId": 3,
-    "order": 68,
+    "order": 57,
     "kanji": "子供服",
     "kana": "こどもふく",
     "romaji": "kodomofuku",
@@ -687,9 +577,9 @@
     "meaning": "pakaian anak"
   },
   {
-    "id": "ch03_069",
+    "id": "ch03_058",
     "chapterId": 3,
-    "order": 69,
+    "order": 58,
     "kanji": "おもちゃ",
     "kana": "おもちゃ",
     "romaji": "omocha",
@@ -697,9 +587,9 @@
     "meaning": "mainan"
   },
   {
-    "id": "ch03_070",
+    "id": "ch03_059",
     "chapterId": 3,
-    "order": 70,
+    "order": 59,
     "kanji": "文房具",
     "kana": "ぶんぼうぐ",
     "romaji": "bunbougu",
@@ -707,19 +597,19 @@
     "meaning": "alat tulis"
   },
   {
-    "id": "ch03_071",
+    "id": "ch03_060",
     "chapterId": 3,
-    "order": 71,
-    "kanji": "家具",
-    "kana": "かぐ",
-    "romaji": "kagu",
+    "order": 60,
+    "kanji": "日用品",
+    "kana": "にちようひん",
+    "romaji": "nichiyouhin",
     "wordClass": "nomina",
-    "meaning": "perabotan rumah tangga"
+    "meaning": "perlengkapan rumah tangga"
   },
   {
-    "id": "ch03_072",
+    "id": "ch03_061",
     "chapterId": 3,
-    "order": 72,
+    "order": 61,
     "kanji": "食器",
     "kana": "しょっき",
     "romaji": "shokki",
@@ -727,9 +617,9 @@
     "meaning": "peralatan makan"
   },
   {
-    "id": "ch03_073",
+    "id": "ch03_062",
     "chapterId": 3,
-    "order": 73,
+    "order": 62,
     "kanji": "電化製品",
     "kana": "でんかせいひん",
     "romaji": "denkaseihin",
@@ -737,9 +627,9 @@
     "meaning": "barang elektronik"
   },
   {
-    "id": "ch03_074",
+    "id": "ch03_063",
     "chapterId": 3,
-    "order": 74,
+    "order": 63,
     "kanji": "紳士服",
     "kana": "しんしふく",
     "romaji": "shinshifuku",
@@ -747,9 +637,9 @@
     "meaning": "pakaian pria"
   },
   {
-    "id": "ch03_075",
+    "id": "ch03_064",
     "chapterId": 3,
-    "order": 75,
+    "order": 64,
     "kanji": "婦人服",
     "kana": "ふじんふく",
     "romaji": "fujinfuku",
@@ -757,34 +647,24 @@
     "meaning": "pakaian wanita"
   },
   {
-    "id": "ch03_076",
+    "id": "ch03_065",
     "chapterId": 3,
-    "order": 76,
+    "order": 65,
     "kanji": "アクセサリー",
     "kana": "アクセサリー",
     "romaji": "akusesarii",
     "wordClass": "nomina",
-    "meaning": "perhiasan,aksesoris"
+    "meaning": "perhiasan, aksesoris"
   },
   {
-    "id": "ch03_077",
+    "id": "ch03_066",
     "chapterId": 3,
-    "order": 77,
+    "order": 66,
     "kanji": "化粧品",
     "kana": "けしょうひん",
     "romaji": "keshouhin",
     "wordClass": "nomina",
     "meaning": "kosmetik"
-  },
-  {
-    "id": "ch03_078",
-    "chapterId": 3,
-    "order": 78,
-    "kanji": "食料品",
-    "kana": "しょくりょうひん",
-    "romaji": "shokuryouhin",
-    "wordClass": "nomina",
-    "meaning": "makanan"
   }
 ],
   "conversations": [

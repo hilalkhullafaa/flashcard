@@ -6,32 +6,557 @@
     "titleId": "Saya bisa sedikit berbicara bahasa Jepang"
   },
   "vocabulary": [
-    { "id": "ch10_001", "chapterId": 10, "order": 1, "kanji": "話します", "kana": "はなします", "romaji": "hanashimasu", "wordClass": "verba-I", "meaning": "berbicara" },
-    { "id": "ch10_002", "chapterId": 10, "order": 2, "kanji": "読みます", "kana": "よみます", "romaji": "yomimasu", "wordClass": "verba-I", "meaning": "membaca" },
-    { "id": "ch10_003", "chapterId": 10, "order": 3, "kanji": "書きます", "kana": "かきます", "romaji": "kakimasu", "wordClass": "verba-I", "meaning": "menulis" },
-    { "id": "ch10_004", "chapterId": 10, "order": 4, "kanji": "分かります", "kana": "わかります", "romaji": "wakarimasu", "wordClass": "verba-I", "meaning": "mengerti; memahami" },
-    { "id": "ch10_005", "chapterId": 10, "order": 5, "kanji": "出来ます", "kana": "できます", "romaji": "dekimasu", "wordClass": "verba-II", "meaning": "bisa; mampu" },
-    { "id": "ch10_006", "chapterId": 10, "order": 6, "kanji": "運転します", "kana": "うんてんします", "romaji": "unten shimasu", "wordClass": "verba-III", "meaning": "mengemudi" },
-    { "id": "ch10_007", "chapterId": 10, "order": 7, "kanji": "料理します", "kana": "りょうりします", "romaji": "ryouri shimasu", "wordClass": "verba-III", "meaning": "memasak" },
-    { "id": "ch10_008", "chapterId": 10, "order": 8, "kanji": "歌います", "kana": "うたいます", "romaji": "utaimasu", "wordClass": "verba-I", "meaning": "bernyanyi" },
-    { "id": "ch10_009", "chapterId": 10, "order": 9, "kanji": "弾きます", "kana": "ひきます", "romaji": "hikimasu", "wordClass": "verba-I", "meaning": "memainkan (alat musik berdawai/keyboard)" },
-    { "id": "ch10_010", "chapterId": 10, "order": 10, "kanji": "吹きます", "kana": "ふきます", "romaji": "fukimasu", "wordClass": "verba-I", "meaning": "memainkan (alat musik tiup)" },
-    { "id": "ch10_011", "chapterId": 10, "order": 11, "kanji": "日本語", "kana": "にほんご", "romaji": "nihongo", "wordClass": "nomina", "meaning": "bahasa Jepang" },
-    { "id": "ch10_012", "chapterId": 10, "order": 12, "kanji": "英語", "kana": "えいご", "romaji": "eigo", "wordClass": "nomina", "meaning": "bahasa Inggris" },
-    { "id": "ch10_013", "chapterId": 10, "order": 13, "kanji": "中国語", "kana": "ちゅうごくご", "romaji": "chuugokugo", "wordClass": "nomina", "meaning": "bahasa Mandarin/Tionghoa" },
-    { "id": "ch10_014", "chapterId": 10, "order": 14, "kanji": "漢字", "kana": "かんじ", "romaji": "kanji", "wordClass": "nomina", "meaning": "huruf kanji" },
-    { "id": "ch10_015", "chapterId": 10, "order": 15, "kanji": "平仮名", "kana": "ひらがな", "romaji": "hiragana", "wordClass": "nomina", "meaning": "huruf hiragana" },
-    { "id": "ch10_016", "chapterId": 10, "order": 16, "kanji": "片仮名", "kana": "カタカナ", "romaji": "katakana", "wordClass": "nomina", "meaning": "huruf katakana" },
-    { "id": "ch10_017", "chapterId": 10, "order": 17, "kanji": "ピアノ", "kana": "ピアノ", "romaji": "piano", "wordClass": "nomina", "meaning": "piano" },
-    { "id": "ch10_018", "chapterId": 10, "order": 18, "kanji": "ギター", "kana": "ギター", "romaji": "gitaa", "wordClass": "nomina", "meaning": "gitar" },
-    { "id": "ch10_019", "chapterId": 10, "order": 19, "kanji": "バイオリン", "kana": "バイオリン", "romaji": "baiorin", "wordClass": "nomina", "meaning": "biola" },
-    { "id": "ch10_020", "chapterId": 10, "order": 20, "kanji": "少し", "kana": "すこし", "romaji": "sukoshi", "wordClass": "adverbia", "meaning": "sedikit" },
-    { "id": "ch10_021", "chapterId": 10, "order": 21, "kanji": "全然", "kana": "ぜんぜん", "romaji": "zenzen", "wordClass": "adverbia", "meaning": "sama sekali (tidak)" },
-    { "id": "ch10_022", "chapterId": 10, "order": 22, "kanji": "上手", "kana": "じょうず", "romaji": "jouzu", "wordClass": "adjektiva-na", "meaning": "pandai; mahir" },
-    { "id": "ch10_023", "chapterId": 10, "order": 23, "kanji": "下手", "kana": "へた", "romaji": "heta", "wordClass": "adjektiva-na", "meaning": "tidak pandai; kurang mahir" },
-    { "id": "ch10_024", "chapterId": 10, "order": 24, "kanji": "得意", "kana": "とくい", "romaji": "tokui", "wordClass": "adjektiva-na", "meaning": "pandai; ahli (dalam hal yang disukai)" },
-    { "id": "ch10_025", "chapterId": 10, "order": 25, "kanji": "苦手", "kana": "にがて", "romaji": "nigate", "wordClass": "adjektiva-na", "meaning": "tidak pandai; tidak suka (dalam hal tertentu)" }
-  ],
+  {
+    "id": "ch10_001",
+    "chapterId": 10,
+    "order": 1,
+    "kanji": "あります",
+    "kana": "あります",
+    "romaji": "arimasu",
+    "wordClass": "verba",
+    "meaning": "ada (benda mati)"
+  },
+  {
+    "id": "ch10_002",
+    "chapterId": 10,
+    "order": 2,
+    "kanji": "います",
+    "kana": "います",
+    "romaji": "imasu",
+    "wordClass": "verba",
+    "meaning": "ada (benda hidup)"
+  },
+  {
+    "id": "ch10_003",
+    "chapterId": 10,
+    "order": 3,
+    "kanji": "色々",
+    "kana": "いろいろ",
+    "romaji": "iroiro",
+    "wordClass": "adjektiva-na",
+    "meaning": "berbagai, macam-macam"
+  },
+  {
+    "id": "ch10_004",
+    "chapterId": 10,
+    "order": 4,
+    "kanji": "男の人",
+    "kana": "おとこのひと",
+    "romaji": "otoko no hito",
+    "wordClass": "nomina",
+    "meaning": "orang laki-laki"
+  },
+  {
+    "id": "ch10_005",
+    "chapterId": 10,
+    "order": 5,
+    "kanji": "女の人",
+    "kana": "おんなのひと",
+    "romaji": "onna no hito",
+    "wordClass": "nomina",
+    "meaning": "orang perempuan"
+  },
+  {
+    "id": "ch10_006",
+    "chapterId": 10,
+    "order": 6,
+    "kanji": "男の子",
+    "kana": "おとこのこ",
+    "romaji": "otoko no ko",
+    "wordClass": "nomina",
+    "meaning": "anak laki-laki"
+  },
+  {
+    "id": "ch10_007",
+    "chapterId": 10,
+    "order": 7,
+    "kanji": "女の子",
+    "kana": "おんなのこ",
+    "romaji": "onna no ko",
+    "wordClass": "nomina",
+    "meaning": "anak perempuan"
+  },
+  {
+    "id": "ch10_008",
+    "chapterId": 10,
+    "order": 8,
+    "kanji": "犬",
+    "kana": "いぬ",
+    "romaji": "inu",
+    "wordClass": "nomina",
+    "meaning": "anjing"
+  },
+  {
+    "id": "ch10_009",
+    "chapterId": 10,
+    "order": 9,
+    "kanji": "猫",
+    "kana": "ねこ",
+    "romaji": "neko",
+    "wordClass": "nomina",
+    "meaning": "kucing"
+  },
+  {
+    "id": "ch10_010",
+    "chapterId": 10,
+    "order": 10,
+    "kanji": "パンダ",
+    "kana": "パンダ",
+    "romaji": "panda",
+    "wordClass": "nomina",
+    "meaning": "panda"
+  },
+  {
+    "id": "ch10_011",
+    "chapterId": 10,
+    "order": 11,
+    "kanji": "象",
+    "kana": "ぞう",
+    "romaji": "zou",
+    "wordClass": "nomina",
+    "meaning": "gajah"
+  },
+  {
+    "id": "ch10_012",
+    "chapterId": 10,
+    "order": 12,
+    "kanji": "木",
+    "kana": "き",
+    "romaji": "ki",
+    "wordClass": "nomina",
+    "meaning": "pohon"
+  },
+  {
+    "id": "ch10_013",
+    "chapterId": 10,
+    "order": 13,
+    "kanji": "物",
+    "kana": "もの",
+    "romaji": "mono",
+    "wordClass": "nomina",
+    "meaning": "barang"
+  },
+  {
+    "id": "ch10_014",
+    "chapterId": 10,
+    "order": 14,
+    "kanji": "電池",
+    "kana": "でんち",
+    "romaji": "denchi",
+    "wordClass": "nomina",
+    "meaning": "baterai"
+  },
+  {
+    "id": "ch10_015",
+    "chapterId": 10,
+    "order": 15,
+    "kanji": "箱",
+    "kana": "はこ",
+    "romaji": "hako",
+    "wordClass": "nomina",
+    "meaning": "kotak"
+  },
+  {
+    "id": "ch10_016",
+    "chapterId": 10,
+    "order": 16,
+    "kanji": "スイッチ",
+    "kana": "スイッチ",
+    "romaji": "suicchi",
+    "wordClass": "nomina",
+    "meaning": "tombol, sekalar"
+  },
+  {
+    "id": "ch10_017",
+    "chapterId": 10,
+    "order": 17,
+    "kanji": "冷蔵庫",
+    "kana": "れいぞうこ",
+    "romaji": "reizouko",
+    "wordClass": "nomina",
+    "meaning": "kulkas, lemari es"
+  },
+  {
+    "id": "ch10_018",
+    "chapterId": 10,
+    "order": 18,
+    "kanji": "テーブル",
+    "kana": "テーブル",
+    "romaji": "teeburu",
+    "wordClass": "nomina",
+    "meaning": "meja makan"
+  },
+  {
+    "id": "ch10_019",
+    "chapterId": 10,
+    "order": 19,
+    "kanji": "ベッド",
+    "kana": "ベッド",
+    "romaji": "beddo",
+    "wordClass": "nomina",
+    "meaning": "tempat tidur"
+  },
+  {
+    "id": "ch10_020",
+    "chapterId": 10,
+    "order": 20,
+    "kanji": "棚",
+    "kana": "たな",
+    "romaji": "tana",
+    "wordClass": "nomina",
+    "meaning": "lemari"
+  },
+  {
+    "id": "ch10_021",
+    "chapterId": 10,
+    "order": 21,
+    "kanji": "ドア",
+    "kana": "ドア",
+    "romaji": "doa",
+    "wordClass": "nomina",
+    "meaning": "pintu"
+  },
+  {
+    "id": "ch10_022",
+    "chapterId": 10,
+    "order": 22,
+    "kanji": "窓",
+    "kana": "まど",
+    "romaji": "mado",
+    "wordClass": "nomina",
+    "meaning": "jendela"
+  },
+  {
+    "id": "ch10_023",
+    "chapterId": 10,
+    "order": 23,
+    "kanji": "ポスト",
+    "kana": "ポスト",
+    "romaji": "posuto",
+    "wordClass": "nomina",
+    "meaning": "kotak surat"
+  },
+  {
+    "id": "ch10_024",
+    "chapterId": 10,
+    "order": 24,
+    "kanji": "ビル",
+    "kana": "ビル",
+    "romaji": "biru",
+    "wordClass": "nomina",
+    "meaning": "gedung"
+  },
+  {
+    "id": "ch10_025",
+    "chapterId": 10,
+    "order": 25,
+    "kanji": "ATM",
+    "kana": "エーティーエム",
+    "romaji": "eetiiemu",
+    "wordClass": "nomina",
+    "meaning": "ATM, anjungan tunai mandiri"
+  },
+  {
+    "id": "ch10_026",
+    "chapterId": 10,
+    "order": 26,
+    "kanji": "コンビニ",
+    "kana": "コンビニ",
+    "romaji": "konbini",
+    "wordClass": "nomina",
+    "meaning": "toko 24 jam"
+  },
+  {
+    "id": "ch10_027",
+    "chapterId": 10,
+    "order": 27,
+    "kanji": "公園",
+    "kana": "こうえん",
+    "romaji": "kouen",
+    "wordClass": "nomina",
+    "meaning": "taman"
+  },
+  {
+    "id": "ch10_028",
+    "chapterId": 10,
+    "order": 28,
+    "kanji": "喫茶店",
+    "kana": "きっさてん",
+    "romaji": "kissaten",
+    "wordClass": "nomina",
+    "meaning": "coffee shop, cafe"
+  },
+  {
+    "id": "ch10_029",
+    "chapterId": 10,
+    "order": 29,
+    "kanji": "～屋",
+    "kana": "～や",
+    "romaji": "~ya",
+    "wordClass": "sufiks",
+    "meaning": "toko~"
+  },
+  {
+    "id": "ch10_030",
+    "chapterId": 10,
+    "order": 30,
+    "kanji": "乗り場",
+    "kana": "のりば",
+    "romaji": "noriba",
+    "wordClass": "nomina",
+    "meaning": "tempat naik"
+  },
+  {
+    "id": "ch10_031",
+    "chapterId": 10,
+    "order": 31,
+    "kanji": "県",
+    "kana": "けん",
+    "romaji": "ken",
+    "wordClass": "nomina",
+    "meaning": "prefektur, provinsi"
+  },
+  {
+    "id": "ch10_032",
+    "chapterId": 10,
+    "order": 32,
+    "kanji": "上",
+    "kana": "うえ",
+    "romaji": "ue",
+    "wordClass": "nomina",
+    "meaning": "atas"
+  },
+  {
+    "id": "ch10_033",
+    "chapterId": 10,
+    "order": 33,
+    "kanji": "下",
+    "kana": "した",
+    "romaji": "shita",
+    "wordClass": "nomina",
+    "meaning": "bawah"
+  },
+  {
+    "id": "ch10_034",
+    "chapterId": 10,
+    "order": 34,
+    "kanji": "前",
+    "kana": "まえ",
+    "romaji": "mae",
+    "wordClass": "nomina",
+    "meaning": "depan"
+  },
+  {
+    "id": "ch10_035",
+    "chapterId": 10,
+    "order": 35,
+    "kanji": "後ろ",
+    "kana": "うしろ",
+    "romaji": "ushiro",
+    "wordClass": "nomina",
+    "meaning": "belakang"
+  },
+  {
+    "id": "ch10_036",
+    "chapterId": 10,
+    "order": 36,
+    "kanji": "右",
+    "kana": "みぎ",
+    "romaji": "migi",
+    "wordClass": "nomina",
+    "meaning": "kanan"
+  },
+  {
+    "id": "ch10_037",
+    "chapterId": 10,
+    "order": 37,
+    "kanji": "左",
+    "kana": "ひだり",
+    "romaji": "hidari",
+    "wordClass": "nomina",
+    "meaning": "kiri"
+  },
+  {
+    "id": "ch10_038",
+    "chapterId": 10,
+    "order": 38,
+    "kanji": "中",
+    "kana": "なか",
+    "romaji": "naka",
+    "wordClass": "nomina",
+    "meaning": "dalam"
+  },
+  {
+    "id": "ch10_039",
+    "chapterId": 10,
+    "order": 39,
+    "kanji": "外",
+    "kana": "そと",
+    "romaji": "soto",
+    "wordClass": "nomina",
+    "meaning": "luar"
+  },
+  {
+    "id": "ch10_040",
+    "chapterId": 10,
+    "order": 40,
+    "kanji": "隣",
+    "kana": "となり",
+    "romaji": "tonari",
+    "wordClass": "nomina",
+    "meaning": "sebelah, samping"
+  },
+  {
+    "id": "ch10_041",
+    "chapterId": 10,
+    "order": 41,
+    "kanji": "近く",
+    "kana": "ちかく",
+    "romaji": "chikaku",
+    "wordClass": "nomina",
+    "meaning": "dekat"
+  },
+  {
+    "id": "ch10_042",
+    "chapterId": 10,
+    "order": 42,
+    "kanji": "間",
+    "kana": "あいだ",
+    "romaji": "aida",
+    "wordClass": "nomina",
+    "meaning": "antara"
+  },
+  {
+    "id": "ch10_043",
+    "chapterId": 10,
+    "order": 43,
+    "kanji": "～や～［など］",
+    "kana": "～や～［など］",
+    "romaji": "~ya~[nado]",
+    "wordClass": "partikel",
+    "meaning": "~dan~ [dan lain-lain]"
+  },
+  {
+    "id": "ch10_044",
+    "chapterId": 10,
+    "order": 44,
+    "kanji": "［どうも］すみません",
+    "kana": "［どうも］すみません",
+    "romaji": "[doumo] sumimasen",
+    "wordClass": "ungkapan",
+    "meaning": "terima kasih banyak (atas bantuannya) / maaf merepotkan"
+  },
+  {
+    "id": "ch10_045",
+    "chapterId": 10,
+    "order": 45,
+    "kanji": "ナンプラー",
+    "kana": "ナンプラー",
+    "romaji": "nanpuraa",
+    "wordClass": "nomina",
+    "meaning": "kecap ikan"
+  },
+  {
+    "id": "ch10_046",
+    "chapterId": 10,
+    "order": 46,
+    "kanji": "コーナー",
+    "kana": "コーナー",
+    "romaji": "koonaa",
+    "wordClass": "nomina",
+    "meaning": "tempat, bagian penjualan"
+  },
+  {
+    "id": "ch10_047",
+    "chapterId": 10,
+    "order": 47,
+    "kanji": "一番下",
+    "kana": "いちばんした",
+    "romaji": "ichiban shita",
+    "wordClass": "nomina",
+    "meaning": "paling bawah"
+  },
+  {
+    "id": "ch10_048",
+    "chapterId": 10,
+    "order": 48,
+    "kanji": "玄関",
+    "kana": "げんかん",
+    "romaji": "genkan",
+    "wordClass": "nomina",
+    "meaning": "pintu masuk"
+  },
+  {
+    "id": "ch10_049",
+    "chapterId": 10,
+    "order": 49,
+    "kanji": "風呂場",
+    "kana": "ふろば",
+    "romaji": "furoba",
+    "wordClass": "nomina",
+    "meaning": "kamar mandi"
+  },
+  {
+    "id": "ch10_050",
+    "chapterId": 10,
+    "order": 50,
+    "kanji": "洗面所",
+    "kana": "せんめんじょ",
+    "romaji": "senmenjo",
+    "wordClass": "nomina",
+    "meaning": "tempat cuci tangan"
+  },
+  {
+    "id": "ch10_051",
+    "chapterId": 10,
+    "order": 51,
+    "kanji": "台所",
+    "kana": "だいどころ",
+    "romaji": "daidokoro",
+    "wordClass": "nomina",
+    "meaning": "dapur"
+  },
+  {
+    "id": "ch10_052",
+    "chapterId": 10,
+    "order": 52,
+    "kanji": "居間",
+    "kana": "いま",
+    "romaji": "ima",
+    "wordClass": "nomina",
+    "meaning": "ruang tamu"
+  },
+  {
+    "id": "ch10_053",
+    "chapterId": 10,
+    "order": 53,
+    "kanji": "寝室",
+    "kana": "しんしつ",
+    "romaji": "shinshitsu",
+    "wordClass": "nomina",
+    "meaning": "kamar tidur"
+  },
+  {
+    "id": "ch10_054",
+    "chapterId": 10,
+    "order": 54,
+    "kanji": "廊下",
+    "kana": "ろうか",
+    "romaji": "rouka",
+    "wordClass": "nomina",
+    "meaning": "koridor"
+  },
+  {
+    "id": "ch10_055",
+    "chapterId": 10,
+    "order": 55,
+    "kanji": "ベランダ",
+    "kana": "ベランダ",
+    "romaji": "beranda",
+    "wordClass": "nomina",
+    "meaning": "teras"
+  }
+],
   "conversations": [
     {
       "id": "ch10_conv01",

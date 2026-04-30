@@ -6,31 +6,507 @@
     "titleId": "Kapan ulang tahun Anda?"
   },
   "vocabulary": [
-    { "id": "ch09_001", "chapterId": 9, "order": 1, "kanji": "〜月", "kana": "〜がつ", "romaji": "~gatsu", "wordClass": "sufiks", "meaning": "bulan ke-~" },
-    { "id": "ch09_002", "chapterId": 9, "order": 2, "kanji": "〜日", "kana": "〜にち", "romaji": "~nichi", "wordClass": "sufiks", "meaning": "tanggal ke-~" },
-    { "id": "ch09_003", "chapterId": 9, "order": 3, "kanji": "一日", "kana": "ついたち", "romaji": "tsuitachi", "wordClass": "nomina", "meaning": "tanggal 1" },
-    { "id": "ch09_004", "chapterId": 9, "order": 4, "kanji": "二日", "kana": "ふつか", "romaji": "futsuka", "wordClass": "nomina", "meaning": "tanggal 2" },
-    { "id": "ch09_005", "chapterId": 9, "order": 5, "kanji": "三日", "kana": "みっか", "romaji": "mikka", "wordClass": "nomina", "meaning": "tanggal 3" },
-    { "id": "ch09_006", "chapterId": 9, "order": 6, "kanji": "四日", "kana": "よっか", "romaji": "yokka", "wordClass": "nomina", "meaning": "tanggal 4" },
-    { "id": "ch09_007", "chapterId": 9, "order": 7, "kanji": "五日", "kana": "いつか", "romaji": "itsuka", "wordClass": "nomina", "meaning": "tanggal 5" },
-    { "id": "ch09_008", "chapterId": 9, "order": 8, "kanji": "六日", "kana": "むいか", "romaji": "muika", "wordClass": "nomina", "meaning": "tanggal 6" },
-    { "id": "ch09_009", "chapterId": 9, "order": 9, "kanji": "七日", "kana": "なのか", "romaji": "nanoka", "wordClass": "nomina", "meaning": "tanggal 7" },
-    { "id": "ch09_010", "chapterId": 9, "order": 10, "kanji": "八日", "kana": "ようか", "romaji": "youka", "wordClass": "nomina", "meaning": "tanggal 8" },
-    { "id": "ch09_011", "chapterId": 9, "order": 11, "kanji": "九日", "kana": "ここのか", "romaji": "kokonoka", "wordClass": "nomina", "meaning": "tanggal 9" },
-    { "id": "ch09_012", "chapterId": 9, "order": 12, "kanji": "十日", "kana": "とおか", "romaji": "tooka", "wordClass": "nomina", "meaning": "tanggal 10" },
-    { "id": "ch09_013", "chapterId": 9, "order": 13, "kanji": "十四日", "kana": "じゅうよっか", "romaji": "juuyokka", "wordClass": "nomina", "meaning": "tanggal 14" },
-    { "id": "ch09_014", "chapterId": 9, "order": 14, "kanji": "二十日", "kana": "はつか", "romaji": "hatsuka", "wordClass": "nomina", "meaning": "tanggal 20" },
-    { "id": "ch09_015", "chapterId": 9, "order": 15, "kanji": "二十四日", "kana": "にじゅうよっか", "romaji": "nijuuyokka", "wordClass": "nomina", "meaning": "tanggal 24" },
-    { "id": "ch09_016", "chapterId": 9, "order": 16, "kanji": "誕生日", "kana": "たんじょうび", "romaji": "tanjoubi", "wordClass": "nomina", "meaning": "ulang tahun" },
-    { "id": "ch09_017", "chapterId": 9, "order": 17, "kanji": "〜年", "kana": "〜ねん", "romaji": "~nen", "wordClass": "sufiks", "meaning": "tahun ke-~" },
-    { "id": "ch09_018", "chapterId": 9, "order": 18, "kanji": "何日", "kana": "なんにち", "romaji": "nannichi", "wordClass": "nomina", "meaning": "tanggal berapa" },
-    { "id": "ch09_019", "chapterId": 9, "order": 19, "kanji": "何月", "kana": "なんがつ", "romaji": "nangatsu", "wordClass": "nomina", "meaning": "bulan apa" },
-    { "id": "ch09_020", "chapterId": 9, "order": 20, "kanji": "今年", "kana": "ことし", "romaji": "kotoshi", "wordClass": "nomina", "meaning": "tahun ini" },
-    { "id": "ch09_021", "chapterId": 9, "order": 21, "kanji": "来年", "kana": "らいねん", "romaji": "rainen", "wordClass": "nomina", "meaning": "tahun depan" },
-    { "id": "ch09_022", "chapterId": 9, "order": 22, "kanji": "去年", "kana": "きょねん", "romaji": "kyonen", "wordClass": "nomina", "meaning": "tahun lalu" },
-    { "id": "ch09_023", "chapterId": 9, "order": 23, "kanji": "おめでとうございます", "kana": "おめでとうございます", "romaji": "omedetou gozaimasu", "wordClass": "ekspresi", "meaning": "selamat" },
-    { "id": "ch09_024", "chapterId": 9, "order": 24, "kanji": "ありがとうございます", "kana": "ありがとうございます", "romaji": "arigatou gozaimasu", "wordClass": "ekspresi", "meaning": "terima kasih" }
-  ],
+  {
+    "id": "ch09_001",
+    "chapterId": 9,
+    "order": 1,
+    "kanji": "分かります",
+    "kana": "わかります",
+    "romaji": "wakarimasu",
+    "wordClass": "verba",
+    "meaning": "mengerti"
+  },
+  {
+    "id": "ch09_002",
+    "chapterId": 9,
+    "order": 2,
+    "kanji": "あります",
+    "kana": "あります",
+    "romaji": "arimasu",
+    "wordClass": "verba",
+    "meaning": "ada, mempunyai"
+  },
+  {
+    "id": "ch09_003",
+    "chapterId": 9,
+    "order": 3,
+    "kanji": "好き",
+    "kana": "すき",
+    "romaji": "suki",
+    "wordClass": "adjektiva-na",
+    "meaning": "suka, gemar"
+  },
+  {
+    "id": "ch09_004",
+    "chapterId": 9,
+    "order": 4,
+    "kanji": "嫌い",
+    "kana": "きらい",
+    "romaji": "kirai",
+    "wordClass": "adjektiva-na",
+    "meaning": "tidak suka, benci"
+  },
+  {
+    "id": "ch09_005",
+    "chapterId": 9,
+    "order": 5,
+    "kanji": "上手",
+    "kana": "じょうず",
+    "romaji": "jouzu",
+    "wordClass": "adjektiva-na",
+    "meaning": "pintar, pandai"
+  },
+  {
+    "id": "ch09_006",
+    "chapterId": 9,
+    "order": 6,
+    "kanji": "下手",
+    "kana": "へた",
+    "romaji": "heta",
+    "wordClass": "adjektiva-na",
+    "meaning": "tidak pandai, tidak pintar"
+  },
+  {
+    "id": "ch09_007",
+    "chapterId": 9,
+    "order": 7,
+    "kanji": "飲み物",
+    "kana": "のみもの",
+    "romaji": "nomimono",
+    "wordClass": "nomina",
+    "meaning": "minuman"
+  },
+  {
+    "id": "ch09_008",
+    "chapterId": 9,
+    "order": 8,
+    "kanji": "料理",
+    "kana": "りょうり",
+    "romaji": "ryouri",
+    "wordClass": "nomina",
+    "meaning": "masakan"
+  },
+  {
+    "id": "ch09_009",
+    "chapterId": 9,
+    "order": 9,
+    "kanji": "スポーツ",
+    "kana": "スポーツ",
+    "romaji": "supootsu",
+    "wordClass": "nomina",
+    "meaning": "olahraga"
+  },
+  {
+    "id": "ch09_010",
+    "chapterId": 9,
+    "order": 10,
+    "kanji": "野球",
+    "kana": "やきゅう",
+    "romaji": "yakyuu",
+    "wordClass": "nomina",
+    "meaning": "baseball"
+  },
+  {
+    "id": "ch09_011",
+    "chapterId": 9,
+    "order": 11,
+    "kanji": "ダンス",
+    "kana": "ダンス",
+    "romaji": "dansu",
+    "wordClass": "nomina",
+    "meaning": "dansa"
+  },
+  {
+    "id": "ch09_012",
+    "chapterId": 9,
+    "order": 12,
+    "kanji": "旅行",
+    "kana": "りょこう",
+    "romaji": "ryokou",
+    "wordClass": "nomina",
+    "meaning": "tamasya"
+  },
+  {
+    "id": "ch09_013",
+    "chapterId": 9,
+    "order": 13,
+    "kanji": "音楽",
+    "kana": "おんがく",
+    "romaji": "ongaku",
+    "wordClass": "nomina",
+    "meaning": "musik"
+  },
+  {
+    "id": "ch09_014",
+    "chapterId": 9,
+    "order": 14,
+    "kanji": "歌",
+    "kana": "うた",
+    "romaji": "uta",
+    "wordClass": "nomina",
+    "meaning": "lagu"
+  },
+  {
+    "id": "ch09_015",
+    "chapterId": 9,
+    "order": 15,
+    "kanji": "クラシック",
+    "kana": "クラシック",
+    "romaji": "kurashikku",
+    "wordClass": "nomina",
+    "meaning": "klasik"
+  },
+  {
+    "id": "ch09_016",
+    "chapterId": 9,
+    "order": 16,
+    "kanji": "ジャズ",
+    "kana": "ジャズ",
+    "romaji": "jazu",
+    "wordClass": "nomina",
+    "meaning": "jaz"
+  },
+  {
+    "id": "ch09_017",
+    "chapterId": 9,
+    "order": 17,
+    "kanji": "コンサート",
+    "kana": "コンサート",
+    "romaji": "konsaato",
+    "wordClass": "nomina",
+    "meaning": "konser"
+  },
+  {
+    "id": "ch09_018",
+    "chapterId": 9,
+    "order": 18,
+    "kanji": "カラオケ",
+    "kana": "カラオケ",
+    "romaji": "karaoke",
+    "wordClass": "nomina",
+    "meaning": "karaoke"
+  },
+  {
+    "id": "ch09_019",
+    "chapterId": 9,
+    "order": 19,
+    "kanji": "歌舞伎",
+    "kana": "かぶき",
+    "romaji": "kabuki",
+    "wordClass": "nomina",
+    "meaning": "kabuki (salah satu drama tradisional jepang)"
+  },
+  {
+    "id": "ch09_020",
+    "chapterId": 9,
+    "order": 20,
+    "kanji": "絵",
+    "kana": "え",
+    "romaji": "e",
+    "wordClass": "nomina",
+    "meaning": "gambar"
+  },
+  {
+    "id": "ch09_021",
+    "chapterId": 9,
+    "order": 21,
+    "kanji": "字",
+    "kana": "じ",
+    "romaji": "ji",
+    "wordClass": "nomina",
+    "meaning": "huruf"
+  },
+  {
+    "id": "ch09_022",
+    "chapterId": 9,
+    "order": 22,
+    "kanji": "漢字",
+    "kana": "かんじ",
+    "romaji": "kanji",
+    "wordClass": "nomina",
+    "meaning": "kanji"
+  },
+  {
+    "id": "ch09_023",
+    "chapterId": 9,
+    "order": 23,
+    "kanji": "ひらがな",
+    "kana": "ひらがな",
+    "romaji": "hiragana",
+    "wordClass": "nomina",
+    "meaning": "hiragana"
+  },
+  {
+    "id": "ch09_024",
+    "chapterId": 9,
+    "order": 24,
+    "kanji": "カタカナ",
+    "kana": "カタカナ",
+    "romaji": "katakana",
+    "wordClass": "nomina",
+    "meaning": "katakana"
+  },
+  {
+    "id": "ch09_025",
+    "chapterId": 9,
+    "order": 25,
+    "kanji": "ローマ字",
+    "kana": "ローマじ",
+    "romaji": "roomaji",
+    "wordClass": "nomina",
+    "meaning": "huruf latin"
+  },
+  {
+    "id": "ch09_026",
+    "chapterId": 9,
+    "order": 26,
+    "kanji": "細かいお金",
+    "kana": "こまかいおかね",
+    "romaji": "komakai okane",
+    "wordClass": "nomina",
+    "meaning": "uang kecil, receh"
+  },
+  {
+    "id": "ch09_027",
+    "chapterId": 9,
+    "order": 27,
+    "kanji": "チケット",
+    "kana": "チケット",
+    "romaji": "chiketto",
+    "wordClass": "nomina",
+    "meaning": "tiket"
+  },
+  {
+    "id": "ch09_028",
+    "chapterId": 9,
+    "order": 28,
+    "kanji": "時間",
+    "kana": "じかん",
+    "romaji": "jikan",
+    "wordClass": "nomina",
+    "meaning": "jam, waktu"
+  },
+  {
+    "id": "ch09_029",
+    "chapterId": 9,
+    "order": 29,
+    "kanji": "用事",
+    "kana": "ようじ",
+    "romaji": "youji",
+    "wordClass": "nomina",
+    "meaning": "urusan"
+  },
+  {
+    "id": "ch09_030",
+    "chapterId": 9,
+    "order": 30,
+    "kanji": "約束",
+    "kana": "やくそく",
+    "romaji": "yakusoku",
+    "wordClass": "nomina",
+    "meaning": "janji"
+  },
+  {
+    "id": "ch09_031",
+    "chapterId": 9,
+    "order": 31,
+    "kanji": "アルバイト",
+    "kana": "アルバイト",
+    "romaji": "arubaito",
+    "wordClass": "nomina",
+    "meaning": "kerja parung waktu"
+  },
+  {
+    "id": "ch09_032",
+    "chapterId": 9,
+    "order": 32,
+    "kanji": "ご主人",
+    "kana": "ごしゅじん",
+    "romaji": "goshujin",
+    "wordClass": "nomina",
+    "meaning": "suami (orang lain)"
+  },
+  {
+    "id": "ch09_033",
+    "chapterId": 9,
+    "order": 33,
+    "kanji": "夫/主人",
+    "kana": "おっと/しゅじん",
+    "romaji": "otto/shujin",
+    "wordClass": "nomina",
+    "meaning": "suami"
+  },
+  {
+    "id": "ch09_034",
+    "chapterId": 9,
+    "order": 34,
+    "kanji": "奥さん",
+    "kana": "おくさん",
+    "romaji": "okusan",
+    "wordClass": "nomina",
+    "meaning": "istri (orang lain)"
+  },
+  {
+    "id": "ch09_035",
+    "chapterId": 9,
+    "order": 35,
+    "kanji": "妻/家内",
+    "kana": "つま/かない",
+    "romaji": "tsuma/kanai",
+    "wordClass": "nomina",
+    "meaning": "istri"
+  },
+  {
+    "id": "ch09_036",
+    "chapterId": 9,
+    "order": 36,
+    "kanji": "よく",
+    "kana": "よく",
+    "romaji": "yoku",
+    "wordClass": "adverbia",
+    "meaning": "dengan baik"
+  },
+  {
+    "id": "ch09_037",
+    "chapterId": 9,
+    "order": 37,
+    "kanji": "だいたい",
+    "kana": "だいたい",
+    "romaji": "daitai",
+    "wordClass": "adverbia",
+    "meaning": "kira-kira"
+  },
+  {
+    "id": "ch09_038",
+    "chapterId": 9,
+    "order": 38,
+    "kanji": "たくさん",
+    "kana": "たくさん",
+    "romaji": "takusan",
+    "wordClass": "adverbia",
+    "meaning": "banyak"
+  },
+  {
+    "id": "ch09_039",
+    "chapterId": 9,
+    "order": 39,
+    "kanji": "少し",
+    "kana": "すこし",
+    "romaji": "sukoshi",
+    "wordClass": "adverbia",
+    "meaning": "sedikit"
+  },
+  {
+    "id": "ch09_040",
+    "chapterId": 9,
+    "order": 40,
+    "kanji": "全然",
+    "kana": "ぜんぜん",
+    "romaji": "zenzen",
+    "wordClass": "adverbia",
+    "meaning": "sama sekali (diikuti kalimat negatif)"
+  },
+  {
+    "id": "ch09_041",
+    "chapterId": 9,
+    "order": 41,
+    "kanji": "早く/速く",
+    "kana": "はやく",
+    "romaji": "hayaku",
+    "wordClass": "adverbia",
+    "meaning": "dengan cepat"
+  },
+  {
+    "id": "ch09_042",
+    "chapterId": 9,
+    "order": 42,
+    "kanji": "～から",
+    "kana": "～から",
+    "romaji": "~kara",
+    "wordClass": "konjungsi",
+    "meaning": "karena~, sebab~"
+  },
+  {
+    "id": "ch09_043",
+    "chapterId": 9,
+    "order": 43,
+    "kanji": "どうして",
+    "kana": "どうして",
+    "romaji": "doushite",
+    "wordClass": "kata tanya",
+    "meaning": "kenapa?"
+  },
+  {
+    "id": "ch09_044",
+    "chapterId": 9,
+    "order": 44,
+    "kanji": "貸してください",
+    "kana": "かしてください",
+    "romaji": "kashite kudasai",
+    "wordClass": "ungkapan",
+    "meaning": "tolong pinjamkan"
+  },
+  {
+    "id": "ch09_045",
+    "chapterId": 9,
+    "order": 45,
+    "kanji": "いいですよ",
+    "kana": "いいですよ",
+    "romaji": "ii desu yo",
+    "wordClass": "ungkapan",
+    "meaning": "boleh"
+  },
+  {
+    "id": "ch09_046",
+    "chapterId": 9,
+    "order": 46,
+    "kanji": "残念ですね",
+    "kana": "ざんねんですね",
+    "romaji": "zannen desu ne",
+    "wordClass": "ungkapan",
+    "meaning": "sayang sekali"
+  },
+  {
+    "id": "ch09_047",
+    "chapterId": 9,
+    "order": 47,
+    "kanji": "一緒にいかがですか",
+    "kana": "いっしょにいかがですか",
+    "romaji": "issho ni ikaga desu ka",
+    "wordClass": "ungkapan",
+    "meaning": "bagaimana kalau bersama-sama?"
+  },
+  {
+    "id": "ch09_048",
+    "chapterId": 9,
+    "order": 48,
+    "kanji": "～はちょっと･･･",
+    "kana": "～はちょっと･･･",
+    "romaji": "~wa chotto...",
+    "wordClass": "ungkapan",
+    "meaning": "maaf ya, saya tidak bisa~"
+  },
+  {
+    "id": "ch09_049",
+    "chapterId": 9,
+    "order": 49,
+    "kanji": "だめですか",
+    "kana": "だめですか",
+    "romaji": "dame desu ka",
+    "wordClass": "ungkapan",
+    "meaning": "tidak bisa ya? / tidak boleh ya?"
+  },
+  {
+    "id": "ch09_050",
+    "chapterId": 9,
+    "order": 50,
+    "kanji": "また今度お願いします",
+    "kana": "またこんどおねがいします",
+    "romaji": "mata kondo onegaishimasu",
+    "wordClass": "ungkapan",
+    "meaning": "maaf lain kali saja"
+  }
+],
   "conversations": [
     {
       "id": "ch09_conv01",

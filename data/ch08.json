@@ -6,36 +6,667 @@
     "titleId": "Tolong satu botol susu"
   },
   "vocabulary": [
-    { "id": "ch08_001", "chapterId": 8, "order": 1, "kanji": "一つ", "kana": "ひとつ", "romaji": "hitotsu", "wordClass": "nomina", "meaning": "satu (bilangan Jepang)" },
-    { "id": "ch08_002", "chapterId": 8, "order": 2, "kanji": "二つ", "kana": "ふたつ", "romaji": "futatsu", "wordClass": "nomina", "meaning": "dua" },
-    { "id": "ch08_003", "chapterId": 8, "order": 3, "kanji": "三つ", "kana": "みっつ", "romaji": "mittsu", "wordClass": "nomina", "meaning": "tiga" },
-    { "id": "ch08_004", "chapterId": 8, "order": 4, "kanji": "四つ", "kana": "よっつ", "romaji": "yottsu", "wordClass": "nomina", "meaning": "empat" },
-    { "id": "ch08_005", "chapterId": 8, "order": 5, "kanji": "五つ", "kana": "いつつ", "romaji": "itsutsu", "wordClass": "nomina", "meaning": "lima" },
-    { "id": "ch08_006", "chapterId": 8, "order": 6, "kanji": "六つ", "kana": "むっつ", "romaji": "muttsu", "wordClass": "nomina", "meaning": "enam" },
-    { "id": "ch08_007", "chapterId": 8, "order": 7, "kanji": "七つ", "kana": "ななつ", "romaji": "nanatsu", "wordClass": "nomina", "meaning": "tujuh" },
-    { "id": "ch08_008", "chapterId": 8, "order": 8, "kanji": "八つ", "kana": "やっつ", "romaji": "yattsu", "wordClass": "nomina", "meaning": "delapan" },
-    { "id": "ch08_009", "chapterId": 8, "order": 9, "kanji": "九つ", "kana": "ここのつ", "romaji": "kokonotsu", "wordClass": "nomina", "meaning": "sembilan" },
-    { "id": "ch08_010", "chapterId": 8, "order": 10, "kanji": "十", "kana": "とお", "romaji": "too", "wordClass": "nomina", "meaning": "sepuluh" },
-    { "id": "ch08_011", "chapterId": 8, "order": 11, "kanji": "幾つ", "kana": "いくつ", "romaji": "ikutsu", "wordClass": "nomina", "meaning": "berapa banyak?" },
-    { "id": "ch08_012", "chapterId": 8, "order": 12, "kanji": "〜本", "kana": "〜ほん", "romaji": "~hon", "wordClass": "sufiks", "meaning": "penggolong benda panjang/silindris" },
-    { "id": "ch08_013", "chapterId": 8, "order": 13, "kanji": "〜枚", "kana": "〜まい", "romaji": "~mai", "wordClass": "sufiks", "meaning": "penggolong benda tipis/datar" },
-    { "id": "ch08_014", "chapterId": 8, "order": 14, "kanji": "〜台", "kana": "〜だい", "romaji": "~dai", "wordClass": "sufiks", "meaning": "penggolong kendaraan/mesin" },
-    { "id": "ch08_015", "chapterId": 8, "order": 15, "kanji": "〜冊", "kana": "〜さつ", "romaji": "~satsu", "wordClass": "sufiks", "meaning": "penggolong buku/majalah" },
-    { "id": "ch08_016", "chapterId": 8, "order": 16, "kanji": "〜杯", "kana": "〜はい", "romaji": "~hai", "wordClass": "sufiks", "meaning": "penggolong minuman dalam gelas/cangkir" },
-    { "id": "ch08_017", "chapterId": 8, "order": 17, "kanji": "〜匹", "kana": "〜ひき", "romaji": "~hiki", "wordClass": "sufiks", "meaning": "penggolong hewan kecil" },
-    { "id": "ch08_018", "chapterId": 8, "order": 18, "kanji": "〜頭", "kana": "〜とう", "romaji": "~tou", "wordClass": "sufiks", "meaning": "penggolong hewan besar" },
-    { "id": "ch08_019", "chapterId": 8, "order": 19, "kanji": "〜羽", "kana": "〜わ", "romaji": "~wa", "wordClass": "sufiks", "meaning": "penggolong burung" },
-    { "id": "ch08_020", "chapterId": 8, "order": 20, "kanji": "ください", "kana": "ください", "romaji": "kudasai", "wordClass": "ekspresi", "meaning": "tolong berikan; minta" },
-    { "id": "ch08_021", "chapterId": 8, "order": 21, "kanji": "お願いします", "kana": "おねがいします", "romaji": "onegai shimasu", "wordClass": "ekspresi", "meaning": "tolong (permintaan sopan)" },
-    { "id": "ch08_022", "chapterId": 8, "order": 22, "kanji": "いらっしゃいませ", "kana": "いらっしゃいませ", "romaji": "irasshaimase", "wordClass": "ekspresi", "meaning": "selamat datang (di toko)" },
-    { "id": "ch08_023", "chapterId": 8, "order": 23, "kanji": "〜円", "kana": "〜えん", "romaji": "~en", "wordClass": "sufiks", "meaning": "yen (mata uang Jepang)" },
-    { "id": "ch08_024", "chapterId": 8, "order": 24, "kanji": "りんご", "kana": "りんご", "romaji": "ringo", "wordClass": "nomina", "meaning": "apel" },
-    { "id": "ch08_025", "chapterId": 8, "order": 25, "kanji": "みかん", "kana": "みかん", "romaji": "mikan", "wordClass": "nomina", "meaning": "jeruk mandarin" },
-    { "id": "ch08_026", "chapterId": 8, "order": 26, "kanji": "バナナ", "kana": "バナナ", "romaji": "banana", "wordClass": "nomina", "meaning": "pisang" },
-    { "id": "ch08_027", "chapterId": 8, "order": 27, "kanji": "牛乳", "kana": "ぎゅうにゅう", "romaji": "gyuunyuu", "wordClass": "nomina", "meaning": "susu sapi" },
-    { "id": "ch08_028", "chapterId": 8, "order": 28, "kanji": "卵", "kana": "たまご", "romaji": "tamago", "wordClass": "nomina", "meaning": "telur" },
-    { "id": "ch08_029", "chapterId": 8, "order": 29, "kanji": "日本酒", "kana": "にほんしゅ", "romaji": "nihonshu", "wordClass": "nomina", "meaning": "sake Jepang" }
-  ],
+  {
+    "id": "ch08_001",
+    "chapterId": 8,
+    "order": 1,
+    "kanji": "ハンサム",
+    "kana": "ハンサム",
+    "romaji": "hansamu",
+    "wordClass": "adjektiva-na",
+    "meaning": "tampan, gagah, ganteng"
+  },
+  {
+    "id": "ch08_002",
+    "chapterId": 8,
+    "order": 2,
+    "kanji": "きれい",
+    "kana": "きれい",
+    "romaji": "kirei",
+    "wordClass": "adjektiva-na",
+    "meaning": "cantik, bersih"
+  },
+  {
+    "id": "ch08_003",
+    "chapterId": 8,
+    "order": 3,
+    "kanji": "静か",
+    "kana": "しずか",
+    "romaji": "shizuka",
+    "wordClass": "adjektiva-na",
+    "meaning": "sunyi, tenang"
+  },
+  {
+    "id": "ch08_004",
+    "chapterId": 8,
+    "order": 4,
+    "kanji": "にぎやか",
+    "kana": "にぎやか",
+    "romaji": "nigiyaka",
+    "wordClass": "adjektiva-na",
+    "meaning": "ramai"
+  },
+  {
+    "id": "ch08_005",
+    "chapterId": 8,
+    "order": 5,
+    "kanji": "有名",
+    "kana": "ゆうめい",
+    "romaji": "yuumei",
+    "wordClass": "adjektiva-na",
+    "meaning": "terkenal"
+  },
+  {
+    "id": "ch08_006",
+    "chapterId": 8,
+    "order": 6,
+    "kanji": "親切",
+    "kana": "しんせつ",
+    "romaji": "shinsetsu",
+    "wordClass": "adjektiva-na",
+    "meaning": "baik hati (tidak digunakan untuk keluarga sendiri)"
+  },
+  {
+    "id": "ch08_007",
+    "chapterId": 8,
+    "order": 7,
+    "kanji": "元気",
+    "kana": "げんき",
+    "romaji": "genki",
+    "wordClass": "adjektiva-na",
+    "meaning": "sehat walafiat"
+  },
+  {
+    "id": "ch08_008",
+    "chapterId": 8,
+    "order": 8,
+    "kanji": "暇",
+    "kana": "ひま",
+    "romaji": "hima",
+    "wordClass": "adjektiva-na",
+    "meaning": "senggang"
+  },
+  {
+    "id": "ch08_009",
+    "chapterId": 8,
+    "order": 9,
+    "kanji": "便利",
+    "kana": "べんり",
+    "romaji": "benri",
+    "wordClass": "adjektiva-na",
+    "meaning": "praktis"
+  },
+  {
+    "id": "ch08_010",
+    "chapterId": 8,
+    "order": 10,
+    "kanji": "すてき",
+    "kana": "すてき",
+    "romaji": "suteki",
+    "wordClass": "adjektiva-na",
+    "meaning": "bagus"
+  },
+  {
+    "id": "ch08_011",
+    "chapterId": 8,
+    "order": 11,
+    "kanji": "大きい",
+    "kana": "おおきい",
+    "romaji": "ookii",
+    "wordClass": "adjektiva-i",
+    "meaning": "besar"
+  },
+  {
+    "id": "ch08_012",
+    "chapterId": 8,
+    "order": 12,
+    "kanji": "小さい",
+    "kana": "ちいさい",
+    "romaji": "chiisai",
+    "wordClass": "adjektiva-i",
+    "meaning": "kecil"
+  },
+  {
+    "id": "ch08_013",
+    "chapterId": 8,
+    "order": 13,
+    "kanji": "新しい",
+    "kana": "あたらしい",
+    "romaji": "atarashii",
+    "wordClass": "adjektiva-i",
+    "meaning": "baru"
+  },
+  {
+    "id": "ch08_014",
+    "chapterId": 8,
+    "order": 14,
+    "kanji": "古い",
+    "kana": "ふるい",
+    "romaji": "furui",
+    "wordClass": "adjektiva-i",
+    "meaning": "lama, tua"
+  },
+  {
+    "id": "ch08_015",
+    "chapterId": 8,
+    "order": 15,
+    "kanji": "いい",
+    "kana": "いい",
+    "romaji": "ii / yoi",
+    "wordClass": "adjektiva-i",
+    "meaning": "baik, bagus"
+  },
+  {
+    "id": "ch08_016",
+    "chapterId": 8,
+    "order": 16,
+    "kanji": "悪い",
+    "kana": "わるい",
+    "romaji": "warui",
+    "wordClass": "adjektiva-i",
+    "meaning": "buruk, jelek"
+  },
+  {
+    "id": "ch08_017",
+    "chapterId": 8,
+    "order": 17,
+    "kanji": "暑い",
+    "kana": "あつい",
+    "romaji": "atsui",
+    "wordClass": "adjektiva-i",
+    "meaning": "panas"
+  },
+  {
+    "id": "ch08_018",
+    "chapterId": 8,
+    "order": 18,
+    "kanji": "寒い",
+    "kana": "さむい",
+    "romaji": "samui",
+    "wordClass": "adjektiva-i",
+    "meaning": "dingin (mengungkapkan tentang suhu udara)"
+  },
+  {
+    "id": "ch08_019",
+    "chapterId": 8,
+    "order": 19,
+    "kanji": "冷たい",
+    "kana": "つめたい",
+    "romaji": "tsumetai",
+    "wordClass": "adjektiva-i",
+    "meaning": "dingin (mengungkapkan tentang rasa benda)"
+  },
+  {
+    "id": "ch08_020",
+    "chapterId": 8,
+    "order": 20,
+    "kanji": "難しい",
+    "kana": "むずかしい",
+    "romaji": "muzukashii",
+    "wordClass": "adjektiva-i",
+    "meaning": "sulit, susah"
+  },
+  {
+    "id": "ch08_021",
+    "chapterId": 8,
+    "order": 21,
+    "kanji": "易しい",
+    "kana": "やさしい",
+    "romaji": "yasashii",
+    "wordClass": "adjektiva-i",
+    "meaning": "mudah, gampang"
+  },
+  {
+    "id": "ch08_022",
+    "chapterId": 8,
+    "order": 22,
+    "kanji": "高い",
+    "kana": "たかい",
+    "romaji": "takai",
+    "wordClass": "adjektiva-i",
+    "meaning": "mahal, tinggi"
+  },
+  {
+    "id": "ch08_023",
+    "chapterId": 8,
+    "order": 23,
+    "kanji": "安い",
+    "kana": "やすい",
+    "romaji": "yasui",
+    "wordClass": "adjektiva-i",
+    "meaning": "murah"
+  },
+  {
+    "id": "ch08_024",
+    "chapterId": 8,
+    "order": 24,
+    "kanji": "低い",
+    "kana": "ひくい",
+    "romaji": "hikui",
+    "wordClass": "adjektiva-i",
+    "meaning": "rendah"
+  },
+  {
+    "id": "ch08_025",
+    "chapterId": 8,
+    "order": 25,
+    "kanji": "おもしろい",
+    "kana": "おもしろい",
+    "romaji": "omoshiroi",
+    "wordClass": "adjektiva-i",
+    "meaning": "menarik"
+  },
+  {
+    "id": "ch08_026",
+    "chapterId": 8,
+    "order": 26,
+    "kanji": "おいしい",
+    "kana": "おいしい",
+    "romaji": "oishii",
+    "wordClass": "adjektiva-i",
+    "meaning": "enak"
+  },
+  {
+    "id": "ch08_027",
+    "chapterId": 8,
+    "order": 27,
+    "kanji": "忙しい",
+    "kana": "いそがしい",
+    "romaji": "isogashii",
+    "wordClass": "adjektiva-i",
+    "meaning": "sibuk"
+  },
+  {
+    "id": "ch08_028",
+    "chapterId": 8,
+    "order": 28,
+    "kanji": "楽しい",
+    "kana": "たのしい",
+    "romaji": "tanoshii",
+    "wordClass": "adjektiva-i",
+    "meaning": "senang"
+  },
+  {
+    "id": "ch08_029",
+    "chapterId": 8,
+    "order": 29,
+    "kanji": "白い",
+    "kana": "しろい",
+    "romaji": "shiroi",
+    "wordClass": "adjektiva-i",
+    "meaning": "putih"
+  },
+  {
+    "id": "ch08_030",
+    "chapterId": 8,
+    "order": 30,
+    "kanji": "黒い",
+    "kana": "くろい",
+    "romaji": "kuroi",
+    "wordClass": "adjektiva-i",
+    "meaning": "hitam"
+  },
+  {
+    "id": "ch08_031",
+    "chapterId": 8,
+    "order": 31,
+    "kanji": "赤い",
+    "kana": "あかい",
+    "romaji": "akai",
+    "wordClass": "adjektiva-i",
+    "meaning": "merah"
+  },
+  {
+    "id": "ch08_032",
+    "chapterId": 8,
+    "order": 32,
+    "kanji": "青い",
+    "kana": "あおい",
+    "romaji": "aoi",
+    "wordClass": "adjektiva-i",
+    "meaning": "biru"
+  },
+  {
+    "id": "ch08_033",
+    "chapterId": 8,
+    "order": 33,
+    "kanji": "桜",
+    "kana": "さくら",
+    "romaji": "sakura",
+    "wordClass": "nomina",
+    "meaning": "sakura"
+  },
+  {
+    "id": "ch08_034",
+    "chapterId": 8,
+    "order": 34,
+    "kanji": "山",
+    "kana": "やま",
+    "romaji": "yama",
+    "wordClass": "nomina",
+    "meaning": "gunung"
+  },
+  {
+    "id": "ch08_035",
+    "chapterId": 8,
+    "order": 35,
+    "kanji": "町",
+    "kana": "まち",
+    "romaji": "machi",
+    "wordClass": "nomina",
+    "meaning": "kota"
+  },
+  {
+    "id": "ch08_036",
+    "chapterId": 8,
+    "order": 36,
+    "kanji": "食べ物",
+    "kana": "たべもの",
+    "romaji": "tabemono",
+    "wordClass": "nomina",
+    "meaning": "makanan"
+  },
+  {
+    "id": "ch08_037",
+    "chapterId": 8,
+    "order": 37,
+    "kanji": "所",
+    "kana": "ところ",
+    "romaji": "tokoro",
+    "wordClass": "nomina",
+    "meaning": "tempat"
+  },
+  {
+    "id": "ch08_038",
+    "chapterId": 8,
+    "order": 38,
+    "kanji": "寮",
+    "kana": "りょう",
+    "romaji": "ryou",
+    "wordClass": "nomina",
+    "meaning": "asrama"
+  },
+  {
+    "id": "ch08_039",
+    "chapterId": 8,
+    "order": 39,
+    "kanji": "レストラン",
+    "kana": "レストラン",
+    "romaji": "resutoran",
+    "wordClass": "nomina",
+    "meaning": "restoran"
+  },
+  {
+    "id": "ch08_040",
+    "chapterId": 8,
+    "order": 40,
+    "kanji": "生活",
+    "kana": "せいかつ",
+    "romaji": "seikatsu",
+    "wordClass": "nomina",
+    "meaning": "kehidupan"
+  },
+  {
+    "id": "ch08_041",
+    "chapterId": 8,
+    "order": 41,
+    "kanji": "仕事",
+    "kana": "しごと",
+    "romaji": "shigoto",
+    "wordClass": "nomina",
+    "meaning": "pekerjaan"
+  },
+  {
+    "id": "ch08_042",
+    "chapterId": 8,
+    "order": 42,
+    "kanji": "どう",
+    "kana": "どう",
+    "romaji": "dou",
+    "wordClass": "kata tanya",
+    "meaning": "bagaimana?"
+  },
+  {
+    "id": "ch08_043",
+    "chapterId": 8,
+    "order": 43,
+    "kanji": "どんな",
+    "kana": "どんな",
+    "romaji": "donna",
+    "wordClass": "kata tanya",
+    "meaning": "yang bagaimana?"
+  },
+  {
+    "id": "ch08_044",
+    "chapterId": 8,
+    "order": 44,
+    "kanji": "とても",
+    "kana": "とても",
+    "romaji": "totemo",
+    "wordClass": "adverbia",
+    "meaning": "sangat, ~sekali"
+  },
+  {
+    "id": "ch08_045",
+    "chapterId": 8,
+    "order": 45,
+    "kanji": "あまり",
+    "kana": "あまり",
+    "romaji": "amari",
+    "wordClass": "adverbia",
+    "meaning": "kurang begitu~, tidak begitu~ (diikuti dengan kalimat negatif)"
+  },
+  {
+    "id": "ch08_046",
+    "chapterId": 8,
+    "order": 46,
+    "kanji": "そして",
+    "kana": "そして",
+    "romaji": "soshite",
+    "wordClass": "konjungsi",
+    "meaning": "kemudian, dan (digunakan untuk menyambung kalimat)"
+  },
+  {
+    "id": "ch08_047",
+    "chapterId": 8,
+    "order": 47,
+    "kanji": "～が、～",
+    "kana": "～が、～",
+    "romaji": "~ga, ~",
+    "wordClass": "partikel",
+    "meaning": "~, tetapi~"
+  },
+  {
+    "id": "ch08_048",
+    "chapterId": 8,
+    "order": 48,
+    "kanji": "お元気ですか",
+    "kana": "おげんきですか",
+    "romaji": "ogenki desu ka",
+    "wordClass": "ungkapan",
+    "meaning": "apa kabar?"
+  },
+  {
+    "id": "ch08_049",
+    "chapterId": 8,
+    "order": 50,
+    "kanji": "そうですね",
+    "kana": "そうですね",
+    "romaji": "sou desu ne",
+    "wordClass": "ungkapan",
+    "meaning": "bagaimana ya?"
+  },
+  {
+    "id": "ch08_050",
+    "chapterId": 8,
+    "order": 51,
+    "kanji": "～もう一杯いかがですか",
+    "kana": "～もういっぱいにかがですか",
+    "romaji": "~mou ippai ikaga desu ka",
+    "wordClass": "ungkapan",
+    "meaning": "mau tambah [~] secangkir lagi?"
+  },
+  {
+    "id": "ch08_051",
+    "chapterId": 8,
+    "order": 52,
+    "kanji": "いいえ、けっこうです",
+    "kana": "いいえ、けっこうです",
+    "romaji": "iie, kekkou desu",
+    "wordClass": "ungkapan",
+    "meaning": "[tidak] terima kasih, saya sudah cukup."
+  },
+  {
+    "id": "ch08_052",
+    "chapterId": 8,
+    "order": 53,
+    "kanji": "もう～ですね",
+    "kana": "もう～ですね",
+    "romaji": "mou ~ desu ne",
+    "wordClass": "ungkapan",
+    "meaning": "sudah~ [ya]."
+  },
+  {
+    "id": "ch08_053",
+    "chapterId": 8,
+    "order": 54,
+    "kanji": "そろそろ失礼します",
+    "kana": "そろそろしつれいします",
+    "romaji": "sorosoro shitsurei shimasu",
+    "wordClass": "ungkapan",
+    "meaning": "maaf, saya mau pamit dulu."
+  },
+  {
+    "id": "ch08_054",
+    "chapterId": 8,
+    "order": 55,
+    "kanji": "またいらっしゃってください",
+    "kana": "またいらっしゃってください",
+    "romaji": "mata irasshatte kudasai",
+    "wordClass": "ungkapan",
+    "meaning": "silahkan datang lagi."
+  },
+  {
+    "id": "ch08_055",
+    "chapterId": 8,
+    "order": 56,
+    "kanji": "緑",
+    "kana": "みどり",
+    "romaji": "midori",
+    "wordClass": "nomina",
+    "meaning": "hijau"
+  },
+  {
+    "id": "ch08_056",
+    "chapterId": 8,
+    "order": 57,
+    "kanji": "紫",
+    "kana": "むらさき",
+    "romaji": "murasaki",
+    "wordClass": "nomina",
+    "meaning": "ungu"
+  },
+  {
+    "id": "ch08_057",
+    "chapterId": 8,
+    "order": 58,
+    "kanji": "黄色",
+    "kana": "きいろ",
+    "romaji": "kiiro",
+    "wordClass": "nomina",
+    "meaning": "kuning"
+  },
+  {
+    "id": "ch08_058",
+    "chapterId": 8,
+    "order": 59,
+    "kanji": "茶色",
+    "kana": "ちゃいろ",
+    "romaji": "chairo",
+    "wordClass": "nomina",
+    "meaning": "coklat"
+  },
+  {
+    "id": "ch08_059",
+    "chapterId": 8,
+    "order": 60,
+    "kanji": "ピンク",
+    "kana": "ピンク",
+    "romaji": "pinku",
+    "wordClass": "nomina",
+    "meaning": "merah muda"
+  },
+  {
+    "id": "ch08_060",
+    "chapterId": 8,
+    "order": 61,
+    "kanji": "オレンジ",
+    "kana": "オレンジ",
+    "romaji": "orenji",
+    "wordClass": "nomina",
+    "meaning": "oranye"
+  },
+  {
+    "id": "ch08_061",
+    "chapterId": 8,
+    "order": 62,
+    "kanji": "グレー",
+    "kana": "グレー",
+    "romaji": "guree",
+    "wordClass": "nomina",
+    "meaning": "abu-abu"
+  },
+  {
+    "id": "ch08_062",
+    "chapterId": 8,
+    "order": 63,
+    "kanji": "ベージュ",
+    "kana": "ベージュ",
+    "romaji": "beeju",
+    "wordClass": "nomina",
+    "meaning": "krem"
+  },
+  {
+    "id": "ch08_063",
+    "chapterId": 8,
+    "order": 64,
+    "kanji": "春",
+    "kana": "はる",
+    "romaji": "haru",
+    "wordClass": "nomina",
+    "meaning": "musim semi"
+  },
+  {
+    "id": "ch08_064",
+    "chapterId": 8,
+    "order": 65,
+    "kanji": "夏",
+    "kana": "なつ",
+    "romaji": "natsu",
+    "wordClass": "nomina",
+    "meaning": "musim panas"
+  },
+  {
+    "id": "ch08_065",
+    "chapterId": 8,
+    "order": 66,
+    "kanji": "秋",
+    "kana": "あき",
+    "romaji": "aki",
+    "wordClass": "nomina",
+    "meaning": "musim gugur"
+  },
+  {
+    "id": "ch08_066",
+    "chapterId": 8,
+    "order": 67,
+    "kanji": "冬",
+    "kana": "ふゆ",
+    "romaji": "fuyu",
+    "wordClass": "nomina",
+    "meaning": "musim dingin"
+  }
+],
   "conversations": [
     {
       "id": "ch08_conv01",
