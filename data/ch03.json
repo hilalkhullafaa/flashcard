@@ -682,7 +682,7 @@
       "id": "ch03_conv01",
       "chapterId": 3,
       "order": 1,
-      "title": "Percakapan 1 â€” Menanyakan Lokasi",
+      "title": "Percakapan 1 - Menanyakan Lokasi",
       "turns": [
         {
           "speaker": "ミラー",
@@ -711,7 +711,7 @@
       "id": "ch03_conv02",
       "chapterId": 3,
       "order": 2,
-      "title": "Percakapan 2 â€” Di Dalam Toko",
+      "title": "Percakapan 2 - Di Dalam Toko",
       "turns": [
         {
           "speaker": "てんいん",
