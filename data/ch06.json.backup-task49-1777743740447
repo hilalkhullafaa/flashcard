@@ -1,0 +1,1806 @@
+{
+  "chapter": {
+    "id": 6,
+    "title": "�?�?� 6�??に 起きま�?",
+    "titleRomaji": "Maiasa rokuji ni okimasu",
+    "titleId": "Saya bangun jam 6 setiap pagi"
+  },
+  "vocabulary": [
+    {
+      "id": "ch05_001",
+      "chapterId": 5,
+      "order": 1,
+      "kanji": "行きます",
+      "kana": "いきます",
+      "romaji": "ikimasu",
+      "wordClass": "verba",
+      "meaning": "pergi"
+    },
+    {
+      "id": "ch05_002",
+      "chapterId": 5,
+      "order": 2,
+      "kanji": "来ます",
+      "kana": "きます",
+      "romaji": "kimasu",
+      "wordClass": "verba",
+      "meaning": "datang"
+    },
+    {
+      "id": "ch05_003",
+      "chapterId": 5,
+      "order": 3,
+      "kanji": "帰ります",
+      "kana": "かえります",
+      "romaji": "kaerimasu",
+      "wordClass": "verba",
+      "meaning": "pulang"
+    },
+    {
+      "id": "ch05_004",
+      "chapterId": 5,
+      "order": 4,
+      "kanji": "学校",
+      "kana": "がっこう",
+      "romaji": "gakkou",
+      "wordClass": "nomina",
+      "meaning": "sekolah"
+    },
+    {
+      "id": "ch05_005",
+      "chapterId": 5,
+      "order": 5,
+      "kanji": "スーパー",
+      "kana": "スーパー",
+      "romaji": "suupaa",
+      "wordClass": "nomina",
+      "meaning": "pasar swalayan"
+    },
+    {
+      "id": "ch05_006",
+      "chapterId": 5,
+      "order": 6,
+      "kanji": "駅",
+      "kana": "えき",
+      "romaji": "eki",
+      "wordClass": "nomina",
+      "meaning": "stasiun"
+    },
+    {
+      "id": "ch05_007",
+      "chapterId": 5,
+      "order": 7,
+      "kanji": "飛行機",
+      "kana": "ひこうき",
+      "romaji": "hikouki",
+      "wordClass": "nomina",
+      "meaning": "pesawat"
+    },
+    {
+      "id": "ch05_008",
+      "chapterId": 5,
+      "order": 8,
+      "kanji": "船",
+      "kana": "ふね",
+      "romaji": "fune",
+      "wordClass": "nomina",
+      "meaning": "kapal laut"
+    },
+    {
+      "id": "ch05_009",
+      "chapterId": 5,
+      "order": 9,
+      "kanji": "電車",
+      "kana": "でんしゃ",
+      "romaji": "densha",
+      "wordClass": "nomina",
+      "meaning": "kereta rel listrik"
+    },
+    {
+      "id": "ch05_010",
+      "chapterId": 5,
+      "order": 10,
+      "kanji": "地下鉄",
+      "kana": "ちかてつ",
+      "romaji": "chikatetsu",
+      "wordClass": "nomina",
+      "meaning": "kereta bawah tanah"
+    },
+    {
+      "id": "ch05_011",
+      "chapterId": 5,
+      "order": 11,
+      "kanji": "新幹線",
+      "kana": "しんかんせん",
+      "romaji": "shinkansen",
+      "wordClass": "nomina",
+      "meaning": "sinkansen"
+    },
+    {
+      "id": "ch05_012",
+      "chapterId": 5,
+      "order": 12,
+      "kanji": "バス",
+      "kana": "バス",
+      "romaji": "basu",
+      "wordClass": "nomina",
+      "meaning": "bus"
+    },
+    {
+      "id": "ch05_013",
+      "chapterId": 5,
+      "order": 13,
+      "kanji": "タクシー",
+      "kana": "タクシー",
+      "romaji": "takushii",
+      "wordClass": "nomina",
+      "meaning": "taksi"
+    },
+    {
+      "id": "ch05_014",
+      "chapterId": 5,
+      "order": 14,
+      "kanji": "自転車",
+      "kana": "じてんしゃ",
+      "romaji": "jitensha",
+      "wordClass": "nomina",
+      "meaning": "sepeda"
+    },
+    {
+      "id": "ch05_015",
+      "chapterId": 5,
+      "order": 15,
+      "kanji": "歩いて",
+      "kana": "あるいて",
+      "romaji": "aruite",
+      "wordClass": "adverbia",
+      "meaning": "dengan berjalan kaki"
+    },
+    {
+      "id": "ch05_016",
+      "chapterId": 5,
+      "order": 16,
+      "kanji": "人",
+      "kana": "ひと",
+      "romaji": "hito",
+      "wordClass": "nomina",
+      "meaning": "orang"
+    },
+    {
+      "id": "ch05_017",
+      "chapterId": 5,
+      "order": 17,
+      "kanji": "友達",
+      "kana": "ともだち",
+      "romaji": "tomodachi",
+      "wordClass": "nomina",
+      "meaning": "teman"
+    },
+    {
+      "id": "ch05_018",
+      "chapterId": 5,
+      "order": 18,
+      "kanji": "彼",
+      "kana": "かれ",
+      "romaji": "kare",
+      "wordClass": "pronomina",
+      "meaning": "dia, ia (laki-laki)"
+    },
+    {
+      "id": "ch05_019",
+      "chapterId": 5,
+      "order": 19,
+      "kanji": "彼女",
+      "kana": "かのじょ",
+      "romaji": "kanojo",
+      "wordClass": "pronomina",
+      "meaning": "dia, ia (perempuan)"
+    },
+    {
+      "id": "ch05_020",
+      "chapterId": 5,
+      "order": 20,
+      "kanji": "家族",
+      "kana": "かぞく",
+      "romaji": "kazoku",
+      "wordClass": "nomina",
+      "meaning": "keluarga"
+    },
+    {
+      "id": "ch05_021",
+      "chapterId": 5,
+      "order": 21,
+      "kanji": "一人で",
+      "kana": "ひとりで",
+      "romaji": "hitori de",
+      "wordClass": "adverbia",
+      "meaning": "sendirian, dengan sendiri"
+    },
+    {
+      "id": "ch05_022",
+      "chapterId": 5,
+      "order": 22,
+      "kanji": "先週",
+      "kana": "せんしゅう",
+      "romaji": "senshuu",
+      "wordClass": "nomina",
+      "meaning": "minggu lalu"
+    },
+    {
+      "id": "ch05_023",
+      "chapterId": 5,
+      "order": 23,
+      "kanji": "今週",
+      "kana": "こんしゅう",
+      "romaji": "konshuu",
+      "wordClass": "nomina",
+      "meaning": "minggu ini"
+    },
+    {
+      "id": "ch05_024",
+      "chapterId": 5,
+      "order": 24,
+      "kanji": "来週",
+      "kana": "らいしゅう",
+      "romaji": "raishuu",
+      "wordClass": "nomina",
+      "meaning": "minggu depan"
+    },
+    {
+      "id": "ch05_025",
+      "chapterId": 5,
+      "order": 25,
+      "kanji": "先月",
+      "kana": "せんげつ",
+      "romaji": "sengetsu",
+      "wordClass": "nomina",
+      "meaning": "bulan lalu"
+    },
+    {
+      "id": "ch05_026",
+      "chapterId": 5,
+      "order": 26,
+      "kanji": "今月",
+      "kana": "こんげつ",
+      "romaji": "kongetsu",
+      "wordClass": "nomina",
+      "meaning": "bulan ini"
+    },
+    {
+      "id": "ch05_027",
+      "chapterId": 5,
+      "order": 27,
+      "kanji": "来月",
+      "kana": "らいげつ",
+      "romaji": "raigetsu",
+      "wordClass": "nomina",
+      "meaning": "bulan depan"
+    },
+    {
+      "id": "ch05_028",
+      "chapterId": 5,
+      "order": 28,
+      "kanji": "去年",
+      "kana": "きょねん",
+      "romaji": "kyonen",
+      "wordClass": "nomina",
+      "meaning": "tahun lalu"
+    },
+    {
+      "id": "ch05_029",
+      "chapterId": 5,
+      "order": 29,
+      "kanji": "今年",
+      "kana": "ことし",
+      "romaji": "kotoshi",
+      "wordClass": "nomina",
+      "meaning": "tahun ini"
+    },
+    {
+      "id": "ch05_030",
+      "chapterId": 5,
+      "order": 30,
+      "kanji": "来年",
+      "kana": "らいねん",
+      "romaji": "rainen",
+      "wordClass": "nomina",
+      "meaning": "tahun depan"
+    },
+    {
+      "id": "ch05_031",
+      "chapterId": 5,
+      "order": 31,
+      "kanji": "～年",
+      "kana": "～ねん",
+      "romaji": "~nen",
+      "wordClass": "sufiks",
+      "meaning": "tahun~"
+    },
+    {
+      "id": "ch05_032",
+      "chapterId": 5,
+      "order": 32,
+      "kanji": "何年",
+      "kana": "なんねん",
+      "romaji": "nannen",
+      "wordClass": "kata tanya",
+      "meaning": "tahun berapa?"
+    },
+    {
+      "id": "ch05_033",
+      "chapterId": 5,
+      "order": 33,
+      "kanji": "～月",
+      "kana": "～がつ",
+      "romaji": "~gatsu",
+      "wordClass": "sufiks",
+      "meaning": "bulan~"
+    },
+    {
+      "id": "ch05_034",
+      "chapterId": 5,
+      "order": 34,
+      "kanji": "何月",
+      "kana": "なんがつ",
+      "romaji": "nangatsu",
+      "wordClass": "kata tanya",
+      "meaning": "bulan apa?"
+    },
+    {
+      "id": "ch05_035",
+      "chapterId": 5,
+      "order": 35,
+      "kanji": "一日",
+      "kana": "ついたち",
+      "romaji": "tsuitachi",
+      "wordClass": "nomina",
+      "meaning": "tanggal satu"
+    },
+    {
+      "id": "ch05_036",
+      "chapterId": 5,
+      "order": 36,
+      "kanji": "二日",
+      "kana": "ふつか",
+      "romaji": "futsuka",
+      "wordClass": "nomina",
+      "meaning": "tanggal dua, dua hari"
+    },
+    {
+      "id": "ch05_037",
+      "chapterId": 5,
+      "order": 37,
+      "kanji": "三日",
+      "kana": "みっか",
+      "romaji": "mikka",
+      "wordClass": "nomina",
+      "meaning": "tanggal tiga, tiga hari"
+    },
+    {
+      "id": "ch05_038",
+      "chapterId": 5,
+      "order": 38,
+      "kanji": "四日",
+      "kana": "よっか",
+      "romaji": "yokka",
+      "wordClass": "nomina",
+      "meaning": "tanggal empat, empat hari"
+    },
+    {
+      "id": "ch05_039",
+      "chapterId": 5,
+      "order": 39,
+      "kanji": "五日",
+      "kana": "いつか",
+      "romaji": "itsuka",
+      "wordClass": "nomina",
+      "meaning": "tanggal lima, lima hari"
+    },
+    {
+      "id": "ch05_040",
+      "chapterId": 5,
+      "order": 40,
+      "kanji": "六日",
+      "kana": "むいか",
+      "romaji": "muika",
+      "wordClass": "nomina",
+      "meaning": "tanggal enam, enam hari"
+    },
+    {
+      "id": "ch05_041",
+      "chapterId": 5,
+      "order": 41,
+      "kanji": "七日",
+      "kana": "なのか",
+      "romaji": "nanoka",
+      "wordClass": "nomina",
+      "meaning": "tanggal tujuh, tujuh hari"
+    },
+    {
+      "id": "ch05_042",
+      "chapterId": 5,
+      "order": 42,
+      "kanji": "八日",
+      "kana": "ようか",
+      "romaji": "youka",
+      "wordClass": "nomina",
+      "meaning": "tanggal delapan, delapan hari"
+    },
+    {
+      "id": "ch05_043",
+      "chapterId": 5,
+      "order": 43,
+      "kanji": "九日",
+      "kana": "ここのか",
+      "romaji": "kokonoka",
+      "wordClass": "nomina",
+      "meaning": "tanggal sembilan, sembilan hari"
+    },
+    {
+      "id": "ch05_044",
+      "chapterId": 5,
+      "order": 44,
+      "kanji": "十日",
+      "kana": "とおか",
+      "romaji": "tooka",
+      "wordClass": "nomina",
+      "meaning": "tanggal sepuluh, sepuluh hari"
+    },
+    {
+      "id": "ch05_045",
+      "chapterId": 5,
+      "order": 45,
+      "kanji": "十四日",
+      "kana": "じゅうよっか",
+      "romaji": "juuyokka",
+      "wordClass": "nomina",
+      "meaning": "tanggal empat belas, empat belas hari"
+    },
+    {
+      "id": "ch05_046",
+      "chapterId": 5,
+      "order": 46,
+      "kanji": "二十日",
+      "kana": "はつか",
+      "romaji": "hatsuka",
+      "wordClass": "nomina",
+      "meaning": "tanggal dua puluh, dua puluh hari"
+    },
+    {
+      "id": "ch05_047",
+      "chapterId": 5,
+      "order": 47,
+      "kanji": "二十四日",
+      "kana": "にじゅうよっか",
+      "romaji": "nijuuyokka",
+      "wordClass": "nomina",
+      "meaning": "tanggal dua puluh empat, dua puluh empat hari"
+    },
+    {
+      "id": "ch05_048",
+      "chapterId": 5,
+      "order": 48,
+      "kanji": "～日",
+      "kana": "～にち",
+      "romaji": "~nichi",
+      "wordClass": "sufiks",
+      "meaning": "tanggal~, ~hari"
+    },
+    {
+      "id": "ch05_049",
+      "chapterId": 5,
+      "order": 49,
+      "kanji": "何日",
+      "kana": "なんにち",
+      "romaji": "nannichi",
+      "wordClass": "kata tanya",
+      "meaning": "tanggal berapa?, berapa hari?"
+    },
+    {
+      "id": "ch05_050",
+      "chapterId": 5,
+      "order": 50,
+      "kanji": "いつ",
+      "kana": "いつ",
+      "romaji": "itsu",
+      "wordClass": "kata tanya",
+      "meaning": "kapan?"
+    },
+    {
+      "id": "ch05_051",
+      "chapterId": 5,
+      "order": 51,
+      "kanji": "誕生日",
+      "kana": "たんじょうび",
+      "romaji": "tanjoubi",
+      "wordClass": "nomina",
+      "meaning": "hari ulang tahun"
+    },
+    {
+      "id": "ch05_052",
+      "chapterId": 5,
+      "order": 52,
+      "kanji": "そうですね",
+      "kana": "そうですね",
+      "romaji": "sou desu ne",
+      "wordClass": "ungkapan",
+      "meaning": "ya, betul/ya, begitulah"
+    },
+    {
+      "id": "ch05_053",
+      "chapterId": 5,
+      "order": 53,
+      "kanji": "どういたしまして",
+      "kana": "どういたしまして",
+      "romaji": "dou itashimashite",
+      "wordClass": "ungkapan",
+      "meaning": "sama-sama"
+    },
+    {
+      "id": "ch05_054",
+      "chapterId": 5,
+      "order": 54,
+      "kanji": "～番線",
+      "kana": "～ばんせん",
+      "romaji": "~bansen",
+      "wordClass": "sufiks",
+      "meaning": "peron nomor~, jalur nomor~"
+    },
+    {
+      "id": "ch05_055",
+      "chapterId": 5,
+      "order": 55,
+      "kanji": "次の",
+      "kana": "つぎの",
+      "romaji": "tsugi no",
+      "wordClass": "nomina",
+      "meaning": "yang berikutnya"
+    },
+    {
+      "id": "ch05_056",
+      "chapterId": 5,
+      "order": 56,
+      "kanji": "普通",
+      "kana": "ふつう",
+      "romaji": "futsuu",
+      "wordClass": "nomina",
+      "meaning": "biasa"
+    },
+    {
+      "id": "ch05_057",
+      "chapterId": 5,
+      "order": 57,
+      "kanji": "急行",
+      "kana": "きゅうこう",
+      "romaji": "kyuukou",
+      "wordClass": "nomina",
+      "meaning": "ekspres"
+    },
+    {
+      "id": "ch05_058",
+      "chapterId": 5,
+      "order": 58,
+      "kanji": "特急",
+      "kana": "とっきゅう",
+      "romaji": "tokkyuu",
+      "wordClass": "nomina",
+      "meaning": "super ekspres"
+    },
+    {
+      "id": "ch05_059",
+      "chapterId": 5,
+      "order": 59,
+      "kanji": "祝日",
+      "kana": "しゅくじつ",
+      "romaji": "shukujitsu",
+      "wordClass": "nomina",
+      "meaning": "hari libur nasional"
+    },
+    {
+      "id": "ch05_060",
+      "chapterId": 5,
+      "order": 60,
+      "kanji": "お正月",
+      "kana": "おしょうがつ",
+      "romaji": "oshougatsu",
+      "wordClass": "nomina",
+      "meaning": "tahun baru"
+    },
+    {
+      "id": "ch05_061",
+      "chapterId": 5,
+      "order": 61,
+      "kanji": "成人の日",
+      "kana": "せいじんのひ",
+      "romaji": "seijin no hi",
+      "wordClass": "nomina",
+      "meaning": "hari perayaan menjadi dewasa"
+    },
+    {
+      "id": "ch05_062",
+      "chapterId": 5,
+      "order": 62,
+      "kanji": "憲法記念日",
+      "kana": "けんぽうきねんび",
+      "romaji": "kenpou kinenbi",
+      "wordClass": "nomina",
+      "meaning": "hari peringatan konstitusi"
+    },
+    {
+      "id": "ch05_063",
+      "chapterId": 5,
+      "order": 63,
+      "kanji": "みどりの日",
+      "kana": "みどりのひ",
+      "romaji": "midori no hi",
+      "wordClass": "nomina",
+      "meaning": "hari penghijauan"
+    },
+    {
+      "id": "ch05_064",
+      "chapterId": 5,
+      "order": 64,
+      "kanji": "こどもの日",
+      "kana": "こどものひ",
+      "romaji": "kodomo no hi",
+      "wordClass": "nomina",
+      "meaning": "hari anak"
+    },
+    {
+      "id": "ch05_065",
+      "chapterId": 5,
+      "order": 65,
+      "kanji": "山の日",
+      "kana": "やまのひ",
+      "romaji": "yama no hi",
+      "wordClass": "nomina",
+      "meaning": "hari gunung"
+    },
+    {
+      "id": "ch05_066",
+      "chapterId": 5,
+      "order": 66,
+      "kanji": "敬老の日",
+      "kana": "けいろうのひ",
+      "romaji": "keirou no hi",
+      "wordClass": "nomina",
+      "meaning": "hari hormat kepada orang tua"
+    },
+    {
+      "id": "ch05_067",
+      "chapterId": 5,
+      "order": 67,
+      "kanji": "体育の日",
+      "kana": "たいいくのひ",
+      "romaji": "taiiku no hi",
+      "wordClass": "nomina",
+      "meaning": "hari kesehatan olahraga"
+    },
+    {
+      "id": "ch05_068",
+      "chapterId": 5,
+      "order": 68,
+      "kanji": "文化の日",
+      "kana": "ぶんかのひ",
+      "romaji": "bunka no hi",
+      "wordClass": "nomina",
+      "meaning": "hari kebudayaan"
+    },
+    {
+      "id": "ch05_069",
+      "chapterId": 5,
+      "order": 69,
+      "kanji": "勤労感謝の日",
+      "kana": "きんろうかんしゃのひ",
+      "romaji": "kinrou kansha no hi",
+      "wordClass": "nomina",
+      "meaning": "hari bersyukur untuk pekerjaan"
+    },
+    {
+      "id": "ch05_070",
+      "chapterId": 5,
+      "order": 70,
+      "kanji": "天皇誕生日",
+      "kana": "てんのうたんじょうび",
+      "romaji": "tennou tanjoubi",
+      "wordClass": "nomina",
+      "meaning": "hari ulang tahun kaisar"
+    }
+  ],
+  "conversations": [
+    {
+      "id": "ch06_conv01",
+      "chapterId": 6,
+      "order": 1,
+      "title": "Percakapan 1 â€” Kegiatan Sehari-hari",
+      "turns": [
+        {
+          "speaker": "�??まだ",
+          "japanese": "�??�?��?��?�??は �?�?� なに�?? �?べま�?�?�??",
+          "romaji": "Miraa-san wa maiasa nani o tabemasu ka.",
+          "indonesian": "Tuan Miller, setiap pagi makan apa?",
+          "hiragana": "�??�?��?��?�??は ま�?�?�? なに�?? �?べま�?�?�??"
+        },
+        {
+          "speaker": "ãƒŸãƒ©ãƒ¼",
+          "japanese": "�??�?�と �?ま�?�?? �?べま�?�??�?��?��??�?��?? 飲�?ま�?�??�??まだ�?�??は�?",
+          "romaji": "Pan to tamago o tabemasu. Koohii mo nomimasu. Yamada-san wa?",
+          "indonesian": "Saya makan roti dan telur. Minum kopi juga. Yamada?",
+          "hiragana": "�??�?�と �?ま�?�?? �?べま�?�??�?��?��??�?��?? のみま�?�??�??まだ�?�??は�?"
+        },
+        {
+          "speaker": "�??まだ",
+          "japanese": "私は �?は�??と みそ�?�??�?? �?べま�?�??",
+          "romaji": "Watashi wa gohan to misoshiru o tabemasu.",
+          "indonesian": "Saya makan nasi dan sup miso.",
+          "hiragana": "�?��?�?は �?は�??と みそ�?�??�?? �?べま�?�??"
+        }
+      ]
+    },
+    {
+      "id": "ch06_conv02",
+      "chapterId": 6,
+      "order": 2,
+      "title": "Percakapan 2 â€” Sudah Makan?",
+      "turns": [
+        {
+          "speaker": "ã‚«ãƒªãƒŠ",
+          "japanese": "�??�? ひ�??�?は�??�?? �?べま�?�?�?�??",
+          "romaji": "Mou hirugohan o tabemashita ka.",
+          "indonesian": "Sudah makan siang?",
+          "hiragana": "�??�? ひ�??�?は�??�?? �?べま�?�?�?�??"
+        },
+        {
+          "speaker": "ãƒŸãƒ©ãƒ¼",
+          "japanese": "�?�?�?�?�まだで�?�??�?��?��??�?�??は�?",
+          "romaji": "Iie, mada desu. Karina-san wa?",
+          "indonesian": "Belum. Karina?",
+          "hiragana": "�?�?�?�?�まだで�?�??�?��?��??�?�??は�?"
+        },
+        {
+          "speaker": "ã‚«ãƒªãƒŠ",
+          "japanese": "私�?? まだで�?�??�?っ�?�??に �?�?へ �?きま�?�??�?�??",
+          "romaji": "Watashi mo mada desu. Issho ni shokudou e ikimasen ka.",
+          "indonesian": "Saya juga belum. Mau pergi ke kantin bersama?",
+          "hiragana": "�?��?�?�?? まだで�?�??�?っ�?�??に �?�??くど�?へ �?きま�?�??�?�??"
+        },
+        {
+          "speaker": "ãƒŸãƒ©ãƒ¼",
+          "japanese": "�?�?で�?ね�??�?きま�?�??�?�??",
+          "romaji": "Ii desu ne. Ikimashou.",
+          "indonesian": "Bagus. Ayo pergi.",
+          "hiragana": "�?�?で�?ね�??�?きま�?�??�?�??"
+        }
+      ]
+    },
+    {
+      "id": "ch06_conv03",
+      "chapterId": 6,
+      "order": 3,
+      "title": "Percakapan 3 — Makan Apa",
+      "turns": [
+        {
+          "speaker": "やまだ",
+          "japanese": "けさ なにを たべましたか。",
+          "romaji": "Kesa nani o tabemashita ka.",
+          "indonesian": "Tadi pagi makan apa?",
+          "hiragana": "けさ なにを たべましたか。"
+        },
+        {
+          "speaker": "ミラー",
+          "japanese": "パンと たまごを たべました。",
+          "romaji": "Pan to tamago o tabemashita.",
+          "indonesian": "Makan roti dan telur.",
+          "hiragana": "パンと たまごを たべました。"
+        }
+      ]
+    },
+    {
+      "id": "ch06_conv04",
+      "chapterId": 6,
+      "order": 4,
+      "title": "Percakapan 4 — Minum Kopi",
+      "turns": [
+        {
+          "speaker": "カリナ",
+          "japanese": "まいあさ コーヒーを のみますか。",
+          "romaji": "Maiasa koohii o nomimasu ka.",
+          "indonesian": "Setiap pagi minum kopi?",
+          "hiragana": "まいあさ コーヒーを のみますか。"
+        },
+        {
+          "speaker": "ミラー",
+          "japanese": "はい、のみます。",
+          "romaji": "Hai, nomimasu.",
+          "indonesian": "Ya, minum.",
+          "hiragana": "はい、のみます。"
+        }
+      ]
+    },
+    {
+      "id": "ch06_conv05",
+      "chapterId": 6,
+      "order": 5,
+      "title": "Percakapan 5 — Menonton TV",
+      "turns": [
+        {
+          "speaker": "やまだ",
+          "japanese": "まいばん テレビを みますか。",
+          "romaji": "Maiban terebi o mimasu ka.",
+          "indonesian": "Setiap malam menonton TV?",
+          "hiragana": "まいばん テレビを みますか。"
+        },
+        {
+          "speaker": "カリナ",
+          "japanese": "いいえ、あまり みません。",
+          "romaji": "Iie, amari mimasen.",
+          "indonesian": "Tidak, tidak terlalu sering.",
+          "hiragana": "いいえ、あまり みません。"
+        }
+      ]
+    },
+    {
+      "id": "ch06_conv06",
+      "chapterId": 6,
+      "order": 6,
+      "title": "Percakapan 6 — Membaca Buku",
+      "turns": [
+        {
+          "speaker": "ミラー",
+          "japanese": "きのう なにを しましたか。",
+          "romaji": "Kinou nani o shimashita ka.",
+          "indonesian": "Kemarin melakukan apa?",
+          "hiragana": "きのう なにを しましたか。"
+        },
+        {
+          "speaker": "カリナ",
+          "japanese": "うちで ほんを よみました。",
+          "romaji": "Uchi de hon o yomimashita.",
+          "indonesian": "Membaca buku di rumah.",
+          "hiragana": "うちで ほんを よみました。"
+        }
+      ]
+    },
+    {
+      "id": "ch06_conv07",
+      "chapterId": 6,
+      "order": 7,
+      "title": "Percakapan 7 — Menulis Surat",
+      "turns": [
+        {
+          "speaker": "やまだ",
+          "japanese": "なにを かきますか。",
+          "romaji": "Nani o kakimasu ka.",
+          "indonesian": "Menulis apa?",
+          "hiragana": "なにを かきますか。"
+        },
+        {
+          "speaker": "ミラー",
+          "japanese": "てがみを かきます。",
+          "romaji": "Tegami o kakimasu.",
+          "indonesian": "Menulis surat.",
+          "hiragana": "てがみを かきます。"
+        },
+        {
+          "speaker": "やまだ",
+          "japanese": "だれに かきますか。",
+          "romaji": "Dare ni kakimasu ka.",
+          "indonesian": "Menulis untuk siapa?",
+          "hiragana": "だれに かきますか。"
+        },
+        {
+          "speaker": "ミラー",
+          "japanese": "かぞくに かきます。",
+          "romaji": "Kazoku ni kakimasu.",
+          "indonesian": "Untuk keluarga.",
+          "hiragana": "かぞくに かきます。"
+        }
+      ]
+    },
+    {
+      "id": "ch06_conv08",
+      "chapterId": 6,
+      "order": 8,
+      "title": "Percakapan 8 — Membeli Hadiah",
+      "turns": [
+        {
+          "speaker": "カリナ",
+          "japanese": "きのう デパートで なにを かいましたか。",
+          "romaji": "Kinou depaato de nani o kaimashita ka.",
+          "indonesian": "Kemarin beli apa di department store?",
+          "hiragana": "きのう デパートで なにを かいましたか。"
+        },
+        {
+          "speaker": "ミラー",
+          "japanese": "おみやげを かいました。",
+          "romaji": "Omiyage o kaimashita.",
+          "indonesian": "Beli oleh-oleh.",
+          "hiragana": "おみやげを かいました。"
+        }
+      ]
+    },
+    {
+      "id": "ch06_conv09",
+      "chapterId": 6,
+      "order": 9,
+      "title": "Percakapan 9 — Mendengarkan Musik",
+      "turns": [
+        {
+          "speaker": "やまだ",
+          "japanese": "よく おんがくを ききますか。",
+          "romaji": "Yoku ongaku o kikimasu ka.",
+          "indonesian": "Sering mendengarkan musik?",
+          "hiragana": "よく おんがくを ききますか。"
+        },
+        {
+          "speaker": "カリナ",
+          "japanese": "はい、まいにち ききます。",
+          "romaji": "Hai, mainichi kikimasu.",
+          "indonesian": "Ya, setiap hari mendengarkan.",
+          "hiragana": "はい、まいにち ききます。"
+        }
+      ]
+    },
+    {
+      "id": "ch06_conv10",
+      "chapterId": 6,
+      "order": 10,
+      "title": "Percakapan 10 — Mengambil Foto",
+      "turns": [
+        {
+          "speaker": "ミラー",
+          "japanese": "きょうと で しゃしんを とりましたか。",
+          "romaji": "Kyouto de shashin o torimashita ka.",
+          "indonesian": "Apakah mengambil foto di Kyoto?",
+          "hiragana": "きょうと で しゃしんを とりましたか。"
+        },
+        {
+          "speaker": "カリナ",
+          "japanese": "はい、たくさん とりました。",
+          "romaji": "Hai, takusan torimashita.",
+          "indonesian": "Ya, mengambil banyak.",
+          "hiragana": "はい、たくさん とりました。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "id": "ch06_g01",
+      "chapterId": 6,
+      "order": 1,
+      "title": "Partikel ã‚’ (wo) â€” Penanda Objek Langsung",
+      "explanation": "Partikel ã‚’ (dibaca 'o') digunakan untuk menandai objek langsung dari verba transitif â€” yaitu benda atau orang yang dikenai tindakan. Partikel ini selalu diletakkan setelah nomina dan sebelum verba.",
+      "examples": [
+        {
+          "japanese": "�?��?�?は ま�?�?�? �??�?��?? �?べま�?�??",
+          "romaji": "Watashi wa maiasa pan o tabemasu.",
+          "indonesian": "Saya makan roti setiap pagi."
+        },
+        {
+          "japanese": "�?��?��??�?��?? のみま�?�??",
+          "romaji": "Koohii o nomimasu.",
+          "indonesian": "Saya minum kopi."
+        }
+      ]
+    },
+    {
+      "id": "ch06_g02",
+      "chapterId": 6,
+      "order": 2,
+      "title": "Partikel で �?? Tempat Kegiatan",
+      "explanation": "Partikel で menandai tempat di mana suatu kegiatan atau aktivitas dilakukan. Berbeda dengan partikel に yang menandai tempat keberadaan (ada di mana), で menandai lokasi berlangsungnya suatu tindakan.",
+      "examples": [
+        {
+          "japanese": "�?ちで �??�?��??�?? みま�?�??",
+          "romaji": "Uchi de terebi o mimasu.",
+          "indonesian": "Saya menonton TV di rumah."
+        },
+        {
+          "japanese": "と�?�??�?�??で ほ�??�?? �??みま�?�??",
+          "romaji": "Toshokan de hon o yomimasu.",
+          "indonesian": "Saya membaca buku di perpustakaan."
+        }
+      ]
+    },
+    {
+      "id": "ch06_g03",
+      "chapterId": 6,
+      "order": 3,
+      "title": "Pola �??�?�??ま�?�? / まだ�??て�?ま�?�??",
+      "explanation": "Pola ini digunakan untuk menanyakan dan menjawab apakah suatu tindakan sudah dilakukan atau belum. �??�? (mou) berarti 'sudah', digunakan dalam pertanyaan �??�?�??ま�?�?�? dan jawaban positif は�?�?��??�?�??ま�?�?. Untuk jawaban negatif 'belum', digunakan まだ�??て�?ま�?�??.",
+      "examples": [
+        {
+          "japanese": "�??�? ば�??�?は�??�?? �?べま�?�?�?�?? �?? は�?�?��??�? �?べま�?�?�??",
+          "romaji": "Mou bangohan o tabemashita ka. â€” Hai, mou tabemashita.",
+          "indonesian": "Sudahkah makan malam? â€” Ya, sudah makan."
+        },
+        {
+          "japanese": "�??�? �?�??くだ�?�?? �?ま�?�?�?�?? �?? �?�?�?�?�まだ �?て�?ま�?�??�??",
+          "romaji": "Mou shukudai o shimashita ka. â€” Iie, mada shite imasen.",
+          "indonesian": "Sudahkah mengerjakan PR? â€” Belum, belum dikerjakan."
+        }
+      ]
+    }
+  ],
+  "patterns": [
+    {
+      "id": "ch06_p01",
+      "chapterId": 6,
+      "order": 1,
+      "pattern": "N ã‚’ V",
+      "explanation": "Partikel ã‚’ (wo/o) menandai objek langsung dari suatu tindakan. Digunakan sebelum verba transitif untuk menunjukkan apa yang dikenai tindakan.",
+      "examples": [
+        {
+          "japanese": "�?��?�?は ま�?�?�? �??�?��?? �?べま�?�??",
+          "romaji": "Watashi wa maiasa pan o tabemasu.",
+          "indonesian": "Saya makan roti setiap pagi."
+        },
+        {
+          "japanese": "�?��?��??�?��?? のみま�?�??",
+          "romaji": "Koohii o nomimasu.",
+          "indonesian": "Saya minum kopi."
+        }
+      ]
+    },
+    {
+      "id": "ch06_p02",
+      "chapterId": 6,
+      "order": 2,
+      "pattern": "N で V",
+      "explanation": "Partikel で (de) menandai tempat di mana suatu kegiatan dilakukan. Berbeda dengan に yang menandai keberadaan, で menandai lokasi aktivitas.",
+      "examples": [
+        {
+          "japanese": "�?ちで �??�?��??�?? みま�?�??",
+          "romaji": "Uchi de terebi o mimasu.",
+          "indonesian": "Saya menonton TV di rumah."
+        },
+        {
+          "japanese": "と�?�??�?�??で ほ�??�?? �??みま�?�??",
+          "romaji": "Toshokan de hon o yomimasu.",
+          "indonesian": "Saya membaca buku di perpustakaan."
+        }
+      ]
+    },
+    {
+      "id": "ch06_p03",
+      "chapterId": 6,
+      "order": 3,
+      "pattern": "�??�? V ま�?�?�?",
+      "explanation": "Pola pertanyaan untuk menanyakan apakah suatu tindakan sudah dilakukan. �??�? (mou) berarti 'sudah'. Jawaban positif: は�?�?��??�? V ま�?�?. Jawaban negatif: �?�?�?�?�まだで�?.",
+      "examples": [
+        {
+          "japanese": "�??�? ば�??�?は�??�?? �?べま�?�?�?�??",
+          "romaji": "Mou bangohan o tabemashita ka.",
+          "indonesian": "Sudahkah makan malam?"
+        },
+        {
+          "japanese": "�??�? �?�??くだ�?�?? �?ま�?�?�?�??",
+          "romaji": "Mou shukudai o shimashita ka.",
+          "indonesian": "Sudahkah mengerjakan PR?"
+        }
+      ]
+    },
+    {
+      "id": "ch06_p04",
+      "chapterId": 6,
+      "order": 4,
+      "pattern": "まだ V て�?ま�?�??",
+      "explanation": "Pola untuk menyatakan bahwa suatu tindakan belum dilakukan. まだ (mada) berarti 'belum/masih'. Digunakan sebagai jawaban negatif untuk pertanyaan �??�?�?ま�?�?�?.",
+      "examples": [
+        {
+          "japanese": "まだ �?べて�?ま�?�??�??",
+          "romaji": "Mada tabete imasen.",
+          "indonesian": "Belum makan."
+        },
+        {
+          "japanese": "まだ �?�??くだ�?�?? �?て�?ま�?�??�??",
+          "romaji": "Mada shukudai o shite imasen.",
+          "indonesian": "Belum mengerjakan PR."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "ch06_q001",
+      "chapterId": 6,
+      "order": 1,
+      "question": "Apa arti dari 'たべます' (tabemasu)?",
+      "choices": [
+        "minum",
+        "makan",
+        "tidur",
+        "bangun"
+      ],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch06_q002",
+      "chapterId": 6,
+      "order": 2,
+      "question": "Apa arti dari 'のみます' (nomimasu)?",
+      "choices": [
+        "makan",
+        "minum",
+        "membaca",
+        "menulis"
+      ],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch06_q003",
+      "chapterId": 6,
+      "order": 3,
+      "question": "Apa arti dari 'みます' (mimasu)?",
+      "choices": [
+        "mendengar",
+        "melihat/menonton",
+        "membaca",
+        "menulis"
+      ],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch06_q004",
+      "chapterId": 6,
+      "order": 4,
+      "question": "Apa arti dari 'ききます' (kikimasu)?",
+      "choices": [
+        "melihat",
+        "mendengar",
+        "berbicara",
+        "menulis"
+      ],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch06_q005",
+      "chapterId": 6,
+      "order": 5,
+      "question": "Apa arti dari 'よみます' (yomimasu)?",
+      "choices": [
+        "menulis",
+        "membaca",
+        "mendengar",
+        "berbicara"
+      ],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch06_q006",
+      "chapterId": 6,
+      "order": 6,
+      "question": "Apa arti dari 'かきます' (kakimasu)?",
+      "choices": [
+        "membaca",
+        "menulis/menggambar",
+        "mendengar",
+        "melihat"
+      ],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch06_q007",
+      "chapterId": 6,
+      "order": 7,
+      "question": "Apa arti dari 'かいます' (kaimasu)?",
+      "choices": [
+        "menjual",
+        "membeli",
+        "memberikan",
+        "menerima"
+      ],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch06_q008",
+      "chapterId": 6,
+      "order": 8,
+      "question": "Apa arti dari 'あさごはん' (asagohan)?",
+      "choices": [
+        "makan siang",
+        "sarapan",
+        "makan malam",
+        "camilan"
+      ],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch06_q009",
+      "chapterId": 6,
+      "order": 9,
+      "question": "Apa arti dari 'ひるごはん' (hirugohan)?",
+      "choices": [
+        "sarapan",
+        "makan siang",
+        "makan malam",
+        "camilan"
+      ],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch06_q010",
+      "chapterId": 6,
+      "order": 10,
+      "question": "Apa arti dari 'ばんごはん' (bangohan)?",
+      "choices": [
+        "sarapan",
+        "makan siang",
+        "makan malam",
+        "camilan"
+      ],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch06_q011",
+      "chapterId": 6,
+      "order": 11,
+      "question": "Partikel apa yang digunakan untuk menunjukkan objek langsung?",
+      "choices": [
+        "は (wa)",
+        "を (wo)",
+        "に (ni)",
+        "で (de)"
+      ],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch06_q012",
+      "chapterId": 6,
+      "order": 12,
+      "question": "Lengkapi kalimat: パンを ___。(makan roti)",
+      "choices": [
+        "のみます",
+        "たべます",
+        "よみます",
+        "かきます"
+      ],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch06_q013",
+      "chapterId": 6,
+      "order": 13,
+      "question": "Partikel apa yang digunakan untuk menunjukkan tempat melakukan aktivitas?",
+      "choices": [
+        "に (ni)",
+        "で (de)",
+        "を (wo)",
+        "と (to)"
+      ],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch06_q014",
+      "chapterId": 6,
+      "order": 14,
+      "question": "Lengkapi kalimat: レストラン___ ごはんを たべます。",
+      "choices": [
+        "に",
+        "で",
+        "を",
+        "と"
+      ],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch06_q015",
+      "chapterId": 6,
+      "order": 15,
+      "question": "Bagaimana cara mengatakan 'bersama-sama' dalam bahasa Jepang?",
+      "choices": [
+        "ひとりで (hitori de)",
+        "いっしょに (issho ni)",
+        "ときどき (tokidoki)",
+        "いつも (itsumo)"
+      ],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch06_q016",
+      "chapterId": 6,
+      "order": 16,
+      "question": "Apa arti dari 'いつも' (itsumo)?",
+      "choices": [
+        "kadang-kadang",
+        "selalu",
+        "sering",
+        "jarang"
+      ],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch06_q017",
+      "chapterId": 6,
+      "order": 17,
+      "question": "Apa arti dari 'ときどき' (tokidoki)?",
+      "choices": [
+        "selalu",
+        "kadang-kadang",
+        "tidak pernah",
+        "setiap hari"
+      ],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch06_q018",
+      "chapterId": 6,
+      "order": 18,
+      "question": "Kata tanya apa yang digunakan untuk menanyakan 'apa'?",
+      "choices": [
+        "だれ (dare)",
+        "なに/なん (nani/nan)",
+        "どこ (doko)",
+        "いつ (itsu)"
+      ],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch06_q019",
+      "chapterId": 6,
+      "order": 19,
+      "question": "Bagaimana cara mengatakan 'setelah itu' dalam bahasa Jepang?",
+      "choices": [
+        "それから (sorekara)",
+        "そして (soshite)",
+        "でも (demo)",
+        "だから (dakara)"
+      ],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch06_q020",
+      "chapterId": 6,
+      "order": 20,
+      "question": "Apa arti dari 'ちょっと' (chotto)?",
+      "choices": [
+        "banyak",
+        "sebentar/sedikit",
+        "sangat",
+        "selalu"
+      ],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch06_q021",
+      "chapterId": 6,
+      "order": 21,
+      "question": "Bacalah: 'まいあさ パンと コーヒーを のみます。' Apa yang diminum pembicara setiap pagi?",
+      "choices": [
+        "teh",
+        "kopi",
+        "susu",
+        "jus"
+      ],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch06_q022",
+      "chapterId": 6,
+      "order": 22,
+      "question": "Bacalah: 'きのう レストランで ばんごはんを たべました。' Di mana pembicara makan malam kemarin?",
+      "choices": [
+        "di rumah",
+        "di restoran",
+        "di sekolah",
+        "di kantor"
+      ],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch06_q023",
+      "chapterId": 6,
+      "order": 23,
+      "question": "Bacalah: 'まいばん テレビを みます。' Apa yang dilakukan pembicara setiap malam?",
+      "choices": [
+        "membaca buku",
+        "menonton TV",
+        "mendengar musik",
+        "menulis surat"
+      ],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch06_q024",
+      "chapterId": 6,
+      "order": 24,
+      "question": "Bacalah: 'ともだちと いっしょに えいがを みました。' Dengan siapa pembicara menonton film?",
+      "choices": [
+        "sendirian",
+        "dengan teman",
+        "dengan keluarga",
+        "dengan guru"
+      ],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch06_q025",
+      "chapterId": 6,
+      "order": 25,
+      "question": "Bacalah: 'としょかんで ほんを よみます。' Di mana pembicara membaca buku?",
+      "choices": [
+        "di rumah",
+        "di perpustakaan",
+        "di taman",
+        "di kafe"
+      ],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch06_q026",
+      "chapterId": 6,
+      "order": 26,
+      "question": "A: 'なにを たべますか。' B: '___' Jawaban yang tepat:",
+      "choices": [
+        "レストランで たべます。",
+        "パンを たべます。",
+        "7じに たべます。",
+        "ともだちと たべます。"
+      ],
+      "correctIndex": 1,
+      "category": "conversation"
+    },
+    {
+      "id": "ch06_q027",
+      "chapterId": 6,
+      "order": 27,
+      "question": "A: 'どこで ひるごはんを たべますか。' B: '___' Jawaban yang tepat:",
+      "choices": [
+        "12じに たべます。",
+        "しょくどうで たべます。",
+        "パンを たべます。",
+        "ひとりで たべます。"
+      ],
+      "correctIndex": 1,
+      "category": "conversation"
+    },
+    {
+      "id": "ch06_q028",
+      "chapterId": 6,
+      "order": 28,
+      "question": "A: 'なにを のみますか。' B: '___' Jawaban yang tepat:",
+      "choices": [
+        "うちで のみます。",
+        "コーヒーを のみます。",
+        "まいあさ のみます。",
+        "ともだちと のみます。"
+      ],
+      "correctIndex": 1,
+      "category": "conversation"
+    },
+    {
+      "id": "ch06_q029",
+      "chapterId": 6,
+      "order": 29,
+      "question": "A: 'だれと えいがを みますか。' B: '___' Jawaban yang tepat:",
+      "choices": [
+        "えいがかんで みます。",
+        "ともだちと みます。",
+        "7じに みます。",
+        "にほんの えいがを みます。"
+      ],
+      "correctIndex": 1,
+      "category": "conversation"
+    },
+    {
+      "id": "ch06_q030",
+      "chapterId": 6,
+      "order": 30,
+      "question": "A: 'しゅくだいを しましたか。' B: '___' Jawaban yang tepat:",
+      "choices": [
+        "はい、しました。",
+        "はい、します。",
+        "はい、しています。",
+        "はい、しましょう。"
+      ],
+      "correctIndex": 0,
+      "category": "conversation"
+    },
+    {
+      "id": "ch06_q031",
+      "chapterId": 6,
+      "order": 31,
+      "question": "Apa arti dari 'さかな' (sakana)?",
+      "choices": [
+        "daging",
+        "ikan",
+        "sayur",
+        "buah"
+      ],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch06_q032",
+      "chapterId": 6,
+      "order": 32,
+      "question": "Apa arti dari 'やさい' (yasai)?",
+      "choices": [
+        "daging",
+        "ikan",
+        "sayur",
+        "buah"
+      ],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch06_q033",
+      "chapterId": 6,
+      "order": 33,
+      "question": "Apa arti dari 'くだもの' (kudamono)?",
+      "choices": [
+        "sayur",
+        "buah-buahan",
+        "daging",
+        "ikan"
+      ],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch06_q034",
+      "chapterId": 6,
+      "order": 34,
+      "question": "Apa arti dari 'みず' (mizu)?",
+      "choices": [
+        "teh",
+        "air",
+        "kopi",
+        "susu"
+      ],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch06_q035",
+      "chapterId": 6,
+      "order": 35,
+      "question": "Apa arti dari 'おちゃ' (ocha)?",
+      "choices": [
+        "kopi",
+        "teh jepang (teh hijau)",
+        "susu",
+        "jus"
+      ],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch06_q036",
+      "chapterId": 6,
+      "order": 36,
+      "question": "Apa arti dari 'せんせい' (sensei)?",
+      "choices": [
+        "pelajar",
+        "guru/dosen",
+        "dokter",
+        "karyawan"
+      ],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch06_q037",
+      "chapterId": 6,
+      "order": 37,
+      "question": "Apa arti dari 'かばん' (kaban)?",
+      "choices": [
+        "buku",
+        "tas",
+        "pensil",
+        "meja"
+      ],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch06_q038",
+      "chapterId": 6,
+      "order": 38,
+      "question": "Apa arti dari 'おきます' (okimasu)?",
+      "choices": [
+        "tidur",
+        "bangun",
+        "makan",
+        "minum"
+      ],
+      "correctIndex": 1,
+      "category": "conversation"
+    },
+    {
+      "id": "ch06_q039",
+      "chapterId": 6,
+      "order": 39,
+      "question": "Apa arti dari 'やすみます' (yasumimasu)?",
+      "choices": [
+        "bekerja",
+        "istirahat",
+        "belajar",
+        "bermain"
+      ],
+      "correctIndex": 1,
+      "category": "conversation"
+    },
+    {
+      "id": "ch06_q040",
+      "chapterId": 6,
+      "order": 40,
+      "question": "Apa arti dari 'えき' (eki)?",
+      "choices": [
+        "bandara",
+        "stasiun",
+        "pelabuhan",
+        "terminal"
+      ],
+      "correctIndex": 1,
+      "category": "conversation"
+    },
+    {
+      "id": "ch06_q041",
+      "chapterId": 6,
+      "order": 41,
+      "question": "Bagaimana cara mengatakan 'ini' dalam bahasa Jepang?",
+      "choices": [
+        "それ (sore)",
+        "これ (kore)",
+        "あれ (are)",
+        "どれ (dore)"
+      ],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch06_q042",
+      "chapterId": 6,
+      "order": 42,
+      "question": "Lengkapi kalimat: これは わたし___ ほんです。",
+      "choices": [
+        "は",
+        "の",
+        "を",
+        "に"
+      ],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch06_q043",
+      "chapterId": 6,
+      "order": 43,
+      "question": "Bagaimana cara mengatakan 'jam 7' dalam bahasa Jepang?",
+      "choices": [
+        "しちじ (shichiji)",
+        "ななじ (nanaji)",
+        "ひちじ (hichiji)",
+        "A dan B benar"
+      ],
+      "correctIndex": 3,
+      "category": "grammar"
+    },
+    {
+      "id": "ch06_q044",
+      "chapterId": 6,
+      "order": 44,
+      "question": "Partikel apa yang digunakan untuk menunjukkan waktu spesifik?",
+      "choices": [
+        "で (de)",
+        "に (ni)",
+        "を (wo)",
+        "と (to)"
+      ],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch06_q045",
+      "chapterId": 6,
+      "order": 45,
+      "question": "Lengkapi kalimat: でんしゃ___ がっこうに いきます。",
+      "choices": [
+        "に",
+        "で",
+        "を",
+        "と"
+      ],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch06_q046",
+      "chapterId": 6,
+      "order": 46,
+      "question": "Bacalah: 'それは だれの ペンですか。' Apa yang ditanyakan dalam kalimat ini?",
+      "choices": [
+        "Apa itu?",
+        "Pena siapa itu?",
+        "Di mana pena?",
+        "Berapa harga pena?"
+      ],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch06_q047",
+      "chapterId": 6,
+      "order": 47,
+      "question": "Bacalah: 'まいばん 11じに ねます。' Jam berapa pembicara tidur?",
+      "choices": [
+        "jam 10",
+        "jam 11",
+        "jam 12",
+        "jam 1"
+      ],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch06_q048",
+      "chapterId": 6,
+      "order": 48,
+      "question": "Bacalah: 'きのう デパートで かいものを しました。' Apa yang dilakukan pembicara kemarin?",
+      "choices": [
+        "belajar",
+        "berbelanja",
+        "bekerja",
+        "istirahat"
+      ],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch06_q049",
+      "chapterId": 6,
+      "order": 49,
+      "question": "A: 'いつ にほんに きましたか。' B: '___' Jawaban yang tepat:",
+      "choices": [
+        "ひこうきで きました。",
+        "せんげつ きました。",
+        "ともだちと きました。",
+        "とうきょうに きました。"
+      ],
+      "correctIndex": 1,
+      "category": "conversation"
+    },
+    {
+      "id": "ch06_q050",
+      "chapterId": 6,
+      "order": 50,
+      "question": "A: 'たんじょうびは いつですか。' B: '___' Jawaban yang tepat:",
+      "choices": [
+        "25さいです。",
+        "8がつ 10にちです。",
+        "きょうです。",
+        "にほんです。"
+      ],
+      "correctIndex": 1,
+      "category": "conversation"
+    }
+  ]
+}

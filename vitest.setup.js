@@ -20,3 +20,12 @@ const localStorageMock = (() => {
 })();
 
 global.localStorage = localStorageMock;
+
+// Load furigana utilities for tests
+import * as kanjiParser from './js/utils/kanjiParser.js';
+import * as vocabularyMatcher from './js/utils/vocabularyMatcher.js';
+
+// Make utilities available globally
+global.window = global.window || {};
+global.window.kanjiParserUtils = kanjiParser;
+global.window.vocabularyMatcherUtils = vocabularyMatcher;

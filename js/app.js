@@ -4,6 +4,9 @@ import { renderChapterDetail } from './pages/chapterDetail.js';
 import { renderProgressDetail } from './pages/progressDetail.js';
 import { fetchAllChaptersData } from './data.js';
 
+// Load furigana utilities for conversation module
+import './utils/furiganaUtils.js';
+
 async function router() {
   const appContainer = document.getElementById('app');
   const hash = window.location.hash;

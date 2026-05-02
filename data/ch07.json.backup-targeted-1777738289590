@@ -1,0 +1,1879 @@
+{
+  "chapter": {
+    "id": 7,
+    "title": "日曜日に 何を しますか",
+    "titleRomaji": "Nichiyoubi ni nani o shimasu ka",
+    "titleId": "Apa yang Anda lakukan pada hari Minggu?"
+  },
+  "vocabulary": [
+    {
+      "id": "ch07_001",
+      "chapterId": 7,
+      "order": 1,
+      "kanji": "切ります",
+      "kana": "きります",
+      "romaji": "kirimasu",
+      "wordClass": "verba",
+      "meaning": "memotong, menggunting"
+    },
+    {
+      "id": "ch07_002",
+      "chapterId": 7,
+      "order": 2,
+      "kanji": "送ります",
+      "kana": "おくります",
+      "romaji": "okurimasu",
+      "wordClass": "verba",
+      "meaning": "mengirim"
+    },
+    {
+      "id": "ch07_003",
+      "chapterId": 7,
+      "order": 3,
+      "kanji": "あげます",
+      "kana": "あげます",
+      "romaji": "agemasu",
+      "wordClass": "verba",
+      "meaning": "memberikan"
+    },
+    {
+      "id": "ch07_004",
+      "chapterId": 7,
+      "order": 4,
+      "kanji": "もらいます",
+      "kana": "もらいます",
+      "romaji": "moraimasu",
+      "wordClass": "verba",
+      "meaning": "mendapatkan, menerima"
+    },
+    {
+      "id": "ch07_005",
+      "chapterId": 7,
+      "order": 5,
+      "kanji": "貸します",
+      "kana": "かします",
+      "romaji": "kashimasu",
+      "wordClass": "verba",
+      "meaning": "meminjamkan, menyewakan"
+    },
+    {
+      "id": "ch07_006",
+      "chapterId": 7,
+      "order": 6,
+      "kanji": "借ります",
+      "kana": "かります",
+      "romaji": "karimasu",
+      "wordClass": "verba",
+      "meaning": "meminam, menyewa"
+    },
+    {
+      "id": "ch07_007",
+      "chapterId": 7,
+      "order": 7,
+      "kanji": "教えます",
+      "kana": "おしえます",
+      "romaji": "oshiemasu",
+      "wordClass": "verba",
+      "meaning": "mengajar"
+    },
+    {
+      "id": "ch07_008",
+      "chapterId": 7,
+      "order": 8,
+      "kanji": "習います",
+      "kana": "ならいます",
+      "romaji": "naraimasu",
+      "wordClass": "verba",
+      "meaning": "belajar (kepada)"
+    },
+    {
+      "id": "ch07_009",
+      "chapterId": 7,
+      "order": 9,
+      "kanji": "電話をかけます",
+      "kana": "でんわをかけます",
+      "romaji": "denwa o kakemasu",
+      "wordClass": "verba",
+      "meaning": "menelepon"
+    },
+    {
+      "id": "ch07_010",
+      "chapterId": 7,
+      "order": 10,
+      "kanji": "手",
+      "kana": "て",
+      "romaji": "te",
+      "wordClass": "nomina",
+      "meaning": "tangan"
+    },
+    {
+      "id": "ch07_011",
+      "chapterId": 7,
+      "order": 11,
+      "kanji": "はし",
+      "kana": "はし",
+      "romaji": "hashi",
+      "wordClass": "nomina",
+      "meaning": "sumpit"
+    },
+    {
+      "id": "ch07_012",
+      "chapterId": 7,
+      "order": 12,
+      "kanji": "スプーン",
+      "kana": "スプーン",
+      "romaji": "supuun",
+      "wordClass": "nomina",
+      "meaning": "sendok"
+    },
+    {
+      "id": "ch07_013",
+      "chapterId": 7,
+      "order": 13,
+      "kanji": "ナイフ",
+      "kana": "ナイフ",
+      "romaji": "naifu",
+      "wordClass": "nomina",
+      "meaning": "pisau"
+    },
+    {
+      "id": "ch07_014",
+      "chapterId": 7,
+      "order": 14,
+      "kanji": "フォーク",
+      "kana": "フォーク",
+      "romaji": "fooku",
+      "wordClass": "nomina",
+      "meaning": "garpu"
+    },
+    {
+      "id": "ch07_015",
+      "chapterId": 7,
+      "order": 15,
+      "kanji": "はさみ",
+      "kana": "はさみ",
+      "romaji": "hasami",
+      "wordClass": "nomina",
+      "meaning": "gunting"
+    },
+    {
+      "id": "ch07_016",
+      "chapterId": 7,
+      "order": 16,
+      "kanji": "パソコン",
+      "kana": "パソコン",
+      "romaji": "pasokon",
+      "wordClass": "nomina",
+      "meaning": "laptop"
+    },
+    {
+      "id": "ch07_017",
+      "chapterId": 7,
+      "order": 17,
+      "kanji": "ケータイ",
+      "kana": "ケータイ",
+      "romaji": "keitai",
+      "wordClass": "nomina",
+      "meaning": "handphone"
+    },
+    {
+      "id": "ch07_018",
+      "chapterId": 7,
+      "order": 18,
+      "kanji": "メール",
+      "kana": "メール",
+      "romaji": "meeru",
+      "wordClass": "nomina",
+      "meaning": "email"
+    },
+    {
+      "id": "ch07_019",
+      "chapterId": 7,
+      "order": 19,
+      "kanji": "年賀状",
+      "kana": "ねんがじょう",
+      "romaji": "nengajou",
+      "wordClass": "nomina",
+      "meaning": "kartu tahun baru"
+    },
+    {
+      "id": "ch07_020",
+      "chapterId": 7,
+      "order": 20,
+      "kanji": "パンチ",
+      "kana": "パンチ",
+      "romaji": "panchi",
+      "wordClass": "nomina",
+      "meaning": "pelubang kertas"
+    },
+    {
+      "id": "ch07_021",
+      "chapterId": 7,
+      "order": 21,
+      "kanji": "ホッチキス",
+      "kana": "ホッチキス",
+      "romaji": "hotchikisu",
+      "wordClass": "nomina",
+      "meaning": "stapler"
+    },
+    {
+      "id": "ch07_022",
+      "chapterId": 7,
+      "order": 22,
+      "kanji": "セロテープ",
+      "kana": "セロテープ",
+      "romaji": "seroteepu",
+      "wordClass": "nomina",
+      "meaning": "selotip"
+    },
+    {
+      "id": "ch07_023",
+      "chapterId": 7,
+      "order": 23,
+      "kanji": "消しゴム",
+      "kana": "けしゴム",
+      "romaji": "keshigomu",
+      "wordClass": "nomina",
+      "meaning": "penghapus karet"
+    },
+    {
+      "id": "ch07_024",
+      "chapterId": 7,
+      "order": 24,
+      "kanji": "紙",
+      "kana": "かみ",
+      "romaji": "kami",
+      "wordClass": "nomina",
+      "meaning": "kertas"
+    },
+    {
+      "id": "ch07_025",
+      "chapterId": 7,
+      "order": 25,
+      "kanji": "花",
+      "kana": "はな",
+      "romaji": "hana",
+      "wordClass": "nomina",
+      "meaning": "bunga"
+    },
+    {
+      "id": "ch07_026",
+      "chapterId": 7,
+      "order": 26,
+      "kanji": "シャツ",
+      "kana": "シャツ",
+      "romaji": "shatsu",
+      "wordClass": "nomina",
+      "meaning": "kemeja"
+    },
+    {
+      "id": "ch07_027",
+      "chapterId": 7,
+      "order": 27,
+      "kanji": "プレゼント",
+      "kana": "プレゼント",
+      "romaji": "purezento",
+      "wordClass": "nomina",
+      "meaning": "kado, hadiah"
+    },
+    {
+      "id": "ch07_028",
+      "chapterId": 7,
+      "order": 28,
+      "kanji": "荷物",
+      "kana": "にもつ",
+      "romaji": "nimotsu",
+      "wordClass": "nomina",
+      "meaning": "barang"
+    },
+    {
+      "id": "ch07_029",
+      "chapterId": 7,
+      "order": 29,
+      "kanji": "お金",
+      "kana": "おかね",
+      "romaji": "okane",
+      "wordClass": "nomina",
+      "meaning": "uang"
+    },
+    {
+      "id": "ch07_030",
+      "chapterId": 7,
+      "order": 30,
+      "kanji": "切符",
+      "kana": "きっぷ",
+      "romaji": "kippu",
+      "wordClass": "nomina",
+      "meaning": "karcis"
+    },
+    {
+      "id": "ch07_031",
+      "chapterId": 7,
+      "order": 31,
+      "kanji": "クリスマス",
+      "kana": "クリスマス",
+      "romaji": "kurisumasu",
+      "wordClass": "nomina",
+      "meaning": "natal"
+    },
+    {
+      "id": "ch07_032",
+      "chapterId": 7,
+      "order": 32,
+      "kanji": "父",
+      "kana": "ちち",
+      "romaji": "chichi",
+      "wordClass": "nomina",
+      "meaning": "bapak, ayah"
+    },
+    {
+      "id": "ch07_033",
+      "chapterId": 7,
+      "order": 33,
+      "kanji": "母",
+      "kana": "はは",
+      "romaji": "haha",
+      "wordClass": "nomina",
+      "meaning": "ibu"
+    },
+    {
+      "id": "ch07_034",
+      "chapterId": 7,
+      "order": 34,
+      "kanji": "お父さん",
+      "kana": "おとうさん",
+      "romaji": "otousan",
+      "wordClass": "nomina",
+      "meaning": "bapak, ayah (ayah orang lain, dan digunakan untuk bapak kandung sendiri juga ketika memanggilnya)"
+    },
+    {
+      "id": "ch07_035",
+      "chapterId": 7,
+      "order": 35,
+      "kanji": "お母さん",
+      "kana": "おかあさん",
+      "romaji": "okaasan",
+      "wordClass": "nomina",
+      "meaning": "ibu (ibu orang lain, dan digunakan untuk ibu kandung sendiri juga ketika memanggilnya)"
+    },
+    {
+      "id": "ch07_036",
+      "chapterId": 7,
+      "order": 36,
+      "kanji": "もう",
+      "kana": "もう",
+      "romaji": "mou",
+      "wordClass": "adverbia",
+      "meaning": "sudah"
+    },
+    {
+      "id": "ch07_037",
+      "chapterId": 7,
+      "order": 37,
+      "kanji": "まだ",
+      "kana": "まだ",
+      "romaji": "mada",
+      "wordClass": "adverbia",
+      "meaning": "belum"
+    },
+    {
+      "id": "ch07_038",
+      "chapterId": 7,
+      "order": 38,
+      "kanji": "これから",
+      "kana": "これから",
+      "romaji": "korekara",
+      "wordClass": "adverbia",
+      "meaning": "mulai dari sekarang"
+    },
+    {
+      "id": "ch07_039",
+      "chapterId": 7,
+      "order": 39,
+      "kanji": "すてきですね",
+      "kana": "すてきですね",
+      "romaji": "suteki desu ne",
+      "wordClass": "ungkapan",
+      "meaning": "~bagus ya/~indah ya"
+    },
+    {
+      "id": "ch07_040",
+      "chapterId": 7,
+      "order": 40,
+      "kanji": "いらっしゃい",
+      "kana": "いらっしゃい",
+      "romaji": "irasshai",
+      "wordClass": "ungkapan",
+      "meaning": "selamat datang"
+    },
+    {
+      "id": "ch07_041",
+      "chapterId": 7,
+      "order": 41,
+      "kanji": "どうぞお上がりください",
+      "kana": "どうぞおあがりください",
+      "romaji": "douzo oagari kudasai",
+      "wordClass": "ungkapan",
+      "meaning": "silahkan masuk"
+    },
+    {
+      "id": "ch07_042",
+      "chapterId": 7,
+      "order": 42,
+      "kanji": "失礼します",
+      "kana": "しつれいします",
+      "romaji": "shitsurei shimasu",
+      "wordClass": "ungkapan",
+      "meaning": "shitsureishimasu"
+    },
+    {
+      "id": "ch07_043",
+      "chapterId": 7,
+      "order": 43,
+      "kanji": "いかがですか",
+      "kana": "いかがですか",
+      "romaji": "ikaga desu ka",
+      "wordClass": "ungkapan",
+      "meaning": "bagaimana? (menawarkan sesuatu)"
+    },
+    {
+      "id": "ch07_044",
+      "chapterId": 7,
+      "order": 44,
+      "kanji": "いただきます",
+      "kana": "いただきます",
+      "romaji": "itadakimasu",
+      "wordClass": "ungkapan",
+      "meaning": "selamat makan"
+    },
+    {
+      "id": "ch07_045",
+      "chapterId": 7,
+      "order": 45,
+      "kanji": "ごちそうさまでした",
+      "kana": "ごちそうさまでした",
+      "romaji": "gochisousama deshita",
+      "wordClass": "ungkapan",
+      "meaning": "terima kasih atas hidangannya"
+    },
+    {
+      "id": "ch07_046",
+      "chapterId": 7,
+      "order": 46,
+      "kanji": "スペイン",
+      "kana": "スペイン",
+      "romaji": "supein",
+      "wordClass": "nomina",
+      "meaning": "spanyol"
+    },
+    {
+      "id": "ch07_047",
+      "chapterId": 7,
+      "order": 47,
+      "kanji": "家族",
+      "kana": "かぞく",
+      "romaji": "kazoku",
+      "wordClass": "nomina",
+      "meaning": "keluarga"
+    },
+    {
+      "id": "ch07_048",
+      "chapterId": 7,
+      "order": 48,
+      "kanji": "祖母",
+      "kana": "そぼ",
+      "romaji": "sobo",
+      "wordClass": "nomina",
+      "meaning": "nenek"
+    },
+    {
+      "id": "ch07_049",
+      "chapterId": 7,
+      "order": 49,
+      "kanji": "祖父",
+      "kana": "そふ",
+      "romaji": "sofu",
+      "wordClass": "nomina",
+      "meaning": "kakek"
+    },
+    {
+      "id": "ch07_050",
+      "chapterId": 7,
+      "order": 50,
+      "kanji": "祖父母",
+      "kana": "そふぼ",
+      "romaji": "sofubo",
+      "wordClass": "nomina",
+      "meaning": "kakek nenek"
+    },
+    {
+      "id": "ch07_051",
+      "chapterId": 7,
+      "order": 51,
+      "kanji": "両親",
+      "kana": "りょうしん",
+      "romaji": "ryoushin",
+      "wordClass": "nomina",
+      "meaning": "orang tua"
+    },
+    {
+      "id": "ch07_052",
+      "chapterId": 7,
+      "order": 52,
+      "kanji": "妹",
+      "kana": "いもうと",
+      "romaji": "imouto",
+      "wordClass": "nomina",
+      "meaning": "adik perempuan"
+    },
+    {
+      "id": "ch07_053",
+      "chapterId": 7,
+      "order": 53,
+      "kanji": "弟",
+      "kana": "おとうと",
+      "romaji": "otouto",
+      "wordClass": "nomina",
+      "meaning": "adik laki-laki"
+    },
+    {
+      "id": "ch07_054",
+      "chapterId": 7,
+      "order": 54,
+      "kanji": "姉",
+      "kana": "あね",
+      "romaji": "ane",
+      "wordClass": "nomina",
+      "meaning": "kakak perempuan"
+    },
+    {
+      "id": "ch07_055",
+      "chapterId": 7,
+      "order": 55,
+      "kanji": "兄",
+      "kana": "あに",
+      "romaji": "ani",
+      "wordClass": "nomina",
+      "meaning": "kakak laki-laki"
+    },
+    {
+      "id": "ch07_056",
+      "chapterId": 7,
+      "order": 56,
+      "kanji": "兄弟",
+      "kana": "きょうだい",
+      "romaji": "kyoudai",
+      "wordClass": "nomina",
+      "meaning": "saudara kandung"
+    },
+    {
+      "id": "ch07_057",
+      "chapterId": 7,
+      "order": 57,
+      "kanji": "妻",
+      "kana": "つま",
+      "romaji": "tsuma",
+      "wordClass": "nomina",
+      "meaning": "tsuma"
+    },
+    {
+      "id": "ch07_058",
+      "chapterId": 7,
+      "order": 58,
+      "kanji": "夫",
+      "kana": "おっと",
+      "romaji": "otto",
+      "wordClass": "nomina",
+      "meaning": "suami"
+    },
+    {
+      "id": "ch07_059",
+      "chapterId": 7,
+      "order": 59,
+      "kanji": "夫婦",
+      "kana": "ふうふ",
+      "romaji": "fuufu",
+      "wordClass": "nomina",
+      "meaning": "pasangan suami istri"
+    },
+    {
+      "id": "ch07_060",
+      "chapterId": 7,
+      "order": 60,
+      "kanji": "娘",
+      "kana": "むすめ",
+      "romaji": "musume",
+      "wordClass": "nomina",
+      "meaning": "anak perempuan"
+    },
+    {
+      "id": "ch07_061",
+      "chapterId": 7,
+      "order": 61,
+      "kanji": "息子",
+      "kana": "むすこ",
+      "romaji": "musuko",
+      "wordClass": "nomina",
+      "meaning": "anak laki-laki"
+    },
+    {
+      "id": "ch07_062",
+      "chapterId": 7,
+      "order": 62,
+      "kanji": "子供",
+      "kana": "こども",
+      "romaji": "kodomo",
+      "wordClass": "nomina",
+      "meaning": "anak"
+    },
+    {
+      "id": "ch07_063",
+      "chapterId": 7,
+      "order": 63,
+      "kanji": "おばあさん",
+      "kana": "おばあさん",
+      "romaji": "obaasan",
+      "wordClass": "nomina",
+      "meaning": "nenek (orang lain)"
+    },
+    {
+      "id": "ch07_064",
+      "chapterId": 7,
+      "order": 64,
+      "kanji": "おじいさん",
+      "kana": "おじいさん",
+      "romaji": "ojiisan",
+      "wordClass": "nomina",
+      "meaning": "kakek (orang lain)"
+    },
+    {
+      "id": "ch07_065",
+      "chapterId": 7,
+      "order": 65,
+      "kanji": "ご両親",
+      "kana": "ごりょうしん",
+      "romaji": "goryoushin",
+      "wordClass": "nomina",
+      "meaning": "orang tua (orang lain)"
+    },
+    {
+      "id": "ch07_066",
+      "chapterId": 7,
+      "order": 66,
+      "kanji": "妹さん",
+      "kana": "いもうとさん",
+      "romaji": "imoutosan",
+      "wordClass": "nomina",
+      "meaning": "adik perempuan (orang lain)"
+    },
+    {
+      "id": "ch07_067",
+      "chapterId": 7,
+      "order": 67,
+      "kanji": "弟さん",
+      "kana": "おとうとさん",
+      "romaji": "otoutosan",
+      "wordClass": "nomina",
+      "meaning": "adik laki-laki (orang lain)"
+    },
+    {
+      "id": "ch07_068",
+      "chapterId": 7,
+      "order": 68,
+      "kanji": "お姉さん",
+      "kana": "おねえさん",
+      "romaji": "oneesan",
+      "wordClass": "nomina",
+      "meaning": "kakak perempuan (orang lain)"
+    },
+    {
+      "id": "ch07_069",
+      "chapterId": 7,
+      "order": 69,
+      "kanji": "お兄さん",
+      "kana": "おにいさん",
+      "romaji": "oniisan",
+      "wordClass": "nomina",
+      "meaning": "kakak laki-laki (orang lain)"
+    },
+    {
+      "id": "ch07_070",
+      "chapterId": 7,
+      "order": 70,
+      "kanji": "ご兄弟",
+      "kana": "ごきょうだい",
+      "romaji": "gokyoudai",
+      "wordClass": "nomina",
+      "meaning": "saudara kandung (orang lain)"
+    },
+    {
+      "id": "ch07_071",
+      "chapterId": 7,
+      "order": 71,
+      "kanji": "奥さん",
+      "kana": "おくさん",
+      "romaji": "okusan",
+      "wordClass": "nomina",
+      "meaning": "istri (orang lain)"
+    },
+    {
+      "id": "ch07_072",
+      "chapterId": 7,
+      "order": 72,
+      "kanji": "ご夫婦",
+      "kana": "ごふうふ",
+      "romaji": "gofuufu",
+      "wordClass": "nomina",
+      "meaning": "pasangan suami istri (orang lain)"
+    },
+    {
+      "id": "ch07_073",
+      "chapterId": 7,
+      "order": 73,
+      "kanji": "娘さん",
+      "kana": "むすめさん",
+      "romaji": "musumesan",
+      "wordClass": "nomina",
+      "meaning": "anak perempuan (orang lain)"
+    },
+    {
+      "id": "ch07_074",
+      "chapterId": 7,
+      "order": 74,
+      "kanji": "息子さん",
+      "kana": "むすこさん",
+      "romaji": "musukosan",
+      "wordClass": "nomina",
+      "meaning": "anak laki-laki (orang lain)"
+    },
+    {
+      "id": "ch07_075",
+      "chapterId": 7,
+      "order": 75,
+      "kanji": "お子さん",
+      "kana": "おこさん",
+      "romaji": "okosan",
+      "wordClass": "nomina",
+      "meaning": "anak (orang lain)"
+    }
+  ],
+  "conversations": [
+    {
+      "id": "ch07_conv01",
+      "chapterId": 7,
+      "order": 1,
+      "title": "Percakapan 1 — Kegiatan Hari Minggu",
+      "turns": [
+        {
+          "speaker": "やまだ",
+          "japanese": "ミラーさんは にちようびに なにを しますか。",
+          "romaji": "Miraa-san wa nichiyoubi ni nani o shimasu ka.",
+          "indonesian": "Tuan Miller, hari Minggu melakukan apa?",
+          "hiragana": "ミラーさんは にちようびに なにを しますか。"
+        },
+        {
+          "speaker": "ミラー",
+          "japanese": "ともだちと テニスを します。やまださんは？",
+          "romaji": "Tomodachi to tenisu o shimasu. Yamada-san wa?",
+          "indonesian": "Saya bermain tenis bersama teman. Yamada?",
+          "hiragana": "ともだちと テニスを します。やまださんは？"
+        },
+        {
+          "speaker": "やまだ",
+          "japanese": "わたしは うちで おんがくを ききます。ときどき えいがも みます。",
+          "romaji": "Watashi wa uchi de ongaku o kikimasu. Tokidoki eiga mo mimasu.",
+          "indonesian": "Saya mendengarkan musik di rumah. Kadang-kadang juga menonton film.",
+          "hiragana": "わたしは うちで おんがくを ききます。ときどき えいがも みます。"
+        }
+      ]
+    },
+    {
+      "id": "ch07_conv02",
+      "chapterId": 7,
+      "order": 2,
+      "title": "Percakapan 2 — Memberi Hadiah",
+      "turns": [
+        {
+          "speaker": "カリナ",
+          "japanese": "ミラーさん、これを どうぞ。",
+          "romaji": "Miraa-san, kore o douzo.",
+          "indonesian": "Tuan Miller, ini untuk Anda.",
+          "hiragana": "ミラーさん、これを どうぞ。"
+        },
+        {
+          "speaker": "ミラー",
+          "japanese": "ありがとうございます。なんですか。",
+          "romaji": "Arigatou gozaimasu. Nan desu ka.",
+          "indonesian": "Terima kasih. Apa ini?",
+          "hiragana": "ありがとうございます。なんですか。"
+        },
+        {
+          "speaker": "カリナ",
+          "japanese": "インドネシアの おかしです。どうぞ たべて ください。",
+          "romaji": "Indoneshia no okashi desu. Douzo tabete kudasai.",
+          "indonesian": "Ini kue dari Indonesia. Silakan dimakan.",
+          "hiragana": "インドネシアの おかしです。どうぞ たべて ください。"
+        },
+        {
+          "speaker": "ミラー",
+          "japanese": "わあ、おいしそうですね。ありがとうございます。",
+          "romaji": "Waa, oishisou desu ne. Arigatou gozaimasu.",
+          "indonesian": "Wah, kelihatannya enak. Terima kasih.",
+          "hiragana": "わあ、おいしそうですね。ありがとうございます。"
+        }
+      ]
+    },
+    {
+      "id": "ch07_conv03",
+      "chapterId": 7,
+      "order": 3,
+      "title": "Percakapan 3 — Meminjamkan Buku",
+      "turns": [
+        {
+          "speaker": "ミラー",
+          "japanese": "やまださん、この 本を 貸して ください。",
+          "hiragana": "やまださん、この ほんを かして ください。",
+          "romaji": "Yamada-san, kono hon o kashite kudasai.",
+          "indonesian": "Yamada, tolong pinjamkan buku ini."
+        },
+        {
+          "speaker": "やまだ",
+          "japanese": "いいですよ。どうぞ。",
+          "hiragana": "いいですよ。どうぞ。",
+          "romaji": "Ii desu yo. Douzo.",
+          "indonesian": "Boleh. Silakan."
+        },
+        {
+          "speaker": "ミラー",
+          "japanese": "ありがとうございます。",
+          "hiragana": "ありがとうございます。",
+          "romaji": "Arigatou gozaimasu.",
+          "indonesian": "Terima kasih."
+        }
+      ]
+    },
+    {
+      "id": "ch07_conv04",
+      "chapterId": 7,
+      "order": 4,
+      "title": "Percakapan 4 — Mengajar Bahasa Jepang",
+      "turns": [
+        {
+          "speaker": "カリナ",
+          "japanese": "やまださんは だれに 日本語を 教えますか。",
+          "hiragana": "やまださんは だれに にほんごを おしえますか。",
+          "romaji": "Yamada-san wa dare ni nihongo o oshiemasu ka.",
+          "indonesian": "Yamada mengajar bahasa Jepang kepada siapa?"
+        },
+        {
+          "speaker": "やまだ",
+          "japanese": "外国人の 学生に 教えます。",
+          "hiragana": "がいこくじんの がくせいに おしえます。",
+          "romaji": "Gaikokujin no gakusei ni oshiemasu.",
+          "indonesian": "Mengajar kepada mahasiswa asing."
+        },
+        {
+          "speaker": "カリナ",
+          "japanese": "そうですか。わたしも 習いたいです。",
+          "hiragana": "そうですか。わたしも ならいたいです。",
+          "romaji": "Sou desu ka. Watashi mo naraitai desu.",
+          "indonesian": "Oh begitu. Saya juga ingin belajar."
+        }
+      ]
+    },
+    {
+      "id": "ch07_conv05",
+      "chapterId": 7,
+      "order": 5,
+      "title": "Percakapan 5 — Mengirim Email",
+      "turns": [
+        {
+          "speaker": "ミラー",
+          "japanese": "母に メールを 送ります。",
+          "hiragana": "ははに メールを おくります。",
+          "romaji": "Haha ni meeru o okurimasu.",
+          "indonesian": "Saya mengirim email kepada ibu."
+        },
+        {
+          "speaker": "カリナ",
+          "japanese": "毎日 送りますか。",
+          "hiragana": "まいにち おくりますか。",
+          "romaji": "Mainichi okurimasu ka.",
+          "indonesian": "Mengirim setiap hari?"
+        },
+        {
+          "speaker": "ミラー",
+          "japanese": "いいえ、ときどき 送ります。",
+          "hiragana": "いいえ、ときどき おくります。",
+          "romaji": "Iie, tokidoki okurimasu.",
+          "indonesian": "Tidak, kadang-kadang mengirim."
+        }
+      ]
+    },
+    {
+      "id": "ch07_conv06",
+      "chapterId": 7,
+      "order": 6,
+      "title": "Percakapan 6 — Mendapat Hadiah dari Teman",
+      "turns": [
+        {
+          "speaker": "やまだ",
+          "japanese": "きれいな 花ですね。",
+          "hiragana": "きれいな はなですね。",
+          "romaji": "Kirei na hana desu ne.",
+          "indonesian": "Bunga yang cantik ya."
+        },
+        {
+          "speaker": "カリナ",
+          "japanese": "ありがとうございます。友達に もらいました。",
+          "hiragana": "ありがとうございます。ともだちに もらいました。",
+          "romaji": "Arigatou gozaimasu. Tomodachi ni moraimashita.",
+          "indonesian": "Terima kasih. Saya mendapat dari teman."
+        },
+        {
+          "speaker": "やまだ",
+          "japanese": "いいですね。",
+          "hiragana": "いいですね。",
+          "romaji": "Ii desu ne.",
+          "indonesian": "Bagus ya."
+        }
+      ]
+    },
+    {
+      "id": "ch07_conv07",
+      "chapterId": 7,
+      "order": 7,
+      "title": "Percakapan 7 — Menelepon Keluarga",
+      "turns": [
+        {
+          "speaker": "ミラー",
+          "japanese": "昨日 家族に 電話を かけました。",
+          "hiragana": "きのう かぞくに でんわを かけました。",
+          "romaji": "Kinou kazoku ni denwa o kakemashita.",
+          "indonesian": "Kemarin saya menelepon keluarga."
+        },
+        {
+          "speaker": "カリナ",
+          "japanese": "お父さんは 元気ですか。",
+          "hiragana": "おとうさんは げんきですか。",
+          "romaji": "Otousan wa genki desu ka.",
+          "indonesian": "Apakah ayah sehat?"
+        },
+        {
+          "speaker": "ミラー",
+          "japanese": "はい、とても 元気です。",
+          "hiragana": "はい、とても げんきです。",
+          "romaji": "Hai, totemo genki desu.",
+          "indonesian": "Ya, sangat sehat."
+        }
+      ]
+    },
+    {
+      "id": "ch07_conv08",
+      "chapterId": 7,
+      "order": 8,
+      "title": "Percakapan 8 — Memberi Hadiah Ulang Tahun",
+      "turns": [
+        {
+          "speaker": "やまだ",
+          "japanese": "誕生日に 何を もらいましたか。",
+          "hiragana": "たんじょうびに なにを もらいましたか。",
+          "romaji": "Tanjoubi ni nani o moraimashita ka.",
+          "indonesian": "Apa yang Anda dapat di ulang tahun?"
+        },
+        {
+          "speaker": "ミラー",
+          "japanese": "妻に シャツを もらいました。",
+          "hiragana": "つまに シャツを もらいました。",
+          "romaji": "Tsuma ni shatsu o moraimashita.",
+          "indonesian": "Saya mendapat kemeja dari istri."
+        },
+        {
+          "speaker": "やまだ",
+          "japanese": "いいですね。",
+          "hiragana": "いいですね。",
+          "romaji": "Ii desu ne.",
+          "indonesian": "Bagus ya."
+        }
+      ]
+    },
+    {
+      "id": "ch07_conv09",
+      "chapterId": 7,
+      "order": 9,
+      "title": "Percakapan 9 — Memotong Kertas",
+      "turns": [
+        {
+          "speaker": "カリナ",
+          "japanese": "すみません、はさみを 貸して ください。",
+          "hiragana": "すみません、はさみを かして ください。",
+          "romaji": "Sumimasen, hasami o kashite kudasai.",
+          "indonesian": "Permisi, tolong pinjamkan gunting."
+        },
+        {
+          "speaker": "やまだ",
+          "japanese": "はい、どうぞ。何を 切りますか。",
+          "hiragana": "はい、どうぞ。なにを きりますか。",
+          "romaji": "Hai, douzo. Nani o kirimasu ka.",
+          "indonesian": "Ya, silakan. Mau memotong apa?"
+        },
+        {
+          "speaker": "カリナ",
+          "japanese": "紙を 切ります。",
+          "hiragana": "かみを きります。",
+          "romaji": "Kami o kirimasu.",
+          "indonesian": "Memotong kertas."
+        }
+      ]
+    },
+    {
+      "id": "ch07_conv10",
+      "chapterId": 7,
+      "order": 10,
+      "title": "Percakapan 10 — Mengirim Kartu Tahun Baru",
+      "turns": [
+        {
+          "speaker": "ミラー",
+          "japanese": "もう 年賀状を 送りましたか。",
+          "hiragana": "もう ねんがじょうを おくりましたか。",
+          "romaji": "Mou nengajou o okurimashita ka.",
+          "indonesian": "Sudah mengirim kartu tahun baru?"
+        },
+        {
+          "speaker": "やまだ",
+          "japanese": "いいえ、まだです。これから 書きます。",
+          "hiragana": "いいえ、まだです。これから かきます。",
+          "romaji": "Iie, mada desu. Korekara kakimasu.",
+          "indonesian": "Belum. Mulai sekarang akan menulis."
+        },
+        {
+          "speaker": "ミラー",
+          "japanese": "わたしも これから 書きます。",
+          "hiragana": "わたしも これから かきます。",
+          "romaji": "Watashi mo korekara kakimasu.",
+          "indonesian": "Saya juga mulai sekarang akan menulis."
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "id": "ch07_g01",
+      "chapterId": 7,
+      "order": 1,
+      "title": "Verba あげます・もらいます・くれます — Memberi dan Menerima",
+      "explanation": "Bahasa Jepang memiliki tiga verba berbeda untuk konsep memberi dan menerima, tergantung perspektif pembicara. あげます digunakan saat pembicara (atau pihak dalam kelompok pembicara) memberi kepada orang lain. もらいます digunakan saat pembicara menerima sesuatu dari orang lain. くれます digunakan saat orang lain memberi sesuatu kepada pembicara atau kelompoknya.",
+      "examples": [
+        {
+          "japanese": "ともだちに プレゼントを あげます。",
+          "romaji": "Tomodachi ni purezento o agemasu.",
+          "indonesian": "Saya memberi hadiah kepada teman."
+        },
+        {
+          "japanese": "せんせいに ほんを もらいました。",
+          "romaji": "Sensei ni hon o moraimashita.",
+          "indonesian": "Saya mendapat buku dari guru."
+        }
+      ]
+    },
+    {
+      "id": "ch07_g02",
+      "chapterId": 7,
+      "order": 2,
+      "title": "Partikel に — Penerima/Pemberi",
+      "explanation": "Dalam konteks verba memberi dan menerima, partikel に memiliki dua fungsi. Untuk あげます, に menandai penerima (orang yang diberi). Untuk もらいます, に menandai pemberi (orang yang memberikan sesuatu). Perhatikan bahwa peran に berubah tergantung verba yang digunakan.",
+      "examples": [
+        {
+          "japanese": "やまださんに てがみを おくります。",
+          "romaji": "Yamada-san ni tegami o okurimasu.",
+          "indonesian": "Saya mengirim surat kepada Yamada."
+        },
+        {
+          "japanese": "はははに ケーキを もらいました。",
+          "romaji": "Haha ni keeki o moraimashita.",
+          "indonesian": "Saya mendapat kue dari ibu."
+        }
+      ]
+    },
+    {
+      "id": "ch07_g03",
+      "chapterId": 7,
+      "order": 3,
+      "title": "Kata Tanya なに (nani) / なん (nan)",
+      "explanation": "なに dan なん keduanya berarti 'apa', namun penggunaannya berbeda. なん digunakan sebelum kata penggolong (counter), sebelum です, dan sebelum の. なに digunakan dalam konteks lain, terutama sebelum partikel を, が, atau di akhir kalimat. Dalam percakapan sehari-hari, なん lebih sering terdengar.",
+      "examples": [
+        {
+          "japanese": "にちようびに なにを しますか。",
+          "romaji": "Nichiyoubi ni nani o shimasu ka.",
+          "indonesian": "Apa yang Anda lakukan pada hari Minggu?"
+        },
+        {
+          "japanese": "しゅみは なんですか。",
+          "romaji": "Shumi wa nan desu ka.",
+          "indonesian": "Apa hobi Anda?"
+        }
+      ]
+    }
+  ],
+  "patterns": [
+    {
+      "id": "ch07_p01",
+      "chapterId": 7,
+      "order": 1,
+      "pattern": "N に N を あげます／もらいます",
+      "explanation": "Pola untuk menyatakan memberi atau menerima sesuatu. あげます (agemasu) = memberi kepada orang lain; もらいます (moraimasu) = menerima dari orang lain. Partikel に menandai penerima (untuk あげます) atau pemberi (untuk もらいます).",
+      "examples": [
+        {
+          "japanese": "ともだちに プレゼントを あげます。",
+          "romaji": "Tomodachi ni purezento o agemasu.",
+          "indonesian": "Saya memberi hadiah kepada teman."
+        },
+        {
+          "japanese": "せんせいに ほんを もらいました。",
+          "romaji": "Sensei ni hon o moraimashita.",
+          "indonesian": "Saya mendapat buku dari guru."
+        }
+      ]
+    },
+    {
+      "id": "ch07_p02",
+      "chapterId": 7,
+      "order": 2,
+      "pattern": "N と N を します",
+      "explanation": "Partikel と (to) digunakan untuk menyatakan melakukan sesuatu bersama seseorang. と menghubungkan orang yang melakukan kegiatan bersama.",
+      "examples": [
+        {
+          "japanese": "ともだちと テニスを します。",
+          "romaji": "Tomodachi to tenisu o shimasu.",
+          "indonesian": "Saya bermain tenis bersama teman."
+        },
+        {
+          "japanese": "かぞくと えいがを みます。",
+          "romaji": "Kazoku to eiga o mimasu.",
+          "indonesian": "Saya menonton film bersama keluarga."
+        }
+      ]
+    },
+    {
+      "id": "ch07_p03",
+      "chapterId": 7,
+      "order": 3,
+      "pattern": "しゅみは N です",
+      "explanation": "Pola untuk menyatakan hobi. しゅみ (shumi) berarti 'hobi'. Dapat diikuti nomina atau klausa verba dengan こと (koto).",
+      "examples": [
+        {
+          "japanese": "わたしの しゅみは えいがを みることです。",
+          "romaji": "Watashi no shumi wa eiga o miru koto desu.",
+          "indonesian": "Hobi saya adalah menonton film."
+        },
+        {
+          "japanese": "しゅみは おんがくを きくことです。",
+          "romaji": "Shumi wa ongaku o kiku koto desu.",
+          "indonesian": "Hobi saya adalah mendengarkan musik."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "ch07_q001",
+      "chapterId": 7,
+      "order": 1,
+      "question": "Apa arti dari 'あげます' (agemasu)?",
+      "choices": [
+        "menerima",
+        "memberi",
+        "meminjam",
+        "mengirim"
+      ],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch07_q002",
+      "chapterId": 7,
+      "order": 2,
+      "question": "Apa arti dari 'もらいます' (moraimasu)?",
+      "choices": [
+        "memberi",
+        "menerima/mendapat",
+        "meminjamkan",
+        "mengajar"
+      ],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch07_q003",
+      "chapterId": 7,
+      "order": 3,
+      "question": "Apa arti dari 'かします' (kashimasu)?",
+      "choices": [
+        "meminjam",
+        "meminjamkan",
+        "membeli",
+        "menjual"
+      ],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch07_q004",
+      "chapterId": 7,
+      "order": 4,
+      "question": "Apa arti dari 'かります' (karimasu)?",
+      "choices": [
+        "meminjamkan",
+        "meminjam/menyewa",
+        "memberi",
+        "menerima"
+      ],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch07_q005",
+      "chapterId": 7,
+      "order": 5,
+      "question": "Apa arti dari 'おしえます' (oshiemasu)?",
+      "choices": [
+        "belajar",
+        "mengajar",
+        "membaca",
+        "menulis"
+      ],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch07_q006",
+      "chapterId": 7,
+      "order": 6,
+      "question": "Apa arti dari 'ならいます' (naraimasu)?",
+      "choices": [
+        "mengajar",
+        "belajar (kepada)",
+        "membaca",
+        "menulis"
+      ],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch07_q007",
+      "chapterId": 7,
+      "order": 7,
+      "question": "Apa arti dari 'おくります' (okurimasu)?",
+      "choices": [
+        "menerima",
+        "mengirim",
+        "membuka",
+        "menutup"
+      ],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch07_q008",
+      "chapterId": 7,
+      "order": 8,
+      "question": "Apa arti dari 'きります' (kirimasu)?",
+      "choices": [
+        "memotong",
+        "menulis",
+        "membaca",
+        "mendengar"
+      ],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch07_q009",
+      "chapterId": 7,
+      "order": 9,
+      "question": "Apa arti dari 'でんわをかけます' (denwa o kakemasu)?",
+      "choices": [
+        "menulis surat",
+        "menelepon",
+        "mengirim email",
+        "membaca buku"
+      ],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch07_q010",
+      "chapterId": 7,
+      "order": 10,
+      "question": "Apa arti dari 'はな' (hana)?",
+      "choices": [
+        "pohon",
+        "bunga",
+        "daun",
+        "rumput"
+      ],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch07_q011",
+      "chapterId": 7,
+      "order": 11,
+      "question": "Apa arti dari 'かみ' (kami)?",
+      "choices": [
+        "buku",
+        "kertas",
+        "pensil",
+        "penghapus"
+      ],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch07_q012",
+      "chapterId": 7,
+      "order": 12,
+      "question": "Apa arti dari 'はさみ' (hasami)?",
+      "choices": [
+        "stapler",
+        "gunting",
+        "penggaris",
+        "lem"
+      ],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch07_q013",
+      "chapterId": 7,
+      "order": 13,
+      "question": "Apa arti dari 'ちち' (chichi)?",
+      "choices": [
+        "ibu",
+        "ayah (sendiri)",
+        "kakak",
+        "adik"
+      ],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch07_q014",
+      "chapterId": 7,
+      "order": 14,
+      "question": "Apa arti dari 'はは' (haha)?",
+      "choices": [
+        "ayah",
+        "ibu (sendiri)",
+        "kakak",
+        "adik"
+      ],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch07_q015",
+      "chapterId": 7,
+      "order": 15,
+      "question": "Apa arti dari 'もう' (mou)?",
+      "choices": [
+        "belum",
+        "sudah",
+        "nanti",
+        "sekarang"
+      ],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch07_q016",
+      "chapterId": 7,
+      "order": 16,
+      "question": "Pilih partikel yang tepat: ともだち___ プレゼントを あげます。",
+      "choices": [
+        "は",
+        "が",
+        "に",
+        "を"
+      ],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch07_q017",
+      "chapterId": 7,
+      "order": 17,
+      "question": "Pilih partikel yang tepat: せんせい___ ほんを もらいました。",
+      "choices": [
+        "は",
+        "が",
+        "に",
+        "を"
+      ],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch07_q018",
+      "chapterId": 7,
+      "order": 18,
+      "question": "Pilih partikel yang tepat: ともだち___ テニスを します。",
+      "choices": [
+        "は",
+        "に",
+        "で",
+        "と"
+      ],
+      "correctIndex": 3,
+      "category": "grammar"
+    },
+    {
+      "id": "ch07_q019",
+      "chapterId": 7,
+      "order": 19,
+      "question": "Pilih partikel yang tepat: かぞく___ でんわを かけます。",
+      "choices": [
+        "は",
+        "が",
+        "に",
+        "を"
+      ],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch07_q020",
+      "chapterId": 7,
+      "order": 20,
+      "question": "Pilih partikel yang tepat: ははに メール___ おくります。",
+      "choices": [
+        "は",
+        "が",
+        "に",
+        "を"
+      ],
+      "correctIndex": 3,
+      "category": "grammar"
+    },
+    {
+      "id": "ch07_q021",
+      "chapterId": 7,
+      "order": 21,
+      "question": "Lengkapi kalimat: ともだち___ ほんを かしました。",
+      "choices": [
+        "は",
+        "が",
+        "に",
+        "を"
+      ],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch07_q022",
+      "chapterId": 7,
+      "order": 22,
+      "question": "Lengkapi kalimat: がくせい___ にほんごを おしえます。",
+      "choices": [
+        "は",
+        "が",
+        "に",
+        "を"
+      ],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch07_q023",
+      "chapterId": 7,
+      "order": 23,
+      "question": "Lengkapi kalimat: せんせい___ にほんごを ならいます。",
+      "choices": [
+        "は",
+        "が",
+        "に",
+        "を"
+      ],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch07_q024",
+      "chapterId": 7,
+      "order": 24,
+      "question": "Pola grammar apa yang digunakan dalam 'ともだちに プレゼントを あげます'?",
+      "choices": [
+        "N に N を あげます",
+        "N と N を します",
+        "N で V",
+        "N は N です"
+      ],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch07_q025",
+      "chapterId": 7,
+      "order": 25,
+      "question": "Pola grammar apa yang digunakan dalam 'ともだちと テニスを します'?",
+      "choices": [
+        "N に N を あげます",
+        "N と N を します",
+        "N で V",
+        "N は N です"
+      ],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch07_q026",
+      "chapterId": 7,
+      "order": 26,
+      "question": "Pilih kata yang tepat: ともだちに プレゼントを ___。(Saya memberi hadiah kepada teman)",
+      "choices": [
+        "もらいます",
+        "あげます",
+        "かります",
+        "かします"
+      ],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch07_q027",
+      "chapterId": 7,
+      "order": 27,
+      "question": "Pilih kata yang tepat: せんせいに ほんを ___。(Saya mendapat buku dari guru)",
+      "choices": [
+        "あげます",
+        "もらいます",
+        "かします",
+        "おくります"
+      ],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch07_q028",
+      "chapterId": 7,
+      "order": 28,
+      "question": "Pilih kata yang tepat: ともだちに じてんしゃを ___。(Saya meminjamkan sepeda kepada teman)",
+      "choices": [
+        "かります",
+        "かします",
+        "あげます",
+        "もらいます"
+      ],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch07_q029",
+      "chapterId": 7,
+      "order": 29,
+      "question": "Pilih kata yang tepat: ともだちに じてんしゃを ___。(Saya meminjam sepeda dari teman)",
+      "choices": [
+        "かします",
+        "かります",
+        "あげます",
+        "もらいます"
+      ],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch07_q030",
+      "chapterId": 7,
+      "order": 30,
+      "question": "Pilih kata yang tepat: せんせいに にほんごを ___。(Saya belajar bahasa Jepang dari guru)",
+      "choices": [
+        "おしえます",
+        "ならいます",
+        "べんきょうします",
+        "よみます"
+      ],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch07_q031",
+      "chapterId": 7,
+      "order": 31,
+      "question": "Bacalah: 'きのう ともだちに ほんを あげました。ともだちは とても よろこびました。' Apa yang diberikan kepada teman?",
+      "choices": [
+        "CD",
+        "buku",
+        "bunga",
+        "hadiah"
+      ],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch07_q032",
+      "chapterId": 7,
+      "order": 32,
+      "question": "Bacalah: 'まいにち ははに でんわを かけます。' Kepada siapa pembicara menelepon setiap hari?",
+      "choices": [
+        "ayah",
+        "ibu",
+        "teman",
+        "guru"
+      ],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch07_q033",
+      "chapterId": 7,
+      "order": 33,
+      "question": "Bacalah: 'せんせいに にほんごを ならいます。せんせいは とても やさしいです。' Apa yang dipelajari dari guru?",
+      "choices": [
+        "bahasa Inggris",
+        "bahasa Jepang",
+        "matematika",
+        "sejarah"
+      ],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch07_q034",
+      "chapterId": 7,
+      "order": 34,
+      "question": "Bacalah: 'たんじょうびに ちちに シャツを もらいました。' Kapan pembicara mendapat kemeja?",
+      "choices": [
+        "Natal",
+        "ulang tahun",
+        "tahun baru",
+        "kemarin"
+      ],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch07_q035",
+      "chapterId": 7,
+      "order": 35,
+      "question": "Bacalah: 'ともだちと テニスを します。まいしゅう どようびに します。' Kapan pembicara bermain tenis?",
+      "choices": [
+        "setiap hari",
+        "setiap Sabtu",
+        "setiap Minggu",
+        "setiap Jumat"
+      ],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch07_q036",
+      "chapterId": 7,
+      "order": 36,
+      "question": "Bacalah: 'はさみで かみを きります。' Apa yang digunakan untuk memotong kertas?",
+      "choices": [
+        "pisau",
+        "gunting",
+        "tangan",
+        "penggaris"
+      ],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch07_q037",
+      "chapterId": 7,
+      "order": 37,
+      "question": "Bacalah: 'ははに ねんがじょうを おくります。' Apa yang dikirim kepada ibu?",
+      "choices": [
+        "surat",
+        "kartu tahun baru",
+        "email",
+        "hadiah"
+      ],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch07_q038",
+      "chapterId": 7,
+      "order": 38,
+      "question": "Bacalah: 'ともだちに きれいな はなを もらいました。' Apa yang diterima dari teman?",
+      "choices": [
+        "buku",
+        "bunga cantik",
+        "hadiah",
+        "surat"
+      ],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch07_q039",
+      "chapterId": 7,
+      "order": 39,
+      "question": "Bacalah: 'もう ねんがじょうを かきましたか。いいえ、まだです。' Apakah pembicara sudah menulis kartu tahun baru?",
+      "choices": [
+        "sudah",
+        "belum",
+        "sedang menulis",
+        "tidak tahu"
+      ],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch07_q040",
+      "chapterId": 7,
+      "order": 40,
+      "question": "Bacalah: 'がいこくじんの がくせいに にほんごを おしえます。' Kepada siapa pembicara mengajar bahasa Jepang?",
+      "choices": [
+        "anak-anak",
+        "mahasiswa asing",
+        "teman",
+        "keluarga"
+      ],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch07_q041",
+      "chapterId": 7,
+      "order": 41,
+      "question": "A: 'だれに プレゼントを あげますか。' B: '___' Jawaban yang tepat:",
+      "choices": [
+        "ははに あげます。",
+        "きのう あげます。",
+        "ほんを あげます。",
+        "うちで あげます。"
+      ],
+      "correctIndex": 0,
+      "category": "conversation"
+    },
+    {
+      "id": "ch07_q042",
+      "chapterId": 7,
+      "order": 42,
+      "question": "A: 'だれに でんわを かけますか。' B: '___' Jawaban yang tepat:",
+      "choices": [
+        "まいにち かけます。",
+        "ちちに かけます。",
+        "うちで かけます。",
+        "でんわを かけます。"
+      ],
+      "correctIndex": 1,
+      "category": "conversation"
+    },
+    {
+      "id": "ch07_q043",
+      "chapterId": 7,
+      "order": 43,
+      "question": "A: 'だれと テニスを しますか。' B: '___' Jawaban yang tepat:",
+      "choices": [
+        "こうえんで します。",
+        "ともだちと します。",
+        "どようびに します。",
+        "テニスを します。"
+      ],
+      "correctIndex": 1,
+      "category": "conversation"
+    },
+    {
+      "id": "ch07_q044",
+      "chapterId": 7,
+      "order": 44,
+      "question": "A: 'なにを もらいましたか。' B: '___' Jawaban yang tepat:",
+      "choices": [
+        "ともだちに もらいました。",
+        "ほんを もらいました。",
+        "きのう もらいました。",
+        "うちで もらいました。"
+      ],
+      "correctIndex": 1,
+      "category": "conversation"
+    },
+    {
+      "id": "ch07_q045",
+      "chapterId": 7,
+      "order": 45,
+      "question": "A: 'だれに にほんごを ならいますか。' B: '___' Jawaban yang tepat:",
+      "choices": [
+        "まいにち ならいます。",
+        "せんせいに ならいます。",
+        "がっこうで ならいます。",
+        "にほんごを ならいます。"
+      ],
+      "correctIndex": 1,
+      "category": "conversation"
+    },
+    {
+      "id": "ch07_q046",
+      "chapterId": 7,
+      "order": 46,
+      "question": "A: 'もう ばんごはんを たべましたか。' B: '___' Jawaban yang tepat:",
+      "choices": [
+        "はい、たべました。",
+        "はい、たべます。",
+        "はい、たべています。",
+        "はい、たべましょう。"
+      ],
+      "correctIndex": 0,
+      "category": "conversation"
+    },
+    {
+      "id": "ch07_q047",
+      "chapterId": 7,
+      "order": 47,
+      "question": "A: 'なにで かみを きりますか。' B: '___' Jawaban yang tepat:",
+      "choices": [
+        "かみを きります。",
+        "はさみで きります。",
+        "きのう きります。",
+        "ともだちと きります。"
+      ],
+      "correctIndex": 1,
+      "category": "conversation"
+    },
+    {
+      "id": "ch07_q048",
+      "chapterId": 7,
+      "order": 48,
+      "question": "A: 'これは だれの ほんですか。' B: '___' Jawaban yang tepat:",
+      "choices": [
+        "ほんです。",
+        "わたしの ほんです。",
+        "あたらしい ほんです。",
+        "ほんを よみます。"
+      ],
+      "correctIndex": 1,
+      "category": "conversation"
+    },
+    {
+      "id": "ch07_q049",
+      "chapterId": 7,
+      "order": 49,
+      "question": "A: 'どこで ひるごはんを たべますか。' B: '___' Jawaban yang tepat:",
+      "choices": [
+        "12じに たべます。",
+        "しょくどうで たべます。",
+        "パンを たべます。",
+        "ともだちと たべます。"
+      ],
+      "correctIndex": 1,
+      "category": "conversation"
+    },
+    {
+      "id": "ch07_q050",
+      "chapterId": 7,
+      "order": 50,
+      "question": "A: 'なんじに おきますか。' B: '___' Jawaban yang tepat:",
+      "choices": [
+        "うちで おきます。",
+        "6じに おきます。",
+        "まいあさ おきます。",
+        "ベッドで おきます。"
+      ],
+      "correctIndex": 1,
+      "category": "conversation"
+    }
+  ]
+}

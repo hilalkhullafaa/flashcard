@@ -1,3 +1,5 @@
+import { validateChapterData } from './utils/validation.js';
+
 /**
  * @typedef {Object} Chapter
  * @property {number} id
@@ -74,6 +76,20 @@ async function fetchChapterData(chapterId) {
       return null;
     }
     
+    // Validate chapter data using validation utility
+    const validationResult = validateChapterData(data, chapterId);
+    
+    // Log validation errors
+    if (validationResult.errors.length > 0) {
+      console.error(`Validation errors for chapter ${chapterId}:`, validationResult.errors);
+    }
+    
+    // Log validation warnings
+    if (validationResult.warnings.length > 0) {
+      console.warn(`Validation warnings for chapter ${chapterId}:`, validationResult.warnings);
+    }
+    
+    // Return validated data even if warnings exist (only fail on errors)
     return data;
   } catch (error) {
     console.error(`Error fetching chapter ${chapterId}:`, error);

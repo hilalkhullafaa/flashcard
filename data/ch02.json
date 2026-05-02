@@ -6,437 +6,437 @@
     "titleId": "Ini adalah buku"
   },
   "vocabulary": [
-  {
-    "id": "ch02_001",
-    "chapterId": 2,
-    "order": 1,
-    "kanji": "これ",
-    "kana": "これ",
-    "romaji": "kore",
-    "wordClass": "pronomina",
-    "meaning": "ini (dekat pembicara)"
-  },
-  {
-    "id": "ch02_002",
-    "chapterId": 2,
-    "order": 2,
-    "kanji": "それ",
-    "kana": "それ",
-    "romaji": "sore",
-    "wordClass": "pronomina",
-    "meaning": "itu (dekat lawan bicara)"
-  },
-  {
-    "id": "ch02_003",
-    "chapterId": 2,
-    "order": 3,
-    "kanji": "あれ",
-    "kana": "あれ",
-    "romaji": "are",
-    "wordClass": "pronomina",
-    "meaning": "itu (jauh dari pembicara dan lawan bicara)"
-  },
-  {
-    "id": "ch02_004",
-    "chapterId": 2,
-    "order": 4,
-    "kanji": "この～",
-    "kana": "この～",
-    "romaji": "kono~",
-    "wordClass": "pronomina",
-    "meaning": "~ini (menerangkan benda atau orang yang ada di dekat pembicara)"
-  },
-  {
-    "id": "ch02_005",
-    "chapterId": 2,
-    "order": 5,
-    "kanji": "その～",
-    "kana": "その～",
-    "romaji": "sono~",
-    "wordClass": "pronomina",
-    "meaning": "~itu (menerangkan benda atau orang yang ada di dekat lawan bicara)"
-  },
-  {
-    "id": "ch02_006",
-    "chapterId": 2,
-    "order": 6,
-    "kanji": "あの～",
-    "kana": "あの～",
-    "romaji": "ano~",
-    "wordClass": "pronomina",
-    "meaning": "~itu (menerangkan benda atau orang yang jauh dari pembicara dan lawan bicara)"
-  },
-  {
-    "id": "ch02_007",
-    "chapterId": 2,
-    "order": 7,
-    "kanji": "本",
-    "kana": "ほん",
-    "romaji": "hon",
-    "wordClass": "nomina",
-    "meaning": "buku"
-  },
-  {
-    "id": "ch02_008",
-    "chapterId": 2,
-    "order": 8,
-    "kanji": "辞書",
-    "kana": "じしょ",
-    "romaji": "jisho",
-    "wordClass": "nomina",
-    "meaning": "kamus"
-  },
-  {
-    "id": "ch02_009",
-    "chapterId": 2,
-    "order": 9,
-    "kanji": "雑誌",
-    "kana": "ざっし",
-    "romaji": "zasshi",
-    "wordClass": "nomina",
-    "meaning": "majalah"
-  },
-  {
-    "id": "ch02_010",
-    "chapterId": 2,
-    "order": 10,
-    "kanji": "新聞",
-    "kana": "しんぶん",
-    "romaji": "shinbun",
-    "wordClass": "nomina",
-    "meaning": "koran"
-  },
-  {
-    "id": "ch02_011",
-    "chapterId": 2,
-    "order": 11,
-    "kanji": "ノート",
-    "kana": "ノート",
-    "romaji": "nouto",
-    "wordClass": "nomina",
-    "meaning": "buku catatan"
-  },
-  {
-    "id": "ch02_012",
-    "chapterId": 2,
-    "order": 12,
-    "kanji": "手帳",
-    "kana": "てちょう",
-    "romaji": "techou",
-    "wordClass": "nomina",
-    "meaning": "buku agenda"
-  },
-  {
-    "id": "ch02_013",
-    "chapterId": 2,
-    "order": 13,
-    "kanji": "名刺",
-    "kana": "めいし",
-    "romaji": "meishi",
-    "wordClass": "nomina",
-    "meaning": "kartu nama"
-  },
-  {
-    "id": "ch02_014",
-    "chapterId": 2,
-    "order": 14,
-    "kanji": "カード",
-    "kana": "カード",
-    "romaji": "kaado",
-    "wordClass": "nomina",
-    "meaning": "kartu"
-  },
-  {
-    "id": "ch02_015",
-    "chapterId": 2,
-    "order": 15,
-    "kanji": "鉛筆",
-    "kana": "えんぴつ",
-    "romaji": "enpitsu",
-    "wordClass": "nomina",
-    "meaning": "pensil"
-  },
-  {
-    "id": "ch02_016",
-    "chapterId": 2,
-    "order": 16,
-    "kanji": "ボールペン",
-    "kana": "ボールペン",
-    "romaji": "boorupen",
-    "wordClass": "nomina",
-    "meaning": "bolpoin, pulpen"
-  },
-  {
-    "id": "ch02_017",
-    "chapterId": 2,
-    "order": 17,
-    "kanji": "シャープペンシル",
-    "kana": "シャープペンシル",
-    "romaji": "shaapupenshiru",
-    "wordClass": "nomina",
-    "meaning": "pensil mekanik"
-  },
-  {
-    "id": "ch02_018",
-    "chapterId": 2,
-    "order": 18,
-    "kanji": "鍵",
-    "kana": "かぎ",
-    "romaji": "kagi",
-    "wordClass": "nomina",
-    "meaning": "kunci"
-  },
-  {
-    "id": "ch02_019",
-    "chapterId": 2,
-    "order": 19,
-    "kanji": "時計",
-    "kana": "とけい",
-    "romaji": "tokei",
-    "wordClass": "nomina",
-    "meaning": "jam, arloji"
-  },
-  {
-    "id": "ch02_020",
-    "chapterId": 2,
-    "order": 20,
-    "kanji": "傘",
-    "kana": "かさ",
-    "romaji": "kasa",
-    "wordClass": "nomina",
-    "meaning": "payung"
-  },
-  {
-    "id": "ch02_021",
-    "chapterId": 2,
-    "order": 21,
-    "kanji": "鞄",
-    "kana": "かばん",
-    "romaji": "kaban",
-    "wordClass": "nomina",
-    "meaning": "tas"
-  },
-  {
-    "id": "ch02_022",
-    "chapterId": 2,
-    "order": 22,
-    "kanji": "テレビ",
-    "kana": "テレビ",
-    "romaji": "terebi",
-    "wordClass": "nomina",
-    "meaning": "televisi"
-  },
-  {
-    "id": "ch02_023",
-    "chapterId": 2,
-    "order": 23,
-    "kanji": "ラジオ",
-    "kana": "ラジオ",
-    "romaji": "rajio",
-    "wordClass": "nomina",
-    "meaning": "radio"
-  },
-  {
-    "id": "ch02_024",
-    "chapterId": 2,
-    "order": 24,
-    "kanji": "カメラ",
-    "kana": "カメラ",
-    "romaji": "kamera",
-    "wordClass": "nomina",
-    "meaning": "kamera"
-  },
-  {
-    "id": "ch02_025",
-    "chapterId": 2,
-    "order": 25,
-    "kanji": "コンピューター",
-    "kana": "コンピューター",
-    "romaji": "konpyuutaa",
-    "wordClass": "nomina",
-    "meaning": "komputer, PC"
-  },
-  {
-    "id": "ch02_026",
-    "chapterId": 2,
-    "order": 26,
-    "kanji": "車",
-    "kana": "くるま",
-    "romaji": "kuruma",
-    "wordClass": "nomina",
-    "meaning": "mobil"
-  },
-  {
-    "id": "ch02_027",
-    "chapterId": 2,
-    "order": 27,
-    "kanji": "机",
-    "kana": "つくえ",
-    "romaji": "tsukue",
-    "wordClass": "nomina",
-    "meaning": "meja, meja tulis"
-  },
-  {
-    "id": "ch02_028",
-    "chapterId": 2,
-    "order": 28,
-    "kanji": "椅",
-    "kana": "いす",
-    "romaji": "isu",
-    "wordClass": "nomina",
-    "meaning": "kursi"
-  },
-  {
-    "id": "ch02_029",
-    "chapterId": 2,
-    "order": 29,
-    "kanji": "チョコレート",
-    "kana": "チョコレート",
-    "romaji": "chokoreeto",
-    "wordClass": "nomina",
-    "meaning": "coklat"
-  },
-  {
-    "id": "ch02_030",
-    "chapterId": 2,
-    "order": 30,
-    "kanji": "コーヒー",
-    "kana": "コーヒー",
-    "romaji": "kouhii",
-    "wordClass": "nomina",
-    "meaning": "kopi"
-  },
-  {
-    "id": "ch02_031",
-    "chapterId": 2,
-    "order": 31,
-    "kanji": "お土産",
-    "kana": "おみやげ",
-    "romaji": "omiyage",
-    "wordClass": "nomina",
-    "meaning": "oleh-oleh"
-  },
-  {
-    "id": "ch02_032",
-    "chapterId": 2,
-    "order": 32,
-    "kanji": "英語",
-    "kana": "えいご",
-    "romaji": "eigo",
-    "wordClass": "nomina",
-    "meaning": "bahasa inggris"
-  },
-  {
-    "id": "ch02_033",
-    "chapterId": 2,
-    "order": 33,
-    "kanji": "日本語",
-    "kana": "にほんご",
-    "romaji": "nihongo",
-    "wordClass": "nomina",
-    "meaning": "bahasa jepang"
-  },
-  {
-    "id": "ch02_034",
-    "chapterId": 2,
-    "order": 34,
-    "kanji": "～語",
-    "kana": "～ご",
-    "romaji": "~go",
-    "wordClass": "sufiks",
-    "meaning": "bahasa~"
-  },
-  {
-    "id": "ch02_035",
-    "chapterId": 2,
-    "order": 35,
-    "kanji": "何",
-    "kana": "なん",
-    "romaji": "nan",
-    "wordClass": "kata tanya",
-    "meaning": "apa"
-  },
-  {
-    "id": "ch02_036",
-    "chapterId": 2,
-    "order": 36,
-    "kanji": "そう",
-    "kana": "そう",
-    "romaji": "sou",
-    "wordClass": "adverbia",
-    "meaning": "begitu"
-  },
-  {
-    "id": "ch02_037",
-    "chapterId": 2,
-    "order": 37,
-    "kanji": "あのう",
-    "kana": "あのう",
-    "romaji": "anou",
-    "wordClass": "interjeksi",
-    "meaning": "anu... (digunakan untuk menunjukkan keragu-raguan)"
-  },
-  {
-    "id": "ch02_038",
-    "chapterId": 2,
-    "order": 38,
-    "kanji": "どうぞ",
-    "kana": "どうぞ",
-    "romaji": "douzo",
-    "wordClass": "ungkapan",
-    "meaning": "silakan (menawarkan sesuatu)"
-  },
-  {
-    "id": "ch02_039",
-    "chapterId": 2,
-    "order": 39,
-    "kanji": "どうもありがとうございます",
-    "kana": "どうもありがとうございます",
-    "romaji": "doumo arigatou gozaimasu",
-    "wordClass": "ungkapan",
-    "meaning": "terima kasih banyak"
-  },
-  {
-    "id": "ch02_040",
-    "chapterId": 2,
-    "order": 40,
-    "kanji": "そうですか",
-    "kana": "そうですか",
-    "romaji": "sou desu ka",
-    "wordClass": "ungkapan",
-    "meaning": "oh, begitu"
-  },
-  {
-    "id": "ch02_041",
-    "chapterId": 2,
-    "order": 41,
-    "kanji": "違います",
-    "kana": "ちがいます",
-    "romaji": "chigaimasu",
-    "wordClass": "verba",
-    "meaning": "bukan / salah / berbeda"
-  },
-  {
-    "id": "ch02_042",
-    "chapterId": 2,
-    "order": 42,
-    "kanji": "これからお世話になります",
-    "kana": "これからおせわになります",
-    "romaji": "korekara osewa ni narimasu",
-    "wordClass": "ungkapan",
-    "meaning": "mulai sekarang saya akan meminta bantuannya"
-  },
-  {
-    "id": "ch02_043",
-    "chapterId": 2,
-    "order": 43,
-    "kanji": "こちらこそよろしくお願いします",
-    "kana": "こちらこそよろしくおねがいします",
-    "romaji": "kochirakoso yoroshiku onegaishimasu",
-    "wordClass": "ungkapan",
-    "meaning": "saya juga memohon bantuan Anda (balasan dari salam kenal)"
-  }
-],
+    {
+      "id": "ch02_001",
+      "chapterId": 2,
+      "order": 1,
+      "kanji": "これ",
+      "kana": "これ",
+      "romaji": "kore",
+      "wordClass": "pronomina",
+      "meaning": "ini (dekat pembicara)"
+    },
+    {
+      "id": "ch02_002",
+      "chapterId": 2,
+      "order": 2,
+      "kanji": "それ",
+      "kana": "それ",
+      "romaji": "sore",
+      "wordClass": "pronomina",
+      "meaning": "itu (dekat lawan bicara)"
+    },
+    {
+      "id": "ch02_003",
+      "chapterId": 2,
+      "order": 3,
+      "kanji": "あれ",
+      "kana": "あれ",
+      "romaji": "are",
+      "wordClass": "pronomina",
+      "meaning": "itu (jauh dari pembicara dan lawan bicara)"
+    },
+    {
+      "id": "ch02_004",
+      "chapterId": 2,
+      "order": 4,
+      "kanji": "この～",
+      "kana": "この～",
+      "romaji": "kono~",
+      "wordClass": "pronomina",
+      "meaning": "~ini (menerangkan benda atau orang yang ada di dekat pembicara)"
+    },
+    {
+      "id": "ch02_005",
+      "chapterId": 2,
+      "order": 5,
+      "kanji": "その～",
+      "kana": "その～",
+      "romaji": "sono~",
+      "wordClass": "pronomina",
+      "meaning": "~itu (menerangkan benda atau orang yang ada di dekat lawan bicara)"
+    },
+    {
+      "id": "ch02_006",
+      "chapterId": 2,
+      "order": 6,
+      "kanji": "あの～",
+      "kana": "あの～",
+      "romaji": "ano~",
+      "wordClass": "pronomina",
+      "meaning": "~itu (menerangkan benda atau orang yang jauh dari pembicara dan lawan bicara)"
+    },
+    {
+      "id": "ch02_007",
+      "chapterId": 2,
+      "order": 7,
+      "kanji": "本",
+      "kana": "ほん",
+      "romaji": "hon",
+      "wordClass": "nomina",
+      "meaning": "buku"
+    },
+    {
+      "id": "ch02_008",
+      "chapterId": 2,
+      "order": 8,
+      "kanji": "辞書",
+      "kana": "じしょ",
+      "romaji": "jisho",
+      "wordClass": "nomina",
+      "meaning": "kamus"
+    },
+    {
+      "id": "ch02_009",
+      "chapterId": 2,
+      "order": 9,
+      "kanji": "雑誌",
+      "kana": "ざっし",
+      "romaji": "zasshi",
+      "wordClass": "nomina",
+      "meaning": "majalah"
+    },
+    {
+      "id": "ch02_010",
+      "chapterId": 2,
+      "order": 10,
+      "kanji": "新聞",
+      "kana": "しんぶん",
+      "romaji": "shinbun",
+      "wordClass": "nomina",
+      "meaning": "koran"
+    },
+    {
+      "id": "ch02_011",
+      "chapterId": 2,
+      "order": 11,
+      "kanji": "ノート",
+      "kana": "ノート",
+      "romaji": "nouto",
+      "wordClass": "nomina",
+      "meaning": "buku catatan"
+    },
+    {
+      "id": "ch02_012",
+      "chapterId": 2,
+      "order": 12,
+      "kanji": "手帳",
+      "kana": "てちょう",
+      "romaji": "techou",
+      "wordClass": "nomina",
+      "meaning": "buku agenda"
+    },
+    {
+      "id": "ch02_013",
+      "chapterId": 2,
+      "order": 13,
+      "kanji": "名刺",
+      "kana": "めいし",
+      "romaji": "meishi",
+      "wordClass": "nomina",
+      "meaning": "kartu nama"
+    },
+    {
+      "id": "ch02_014",
+      "chapterId": 2,
+      "order": 14,
+      "kanji": "カード",
+      "kana": "カード",
+      "romaji": "kaado",
+      "wordClass": "nomina",
+      "meaning": "kartu"
+    },
+    {
+      "id": "ch02_015",
+      "chapterId": 2,
+      "order": 15,
+      "kanji": "鉛筆",
+      "kana": "えんぴつ",
+      "romaji": "enpitsu",
+      "wordClass": "nomina",
+      "meaning": "pensil"
+    },
+    {
+      "id": "ch02_016",
+      "chapterId": 2,
+      "order": 16,
+      "kanji": "ボールペン",
+      "kana": "ボールペン",
+      "romaji": "boorupen",
+      "wordClass": "nomina",
+      "meaning": "bolpoin, pulpen"
+    },
+    {
+      "id": "ch02_017",
+      "chapterId": 2,
+      "order": 17,
+      "kanji": "シャープペンシル",
+      "kana": "シャープペンシル",
+      "romaji": "shaapupenshiru",
+      "wordClass": "nomina",
+      "meaning": "pensil mekanik"
+    },
+    {
+      "id": "ch02_018",
+      "chapterId": 2,
+      "order": 18,
+      "kanji": "鍵",
+      "kana": "かぎ",
+      "romaji": "kagi",
+      "wordClass": "nomina",
+      "meaning": "kunci"
+    },
+    {
+      "id": "ch02_019",
+      "chapterId": 2,
+      "order": 19,
+      "kanji": "時計",
+      "kana": "とけい",
+      "romaji": "tokei",
+      "wordClass": "nomina",
+      "meaning": "jam, arloji"
+    },
+    {
+      "id": "ch02_020",
+      "chapterId": 2,
+      "order": 20,
+      "kanji": "傘",
+      "kana": "かさ",
+      "romaji": "kasa",
+      "wordClass": "nomina",
+      "meaning": "payung"
+    },
+    {
+      "id": "ch02_021",
+      "chapterId": 2,
+      "order": 21,
+      "kanji": "鞄",
+      "kana": "かばん",
+      "romaji": "kaban",
+      "wordClass": "nomina",
+      "meaning": "tas"
+    },
+    {
+      "id": "ch02_022",
+      "chapterId": 2,
+      "order": 22,
+      "kanji": "テレビ",
+      "kana": "テレビ",
+      "romaji": "terebi",
+      "wordClass": "nomina",
+      "meaning": "televisi"
+    },
+    {
+      "id": "ch02_023",
+      "chapterId": 2,
+      "order": 23,
+      "kanji": "ラジオ",
+      "kana": "ラジオ",
+      "romaji": "rajio",
+      "wordClass": "nomina",
+      "meaning": "radio"
+    },
+    {
+      "id": "ch02_024",
+      "chapterId": 2,
+      "order": 24,
+      "kanji": "カメラ",
+      "kana": "カメラ",
+      "romaji": "kamera",
+      "wordClass": "nomina",
+      "meaning": "kamera"
+    },
+    {
+      "id": "ch02_025",
+      "chapterId": 2,
+      "order": 25,
+      "kanji": "コンピューター",
+      "kana": "コンピューター",
+      "romaji": "konpyuutaa",
+      "wordClass": "nomina",
+      "meaning": "komputer, PC"
+    },
+    {
+      "id": "ch02_026",
+      "chapterId": 2,
+      "order": 26,
+      "kanji": "車",
+      "kana": "くるま",
+      "romaji": "kuruma",
+      "wordClass": "nomina",
+      "meaning": "mobil"
+    },
+    {
+      "id": "ch02_027",
+      "chapterId": 2,
+      "order": 27,
+      "kanji": "机",
+      "kana": "つくえ",
+      "romaji": "tsukue",
+      "wordClass": "nomina",
+      "meaning": "meja, meja tulis"
+    },
+    {
+      "id": "ch02_028",
+      "chapterId": 2,
+      "order": 28,
+      "kanji": "椅",
+      "kana": "いす",
+      "romaji": "isu",
+      "wordClass": "nomina",
+      "meaning": "kursi"
+    },
+    {
+      "id": "ch02_029",
+      "chapterId": 2,
+      "order": 29,
+      "kanji": "チョコレート",
+      "kana": "チョコレート",
+      "romaji": "chokoreeto",
+      "wordClass": "nomina",
+      "meaning": "coklat"
+    },
+    {
+      "id": "ch02_030",
+      "chapterId": 2,
+      "order": 30,
+      "kanji": "コーヒー",
+      "kana": "コーヒー",
+      "romaji": "kouhii",
+      "wordClass": "nomina",
+      "meaning": "kopi"
+    },
+    {
+      "id": "ch02_031",
+      "chapterId": 2,
+      "order": 31,
+      "kanji": "お土産",
+      "kana": "おみやげ",
+      "romaji": "omiyage",
+      "wordClass": "nomina",
+      "meaning": "oleh-oleh"
+    },
+    {
+      "id": "ch02_032",
+      "chapterId": 2,
+      "order": 32,
+      "kanji": "英語",
+      "kana": "えいご",
+      "romaji": "eigo",
+      "wordClass": "nomina",
+      "meaning": "bahasa inggris"
+    },
+    {
+      "id": "ch02_033",
+      "chapterId": 2,
+      "order": 33,
+      "kanji": "日本語",
+      "kana": "にほんご",
+      "romaji": "nihongo",
+      "wordClass": "nomina",
+      "meaning": "bahasa jepang"
+    },
+    {
+      "id": "ch02_034",
+      "chapterId": 2,
+      "order": 34,
+      "kanji": "～語",
+      "kana": "～ご",
+      "romaji": "~go",
+      "wordClass": "sufiks",
+      "meaning": "bahasa~"
+    },
+    {
+      "id": "ch02_035",
+      "chapterId": 2,
+      "order": 35,
+      "kanji": "何",
+      "kana": "なん",
+      "romaji": "nan",
+      "wordClass": "kata tanya",
+      "meaning": "apa"
+    },
+    {
+      "id": "ch02_036",
+      "chapterId": 2,
+      "order": 36,
+      "kanji": "そう",
+      "kana": "そう",
+      "romaji": "sou",
+      "wordClass": "adverbia",
+      "meaning": "begitu"
+    },
+    {
+      "id": "ch02_037",
+      "chapterId": 2,
+      "order": 37,
+      "kanji": "あのう",
+      "kana": "あのう",
+      "romaji": "anou",
+      "wordClass": "interjeksi",
+      "meaning": "anu... (digunakan untuk menunjukkan keragu-raguan)"
+    },
+    {
+      "id": "ch02_038",
+      "chapterId": 2,
+      "order": 38,
+      "kanji": "どうぞ",
+      "kana": "どうぞ",
+      "romaji": "douzo",
+      "wordClass": "ungkapan",
+      "meaning": "silakan (menawarkan sesuatu)"
+    },
+    {
+      "id": "ch02_039",
+      "chapterId": 2,
+      "order": 39,
+      "kanji": "どうもありがとうございます",
+      "kana": "どうもありがとうございます",
+      "romaji": "doumo arigatou gozaimasu",
+      "wordClass": "ungkapan",
+      "meaning": "terima kasih banyak"
+    },
+    {
+      "id": "ch02_040",
+      "chapterId": 2,
+      "order": 40,
+      "kanji": "そうですか",
+      "kana": "そうですか",
+      "romaji": "sou desu ka",
+      "wordClass": "ungkapan",
+      "meaning": "oh, begitu"
+    },
+    {
+      "id": "ch02_041",
+      "chapterId": 2,
+      "order": 41,
+      "kanji": "違います",
+      "kana": "ちがいます",
+      "romaji": "chigaimasu",
+      "wordClass": "verba",
+      "meaning": "bukan / salah / berbeda"
+    },
+    {
+      "id": "ch02_042",
+      "chapterId": 2,
+      "order": 42,
+      "kanji": "これからお世話になります",
+      "kana": "これからおせわになります",
+      "romaji": "korekara osewa ni narimasu",
+      "wordClass": "ungkapan",
+      "meaning": "mulai sekarang saya akan meminta bantuannya"
+    },
+    {
+      "id": "ch02_043",
+      "chapterId": 2,
+      "order": 43,
+      "kanji": "こちらこそよろしくお願いします",
+      "kana": "こちらこそよろしくおねがいします",
+      "romaji": "kochirakoso yoroshiku onegaishimasu",
+      "wordClass": "ungkapan",
+      "meaning": "saya juga memohon bantuan Anda (balasan dari salam kenal)"
+    }
+  ],
   "conversations": [
     {
       "id": "ch02_conv01",
@@ -444,10 +444,34 @@
       "order": 1,
       "title": "Percakapan 1 — Menanyakan Benda",
       "turns": [
-        { "speaker": "ミラー", "japanese": "すみません、それは なんですか。", "romaji": "Sumimasen, sore wa nan desu ka.", "indonesian": "Permisi, itu apa?" },
-        { "speaker": "やまだ", "japanese": "これですか。これは テレホンカードです。", "romaji": "Kore desu ka. Kore wa terehon kaado desu.", "indonesian": "Ini? Ini kartu telepon." },
-        { "speaker": "ミラー", "japanese": "あのう、にほんごで なんと いいますか。", "romaji": "Anou, nihongo de nan to iimasu ka.", "indonesian": "Hmm, bagaimana mengatakannya dalam bahasa Jepang?" },
-        { "speaker": "やまだ", "japanese": "テレホンカードです。", "romaji": "Terehon kaado desu.", "indonesian": "Kartu telepon." }
+        {
+          "speaker": "ミラー",
+          "japanese": "すみません、それは 何ですか。",
+          "romaji": "Sumimasen, sore wa nan desu ka.",
+          "indonesian": "Permisi, itu apa?",
+          "hiragana": "すみません、それは なんですか。"
+        },
+        {
+          "speaker": "やまだ",
+          "japanese": "これですか。これは 本です。",
+          "romaji": "Kore desu ka. Kore wa hon desu.",
+          "indonesian": "Ini? Ini buku.",
+          "hiragana": "これですか。これは ほんです。"
+        },
+        {
+          "speaker": "ミラー",
+          "japanese": "そうですか。それは 日本語の 本ですか。",
+          "romaji": "Sou desu ka. Sore wa nihongo no hon desu ka.",
+          "indonesian": "Oh begitu. Apakah itu buku bahasa Jepang?",
+          "hiragana": "そうですか。それは にほんごの ほんですか。"
+        },
+        {
+          "speaker": "やまだ",
+          "japanese": "はい、そうです。",
+          "romaji": "Hai, sou desu.",
+          "indonesian": "Ya, betul.",
+          "hiragana": "はい、そうです。"
+        }
       ]
     },
     {
@@ -456,10 +480,301 @@
       "order": 2,
       "title": "Percakapan 2 — Kepemilikan Benda",
       "turns": [
-        { "speaker": "ミラー", "japanese": "しつれいですが、おくには どちらですか。", "romaji": "Shitsurei desu ga, okuni wa dochira desu ka.", "indonesian": "Maaf mengganggu, negara asal Anda dari mana?" },
-        { "speaker": "カリナ", "japanese": "インドネシアです。", "romaji": "Indoneshia desu.", "indonesian": "Indonesia." },
-        { "speaker": "ミラー", "japanese": "そうですか。これは カリナさんの かばんですか。", "romaji": "Sou desu ka. Kore wa Karina-san no kaban desu ka.", "indonesian": "Oh begitu. Apakah ini tas Karina?" },
-        { "speaker": "カリナ", "japanese": "はい、そうです。", "romaji": "Hai, sou desu.", "indonesian": "Ya, betul." }
+        {
+          "speaker": "ミラー",
+          "japanese": "これは カリナさんの 鞄ですか。",
+          "romaji": "Kore wa Karina-san no kaban desu ka.",
+          "indonesian": "Apakah ini tas Karina?",
+          "hiragana": "これは カリナさんの かばんですか。"
+        },
+        {
+          "speaker": "カリナ",
+          "japanese": "いいえ、私の 鞄では ありません。",
+          "romaji": "Iie, watashi no kaban dewa arimasen.",
+          "indonesian": "Tidak, bukan tas saya.",
+          "hiragana": "いいえ、わたしの かばんでは ありません。"
+        },
+        {
+          "speaker": "ミラー",
+          "japanese": "それは だれの 鞄ですか。",
+          "romaji": "Sore wa dare no kaban desu ka.",
+          "indonesian": "Tas siapa itu?",
+          "hiragana": "それは だれの かばんですか。"
+        },
+        {
+          "speaker": "カリナ",
+          "japanese": "サントスさんの 鞄です。",
+          "romaji": "Santosu-san no kaban desu.",
+          "indonesian": "Tas Santos.",
+          "hiragana": "サントスさんの かばんです。"
+        }
+      ]
+    },
+    {
+      "id": "ch02_conv03",
+      "chapterId": 2,
+      "order": 3,
+      "title": "Percakapan 3 — Menanyakan Kepemilikan",
+      "turns": [
+        {
+          "speaker": "サントス",
+          "japanese": "あのう、これは だれの 鉛筆ですか。",
+          "romaji": "Anou, kore wa dare no enpitsu desu ka.",
+          "indonesian": "Hmm, ini pensil siapa?",
+          "hiragana": "あのう、これは だれの えんぴつですか。"
+        },
+        {
+          "speaker": "ミラー",
+          "japanese": "それは 私の 鉛筆です。",
+          "romaji": "Sore wa watashi no enpitsu desu.",
+          "indonesian": "Itu pensil saya.",
+          "hiragana": "それは わたしの えんぴつです。"
+        },
+        {
+          "speaker": "サントス",
+          "japanese": "そうですか。どうも ありがとう ございます。",
+          "romaji": "Sou desu ka. Doumo arigatou gozaimasu.",
+          "indonesian": "Oh begitu. Terima kasih banyak.",
+          "hiragana": "そうですか。どうも ありがとう ございます。"
+        }
+      ]
+    },
+    {
+      "id": "ch02_conv04",
+      "chapterId": 2,
+      "order": 4,
+      "title": "Percakapan 4 — Pertanyaan Pilihan",
+      "turns": [
+        {
+          "speaker": "やまだ",
+          "japanese": "それは 辞書ですか、本ですか。",
+          "romaji": "Sore wa jisho desu ka, hon desu ka.",
+          "indonesian": "Apakah itu kamus atau buku?",
+          "hiragana": "それは じしょですか、ほんですか。"
+        },
+        {
+          "speaker": "ミラー",
+          "japanese": "辞書です。",
+          "romaji": "Jisho desu.",
+          "indonesian": "Kamus.",
+          "hiragana": "じしょです。"
+        },
+        {
+          "speaker": "やまだ",
+          "japanese": "それは 英語の 辞書ですか。",
+          "romaji": "Sore wa eigo no jisho desu ka.",
+          "indonesian": "Apakah itu kamus bahasa Inggris?",
+          "hiragana": "それは えいごの じしょですか。"
+        },
+        {
+          "speaker": "ミラー",
+          "japanese": "いいえ、日本語の 辞書です。",
+          "romaji": "Iie, nihongo no jisho desu.",
+          "indonesian": "Tidak, kamus bahasa Jepang.",
+          "hiragana": "いいえ、にほんごの じしょです。"
+        }
+      ]
+    },
+    {
+      "id": "ch02_conv05",
+      "chapterId": 2,
+      "order": 5,
+      "title": "Percakapan 5 — Menunjuk Benda Jauh",
+      "turns": [
+        {
+          "speaker": "サントス",
+          "japanese": "あれは 何ですか。",
+          "romaji": "Are wa nan desu ka.",
+          "indonesian": "Itu apa?",
+          "hiragana": "あれは なんですか。"
+        },
+        {
+          "speaker": "カリナ",
+          "japanese": "あれは テレビです。",
+          "romaji": "Are wa terebi desu.",
+          "indonesian": "Itu televisi.",
+          "hiragana": "あれは テレビです。"
+        },
+        {
+          "speaker": "サントス",
+          "japanese": "あの テレビは 日本の テレビですか。",
+          "romaji": "Ano terebi wa nihon no terebi desu ka.",
+          "indonesian": "Apakah televisi itu televisi Jepang?",
+          "hiragana": "あの テレビは にほんの テレビですか。"
+        },
+        {
+          "speaker": "カリナ",
+          "japanese": "はい、そうです。",
+          "romaji": "Hai, sou desu.",
+          "indonesian": "Ya, betul.",
+          "hiragana": "はい、そうです。"
+        }
+      ]
+    },
+    {
+      "id": "ch02_conv06",
+      "chapterId": 2,
+      "order": 6,
+      "title": "Percakapan 6 — Memberikan Sesuatu",
+      "turns": [
+        {
+          "speaker": "やまだ",
+          "japanese": "ミラーさん、これは 日本の お土産です。どうぞ。",
+          "romaji": "Miraa-san, kore wa nihon no omiyage desu. Douzo.",
+          "indonesian": "Tuan Miller, ini oleh-oleh dari Jepang. Silakan.",
+          "hiragana": "ミラーさん、これは にほんの おみやげです。どうぞ。"
+        },
+        {
+          "speaker": "ミラー",
+          "japanese": "どうも ありがとう ございます。これは 何ですか。",
+          "romaji": "Doumo arigatou gozaimasu. Kore wa nan desu ka.",
+          "indonesian": "Terima kasih banyak. Ini apa?",
+          "hiragana": "どうも ありがとう ございます。これは なんですか。"
+        },
+        {
+          "speaker": "やまだ",
+          "japanese": "チョコレートです。",
+          "romaji": "Chokoreeto desu.",
+          "indonesian": "Coklat.",
+          "hiragana": "チョコレートです。"
+        }
+      ]
+    },
+    {
+      "id": "ch02_conv07",
+      "chapterId": 2,
+      "order": 7,
+      "title": "Percakapan 7 — Menanyakan Benda di Meja",
+      "turns": [
+        {
+          "speaker": "サントス",
+          "japanese": "この ノートは だれのですか。",
+          "romaji": "Kono nouto wa dare no desu ka.",
+          "indonesian": "Buku catatan ini milik siapa?",
+          "hiragana": "この ノートは だれのですか。"
+        },
+        {
+          "speaker": "カリナ",
+          "japanese": "それは 私のです。",
+          "romaji": "Sore wa watashi no desu.",
+          "indonesian": "Itu milik saya.",
+          "hiragana": "それは わたしのです。"
+        },
+        {
+          "speaker": "サントス",
+          "japanese": "そうですか。その ボールペンも カリナさんのですか。",
+          "romaji": "Sou desu ka. Sono boorupen mo Karina-san no desu ka.",
+          "indonesian": "Oh begitu. Apakah pulpen itu juga milik Karina?",
+          "hiragana": "そうですか。その ボールペンも カリナさんのですか。"
+        },
+        {
+          "speaker": "カリナ",
+          "japanese": "いいえ、違います。",
+          "romaji": "Iie, chigaimasu.",
+          "indonesian": "Tidak, bukan.",
+          "hiragana": "いいえ、ちがいます。"
+        }
+      ]
+    },
+    {
+      "id": "ch02_conv08",
+      "chapterId": 2,
+      "order": 8,
+      "title": "Percakapan 8 — Menanyakan Kunci",
+      "turns": [
+        {
+          "speaker": "ミラー",
+          "japanese": "あのう、これは やまださんの 鍵ですか。",
+          "romaji": "Anou, kore wa Yamada-san no kagi desu ka.",
+          "indonesian": "Hmm, apakah ini kunci Yamada?",
+          "hiragana": "あのう、これは やまださんの かぎですか。"
+        },
+        {
+          "speaker": "やまだ",
+          "japanese": "いいえ、私の 鍵では ありません。",
+          "romaji": "Iie, watashi no kagi dewa arimasen.",
+          "indonesian": "Tidak, bukan kunci saya.",
+          "hiragana": "いいえ、わたしの かぎでは ありません。"
+        },
+        {
+          "speaker": "ミラー",
+          "japanese": "それは だれの 鍵ですか。",
+          "romaji": "Sore wa dare no kagi desu ka.",
+          "indonesian": "Kunci siapa itu?",
+          "hiragana": "それは だれの かぎですか。"
+        },
+        {
+          "speaker": "やまだ",
+          "japanese": "たぶん、サントスさんの 鍵です。",
+          "romaji": "Tabun, Santosu-san no kagi desu.",
+          "indonesian": "Mungkin kunci Santos.",
+          "hiragana": "たぶん、サントスさんの かぎです。"
+        }
+      ]
+    },
+    {
+      "id": "ch02_conv09",
+      "chapterId": 2,
+      "order": 9,
+      "title": "Percakapan 9 — Menanyakan Kamera",
+      "turns": [
+        {
+          "speaker": "カリナ",
+          "japanese": "あれは カメラですか、ラジオですか。",
+          "romaji": "Are wa kamera desu ka, rajio desu ka.",
+          "indonesian": "Apakah itu kamera atau radio?",
+          "hiragana": "あれは カメラですか、ラジオですか。"
+        },
+        {
+          "speaker": "サントス",
+          "japanese": "あれは カメラです。",
+          "romaji": "Are wa kamera desu.",
+          "indonesian": "Itu kamera.",
+          "hiragana": "あれは カメラです。"
+        },
+        {
+          "speaker": "カリナ",
+          "japanese": "あの カメラは だれのですか。",
+          "romaji": "Ano kamera wa dare no desu ka.",
+          "indonesian": "Kamera itu milik siapa?",
+          "hiragana": "あの カメラは だれのですか。"
+        },
+        {
+          "speaker": "サントス",
+          "japanese": "ミラーさんの カメラです。",
+          "romaji": "Miraa-san no kamera desu.",
+          "indonesian": "Kamera Tuan Miller.",
+          "hiragana": "ミラーさんの カメラです。"
+        }
+      ]
+    },
+    {
+      "id": "ch02_conv10",
+      "chapterId": 2,
+      "order": 10,
+      "title": "Percakapan 10 — Perkenalan dan Pemberian Kartu Nama",
+      "turns": [
+        {
+          "speaker": "ミラー",
+          "japanese": "初めまして。私は ミラーです。これから お世話に なります。",
+          "romaji": "Hajimemashite. Watashi wa Miraa desu. Korekara osewa ni narimasu.",
+          "indonesian": "Salam perkenalan. Saya Miller. Mulai sekarang saya akan meminta bantuannya.",
+          "hiragana": "はじめまして。わたしは ミラーです。これから おせわに なります。"
+        },
+        {
+          "speaker": "やまだ",
+          "japanese": "こちらこそ よろしく お願いします。これは 私の 名刺です。どうぞ。",
+          "romaji": "Kochirakoso yoroshiku onegaishimasu. Kore wa watashi no meishi desu. Douzo.",
+          "indonesian": "Saya juga memohon bantuan Anda. Ini kartu nama saya. Silakan.",
+          "hiragana": "こちらこそ よろしく おねがいします。これは わたしの めいしです。どうぞ。"
+        },
+        {
+          "speaker": "ミラー",
+          "japanese": "どうも ありがとう ございます。",
+          "romaji": "Doumo arigatou gozaimasu.",
+          "indonesian": "Terima kasih banyak.",
+          "hiragana": "どうも ありがとう ございます。"
+        }
       ]
     }
   ],
@@ -471,8 +786,16 @@
       "pattern": "これ/それ/あれ は N です",
       "explanation": "Menunjuk dan mengidentifikasi benda. これ untuk benda dekat pembicara, それ untuk benda dekat lawan bicara, あれ untuk benda jauh dari keduanya.",
       "examples": [
-        { "japanese": "これは じしょです。", "romaji": "Kore wa jisho desu.", "indonesian": "Ini adalah kamus." },
-        { "japanese": "あれは テレビです。", "romaji": "Are wa terebi desu.", "indonesian": "Itu adalah televisi." }
+        {
+          "japanese": "これは じしょです。",
+          "romaji": "Kore wa jisho desu.",
+          "indonesian": "Ini adalah kamus."
+        },
+        {
+          "japanese": "あれは テレビです。",
+          "romaji": "Are wa terebi desu.",
+          "indonesian": "Itu adalah televisi."
+        }
       ]
     },
     {
@@ -482,8 +805,16 @@
       "pattern": "この/その/あの N は N です",
       "explanation": "Modifikator penunjuk yang diikuti nomina. この/その/あの selalu diikuti nomina, berbeda dengan これ/それ/あれ yang berdiri sendiri.",
       "examples": [
-        { "japanese": "この かばんは わたしのです。", "romaji": "Kono kaban wa watashi no desu.", "indonesian": "Tas ini milik saya." },
-        { "japanese": "その ほんは にほんごのほんです。", "romaji": "Sono hon wa nihongo no hon desu.", "indonesian": "Buku itu adalah buku bahasa Jepang." }
+        {
+          "japanese": "この かばんは わたしのです。",
+          "romaji": "Kono kaban wa watashi no desu.",
+          "indonesian": "Tas ini milik saya."
+        },
+        {
+          "japanese": "その ほんは にほんごのほんです。",
+          "romaji": "Sono hon wa nihongo no hon desu.",
+          "indonesian": "Buku itu adalah buku bahasa Jepang."
+        }
       ]
     },
     {
@@ -493,8 +824,16 @@
       "pattern": "N は N の N です",
       "explanation": "Menyatakan kepemilikan atau asal benda. Partikel の (no) menghubungkan dua nomina, menyatakan 'milik' atau 'dari'.",
       "examples": [
-        { "japanese": "これは にほんごの ほんです。", "romaji": "Kore wa nihongo no hon desu.", "indonesian": "Ini adalah buku bahasa Jepang." },
-        { "japanese": "それは ミラーさんの かばんです。", "romaji": "Sore wa Miraa-san no kaban desu.", "indonesian": "Itu adalah tas Tuan Miller." }
+        {
+          "japanese": "これは にほんごの ほんです。",
+          "romaji": "Kore wa nihongo no hon desu.",
+          "indonesian": "Ini adalah buku bahasa Jepang."
+        },
+        {
+          "japanese": "それは ミラーさんの かばんです。",
+          "romaji": "Sore wa Miraa-san no kaban desu.",
+          "indonesian": "Itu adalah tas Tuan Miller."
+        }
       ]
     },
     {
@@ -504,8 +843,16 @@
       "pattern": "N は N ですか、N ですか",
       "explanation": "Pertanyaan pilihan (atau). Menanyakan apakah suatu benda adalah A atau B. Dijawab dengan menyebutkan salah satu pilihan.",
       "examples": [
-        { "japanese": "それは じしょですか、ほんですか。", "romaji": "Sore wa jisho desu ka, hon desu ka.", "indonesian": "Apakah itu kamus atau buku?" },
-        { "japanese": "これは えんぴつですか、ボールペンですか。", "romaji": "Kore wa enpitsu desu ka, boorupen desu ka.", "indonesian": "Apakah ini pensil atau pulpen?" }
+        {
+          "japanese": "それは じしょですか、ほんですか。",
+          "romaji": "Sore wa jisho desu ka, hon desu ka.",
+          "indonesian": "Apakah itu kamus atau buku?"
+        },
+        {
+          "japanese": "これは えんぴつですか、ボールペンですか。",
+          "romaji": "Kore wa enpitsu desu ka, boorupen desu ka.",
+          "indonesian": "Apakah ini pensil atau pulpen?"
+        }
       ]
     }
   ],
@@ -517,8 +864,16 @@
       "title": "Kata Tunjuk これ・それ・あれ (Ko-So-A-Do)",
       "explanation": "Bahasa Jepang memiliki sistem kata tunjuk Ko-So-A-Do berdasarkan jarak. これ (kore) untuk benda dekat pembicara, それ (sore) untuk benda dekat lawan bicara, あれ (are) untuk benda jauh dari keduanya, dan どれ (dore) untuk menanyakan 'yang mana'. Sistem ini juga berlaku untuk modifikator この/その/あの/どの yang selalu diikuti nomina.",
       "examples": [
-        { "japanese": "これは わたしの ほんです。", "romaji": "Kore wa watashi no hon desu.", "indonesian": "Ini adalah buku saya." },
-        { "japanese": "あれは なんですか。", "romaji": "Are wa nan desu ka.", "indonesian": "Itu apa?" }
+        {
+          "japanese": "これは わたしの ほんです。",
+          "romaji": "Kore wa watashi no hon desu.",
+          "indonesian": "Ini adalah buku saya."
+        },
+        {
+          "japanese": "あれは なんですか。",
+          "romaji": "Are wa nan desu ka.",
+          "indonesian": "Itu apa?"
+        }
       ]
     },
     {
@@ -528,8 +883,16 @@
       "title": "Partikel の (no) — Kepemilikan dan Modifikasi",
       "explanation": "Partikel の (no) menghubungkan dua nomina. Fungsi utamanya adalah menyatakan kepemilikan (A の B = B milik A) atau modifikasi (A の B = B yang berhubungan dengan A). Partikel の juga dapat berdiri sendiri di akhir kalimat menggantikan nomina yang sudah diketahui konteksnya.",
       "examples": [
-        { "japanese": "これは ミラーさんの かばんです。", "romaji": "Kore wa Miraa-san no kaban desu.", "indonesian": "Ini adalah tas Tuan Miller." },
-        { "japanese": "この かさは だれのですか。", "romaji": "Kono kasa wa dare no desu ka.", "indonesian": "Payung ini milik siapa?" }
+        {
+          "japanese": "これは ミラーさんの かばんです。",
+          "romaji": "Kore wa Miraa-san no kaban desu.",
+          "indonesian": "Ini adalah tas Tuan Miller."
+        },
+        {
+          "japanese": "この かさは だれのですか。",
+          "romaji": "Kono kasa wa dare no desu ka.",
+          "indonesian": "Payung ini milik siapa?"
+        }
       ]
     },
     {
@@ -539,45 +902,360 @@
       "title": "Pertanyaan Pilihan: A ですか、B ですか",
       "explanation": "Untuk menanyakan pilihan antara dua kemungkinan, gunakan pola 'A ですか、B ですか'. Pola ini meminta lawan bicara memilih salah satu dari dua opsi yang disebutkan. Jawaban cukup menyebutkan pilihan yang benar diikuti です.",
       "examples": [
-        { "japanese": "それは じしょですか、ほんですか。", "romaji": "Sore wa jisho desu ka, hon desu ka.", "indonesian": "Apakah itu kamus atau buku?" },
-        { "japanese": "おくには インドネシアですか、マレーシアですか。", "romaji": "Okuni wa Indoneshia desu ka, Mereeshia desu ka.", "indonesian": "Negara asal Anda Indonesia atau Malaysia?" }
+        {
+          "japanese": "それは じしょですか、ほんですか。",
+          "romaji": "Sore wa jisho desu ka, hon desu ka.",
+          "indonesian": "Apakah itu kamus atau buku?"
+        },
+        {
+          "japanese": "おくには インドネシアですか、マレーシアですか。",
+          "romaji": "Okuni wa Indoneshia desu ka, Mereeshia desu ka.",
+          "indonesian": "Negara asal Anda Indonesia atau Malaysia?"
+        }
       ]
     }
   ],
   "quiz": [
     {
-      "id": "ch02_q01",
+      "id": "ch02_v01",
       "chapterId": 2,
       "order": 1,
-      "question": "Kata penunjuk mana yang digunakan untuk benda yang dekat dengan lawan bicara?",
-      "choices": ["これ (kore)", "それ (sore)", "あれ (are)", "どれ (dore)"],
-      "correctIndex": 1
+      "question": "Bagaimana cara membaca kanji '<ruby>本<rt>ほん</rt></ruby>'?",
+      "choices": [
+        "ほん",
+        "もと",
+        "ぼん",
+        "ぽん"
+      ],
+      "correctIndex": 0,
+      "category": "vocabulary"
     },
     {
-      "id": "ch02_q02",
+      "id": "ch02_v02",
       "chapterId": 2,
       "order": 2,
-      "question": "Apa arti kata 'じしょ' (jisho)?",
-      "choices": ["buku", "majalah", "kamus", "koran"],
-      "correctIndex": 2
+      "question": "Bagaimana cara membaca kanji '<ruby>辞書<rt>じしょ</rt></ruby>'?",
+      "choices": [
+        "じしょ",
+        "じしゃ",
+        "ちしょ",
+        "ちしゃ"
+      ],
+      "correctIndex": 0,
+      "category": "vocabulary"
     },
     {
-      "id": "ch02_q03",
+      "id": "ch02_v03",
       "chapterId": 2,
       "order": 3,
-      "question": "Bagaimana cara mengatakan 'Ini adalah buku bahasa Jepang'?",
+      "question": "Bagaimana cara membaca kanji '<ruby>時計<rt>とけい</rt></ruby>'?",
       "choices": [
-        "これは にほんごの ほんです。",
-        "それは にほんごの ほんです。",
-        "あれは にほんごの ほんです。",
-        "この にほんごは ほんです。"
+        "ときけい",
+        "とけい",
+        "じけい",
+        "じかん"
       ],
-      "correctIndex": 0
+      "correctIndex": 1,
+      "category": "vocabulary"
     },
     {
-      "id": "ch02_q04",
+      "id": "ch02_v04",
       "chapterId": 2,
       "order": 4,
+      "question": "Apa arti kata 'かばん'?",
+      "choices": [
+        "payung",
+        "tas",
+        "kunci",
+        "kursi"
+      ],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch02_v05",
+      "chapterId": 2,
+      "order": 5,
+      "question": "Apa arti kata '<ruby>新聞<rt>しんぶん</rt></ruby>'?",
+      "choices": [
+        "majalah",
+        "buku",
+        "koran",
+        "kamus"
+      ],
+      "correctIndex": 2,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch02_v06",
+      "chapterId": 2,
+      "order": 6,
+      "question": "Apa arti kata '<ruby>車<rt>くるま</rt></ruby>'?",
+      "choices": [
+        "sepeda",
+        "mobil",
+        "motor",
+        "bus"
+      ],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch02_v07",
+      "chapterId": 2,
+      "order": 7,
+      "question": "Pilih kata yang tepat: これは ___です。(Ini adalah kamus)",
+      "choices": [
+        "ほん",
+        "じしょ",
+        "ざっし",
+        "しんぶん"
+      ],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch02_v08",
+      "chapterId": 2,
+      "order": 8,
+      "question": "Pilih kata yang tepat: それは ___です。(Itu adalah pensil)",
+      "choices": [
+        "ボールペン",
+        "えんぴつ",
+        "ノート",
+        "かぎ"
+      ],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch02_v09",
+      "chapterId": 2,
+      "order": 9,
+      "question": "Bagaimana cara membaca kanji '<ruby>傘<rt>かさ</rt></ruby>'?",
+      "choices": [
+        "かさ",
+        "かざ",
+        "かた",
+        "かだ"
+      ],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch02_v10",
+      "chapterId": 2,
+      "order": 10,
+      "question": "Apa arti kata 'テレビ'?",
+      "choices": [
+        "radio",
+        "televisi",
+        "kamera",
+        "komputer"
+      ],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch02_v11",
+      "chapterId": 2,
+      "order": 11,
+      "question": "Bagaimana cara membaca kanji '<ruby>鍵<rt>かぎ</rt></ruby>'?",
+      "choices": [
+        "かぎ",
+        "かき",
+        "がぎ",
+        "がき"
+      ],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch02_v12",
+      "chapterId": 2,
+      "order": 12,
+      "question": "Apa arti kata 'コーヒー'?",
+      "choices": [
+        "teh",
+        "kopi",
+        "susu",
+        "jus"
+      ],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch02_v13",
+      "chapterId": 2,
+      "order": 13,
+      "question": "Apa arti kata '<ruby>名刺<rt>めいし</rt></ruby>'?",
+      "choices": [
+        "kartu nama",
+        "kartu kredit",
+        "kartu identitas",
+        "kartu pos"
+      ],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch02_v14",
+      "chapterId": 2,
+      "order": 14,
+      "question": "Bagaimana cara membaca kanji '<ruby>机<rt>つくえ</rt></ruby>'?",
+      "choices": [
+        "つくえ",
+        "つくい",
+        "づくえ",
+        "づくい"
+      ],
+      "correctIndex": 0,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch02_v15",
+      "chapterId": 2,
+      "order": 15,
+      "question": "Apa arti kata 'おみやげ'? (Review Chapter 1)",
+      "choices": [
+        "hadiah",
+        "oleh-oleh",
+        "makanan",
+        "minuman"
+      ],
+      "correctIndex": 1,
+      "category": "vocabulary"
+    },
+    {
+      "id": "ch02_g01",
+      "chapterId": 2,
+      "order": 16,
+      "question": "Pilih partikel yang tepat: これ___ ほんです。",
+      "choices": [
+        "は",
+        "が",
+        "を",
+        "に"
+      ],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch02_g02",
+      "chapterId": 2,
+      "order": 17,
+      "question": "Pilih partikel yang tepat: これは にほんご___ ほんです。",
+      "choices": [
+        "は",
+        "も",
+        "の",
+        "が"
+      ],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch02_g03",
+      "chapterId": 2,
+      "order": 18,
+      "question": "Pilih partikel yang tepat: それは ミラーさん___ かばんです。",
+      "choices": [
+        "は",
+        "の",
+        "も",
+        "を"
+      ],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch02_g04",
+      "chapterId": 2,
+      "order": 19,
+      "question": "Lengkapi kalimat: これは じしょ___、ほんですか。",
+      "choices": [
+        "です",
+        "ですか",
+        "でした",
+        "では"
+      ],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch02_g05",
+      "chapterId": 2,
+      "order": 20,
+      "question": "Lengkapi kalimat: あれ___ テレビです。",
+      "choices": [
+        "が",
+        "を",
+        "は",
+        "に"
+      ],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch02_g06",
+      "chapterId": 2,
+      "order": 21,
+      "question": "Lengkapi kalimat: この かばんは わたし___ です。",
+      "choices": [
+        "は",
+        "が",
+        "の",
+        "を"
+      ],
+      "correctIndex": 2,
+      "category": "grammar"
+    },
+    {
+      "id": "ch02_g07",
+      "chapterId": 2,
+      "order": 22,
+      "question": "Pola grammar apa yang digunakan dalam 'これは ほんです'?",
+      "choices": [
+        "これ/それ/あれ は N です",
+        "この/その/あの N です",
+        "N は N の N です",
+        "N も N です"
+      ],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch02_g08",
+      "chapterId": 2,
+      "order": 23,
+      "question": "Pola grammar apa yang digunakan dalam 'これは にほんごの ほんです'?",
+      "choices": [
+        "これ/それ/あれ は N です",
+        "N は N の N です",
+        "N も N です",
+        "N は N ですか"
+      ],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch02_g09",
+      "chapterId": 2,
+      "order": 24,
+      "question": "Kata penunjuk mana yang digunakan untuk benda yang dekat dengan lawan bicara?",
+      "choices": [
+        "これ",
+        "それ",
+        "あれ",
+        "どれ"
+      ],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch02_g10",
+      "chapterId": 2,
+      "order": 25,
       "question": "Apa perbedaan antara 'この' dan 'これ'?",
       "choices": [
         "Tidak ada perbedaan, keduanya sama",
@@ -585,240 +1263,358 @@
         "'これ' selalu diikuti nomina, 'この' berdiri sendiri",
         "'この' untuk benda jauh, 'これ' untuk benda dekat"
       ],
-      "correctIndex": 1
-    },
-    {
-      "id": "ch02_q05",
-      "chapterId": 2,
-      "order": 5,
-      "question": "Apa arti ungkapan 'そうですか' (sou desu ka)?",
-      "choices": ["Saya tidak tahu", "Begitu ya/Oh ya?", "Bukan/Salah", "Permisi"],
-      "correctIndex": 1
-    },
-    {
-      "id": "ch02_q06",
-      "chapterId": 2,
-      "order": 6,
-      "question": "Kata 'とけい' (tokei) berarti...",
-      "choices": ["kunci", "payung", "tas", "jam/arloji"],
-      "correctIndex": 3
-    },
-    {
-      "id": "ch02_q07",
-      "chapterId": 2,
-      "order": 7,
-      "question": "Partikel apa yang digunakan untuk menyatakan kepemilikan dalam pola 'N の N'?",
-      "choices": ["は", "も", "の", "が"],
-      "correctIndex": 2
-    },
-    {
-      "id": "ch02_q08",
-      "chapterId": 2,
-      "order": 8,
-      "question": "Apa arti kata 'ざっし' (zasshi)?",
-      "choices": ["koran", "buku catatan", "majalah", "buku agenda"],
-      "correctIndex": 2
-    },
-    {
-      "id": "ch02_q09",
-      "chapterId": 2,
-      "order": 9,
-      "question": "Bagaimana cara mengatakan 'Apakah itu kamera atau radio?' dalam bahasa Jepang?",
-      "choices": [
-        "それは カメラですか。",
-        "それは カメラですか、ラジオですか。",
-        "それは カメラも ラジオです。",
-        "それは カメラでは ありません。"
-      ],
-      "correctIndex": 1
-    },
-    {
-      "id": "ch02_q10",
-      "chapterId": 2,
-      "order": 10,
-      "question": "Apa arti kata 'えんぴつ' (enpitsu)?",
-      "choices": ["pulpen", "pensil mekanik", "pensil", "spidol"],
-      "correctIndex": 2
-    },
-    {
-      "id": "ch02_v01",
-      "chapterId": 2,
-      "order": 11,
-      "question": "Bagaimana cara membaca kanji '本'?",
-      "choices": ["ほん", "もと", "ぼん", "ぽん"],
-      "correctIndex": 0,
-      "category": "vocabulary"
-    },
-    {
-      "id": "ch02_v02",
-      "chapterId": 2,
-      "order": 12,
-      "question": "Bagaimana cara membaca kanji '辞書'?",
-      "choices": ["じしょ", "じしゃ", "ちしょ", "ちしゃ"],
-      "correctIndex": 0,
-      "category": "vocabulary"
-    },
-    {
-      "id": "ch02_v03",
-      "chapterId": 2,
-      "order": 13,
-      "question": "Bagaimana cara membaca kanji '時計'?",
-      "choices": ["ときけい", "とけい", "じけい", "じかん"],
-      "correctIndex": 1,
-      "category": "vocabulary"
-    },
-    {
-      "id": "ch02_v04",
-      "chapterId": 2,
-      "order": 14,
-      "question": "Apa arti kata 'かばん'?",
-      "choices": ["payung", "tas", "kunci", "kursi"],
-      "correctIndex": 1,
-      "category": "vocabulary"
-    },
-    {
-      "id": "ch02_v05",
-      "chapterId": 2,
-      "order": 15,
-      "question": "Apa arti kata 'しんぶん'?",
-      "choices": ["majalah", "buku", "koran", "kamus"],
-      "correctIndex": 2,
-      "category": "vocabulary"
-    },
-    {
-      "id": "ch02_v06",
-      "chapterId": 2,
-      "order": 16,
-      "question": "Apa arti kata 'くるま'?",
-      "choices": ["sepeda", "mobil", "motor", "bus"],
-      "correctIndex": 1,
-      "category": "vocabulary"
-    },
-    {
-      "id": "ch02_v07",
-      "chapterId": 2,
-      "order": 17,
-      "question": "Pilih kata yang tepat: これは ___です。(Ini adalah kamus)",
-      "choices": ["ほん", "じしょ", "ざっし", "しんぶん"],
-      "correctIndex": 1,
-      "category": "vocabulary"
-    },
-    {
-      "id": "ch02_v08",
-      "chapterId": 2,
-      "order": 18,
-      "question": "Pilih kata yang tepat: それは ___です。(Itu adalah pensil)",
-      "choices": ["ボールペン", "えんぴつ", "ノート", "かぎ"],
-      "correctIndex": 1,
-      "category": "vocabulary"
-    },
-    {
-      "id": "ch02_g01",
-      "chapterId": 2,
-      "order": 19,
-      "question": "Pilih partikel yang tepat: これ___ ほんです。",
-      "choices": ["は", "が", "を", "に"],
-      "correctIndex": 0,
-      "category": "grammar"
-    },
-    {
-      "id": "ch02_g02",
-      "chapterId": 2,
-      "order": 20,
-      "question": "Pilih partikel yang tepat: これは にほんご___ ほんです。",
-      "choices": ["は", "も", "の", "が"],
-      "correctIndex": 2,
-      "category": "grammar"
-    },
-    {
-      "id": "ch02_g03",
-      "chapterId": 2,
-      "order": 21,
-      "question": "Pilih partikel yang tepat: それは ミラーさん___ かばんです。",
-      "choices": ["は", "の", "も", "を"],
       "correctIndex": 1,
       "category": "grammar"
     },
     {
-      "id": "ch02_g04",
-      "chapterId": 2,
-      "order": 22,
-      "question": "Lengkapi kalimat: これは じしょ___、ほんですか。",
-      "choices": ["です", "ですか", "でした", "では"],
-      "correctIndex": 1,
-      "category": "grammar"
-    },
-    {
-      "id": "ch02_g05",
-      "chapterId": 2,
-      "order": 23,
-      "question": "Lengkapi kalimat: あれ___ テレビです。",
-      "choices": ["が", "を", "は", "に"],
-      "correctIndex": 2,
-      "category": "grammar"
-    },
-    {
-      "id": "ch02_g06",
-      "chapterId": 2,
-      "order": 24,
-      "question": "Lengkapi kalimat: この かばんは わたし___ です。",
-      "choices": ["は", "が", "の", "を"],
-      "correctIndex": 2,
-      "category": "grammar"
-    },
-    {
-      "id": "ch02_g07",
-      "chapterId": 2,
-      "order": 25,
-      "question": "Pola grammar apa yang digunakan dalam 'これは ほんです'?",
-      "choices": ["これ/それ/あれ は N です", "この/その/あの N です", "N は N の N です", "N も N です"],
-      "correctIndex": 0,
-      "category": "grammar"
-    },
-    {
-      "id": "ch02_g08",
+      "id": "ch02_g11",
       "chapterId": 2,
       "order": 26,
-      "question": "Pola grammar apa yang digunakan dalam 'これは にほんごの ほんです'?",
-      "choices": ["これ/それ/あれ は N です", "N は N の N です", "N も N です", "N は N ですか"],
+      "question": "Lengkapi kalimat: それは だれ___ かばんですか。",
+      "choices": [
+        "は",
+        "の",
+        "が",
+        "を"
+      ],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch02_g12",
+      "chapterId": 2,
+      "order": 27,
+      "question": "Pilih partikel yang tepat: わたし___ がくせいです。(Review Chapter 1)",
+      "choices": [
+        "は",
+        "が",
+        "を",
+        "に"
+      ],
+      "correctIndex": 0,
+      "category": "grammar"
+    },
+    {
+      "id": "ch02_g13",
+      "chapterId": 2,
+      "order": 28,
+      "question": "Lengkapi kalimat: これは えんぴつ___ ありません。",
+      "choices": [
+        "です",
+        "では",
+        "でも",
+        "でした"
+      ],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch02_g14",
+      "chapterId": 2,
+      "order": 29,
+      "question": "Pilih partikel yang tepat: サントスさん___ がくせいです。(Review Chapter 1)",
+      "choices": [
+        "は",
+        "も",
+        "が",
+        "を"
+      ],
+      "correctIndex": 1,
+      "category": "grammar"
+    },
+    {
+      "id": "ch02_g15",
+      "chapterId": 2,
+      "order": 30,
+      "question": "Pola grammar apa yang digunakan dalam 'それは じしょですか、ほんですか'?",
+      "choices": [
+        "N は N です",
+        "N は N ですか、N ですか",
+        "N も N です",
+        "N は N では ありません"
+      ],
       "correctIndex": 1,
       "category": "grammar"
     },
     {
       "id": "ch02_r01",
       "chapterId": 2,
-      "order": 27,
-      "question": "これは わたしの ほんです。にほんごの ほんです。\n\nこの ほんは なんの ほんですか。",
-      "choices": ["えいごの ほん", "にほんごの ほん", "ちゅうごくごの ほん", "かんこくごの ほん"],
+      "order": 31,
+      "question": "これは わたしの ほんです。にほんごの ほんです。\nこの ほんは なんの ほんですか。",
+      "choices": [
+        "えいごの ほん",
+        "にほんごの ほん",
+        "ちゅうごくごの ほん",
+        "かんこくごの ほん"
+      ],
       "correctIndex": 1,
       "category": "reading"
     },
     {
       "id": "ch02_r02",
       "chapterId": 2,
-      "order": 28,
-      "question": "それは ミラーさんの かばんです。あれは サントスさんの かばんです。\n\nミラーさんの かばんは どれですか。",
-      "choices": ["これ", "それ", "あれ", "どれ"],
+      "order": 32,
+      "question": "それは ミラーさんの かばんです。あれは サントスさんの かばんです。\nミラーさんの かばんは どれですか。",
+      "choices": [
+        "これ",
+        "それ",
+        "あれ",
+        "どれ"
+      ],
       "correctIndex": 1,
       "category": "reading"
     },
     {
       "id": "ch02_r03",
       "chapterId": 2,
-      "order": 29,
-      "question": "これは えんぴつですか、ボールペンですか。それは えんぴつです。\n\nそれは なんですか。",
-      "choices": ["ボールペン", "えんぴつ", "ノート", "かぎ"],
+      "order": 33,
+      "question": "これは えんぴつですか、ボールペンですか。それは えんぴつです。\nそれは なんですか。",
+      "choices": [
+        "ボールペン",
+        "えんぴつ",
+        "ノート",
+        "かぎ"
+      ],
       "correctIndex": 1,
       "category": "reading"
     },
     {
       "id": "ch02_r04",
       "chapterId": 2,
-      "order": 30,
-      "question": "あれは テレビです。これは ラジオです。\n\nテレビは どれですか。",
-      "choices": ["これ", "それ", "あれ", "この"],
+      "order": 34,
+      "question": "あれは テレビです。これは ラジオです。\nテレビは どれですか。",
+      "choices": [
+        "これ",
+        "それ",
+        "あれ",
+        "この"
+      ],
       "correctIndex": 2,
       "category": "reading"
+    },
+    {
+      "id": "ch02_r05",
+      "chapterId": 2,
+      "order": 35,
+      "question": "これは にほんごの じしょです。それは えいごの じしょです。\nにほんごの じしょは どれですか。",
+      "choices": [
+        "これ",
+        "それ",
+        "あれ",
+        "どれ"
+      ],
+      "correctIndex": 0,
+      "category": "reading"
+    },
+    {
+      "id": "ch02_r06",
+      "chapterId": 2,
+      "order": 36,
+      "question": "この ノートは わたしのです。その ノートは サントスさんのです。\nサントスさんの ノートは どれですか。",
+      "choices": [
+        "この ノート",
+        "その ノート",
+        "あの ノート",
+        "どの ノート"
+      ],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch02_r07",
+      "chapterId": 2,
+      "order": 37,
+      "question": "ミラーさんは アメリカじんです。かいしゃいんです。(Review Chapter 1)\nミラーさんは なにじんですか。",
+      "choices": [
+        "にほんじん",
+        "アメリカじん",
+        "イギリスじん",
+        "かんこくじん"
+      ],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch02_r08",
+      "chapterId": 2,
+      "order": 38,
+      "question": "これは カメラです。にほんの カメラです。\nこれは なんの カメラですか。",
+      "choices": [
+        "アメリカの カメラ",
+        "にほんの カメラ",
+        "ちゅうごくの カメラ",
+        "かんこくの カメラ"
+      ],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch02_r09",
+      "chapterId": 2,
+      "order": 39,
+      "question": "あれは わたしの くるまです。これは サントスさんの くるまです。\nわたしの くるまは どれですか。",
+      "choices": [
+        "これ",
+        "それ",
+        "あれ",
+        "どれ"
+      ],
+      "correctIndex": 2,
+      "category": "reading"
+    },
+    {
+      "id": "ch02_r10",
+      "chapterId": 2,
+      "order": 40,
+      "question": "これは チョコレートです。にほんの おみやげです。\nこれは なんですか。",
+      "choices": [
+        "コーヒー",
+        "チョコレート",
+        "おちゃ",
+        "ケーキ"
+      ],
+      "correctIndex": 1,
+      "category": "reading"
+    },
+    {
+      "id": "ch02_c01",
+      "chapterId": 2,
+      "order": 41,
+      "question": "A: すみません、それは なんですか。\nB: ___\nPilih respons yang tepat:",
+      "choices": [
+        "これは ほんです。",
+        "それは ほんです。",
+        "あれは ほんです。",
+        "どれは ほんです。"
+      ],
+      "correctIndex": 0,
+      "category": "conversation"
+    },
+    {
+      "id": "ch02_c02",
+      "chapterId": 2,
+      "order": 42,
+      "question": "A: これは カリナさんの かばんですか。\nB: いいえ、___。\nPilih respons yang tepat:",
+      "choices": [
+        "わたしの かばんです",
+        "わたしの かばんでは ありません",
+        "あなたの かばんです",
+        "かばんです"
+      ],
+      "correctIndex": 1,
+      "category": "conversation"
+    },
+    {
+      "id": "ch02_c03",
+      "chapterId": 2,
+      "order": 43,
+      "question": "A: それは <ruby>辞書<rt>じしょ</rt></ruby>ですか、<ruby>本<rt>ほん</rt></ruby>ですか。\nB: ___\nPilih respons yang tepat:",
+      "choices": [
+        "はい、じしょです。",
+        "じしょです。",
+        "いいえ、ほんです。",
+        "じしょも ほんです。"
+      ],
+      "correctIndex": 1,
+      "category": "conversation"
+    },
+    {
+      "id": "ch02_c04",
+      "chapterId": 2,
+      "order": 44,
+      "question": "A: あれは なんですか。\nB: ___\nPilih respons yang tepat:",
+      "choices": [
+        "これは テレビです。",
+        "それは テレビです。",
+        "あれは テレビです。",
+        "どれは テレビです。"
+      ],
+      "correctIndex": 2,
+      "category": "conversation"
+    },
+    {
+      "id": "ch02_c05",
+      "chapterId": 2,
+      "order": 45,
+      "question": "A: この ノートは だれのですか。\nB: ___\nPilih respons yang tepat:",
+      "choices": [
+        "それは わたしのです。",
+        "これは わたしのです。",
+        "あれは わたしのです。",
+        "どれは わたしのです。"
+      ],
+      "correctIndex": 0,
+      "category": "conversation"
+    },
+    {
+      "id": "ch02_c06",
+      "chapterId": 2,
+      "order": 46,
+      "question": "A: ミラーさん、これは <ruby>日本<rt>にほん</rt></ruby>の おみやげです。どうぞ。\nB: ___\nPilih respons yang tepat:",
+      "choices": [
+        "すみません。",
+        "どうも ありがとう ございます。",
+        "いいえ、ちがいます。",
+        "そうですか。"
+      ],
+      "correctIndex": 1,
+      "category": "conversation"
+    },
+    {
+      "id": "ch02_c07",
+      "chapterId": 2,
+      "order": 47,
+      "question": "A: あのう、これは やまださんの <ruby>鍵<rt>かぎ</rt></ruby>ですか。\nB: いいえ、___。\nPilih respons yang tepat:",
+      "choices": [
+        "わたしの かぎです",
+        "わたしの かぎでは ありません",
+        "はい、そうです",
+        "かぎです"
+      ],
+      "correctIndex": 1,
+      "category": "conversation"
+    },
+    {
+      "id": "ch02_c08",
+      "chapterId": 2,
+      "order": 48,
+      "question": "A: はじめまして。わたしは ミラーです。(Review Chapter 1)\nB: ___\nPilih respons yang tepat:",
+      "choices": [
+        "さようなら。",
+        "はじめまして。サントスです。",
+        "ありがとうございます。",
+        "すみません。"
+      ],
+      "correctIndex": 1,
+      "category": "conversation"
+    },
+    {
+      "id": "ch02_c09",
+      "chapterId": 2,
+      "order": 49,
+      "question": "A: あれは カメラですか、ラジオですか。\nB: ___\nPilih respons yang tepat:",
+      "choices": [
+        "はい、カメラです。",
+        "いいえ、ラジオです。",
+        "カメラです。",
+        "カメラも ラジオです。"
+      ],
+      "correctIndex": 2,
+      "category": "conversation"
+    },
+    {
+      "id": "ch02_c10",
+      "chapterId": 2,
+      "order": 50,
+      "question": "A: これは わたしの <ruby>名刺<rt>めいし</rt></ruby>です。どうぞ。\nB: ___\nPilih respons yang tepat:",
+      "choices": [
+        "いいえ、ちがいます。",
+        "どうも ありがとう ございます。",
+        "すみません。",
+        "そうですか。"
+      ],
+      "correctIndex": 1,
+      "category": "conversation"
     }
   ]
 }

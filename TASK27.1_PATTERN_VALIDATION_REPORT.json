@@ -1,0 +1,1056 @@
+{
+  "timestamp": "2026-05-02T11:42:32.714Z",
+  "summary": {
+    "totalPatterns": 35,
+    "totalStructureErrors": 0,
+    "totalVocabularyIssues": 56,
+    "totalNotationIssues": 0,
+    "chaptersWithIssues": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  "chapters": [
+    {
+      "chapterNum": 1,
+      "patternCount": 4,
+      "structureErrors": 0,
+      "vocabularyIssues": 7,
+      "notationIssues": 0,
+      "patterns": [
+        {
+          "id": "ch01_p01",
+          "order": 1,
+          "pattern": "N は N です",
+          "structureValidation": {
+            "errors": [],
+            "warnings": []
+          },
+          "vocabularyValidation": [
+            {
+              "exampleIndex": 1,
+              "japanese": "わたしは マイク・ミラーです。",
+              "potentialIssues": [
+                "マイク・ミラーです"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            },
+            {
+              "exampleIndex": 2,
+              "japanese": "サントスさんは がくせいです。",
+              "potentialIssues": [
+                "サントスさんは"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            }
+          ],
+          "notationValidation": []
+        },
+        {
+          "id": "ch01_p02",
+          "order": 2,
+          "pattern": "N は N では ありません",
+          "structureValidation": {
+            "errors": [],
+            "warnings": []
+          },
+          "vocabularyValidation": [
+            {
+              "exampleIndex": 1,
+              "japanese": "わたしは がくせいでは ありません。",
+              "potentialIssues": [
+                "ありません"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            },
+            {
+              "exampleIndex": 2,
+              "japanese": "ミラーさんは せんせいでは ありません。",
+              "potentialIssues": [
+                "ミラーさんは",
+                "ありません"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            }
+          ],
+          "notationValidation": []
+        },
+        {
+          "id": "ch01_p03",
+          "order": 3,
+          "pattern": "N は N ですか",
+          "structureValidation": {
+            "errors": [],
+            "warnings": []
+          },
+          "vocabularyValidation": [
+            {
+              "exampleIndex": 1,
+              "japanese": "ミラーさんは がくせいですか。",
+              "potentialIssues": [
+                "ミラーさんは"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            }
+          ],
+          "notationValidation": []
+        },
+        {
+          "id": "ch01_p04",
+          "order": 4,
+          "pattern": "N も N です",
+          "structureValidation": {
+            "errors": [],
+            "warnings": []
+          },
+          "vocabularyValidation": [
+            {
+              "exampleIndex": 1,
+              "japanese": "サントスさんも がくせいです。",
+              "potentialIssues": [
+                "サントスさんも"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            },
+            {
+              "exampleIndex": 2,
+              "japanese": "わたしも エンジニアです。",
+              "potentialIssues": [
+                "エンジニアです"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            }
+          ],
+          "notationValidation": []
+        }
+      ]
+    },
+    {
+      "chapterNum": 2,
+      "patternCount": 4,
+      "structureErrors": 0,
+      "vocabularyIssues": 3,
+      "notationIssues": 0,
+      "patterns": [
+        {
+          "id": "ch02_p01",
+          "order": 1,
+          "pattern": "これ/それ/あれ は N です",
+          "structureValidation": {
+            "errors": [],
+            "warnings": []
+          },
+          "vocabularyValidation": [],
+          "notationValidation": []
+        },
+        {
+          "id": "ch02_p02",
+          "order": 2,
+          "pattern": "この/その/あの N は N です",
+          "structureValidation": {
+            "errors": [],
+            "warnings": []
+          },
+          "vocabularyValidation": [
+            {
+              "exampleIndex": 1,
+              "japanese": "この かばんは わたしのです。",
+              "potentialIssues": [
+                "この"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            },
+            {
+              "exampleIndex": 2,
+              "japanese": "その ほんは にほんごのほんです。",
+              "potentialIssues": [
+                "その"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            }
+          ],
+          "notationValidation": []
+        },
+        {
+          "id": "ch02_p03",
+          "order": 3,
+          "pattern": "N は N の N です",
+          "structureValidation": {
+            "errors": [],
+            "warnings": []
+          },
+          "vocabularyValidation": [
+            {
+              "exampleIndex": 2,
+              "japanese": "それは ミラーさんの かばんです。",
+              "potentialIssues": [
+                "ミラーさんの"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            }
+          ],
+          "notationValidation": []
+        },
+        {
+          "id": "ch02_p04",
+          "order": 4,
+          "pattern": "N は N ですか、N ですか",
+          "structureValidation": {
+            "errors": [],
+            "warnings": []
+          },
+          "vocabularyValidation": [],
+          "notationValidation": []
+        }
+      ]
+    },
+    {
+      "chapterNum": 3,
+      "patternCount": 4,
+      "structureErrors": 0,
+      "vocabularyIssues": 5,
+      "notationIssues": 0,
+      "patterns": [
+        {
+          "id": "ch03_p01",
+          "order": 1,
+          "pattern": "N は どこですか",
+          "structureValidation": {
+            "errors": [],
+            "warnings": []
+          },
+          "vocabularyValidation": [
+            {
+              "exampleIndex": 2,
+              "japanese": "ゆうびんきょくは どこですか。",
+              "potentialIssues": [
+                "ゆうびんきょくは"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            }
+          ],
+          "notationValidation": []
+        },
+        {
+          "id": "ch03_p02",
+          "order": 2,
+          "pattern": "N は N の N です",
+          "structureValidation": {
+            "errors": [],
+            "warnings": []
+          },
+          "vocabularyValidation": [
+            {
+              "exampleIndex": 2,
+              "japanese": "コンビニは えきの まえです。",
+              "potentialIssues": [
+                "コンビニは",
+                "えきの",
+                "まえです"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            }
+          ],
+          "notationValidation": []
+        },
+        {
+          "id": "ch03_p03",
+          "order": 3,
+          "pattern": "N に N が あります/います",
+          "structureValidation": {
+            "errors": [],
+            "warnings": []
+          },
+          "vocabularyValidation": [
+            {
+              "exampleIndex": 1,
+              "japanese": "デパートの となりに ぎんこうが あります。",
+              "potentialIssues": [
+                "デパートの",
+                "となりに",
+                "ぎんこうが",
+                "あります"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            },
+            {
+              "exampleIndex": 2,
+              "japanese": "としょかんの まえに バスていが あります。",
+              "potentialIssues": [
+                "としょかんの",
+                "まえに",
+                "バスていが",
+                "あります"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            }
+          ],
+          "notationValidation": []
+        },
+        {
+          "id": "ch03_p04",
+          "order": 4,
+          "pattern": "N は いくらですか",
+          "structureValidation": {
+            "errors": [],
+            "warnings": []
+          },
+          "vocabularyValidation": [
+            {
+              "exampleIndex": 1,
+              "japanese": "この かばんは いくらですか。",
+              "potentialIssues": [
+                "この"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            }
+          ],
+          "notationValidation": []
+        }
+      ]
+    },
+    {
+      "chapterNum": 4,
+      "patternCount": 3,
+      "structureErrors": 0,
+      "vocabularyIssues": 4,
+      "notationIssues": 0,
+      "patterns": [
+        {
+          "id": "ch04_p01",
+          "order": 1,
+          "pattern": "N は N じ N ふん に V",
+          "structureValidation": {
+            "errors": [],
+            "warnings": []
+          },
+          "vocabularyValidation": [
+            {
+              "exampleIndex": 1,
+              "japanese": "わたしは まいあさ 6じに おきます。",
+              "potentialIssues": [
+                "6じに"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            },
+            {
+              "exampleIndex": 2,
+              "japanese": "じゅぎょうは 9じ30ぷんに はじまります。",
+              "potentialIssues": [
+                "じゅぎょうは",
+                "9じ30ぷんに",
+                "はじまります"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            }
+          ],
+          "notationValidation": []
+        },
+        {
+          "id": "ch04_p02",
+          "order": 2,
+          "pattern": "N から N まで",
+          "structureValidation": {
+            "errors": [],
+            "warnings": []
+          },
+          "vocabularyValidation": [
+            {
+              "exampleIndex": 1,
+              "japanese": "9じから 5じまで はたらきます。",
+              "potentialIssues": [
+                "9じから",
+                "5じまで"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            }
+          ],
+          "notationValidation": []
+        },
+        {
+          "id": "ch04_p03",
+          "order": 3,
+          "pattern": "N は なんじに V ますか",
+          "structureValidation": {
+            "errors": [],
+            "warnings": []
+          },
+          "vocabularyValidation": [
+            {
+              "exampleIndex": 2,
+              "japanese": "しごとは なんじに おわりますか。",
+              "potentialIssues": [
+                "しごとは"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            }
+          ],
+          "notationValidation": []
+        }
+      ]
+    },
+    {
+      "chapterNum": 5,
+      "patternCount": 4,
+      "structureErrors": 0,
+      "vocabularyIssues": 8,
+      "notationIssues": 0,
+      "patterns": [
+        {
+          "id": "ch05_p01",
+          "order": 1,
+          "pattern": "N は N で �?きま�?",
+          "structureValidation": {
+            "errors": [],
+            "warnings": []
+          },
+          "vocabularyValidation": [
+            {
+              "exampleIndex": 1,
+              "japanese": "�?��?�?は で�??�?�??で �?っ�?�?に �?きま�?�??",
+              "potentialIssues": [
+                "�?��?�?は",
+                "で�??�?�??で",
+                "�?っ�?�?に",
+                "�?きま�?�??"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            },
+            {
+              "exampleIndex": 2,
+              "japanese": "�?��?�で �?きに �?きま�?�??",
+              "potentialIssues": [
+                "�?��?�で",
+                "�?きに",
+                "�?きま�?�??"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            }
+          ],
+          "notationValidation": []
+        },
+        {
+          "id": "ch05_p02",
+          "order": 2,
+          "pattern": "N に �?きま�?/きま�?/�?�?�??ま�?",
+          "structureValidation": {
+            "errors": [],
+            "warnings": []
+          },
+          "vocabularyValidation": [
+            {
+              "exampleIndex": 1,
+              "japanese": "にほ�??に きま�?�?�??",
+              "potentialIssues": [
+                "にほ�??に",
+                "きま�?�?�??"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            },
+            {
+              "exampleIndex": 2,
+              "japanese": "�?ちに �?�?�??ま�?�??",
+              "potentialIssues": [
+                "�?ちに",
+                "�?�?�??ま�?�??"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            }
+          ],
+          "notationValidation": []
+        },
+        {
+          "id": "ch05_p03",
+          "order": 3,
+          "pattern": "N と �?きま�?",
+          "structureValidation": {
+            "errors": [],
+            "warnings": []
+          },
+          "vocabularyValidation": [
+            {
+              "exampleIndex": 1,
+              "japanese": "と�??だちと �?�?�?�?? みに �?きま�?�??",
+              "potentialIssues": [
+                "と�??だちと",
+                "�?�?�?�??",
+                "みに",
+                "�?きま�?�??"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            },
+            {
+              "exampleIndex": 2,
+              "japanese": "�?�?くと にほ�??に �?きま�?�?�??",
+              "potentialIssues": [
+                "�?�?くと",
+                "にほ�??に",
+                "�?きま�?�?�??"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            }
+          ],
+          "notationValidation": []
+        },
+        {
+          "id": "ch05_p04",
+          "order": 4,
+          "pattern": "�?つ N に �?きま�?�?",
+          "structureValidation": {
+            "errors": [],
+            "warnings": []
+          },
+          "vocabularyValidation": [
+            {
+              "exampleIndex": 1,
+              "japanese": "�?つ にほ�??に きま�?�?�?�??",
+              "potentialIssues": [
+                "�?つ",
+                "にほ�??に",
+                "きま�?�?�?�??"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            },
+            {
+              "exampleIndex": 2,
+              "japanese": "�?つ �?ちに �?�?�??ま�?�?�??",
+              "potentialIssues": [
+                "�?つ",
+                "�?ちに",
+                "�?�?�??ま�?�?�??"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            }
+          ],
+          "notationValidation": []
+        }
+      ]
+    },
+    {
+      "chapterNum": 6,
+      "patternCount": 4,
+      "structureErrors": 0,
+      "vocabularyIssues": 8,
+      "notationIssues": 0,
+      "patterns": [
+        {
+          "id": "ch06_p01",
+          "order": 1,
+          "pattern": "N ã‚’ V",
+          "structureValidation": {
+            "errors": [],
+            "warnings": []
+          },
+          "vocabularyValidation": [
+            {
+              "exampleIndex": 1,
+              "japanese": "�?��?�?は ま�?�?�? �??�?��?? �?べま�?�??",
+              "potentialIssues": [
+                "�?��?�?は",
+                "ま�?�?�?",
+                "�??�?��??",
+                "�?べま�?�??"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            },
+            {
+              "exampleIndex": 2,
+              "japanese": "�?��?��??�?��?? のみま�?�??",
+              "potentialIssues": [
+                "�?��?��??�?��??",
+                "のみま�?�??"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            }
+          ],
+          "notationValidation": []
+        },
+        {
+          "id": "ch06_p02",
+          "order": 2,
+          "pattern": "N で V",
+          "structureValidation": {
+            "errors": [],
+            "warnings": []
+          },
+          "vocabularyValidation": [
+            {
+              "exampleIndex": 1,
+              "japanese": "�?ちで �??�?��??�?? みま�?�??",
+              "potentialIssues": [
+                "�?ちで",
+                "�??�?��??�??",
+                "みま�?�??"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            },
+            {
+              "exampleIndex": 2,
+              "japanese": "と�?�??�?�??で ほ�??�?? �??みま�?�??",
+              "potentialIssues": [
+                "と�?�??�?�??で",
+                "ほ�??�??",
+                "�??みま�?�??"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            }
+          ],
+          "notationValidation": []
+        },
+        {
+          "id": "ch06_p03",
+          "order": 3,
+          "pattern": "�??�? V ま�?�?�?",
+          "structureValidation": {
+            "errors": [],
+            "warnings": []
+          },
+          "vocabularyValidation": [
+            {
+              "exampleIndex": 1,
+              "japanese": "�??�? ば�??�?は�??�?? �?べま�?�?�?�??",
+              "potentialIssues": [
+                "�??�?",
+                "ば�??�?は�??�??",
+                "�?べま�?�?�?�??"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            },
+            {
+              "exampleIndex": 2,
+              "japanese": "�??�? �?�??くだ�?�?? �?ま�?�?�?�??",
+              "potentialIssues": [
+                "�??�?",
+                "�?�??くだ�?�??",
+                "�?ま�?�?�?�??"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            }
+          ],
+          "notationValidation": []
+        },
+        {
+          "id": "ch06_p04",
+          "order": 4,
+          "pattern": "まだ V て�?ま�?�??",
+          "structureValidation": {
+            "errors": [],
+            "warnings": []
+          },
+          "vocabularyValidation": [
+            {
+              "exampleIndex": 1,
+              "japanese": "まだ �?べて�?ま�?�??�??",
+              "potentialIssues": [
+                "まだ",
+                "�?べて�?ま�?�??�??"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            },
+            {
+              "exampleIndex": 2,
+              "japanese": "まだ �?�??くだ�?�?? �?て�?ま�?�??�??",
+              "potentialIssues": [
+                "まだ",
+                "�?�??くだ�?�??",
+                "�?て�?ま�?�??�??"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            }
+          ],
+          "notationValidation": []
+        }
+      ]
+    },
+    {
+      "chapterNum": 7,
+      "patternCount": 3,
+      "structureErrors": 0,
+      "vocabularyIssues": 4,
+      "notationIssues": 0,
+      "patterns": [
+        {
+          "id": "ch07_p01",
+          "order": 1,
+          "pattern": "N に N を あげます／もらいます",
+          "structureValidation": {
+            "errors": [],
+            "warnings": []
+          },
+          "vocabularyValidation": [],
+          "notationValidation": []
+        },
+        {
+          "id": "ch07_p02",
+          "order": 2,
+          "pattern": "N と N を します",
+          "structureValidation": {
+            "errors": [],
+            "warnings": []
+          },
+          "vocabularyValidation": [
+            {
+              "exampleIndex": 1,
+              "japanese": "ともだちと テニスを します。",
+              "potentialIssues": [
+                "テニスを",
+                "します"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            },
+            {
+              "exampleIndex": 2,
+              "japanese": "かぞくと えいがを みます。",
+              "potentialIssues": [
+                "みます"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            }
+          ],
+          "notationValidation": []
+        },
+        {
+          "id": "ch07_p03",
+          "order": 3,
+          "pattern": "しゅみは N です",
+          "structureValidation": {
+            "errors": [],
+            "warnings": []
+          },
+          "vocabularyValidation": [
+            {
+              "exampleIndex": 1,
+              "japanese": "わたしの しゅみは えいがを みることです。",
+              "potentialIssues": [
+                "しゅみは",
+                "みることです"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            },
+            {
+              "exampleIndex": 2,
+              "japanese": "しゅみは おんがくを きくことです。",
+              "potentialIssues": [
+                "しゅみは",
+                "おんがくを",
+                "きくことです"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            }
+          ],
+          "notationValidation": []
+        }
+      ]
+    },
+    {
+      "chapterNum": 8,
+      "patternCount": 3,
+      "structureErrors": 0,
+      "vocabularyIssues": 6,
+      "notationIssues": 0,
+      "patterns": [
+        {
+          "id": "ch08_p01",
+          "order": 1,
+          "pattern": "N �?? N くだ�?�?",
+          "structureValidation": {
+            "errors": [],
+            "warnings": []
+          },
+          "vocabularyValidation": [
+            {
+              "exampleIndex": 1,
+              "japanese": "�?�??�?に�??�?�?? 1ほ�?? くだ�?�?�??",
+              "potentialIssues": [
+                "�?�??�?に�??�?�??",
+                "1ほ�??",
+                "くだ�?�?�??"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            },
+            {
+              "exampleIndex": 2,
+              "japanese": "�??�??�?�?? みっつ くだ�?�?�??",
+              "potentialIssues": [
+                "�??�??�?�??",
+                "みっつ",
+                "くだ�?�?�??"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            }
+          ],
+          "notationValidation": []
+        },
+        {
+          "id": "ch08_p02",
+          "order": 2,
+          "pattern": "N は �?く�??で�?�?",
+          "structureValidation": {
+            "errors": [],
+            "warnings": []
+          },
+          "vocabularyValidation": [
+            {
+              "exampleIndex": 1,
+              "japanese": "�?の�??�??�?は �?く�??で�?�?�??",
+              "potentialIssues": [
+                "�?の�??�??�?は",
+                "�?く�??で�?�?�??"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            },
+            {
+              "exampleIndex": 2,
+              "japanese": "�?のほ�??は �?く�??で�?�?�??",
+              "potentialIssues": [
+                "�?のほ�??は",
+                "�?く�??で�?�?�??"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            }
+          ],
+          "notationValidation": []
+        },
+        {
+          "id": "ch08_p03",
+          "order": 3,
+          "pattern": "N �?? N ま�?／ほ�??／�?つ くだ�?�?",
+          "structureValidation": {
+            "errors": [],
+            "warnings": []
+          },
+          "vocabularyValidation": [
+            {
+              "exampleIndex": 1,
+              "japanese": "きって�?? 5ま�? くだ�?�?�??",
+              "potentialIssues": [
+                "5ま�?",
+                "くだ�?�?�??"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            },
+            {
+              "exampleIndex": 2,
+              "japanese": "�?っ�?�?? 2�?つ くだ�?�?�??",
+              "potentialIssues": [
+                "�?っ�?�??",
+                "2�?つ",
+                "くだ�?�?�??"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            }
+          ],
+          "notationValidation": []
+        }
+      ]
+    },
+    {
+      "chapterNum": 9,
+      "patternCount": 3,
+      "structureErrors": 0,
+      "vocabularyIssues": 6,
+      "notationIssues": 0,
+      "patterns": [
+        {
+          "id": "ch09_p01",
+          "order": 1,
+          "pattern": "�?�??�?�??�?びは �?つで�?�?",
+          "structureValidation": {
+            "errors": [],
+            "warnings": []
+          },
+          "vocabularyValidation": [
+            {
+              "exampleIndex": 1,
+              "japanese": "�?�??�?�??�?びは �?つで�?�?�??",
+              "potentialIssues": [
+                "�?�??�?�??�?びは",
+                "�?つで�?�?�??"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            },
+            {
+              "exampleIndex": 2,
+              "japanese": "�??�?��??�?��?�は �?つで�?�?�??",
+              "potentialIssues": [
+                "�??�?��??�?��?�は",
+                "�?つで�?�?�??"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            }
+          ],
+          "notationValidation": []
+        },
+        {
+          "id": "ch09_p02",
+          "order": 2,
+          "pattern": "N は N �?つ N にちで�?",
+          "structureValidation": {
+            "errors": [],
+            "warnings": []
+          },
+          "vocabularyValidation": [
+            {
+              "exampleIndex": 1,
+              "japanese": "�?��?�?の �?�??�?�??�?びは 3�?つ 15にちで�?�??",
+              "potentialIssues": [
+                "�?��?�?の",
+                "�?�??�?�??�?びは",
+                "3�?つ",
+                "15にちで�?�??"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            },
+            {
+              "exampleIndex": 2,
+              "japanese": "き�??�?は 4�?つ つ�?�?ちで�?�??",
+              "potentialIssues": [
+                "き�??�?は",
+                "4�?つ",
+                "つ�?�?ちで�?�??"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            }
+          ],
+          "notationValidation": []
+        },
+        {
+          "id": "ch09_p03",
+          "order": 3,
+          "pattern": "N ね�?? N �?つ N にち",
+          "structureValidation": {
+            "errors": [],
+            "warnings": []
+          },
+          "vocabularyValidation": [
+            {
+              "exampleIndex": 1,
+              "japanese": "き�??�?は 2024ね�?? 4�?つ 1にちで�?�??",
+              "potentialIssues": [
+                "き�??�?は",
+                "2024ね�??",
+                "4�?つ",
+                "1にちで�?�??"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            },
+            {
+              "exampleIndex": 2,
+              "japanese": "�?��?�?は 1990ね�?? 7�?つ 20にちに �?ま�??ま�?�?�??",
+              "potentialIssues": [
+                "�?��?�?は",
+                "1990ね�??",
+                "7�?つ",
+                "20にちに",
+                "�?ま�??ま�?�?�??"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            }
+          ],
+          "notationValidation": []
+        }
+      ]
+    },
+    {
+      "chapterNum": 10,
+      "patternCount": 3,
+      "structureErrors": 0,
+      "vocabularyIssues": 5,
+      "notationIssues": 0,
+      "patterns": [
+        {
+          "id": "ch10_p01",
+          "order": 1,
+          "pattern": "N �? できま�?",
+          "structureValidation": {
+            "errors": [],
+            "warnings": []
+          },
+          "vocabularyValidation": [
+            {
+              "exampleIndex": 1,
+              "japanese": "にほ�??�?�? �?�?�? はな�?ま�?�??",
+              "potentialIssues": [
+                "にほ�??�?�?",
+                "�?�?�?"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            }
+          ],
+          "notationValidation": []
+        },
+        {
+          "id": "ch10_p02",
+          "order": 2,
+          "pattern": "N �? �?�??�?�?で�?",
+          "structureValidation": {
+            "errors": [],
+            "warnings": []
+          },
+          "vocabularyValidation": [
+            {
+              "exampleIndex": 1,
+              "japanese": "�??�?��?��?�??は にほ�??�?�? �?�??�?�?で�?�??",
+              "potentialIssues": [
+                "�??�?��?��?�??は",
+                "にほ�??�?�?",
+                "�?�??�?�?で�?�??"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            },
+            {
+              "exampleIndex": 2,
+              "japanese": "�?��?�?は �??�??�?�??�? �?�??�?�?で�?�??",
+              "potentialIssues": [
+                "�?��?�?は",
+                "�??�??�?�??�?",
+                "�?�??�?�?で�?�??"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            }
+          ],
+          "notationValidation": []
+        },
+        {
+          "id": "ch10_p03",
+          "order": 3,
+          "pattern": "N �? �?��?�??ま�?",
+          "structureValidation": {
+            "errors": [],
+            "warnings": []
+          },
+          "vocabularyValidation": [
+            {
+              "exampleIndex": 1,
+              "japanese": "�?�??�?�? �?�?�? �?��?�??ま�?�??",
+              "potentialIssues": [
+                "�?�??�?�?",
+                "�?�?�?",
+                "�?��?�??ま�?�??"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            },
+            {
+              "exampleIndex": 2,
+              "japanese": "�?�?�?�? �?��?�??ま�?�?�??",
+              "potentialIssues": [
+                "�?�?�?�?",
+                "�?��?�??ま�?�?�??"
+              ],
+              "message": "Example may contain vocabulary not from current or previous chapters"
+            }
+          ],
+          "notationValidation": []
+        }
+      ]
+    }
+  ]
+}

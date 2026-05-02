@@ -1,0 +1,606 @@
+{
+  "timestamp": "2026-05-02T11:57:14.185Z",
+  "duration": "0.13s",
+  "summary": {
+    "totalErrors": 0,
+    "totalWarnings": 105,
+    "passed": true
+  },
+  "stats": {
+    "totalConversations": 100,
+    "totalQuizQuestions": 500,
+    "totalPatterns": 35,
+    "totalGrammar": 30,
+    "totalVocabulary": 595
+  },
+  "categoryDistribution": {
+    "1": {
+      "vocabulary": 15,
+      "grammar": 15,
+      "reading": 10,
+      "conversation": 10
+    },
+    "2": {
+      "vocabulary": 15,
+      "grammar": 15,
+      "reading": 10,
+      "conversation": 10
+    },
+    "3": {
+      "vocabulary": 15,
+      "grammar": 15,
+      "reading": 10,
+      "conversation": 10
+    },
+    "4": {
+      "vocabulary": 15,
+      "grammar": 14,
+      "reading": 10,
+      "conversation": 11
+    },
+    "5": {
+      "vocabulary": 16,
+      "grammar": 14,
+      "reading": 10,
+      "conversation": 10
+    },
+    "6": {
+      "vocabulary": 15,
+      "grammar": 15,
+      "reading": 10,
+      "conversation": 10
+    },
+    "7": {
+      "vocabulary": 15,
+      "grammar": 15,
+      "reading": 10,
+      "conversation": 10
+    },
+    "8": {
+      "vocabulary": 15,
+      "grammar": 15,
+      "reading": 10,
+      "conversation": 10
+    },
+    "9": {
+      "vocabulary": 15,
+      "grammar": 15,
+      "reading": 10,
+      "conversation": 10
+    },
+    "10": {
+      "vocabulary": 15,
+      "grammar": 15,
+      "reading": 10,
+      "conversation": 10
+    }
+  },
+  "errors": [],
+  "warnings": [
+    {
+      "chapter": 1,
+      "section": "Conversations",
+      "message": "Conversation 1 (ch01_conv01): Turn 0 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 1,
+      "section": "Conversations",
+      "message": "Conversation 1 (ch01_conv01): Turn 1 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 1,
+      "section": "Conversations",
+      "message": "Conversation 2 (ch01_conv02): Turn 1 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 1,
+      "section": "Conversations",
+      "message": "Conversation 2 (ch01_conv02): Turn 2 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 1,
+      "section": "Conversations",
+      "message": "Conversation 2 (ch01_conv02): Turn 3 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 1,
+      "section": "Conversations",
+      "message": "Conversation 3 (ch01_conv03): Turn 1 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 1,
+      "section": "Conversations",
+      "message": "Conversation 3 (ch01_conv03): Turn 2 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 1,
+      "section": "Conversations",
+      "message": "Conversation 4 (ch01_conv04): Turn 0 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 1,
+      "section": "Conversations",
+      "message": "Conversation 6 (ch01_conv06): Turn 0 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 1,
+      "section": "Conversations",
+      "message": "Conversation 7 (ch01_conv07): Turn 0 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 1,
+      "section": "Conversations",
+      "message": "Conversation 8 (ch01_conv08): Turn 0 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 1,
+      "section": "Conversations",
+      "message": "Conversation 8 (ch01_conv08): Turn 1 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 1,
+      "section": "Conversations",
+      "message": "Conversation 10 (ch01_conv10): Turn 0 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 1,
+      "section": "Conversations",
+      "message": "Conversation 10 (ch01_conv10): Turn 1 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 2,
+      "section": "Conversations",
+      "message": "Conversation 2 (ch02_conv02): Turn 0 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 2,
+      "section": "Conversations",
+      "message": "Conversation 2 (ch02_conv02): Turn 3 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 2,
+      "section": "Conversations",
+      "message": "Conversation 5 (ch02_conv05): Turn 1 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 2,
+      "section": "Conversations",
+      "message": "Conversation 5 (ch02_conv05): Turn 2 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 2,
+      "section": "Conversations",
+      "message": "Conversation 6 (ch02_conv06): Turn 0 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 2,
+      "section": "Conversations",
+      "message": "Conversation 6 (ch02_conv06): Turn 2 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 2,
+      "section": "Conversations",
+      "message": "Conversation 7 (ch02_conv07): Turn 0 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 2,
+      "section": "Conversations",
+      "message": "Conversation 7 (ch02_conv07): Turn 2 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 2,
+      "section": "Conversations",
+      "message": "Conversation 8 (ch02_conv08): Turn 3 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 2,
+      "section": "Conversations",
+      "message": "Conversation 9 (ch02_conv09): Turn 0 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 2,
+      "section": "Conversations",
+      "message": "Conversation 9 (ch02_conv09): Turn 1 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 2,
+      "section": "Conversations",
+      "message": "Conversation 9 (ch02_conv09): Turn 2 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 2,
+      "section": "Conversations",
+      "message": "Conversation 9 (ch02_conv09): Turn 3 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 2,
+      "section": "Conversations",
+      "message": "Conversation 10 (ch02_conv10): Turn 0 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 3,
+      "section": "Conversations",
+      "message": "Conversation 2 (ch03_conv02): Turn 1 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 3,
+      "section": "Conversations",
+      "message": "Conversation 2 (ch03_conv02): Turn 4 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 3,
+      "section": "Conversations",
+      "message": "Conversation 3 (ch03_conv03): Turn 1 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 3,
+      "section": "Conversations",
+      "message": "Conversation 4 (ch03_conv04): Turn 0 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 3,
+      "section": "Conversations",
+      "message": "Conversation 4 (ch03_conv04): Turn 3 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 3,
+      "section": "Conversations",
+      "message": "Conversation 5 (ch03_conv05): Turn 1 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 3,
+      "section": "Conversations",
+      "message": "Conversation 5 (ch03_conv05): Turn 2 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 3,
+      "section": "Conversations",
+      "message": "Conversation 7 (ch03_conv07): Turn 0 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 3,
+      "section": "Conversations",
+      "message": "Conversation 7 (ch03_conv07): Turn 1 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 3,
+      "section": "Conversations",
+      "message": "Conversation 8 (ch03_conv08): Turn 1 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 3,
+      "section": "Conversations",
+      "message": "Conversation 9 (ch03_conv09): Turn 1 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 3,
+      "section": "Conversations",
+      "message": "Conversation 10 (ch03_conv10): Turn 2 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 4,
+      "section": "Conversations",
+      "message": "Conversation 1 (ch04_conv01): Turn 1 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 4,
+      "section": "Conversations",
+      "message": "Conversation 2 (ch04_conv02): Turn 0 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 4,
+      "section": "Conversations",
+      "message": "Conversation 2 (ch04_conv02): Turn 1 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 4,
+      "section": "Conversations",
+      "message": "Conversation 2 (ch04_conv02): Turn 2 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 4,
+      "section": "Conversations",
+      "message": "Conversation 3 (ch04_conv03): Turn 1 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 4,
+      "section": "Conversations",
+      "message": "Conversation 3 (ch04_conv03): Turn 3 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 4,
+      "section": "Conversations",
+      "message": "Conversation 5 (ch04_conv05): Turn 1 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 4,
+      "section": "Conversations",
+      "message": "Conversation 5 (ch04_conv05): Turn 3 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 4,
+      "section": "Conversations",
+      "message": "Conversation 6 (ch04_conv06): Turn 0 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 4,
+      "section": "Conversations",
+      "message": "Conversation 6 (ch04_conv06): Turn 1 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 4,
+      "section": "Conversations",
+      "message": "Conversation 6 (ch04_conv06): Turn 2 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 4,
+      "section": "Conversations",
+      "message": "Conversation 7 (ch04_conv07): Turn 1 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 4,
+      "section": "Conversations",
+      "message": "Conversation 7 (ch04_conv07): Turn 3 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 4,
+      "section": "Conversations",
+      "message": "Conversation 8 (ch04_conv08): Turn 1 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 4,
+      "section": "Conversations",
+      "message": "Conversation 9 (ch04_conv09): Turn 2 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 5,
+      "section": "Conversations",
+      "message": "Conversation 1 (ch05_conv01): Turn 0 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 5,
+      "section": "Conversations",
+      "message": "Conversation 1 (ch05_conv01): Turn 1 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 5,
+      "section": "Conversations",
+      "message": "Conversation 1 (ch05_conv01): Turn 2 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 5,
+      "section": "Conversations",
+      "message": "Conversation 1 (ch05_conv01): Turn 3 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 5,
+      "section": "Conversations",
+      "message": "Conversation 2 (ch05_conv02): Turn 0 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 5,
+      "section": "Conversations",
+      "message": "Conversation 2 (ch05_conv02): Turn 1 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 5,
+      "section": "Conversations",
+      "message": "Conversation 2 (ch05_conv02): Turn 2 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 5,
+      "section": "Conversations",
+      "message": "Conversation 5 (ch05_conv05): Turn 1 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 5,
+      "section": "Conversations",
+      "message": "Conversation 6 (ch05_conv06): Turn 0 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 5,
+      "section": "Conversations",
+      "message": "Conversation 7 (ch05_conv07): Turn 3 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 5,
+      "section": "Conversations",
+      "message": "Conversation 8 (ch05_conv08): Turn 1 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 6,
+      "section": "Conversations",
+      "message": "Conversation 1 (ch06_conv01): Turn 0 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 6,
+      "section": "Conversations",
+      "message": "Conversation 1 (ch06_conv01): Turn 1 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 6,
+      "section": "Conversations",
+      "message": "Conversation 1 (ch06_conv01): Turn 2 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 6,
+      "section": "Conversations",
+      "message": "Conversation 2 (ch06_conv02): Turn 0 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 6,
+      "section": "Conversations",
+      "message": "Conversation 2 (ch06_conv02): Turn 1 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 6,
+      "section": "Conversations",
+      "message": "Conversation 2 (ch06_conv02): Turn 2 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 6,
+      "section": "Conversations",
+      "message": "Conversation 2 (ch06_conv02): Turn 3 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 6,
+      "section": "Conversations",
+      "message": "Conversation 3 (ch06_conv03): Turn 1 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 6,
+      "section": "Conversations",
+      "message": "Conversation 4 (ch06_conv04): Turn 0 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 6,
+      "section": "Conversations",
+      "message": "Conversation 5 (ch06_conv05): Turn 0 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 6,
+      "section": "Conversations",
+      "message": "Conversation 8 (ch06_conv08): Turn 0 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 7,
+      "section": "Conversations",
+      "message": "Conversation 1 (ch07_conv01): Turn 0 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 7,
+      "section": "Conversations",
+      "message": "Conversation 1 (ch07_conv01): Turn 1 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 7,
+      "section": "Conversations",
+      "message": "Conversation 2 (ch07_conv02): Turn 0 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 7,
+      "section": "Conversations",
+      "message": "Conversation 2 (ch07_conv02): Turn 2 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 7,
+      "section": "Conversations",
+      "message": "Conversation 5 (ch07_conv05): Turn 0 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 7,
+      "section": "Conversations",
+      "message": "Conversation 8 (ch07_conv08): Turn 1 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 8,
+      "section": "Conversations",
+      "message": "Conversation 1 (ch08_conv01): Turn 3 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 8,
+      "section": "Conversations",
+      "message": "Conversation 1 (ch08_conv01): Turn 4 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 8,
+      "section": "Conversations",
+      "message": "Conversation 2 (ch08_conv02): Turn 1 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 9,
+      "section": "Conversations",
+      "message": "Conversation 1 (ch09_conv01): Turn 0 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 9,
+      "section": "Conversations",
+      "message": "Conversation 1 (ch09_conv01): Turn 1 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 9,
+      "section": "Conversations",
+      "message": "Conversation 1 (ch09_conv01): Turn 2 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 9,
+      "section": "Conversations",
+      "message": "Conversation 1 (ch09_conv01): Turn 3 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 9,
+      "section": "Conversations",
+      "message": "Conversation 2 (ch09_conv02): Turn 0 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 9,
+      "section": "Conversations",
+      "message": "Conversation 2 (ch09_conv02): Turn 1 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 9,
+      "section": "Conversations",
+      "message": "Conversation 2 (ch09_conv02): Turn 2 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 9,
+      "section": "Conversations",
+      "message": "Conversation 2 (ch09_conv02): Turn 3 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 9,
+      "section": "Conversations",
+      "message": "Conversation 3 (ch09_conv03): Turn 0 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 9,
+      "section": "Conversations",
+      "message": "Conversation 8 (ch09_conv08): Turn 1 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 10,
+      "section": "Conversations",
+      "message": "Conversation 1 (ch10_conv01): Turn 0 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 10,
+      "section": "Conversations",
+      "message": "Conversation 1 (ch10_conv01): Turn 1 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 10,
+      "section": "Conversations",
+      "message": "Conversation 1 (ch10_conv01): Turn 2 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 10,
+      "section": "Conversations",
+      "message": "Conversation 1 (ch10_conv01): Turn 3 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 10,
+      "section": "Conversations",
+      "message": "Conversation 2 (ch10_conv02): Turn 0 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 10,
+      "section": "Conversations",
+      "message": "Conversation 2 (ch10_conv02): Turn 1 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 10,
+      "section": "Conversations",
+      "message": "Conversation 2 (ch10_conv02): Turn 2 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 10,
+      "section": "Conversations",
+      "message": "Conversation 7 (ch10_conv07): Turn 1 hiragana contains invalid characters"
+    },
+    {
+      "chapter": 10,
+      "section": "Conversations",
+      "message": "Conversation 8 (ch10_conv08): Turn 0 hiragana contains invalid characters"
+    }
+  ]
+}
