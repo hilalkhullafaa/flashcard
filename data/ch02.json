@@ -256,10 +256,18 @@
       "wordClass": "nomina",
       "meaning": "komputer, PC"
     },
+    { "id": "ch02_026", 
+      "chapterId": 26, 
+      "order": 26, 
+      "kanji": "電気", 
+      "kana": "でんき", 
+      "romaji": "denki", 
+      "wordClass": "nomina", 
+      "meaning": "listrik; lampu" },
     {
-      "id": "ch02_026",
+      "id": "ch02_027",
       "chapterId": 2,
-      "order": 26,
+      "order": 27,
       "kanji": "車",
       "kana": "くるま",
       "romaji": "kuruma",
@@ -267,9 +275,9 @@
       "meaning": "mobil"
     },
     {
-      "id": "ch02_027",
+      "id": "ch02_028",
       "chapterId": 2,
-      "order": 27,
+      "order": 28,
       "kanji": "机",
       "kana": "つくえ",
       "romaji": "tsukue",
@@ -277,9 +285,9 @@
       "meaning": "meja, meja tulis"
     },
     {
-      "id": "ch02_028",
+      "id": "ch02_029",
       "chapterId": 2,
-      "order": 28,
+      "order": 29,
       "kanji": "椅",
       "kana": "いす",
       "romaji": "isu",
@@ -287,9 +295,9 @@
       "meaning": "kursi"
     },
     {
-      "id": "ch02_029",
+      "id": "ch02_030",
       "chapterId": 2,
-      "order": 29,
+      "order": 30,
       "kanji": "チョコレート",
       "kana": "チョコレート",
       "romaji": "chokoreeto",
@@ -297,9 +305,9 @@
       "meaning": "coklat"
     },
     {
-      "id": "ch02_030",
+      "id": "ch02_031",
       "chapterId": 2,
-      "order": 30,
+      "order": 31,
       "kanji": "コーヒー",
       "kana": "コーヒー",
       "romaji": "kouhii",
@@ -307,9 +315,9 @@
       "meaning": "kopi"
     },
     {
-      "id": "ch02_031",
+      "id": "ch02_032",
       "chapterId": 2,
-      "order": 31,
+      "order": 32,
       "kanji": "お土産",
       "kana": "おみやげ",
       "romaji": "omiyage",
@@ -317,9 +325,9 @@
       "meaning": "oleh-oleh"
     },
     {
-      "id": "ch02_032",
+      "id": "ch02_033",
       "chapterId": 2,
-      "order": 32,
+      "order": 33,
       "kanji": "英語",
       "kana": "えいご",
       "romaji": "eigo",
@@ -327,9 +335,9 @@
       "meaning": "bahasa inggris"
     },
     {
-      "id": "ch02_033",
+      "id": "ch02_034",
       "chapterId": 2,
-      "order": 33,
+      "order": 34,
       "kanji": "日本語",
       "kana": "にほんご",
       "romaji": "nihongo",
@@ -337,9 +345,9 @@
       "meaning": "bahasa jepang"
     },
     {
-      "id": "ch02_034",
+      "id": "ch02_035",
       "chapterId": 2,
-      "order": 34,
+      "order": 35,
       "kanji": "～語",
       "kana": "～ご",
       "romaji": "~go",
@@ -347,9 +355,9 @@
       "meaning": "bahasa~"
     },
     {
-      "id": "ch02_035",
+      "id": "ch02_036",
       "chapterId": 2,
-      "order": 35,
+      "order": 36,
       "kanji": "何",
       "kana": "なん",
       "romaji": "nan",
@@ -357,9 +365,9 @@
       "meaning": "apa"
     },
     {
-      "id": "ch02_036",
+      "id": "ch02_037",
       "chapterId": 2,
-      "order": 36,
+      "order": 37,
       "kanji": "そう",
       "kana": "そう",
       "romaji": "sou",
@@ -367,9 +375,9 @@
       "meaning": "begitu"
     },
     {
-      "id": "ch02_037",
+      "id": "ch02_038",
       "chapterId": 2,
-      "order": 37,
+      "order": 38,
       "kanji": "あのう",
       "kana": "あのう",
       "romaji": "anou",
@@ -377,9 +385,9 @@
       "meaning": "anu... (digunakan untuk menunjukkan keragu-raguan)"
     },
     {
-      "id": "ch02_038",
+      "id": "ch02_039",
       "chapterId": 2,
-      "order": 38,
+      "order": 39,
       "kanji": "どうぞ",
       "kana": "どうぞ",
       "romaji": "douzo",
@@ -387,9 +395,9 @@
       "meaning": "silakan (menawarkan sesuatu)"
     },
     {
-      "id": "ch02_039",
+      "id": "ch02_040",
       "chapterId": 2,
-      "order": 39,
+      "order": 40,
       "kanji": "どうもありがとうございます",
       "kana": "どうもありがとうございます",
       "romaji": "doumo arigatou gozaimasu",
@@ -397,9 +405,9 @@
       "meaning": "terima kasih banyak"
     },
     {
-      "id": "ch02_040",
+      "id": "ch02_041",
       "chapterId": 2,
-      "order": 40,
+      "order": 41,
       "kanji": "そうですか",
       "kana": "そうですか",
       "romaji": "sou desu ka",
@@ -407,9 +415,9 @@
       "meaning": "oh, begitu / oh, ya"
     },
     {
-      "id": "ch02_041",
+      "id": "ch02_042",
       "chapterId": 2,
-      "order": 41,
+      "order": 42,
       "kanji": "違います",
       "kana": "ちがいます",
       "romaji": "chigaimasu",
@@ -417,9 +425,9 @@
       "meaning": "bukan / salah / tidak"
     },
     {
-      "id": "ch02_042",
+      "id": "ch02_043",
       "chapterId": 2,
-      "order": 42,
+      "order": 43,
       "kanji": "これからお世話になります",
       "kana": "これからおせわになります",
       "romaji": "korekara osewa ni narimasu",
@@ -427,9 +435,9 @@
       "meaning": "mulai sekarang, saya akan meminta bantuannya"
     },
     {
-      "id": "ch02_043",
+      "id": "ch02_044",
       "chapterId": 2,
-      "order": 43,
+      "order": 44,
       "kanji": "こちらこそよろしくお願いします",
       "kana": "こちらこそよろしくおねがいします",
       "romaji": "kochirakoso yoroshiku onegaishimasu",
