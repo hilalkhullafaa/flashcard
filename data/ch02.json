@@ -404,7 +404,7 @@
       "kana": "そうですか",
       "romaji": "sou desu ka",
       "wordClass": "ungkapan",
-      "meaning": "oh, begitu"
+      "meaning": "oh, begitu / oh, ya"
     },
     {
       "id": "ch02_041",
@@ -414,7 +414,7 @@
       "kana": "ちがいます",
       "romaji": "chigaimasu",
       "wordClass": "verba",
-      "meaning": "bukan / salah / berbeda"
+      "meaning": "bukan / salah / tidak"
     },
     {
       "id": "ch02_042",
@@ -424,7 +424,7 @@
       "kana": "これからおせわになります",
       "romaji": "korekara osewa ni narimasu",
       "wordClass": "ungkapan",
-      "meaning": "mulai sekarang saya akan meminta bantuannya"
+      "meaning": "mulai sekarang, saya akan meminta bantuannya"
     },
     {
       "id": "ch02_043",
@@ -434,7 +434,7 @@
       "kana": "こちらこそよろしくおねがいします",
       "romaji": "kochirakoso yoroshiku onegaishimasu",
       "wordClass": "ungkapan",
-      "meaning": "saya juga memohon bantuan Anda (balasan dari salam kenal)"
+      "meaning": "Senang bertemu juga, mohon bantuannya juga"
     }
   ],
   "conversations": [

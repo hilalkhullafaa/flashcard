@@ -104,7 +104,7 @@
       "kana": "しょくどう",
       "romaji": "shokudou",
       "wordClass": "nomina",
-      "meaning": "kantin/ruang makan"
+      "meaning": "kantin, ruang makan"
     },
     {
       "id": "ch03_011",
@@ -134,7 +134,7 @@
       "kana": "うけつけ",
       "romaji": "uketsuke",
       "wordClass": "nomina",
-      "meaning": "resepsionis/meja informasi"
+      "meaning": "resepsionis, meja informasi"
     },
     {
       "id": "ch03_014",
@@ -144,7 +144,7 @@
       "kana": "ロビー",
       "romaji": "robii",
       "wordClass": "nomina",
-      "meaning": "lobi/ruang tunggu"
+      "meaning": "lobi, ruang tunggu"
     },
     {
       "id": "ch03_015",
@@ -164,7 +164,7 @@
       "kana": "おてあらい",
       "romaji": "otearai",
       "wordClass": "nomina",
-      "meaning": "kamar kecil/wc"
+      "meaning": "kamar kecil, wc"
     },
     {
       "id": "ch03_017",
@@ -204,7 +204,7 @@
       "kana": "エスカレーター",
       "romaji": "esukareetaa",
       "wordClass": "nomina",
-      "meaning": "eskalator"
+      "meaning": "eskalator, tangga berjalan"
     },
     {
       "id": "ch03_021",
@@ -250,7 +250,7 @@
       "id": "ch03_025",
       "chapterId": 3,
       "order": 25,
-      "kanji": "うち",
+      "kanji": "家",
       "kana": "うち",
       "romaji": "uchi",
       "wordClass": "nomina",
@@ -284,7 +284,7 @@
       "kana": "ワイン",
       "romaji": "wain",
       "wordClass": "nomina",
-      "meaning": "wine/anggur"
+      "meaning": "wine, anggur"
     },
     {
       "id": "ch03_029",
@@ -294,7 +294,7 @@
       "kana": "うりば",
       "romaji": "uriba",
       "wordClass": "nomina",
-      "meaning": "tempat penjualan/konter"
+      "meaning": "tempat penjualan, konter"
     },
     {
       "id": "ch03_030",
@@ -304,17 +304,17 @@
       "kana": "ちか",
       "romaji": "chika",
       "wordClass": "nomina",
-      "meaning": "ruang bawah tanah/basement"
+      "meaning": "ruang bawah tanah, basement"
     },
     {
       "id": "ch03_031",
       "chapterId": 3,
       "order": 31,
       "kanji": "～階",
-      "kana": "～かい",
+      "kana": "～かい / がい",
       "romaji": "~kai",
       "wordClass": "sufiks",
-      "meaning": "lantai~/tingkat~"
+      "meaning": "lantai~, tingkat~"
     },
     {
       "id": "ch03_032",
@@ -324,7 +324,7 @@
       "kana": "なんがい",
       "romaji": "nangai",
       "wordClass": "kata tanya",
-      "meaning": "lantai berapa?"
+      "meaning": "lantai berapa?, tingkat berapa?"
     },
     {
       "id": "ch03_033",
@@ -344,7 +344,7 @@
       "kana": "いくら",
       "romaji": "ikura",
       "wordClass": "kata tanya",
-      "meaning": "berapa harganya"
+      "meaning": "berapa?, berapa harganya?"
     },
     {
       "id": "ch03_035",
@@ -354,7 +354,7 @@
       "kana": "ひゃく",
       "romaji": "hyaku",
       "wordClass": "numeralia",
-      "meaning": "seratus"
+      "meaning": "ratus"
     },
     {
       "id": "ch03_036",
@@ -364,7 +364,7 @@
       "kana": "せん",
       "romaji": "sen",
       "wordClass": "numeralia",
-      "meaning": "seribu"
+      "meaning": "ribu"
     },
     {
       "id": "ch03_037",
@@ -384,7 +384,7 @@
       "kana": "すみません",
       "romaji": "sumimasen",
       "wordClass": "ungkapan",
-      "meaning": "permisi / maaf"
+      "meaning": "maaf, permisi"
     },
     {
       "id": "ch03_039",
@@ -404,17 +404,17 @@
       "kana": "いらっしゃいませ",
       "romaji": "irasshaimase",
       "wordClass": "ungkapan",
-      "meaning": "selamat datang"
+      "meaning": "selamat datang / bisa saya bantu? (ungkapan kepada tamu yang masuk ke toko"
     },
     {
       "id": "ch03_041",
       "chapterId": 3,
       "order": 41,
-      "kanji": "見せてください",
-      "kana": "みせてください",
+      "kanji": "~見せてください",
+      "kana": "~みせてください",
       "romaji": "misete kudasai",
       "wordClass": "ungkapan",
-      "meaning": "tolong perlihatkan"
+      "meaning": "tolong perlihatkan~"
     },
     {
       "id": "ch03_042",
@@ -424,17 +424,17 @@
       "kana": "じゃ",
       "romaji": "ja",
       "wordClass": "ungkapan",
-      "meaning": "baiklah/kalau begitu"
+      "meaning": "baiklah, kalau begitu"
     },
     {
       "id": "ch03_043",
       "chapterId": 3,
       "order": 43,
-      "kanji": "をください",
-      "kana": "をください",
-      "romaji": "o kudasai",
+      "kanji": "[~を] ください",
+      "kana": "[~を] ください",
+      "romaji": "[o] kudasai",
       "wordClass": "ungkapan",
-      "meaning": "tolong beri / saya minta"
+      "meaning": "minta [~], tolong berikan [~]"
     },
     {
       "id": "ch03_044",
@@ -670,12 +670,23 @@
       "id": "ch03_067",
       "chapterId": 3,
       "order": 67,
-      "kanji": "食料品",
-      "kana": "しょくりょうひん",
-      "romaji": "shokuryouhin",
+      "kanji": "食品",
+      "kana": "しょくひん",
+      "romaji": "shokuhin",
       "wordClass": "nomina",
-      "meaning": "makanan"
+      "meaning": "bahan pangan, bahan makanan"
+    },
+        {
+      "id": "ch03_068",
+      "chapterId": 3,
+      "order": 68,
+      "kanji": "駐車場",
+      "kana": "ちゅうしゃじょう",
+      "romaji": "chuushajou",
+      "wordClass": "nomina",
+      "meaning": "tempat parkir"
     }
+
   ],
   "conversations": [
     {

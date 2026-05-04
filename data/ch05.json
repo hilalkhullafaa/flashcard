@@ -74,7 +74,7 @@
       "kana": "ひこうき",
       "romaji": "hikouki",
       "wordClass": "nomina",
-      "meaning": "pesawat"
+      "meaning": "pesawat terbang"
     },
     {
       "id": "ch05_008",
@@ -354,7 +354,7 @@
       "kana": "ついたち",
       "romaji": "tsuitachi",
       "wordClass": "nomina",
-      "meaning": "tanggal satu"
+      "meaning": "tanggal 1"
     },
     {
       "id": "ch05_036",
@@ -364,7 +364,7 @@
       "kana": "ふつか",
       "romaji": "futsuka",
       "wordClass": "nomina",
-      "meaning": "tanggal dua, dua hari"
+      "meaning": "tanggal 2, 2 hari"
     },
     {
       "id": "ch05_037",
@@ -374,7 +374,7 @@
       "kana": "みっか",
       "romaji": "mikka",
       "wordClass": "nomina",
-      "meaning": "tanggal tiga, tiga hari"
+      "meaning": "tanggal 3, 3 hari"
     },
     {
       "id": "ch05_038",
@@ -384,7 +384,7 @@
       "kana": "よっか",
       "romaji": "yokka",
       "wordClass": "nomina",
-      "meaning": "tanggal empat, empat hari"
+      "meaning": "tanggal 4, 4 hari"
     },
     {
       "id": "ch05_039",
@@ -394,7 +394,7 @@
       "kana": "いつか",
       "romaji": "itsuka",
       "wordClass": "nomina",
-      "meaning": "tanggal lima, lima hari"
+      "meaning": "tanggal 5, 5 hari"
     },
     {
       "id": "ch05_040",
@@ -404,7 +404,7 @@
       "kana": "むいか",
       "romaji": "muika",
       "wordClass": "nomina",
-      "meaning": "tanggal enam, enam hari"
+      "meaning": "tanggal 6, 6 hari"
     },
     {
       "id": "ch05_041",
@@ -414,7 +414,7 @@
       "kana": "なのか",
       "romaji": "nanoka",
       "wordClass": "nomina",
-      "meaning": "tanggal tujuh, tujuh hari"
+      "meaning": "tanggal 7, 7 hari"
     },
     {
       "id": "ch05_042",
@@ -424,7 +424,7 @@
       "kana": "ようか",
       "romaji": "youka",
       "wordClass": "nomina",
-      "meaning": "tanggal delapan, delapan hari"
+      "meaning": "tanggal 8, 8 hari"
     },
     {
       "id": "ch05_043",
@@ -434,7 +434,7 @@
       "kana": "ここのか",
       "romaji": "kokonoka",
       "wordClass": "nomina",
-      "meaning": "tanggal sembilan, sembilan hari"
+      "meaning": "tanggal 9, 9 hari"
     },
     {
       "id": "ch05_044",
@@ -444,7 +444,7 @@
       "kana": "とおか",
       "romaji": "tooka",
       "wordClass": "nomina",
-      "meaning": "tanggal sepuluh, sepuluh hari"
+      "meaning": "tanggal 10, 10 hari"
     },
     {
       "id": "ch05_045",
@@ -454,7 +454,7 @@
       "kana": "じゅうよっか",
       "romaji": "juuyokka",
       "wordClass": "nomina",
-      "meaning": "tanggal empat belas, empat belas hari"
+      "meaning": "tanggal 14, 14 hari"
     },
     {
       "id": "ch05_046",
@@ -464,7 +464,7 @@
       "kana": "はつか",
       "romaji": "hatsuka",
       "wordClass": "nomina",
-      "meaning": "tanggal dua puluh, dua puluh hari"
+      "meaning": "tanggal 20, 20 hari"
     },
     {
       "id": "ch05_047",
@@ -474,7 +474,7 @@
       "kana": "にじゅうよっか",
       "romaji": "nijuuyokka",
       "wordClass": "nomina",
-      "meaning": "tanggal dua puluh empat, dua puluh empat hari"
+      "meaning": "tanggal 24, 24 hari"
     },
     {
       "id": "ch05_048",
@@ -524,7 +524,7 @@
       "kana": "そうですね",
       "romaji": "sou desu ne",
       "wordClass": "ungkapan",
-      "meaning": "ya, betul/ya, begitulah"
+      "meaning": "ya, betul / ya, begitulah"
     },
     {
       "id": "ch05_053",
@@ -606,6 +606,16 @@
       "wordClass": "nomina",
       "meaning": "tahun baru"
     },
+        {
+      "id": "ch05_061",
+      "chapterId": 5,
+      "order": 61,
+      "kanji": "元日",
+      "kana": "がんじつ",
+      "romaji": "ganjitsu",
+      "wordClass": "nomina",
+      "meaning": "1 januari, tahun baru"
+    },
     {
       "id": "ch05_061",
       "chapterId": 5,
@@ -614,12 +624,32 @@
       "kana": "せいじんのひ",
       "romaji": "seijin no hi",
       "wordClass": "nomina",
-      "meaning": "hari perayaan menjadi dewasa"
+      "meaning": "hari perayaan menjadi dewasa (20 tahun)"
     },
     {
       "id": "ch05_062",
       "chapterId": 5,
       "order": 62,
+      "kanji": "建国記念の日",
+      "kana": "けんこくきねんのひ",
+      "romaji": "kenkoku kinen no ni",
+      "wordClass": "nomina",
+      "meaning": "hari pendirian negara jepang"
+    },
+    {
+      "id": "ch05_063",
+      "chapterId": 5,
+      "order": 63,
+      "kanji": "天皇誕生日",
+      "kana": "てんのうたんじょうび",
+      "romaji": "tennou tanjoubi",
+      "wordClass": "nomina",
+      "meaning": "hari ulang tahun kaisar"
+    },
+    {
+      "id": "ch05_064",
+      "chapterId": 5,
+      "order": 64,
       "kanji": "憲法記念日",
       "kana": "けんぽうきねんび",
       "romaji": "kenpou kinenbi",
@@ -627,9 +657,9 @@
       "meaning": "hari peringatan konstitusi"
     },
     {
-      "id": "ch05_063",
+      "id": "ch05_065",
       "chapterId": 5,
-      "order": 63,
+      "order": 65,
       "kanji": "みどりの日",
       "kana": "みどりのひ",
       "romaji": "midori no hi",
@@ -637,9 +667,9 @@
       "meaning": "hari penghijauan"
     },
     {
-      "id": "ch05_064",
+      "id": "ch05_066",
       "chapterId": 5,
-      "order": 64,
+      "order": 66,
       "kanji": "こどもの日",
       "kana": "こどものひ",
       "romaji": "kodomo no hi",
@@ -647,9 +677,19 @@
       "meaning": "hari anak"
     },
     {
-      "id": "ch05_065",
+      "id": "ch05_067",
       "chapterId": 5,
-      "order": 65,
+      "order": 67,
+      "kanji": "海の日",
+      "kana": "うみのひ",
+      "romaji": "umi no hi",
+      "wordClass": "nomina",
+      "meaning": "hari laut, hari bahari"
+    },
+    {
+      "id": "ch05_068",
+      "chapterId": 5,
+      "order": 68,
       "kanji": "山の日",
       "kana": "やまのひ",
       "romaji": "yama no hi",
@@ -657,29 +697,49 @@
       "meaning": "hari gunung"
     },
     {
-      "id": "ch05_066",
+      "id": "ch05_069",
       "chapterId": 5,
-      "order": 66,
+      "order": 69,
       "kanji": "敬老の日",
       "kana": "けいろうのひ",
       "romaji": "keirou no hi",
       "wordClass": "nomina",
-      "meaning": "hari hormat kepada orang tua"
+      "meaning": "hari hormat kepada orang tua (lansia)"
     },
     {
-      "id": "ch05_067",
+      "id": "ch05_070",
       "chapterId": 5,
-      "order": 67,
-      "kanji": "体育の日",
-      "kana": "たいいくのひ",
-      "romaji": "taiiku no hi",
+      "order": 70,
+      "kanji": "春分の日",
+      "kana": "しゅんぶんのひ",
+      "romaji": "shunbun no hi",
       "wordClass": "nomina",
-      "meaning": "hari kesehatan olahraga"
+      "meaning": "hari equinox pada musim semi"
+    }, 
+     {
+      "id": "ch05_071",
+      "chapterId": 5,
+      "order": 71,
+      "kanji": "秋分の日",
+      "kana": "しゅうぶんのひ",
+      "romaji": "shuubun no hi",
+      "wordClass": "nomina",
+      "meaning": "hari equinox pada musim gugur"
     },
     {
-      "id": "ch05_068",
+      "id": "ch05_072",
       "chapterId": 5,
-      "order": 68,
+      "order": 72,
+      "kanji": "スポーツの日",
+      "kana": "スポーツのひ",
+      "romaji": "supootsu no ni",
+      "wordClass": "nomina",
+      "meaning": "hari olahraga"
+    },
+    {
+      "id": "ch05_073",
+      "chapterId": 5,
+      "order": 73,
       "kanji": "文化の日",
       "kana": "ぶんかのひ",
       "romaji": "bunka no hi",
@@ -687,24 +747,14 @@
       "meaning": "hari kebudayaan"
     },
     {
-      "id": "ch05_069",
+      "id": "ch05_074",
       "chapterId": 5,
-      "order": 69,
+      "order": 74,
       "kanji": "勤労感謝の日",
       "kana": "きんろうかんしゃのひ",
-      "romaji": "kinrou kansha no hi",
+      "romaji": "kinrou kansha no ni",
       "wordClass": "nomina",
       "meaning": "hari bersyukur untuk pekerjaan"
-    },
-    {
-      "id": "ch05_070",
-      "chapterId": 5,
-      "order": 70,
-      "kanji": "天皇誕生日",
-      "kana": "てんのうたんじょうび",
-      "romaji": "tennou tanjoubi",
-      "wordClass": "nomina",
-      "meaning": "hari ulang tahun kaisar"
     }
   ],
   "conversations": [

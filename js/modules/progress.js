@@ -32,6 +32,25 @@ class ProgressTracker {
       return;
     }
     this.allChaptersData = allChaptersData;
+    // Clear cached totals to force recalculation with new data
+    this.cachedTotals = null;
+    console.log('[ProgressTracker] Cache cleared, will recalculate totals on next getStats() call');
+  }
+
+  /**
+   * Generate unique key for vocabulary item based on kanji+kana combination
+   * @private
+   * @param {Object} vocab - Vocabulary item with kanji and kana properties
+   * @returns {string} Unique key in format "kanji|kana"
+   */
+  _getVocabUniqueKey(vocab) {
+    if (!vocab) {
+      return '|';
+    }
+    // Normalize strings by trimming whitespace
+    const kanji = (vocab.kanji || '').trim();
+    const kana = (vocab.kana || '').trim();
+    return `${kanji}|${kana}`;
   }
 
   /**
@@ -70,20 +89,138 @@ class ProgressTracker {
   }
 
   /**
+   * Migrate old format vocabulary data to new format
+   * For each vocabulary ID in vocabMemorized, find all vocabulary with same unique key
+   * and add all matching vocabulary IDs to vocabMemorized
+   * @private
+   */
+  _migrateVocabData() {
+    // Skip migration if no chapters data available
+    if (!this.allChaptersData || !Array.isArray(this.allChaptersData)) {
+      return;
+    }
+
+    // Skip migration if no vocabulary data to migrate
+    if (this.vocabMemorized.size === 0) {
+      return;
+    }
+
+    // Track if migration is needed
+    let migrationNeeded = false;
+    const originalSize = this.vocabMemorized.size;
+    
+    // Create a copy of current IDs to iterate over
+    const currentIds = Array.from(this.vocabMemorized);
+    
+    // For each vocabulary ID, find all vocabulary with same unique key
+    for (const vocabId of currentIds) {
+      const vocab = this._getVocabById(vocabId);
+      if (!vocab) {
+        continue;
+      }
+
+      // Generate unique key for this vocabulary
+      const uniqueKey = this._getVocabUniqueKey(vocab);
+
+      // Find all vocabulary items with the same unique key across all chapters
+      for (const chapterData of this.allChaptersData) {
+        if (chapterData && Array.isArray(chapterData.vocabulary)) {
+          for (const v of chapterData.vocabulary) {
+            if (v && this._getVocabUniqueKey(v) === uniqueKey) {
+              // If this ID is not already in the set, migration is needed
+              if (!this.vocabMemorized.has(v.id)) {
+                this.vocabMemorized.add(v.id);
+                migrationNeeded = true;
+              }
+            }
+          }
+        }
+      }
+    }
+
+    // If migration was performed, save the migrated data and log
+    if (migrationNeeded) {
+      const newSize = this.vocabMemorized.size;
+      console.log(`[Migration] Vocabulary progress migrated: ${originalSize} → ${newSize} IDs`);
+      this.save();
+    }
+  }
+
+  /**
    * Mark vocabulary as memorized
+   * Synchronizes status across all chapters for vocabulary with same kanji+kana
    * @param {string} vocabId - Vocabulary ID (e.g., "ch01_001")
    */
   markVocabMemorized(vocabId) {
-    this.vocabMemorized.add(vocabId);
+    // Look up the vocabulary item to get its unique key
+    const vocab = this._getVocabById(vocabId);
+    if (!vocab) {
+      console.warn(`Vocabulary item not found: ${vocabId}`);
+      // Still add the ID to maintain backward compatibility
+      this.vocabMemorized.add(vocabId);
+      this.save();
+      return;
+    }
+
+    // Generate unique key for this vocabulary
+    const uniqueKey = this._getVocabUniqueKey(vocab);
+
+    // Find all vocabulary items with the same unique key across all chapters
+    if (this.allChaptersData && Array.isArray(this.allChaptersData)) {
+      for (const chapterData of this.allChaptersData) {
+        if (chapterData && Array.isArray(chapterData.vocabulary)) {
+          for (const v of chapterData.vocabulary) {
+            if (v && this._getVocabUniqueKey(v) === uniqueKey) {
+              // Add all matching vocabulary IDs to the memorized set
+              this.vocabMemorized.add(v.id);
+            }
+          }
+        }
+      }
+    } else {
+      // Fallback: if no chapters data available, just add the single ID
+      this.vocabMemorized.add(vocabId);
+    }
+
     this.save();
   }
 
   /**
    * Mark vocabulary as forgotten
+   * Synchronizes status removal across all chapters for vocabulary with same kanji+kana
    * @param {string} vocabId - Vocabulary ID
    */
   markVocabForgotten(vocabId) {
-    this.vocabMemorized.delete(vocabId);
+    // Look up the vocabulary item to get its unique key
+    const vocab = this._getVocabById(vocabId);
+    if (!vocab) {
+      console.warn(`Vocabulary item not found: ${vocabId}`);
+      // Still remove the ID to maintain backward compatibility
+      this.vocabMemorized.delete(vocabId);
+      this.save();
+      return;
+    }
+
+    // Generate unique key for this vocabulary
+    const uniqueKey = this._getVocabUniqueKey(vocab);
+
+    // Find all vocabulary items with the same unique key across all chapters
+    if (this.allChaptersData && Array.isArray(this.allChaptersData)) {
+      for (const chapterData of this.allChaptersData) {
+        if (chapterData && Array.isArray(chapterData.vocabulary)) {
+          for (const v of chapterData.vocabulary) {
+            if (v && this._getVocabUniqueKey(v) === uniqueKey) {
+              // Remove all matching vocabulary IDs from the memorized set
+              this.vocabMemorized.delete(v.id);
+            }
+          }
+        }
+      }
+    } else {
+      // Fallback: if no chapters data available, just remove the single ID
+      this.vocabMemorized.delete(vocabId);
+    }
+
     this.save();
   }
 
@@ -323,31 +460,62 @@ class ProgressTracker {
         // Use Set to track unique kanji texts
         const uniqueKanjiSet = new Set();
         
+        console.log(`[ProgressTracker] Processing ${allChaptersData.length} chapters for deduplication`);
+        
+        let totalItems = 0;
+        let duplicateCount = 0;
+        
         for (const chapterData of allChaptersData) {
           if (chapterData && Array.isArray(chapterData.vocabulary)) {
+            console.log(`[ProgressTracker] Chapter has ${chapterData.vocabulary.length} vocabulary items`);
+            totalItems += chapterData.vocabulary.length;
+            
             for (const vocab of chapterData.vocabulary) {
               if (!vocab) continue;
               
+              // Normalize strings by trimming whitespace and converting to lowercase for kana
+              const normalizedKanji = (vocab.kanji || '').trim();
+              const normalizedKana = (vocab.kana || '').trim();
+              
               // Track unique vocabulary by kanji|kana combination
-              const vocabKey = `${vocab.kanji || ''}|${vocab.kana || ''}`;
+              const vocabKey = `${normalizedKanji}|${normalizedKana}`;
               if (!uniqueVocabMap.has(vocabKey)) {
                 uniqueVocabMap.set(vocabKey, vocab);
+              } else {
+                duplicateCount++;
               }
               
               // Track unique kanji texts (only actual kanji characters)
-              if (vocab.kanji && vocab.kanji !== '' && hasKanji(vocab.kanji)) {
-                uniqueKanjiSet.add(vocab.kanji);
+              if (normalizedKanji && normalizedKanji !== '' && hasKanji(normalizedKanji)) {
+                uniqueKanjiSet.add(normalizedKanji);
               }
             }
+          } else {
+            console.warn('[ProgressTracker] Chapter data missing vocabulary array:', chapterData);
           }
         }
+        
+        console.log(`[ProgressTracker] Total items: ${totalItems}, Duplicates found: ${duplicateCount}`);
+        
+        console.log(`[ProgressTracker] Deduplication complete: ${uniqueVocabMap.size} unique vocab, ${uniqueKanjiSet.size} unique kanji`);
         
         totalVocab = uniqueVocabMap.size;
         totalKanji = uniqueKanjiSet.size;
         this.cachedTotals = { vocab: totalVocab, kanji: totalKanji };
+        console.log(`[ProgressTracker] Calculated totals: vocab=${totalVocab}, kanji=${totalKanji} (cached for future calls)`);
       }
 
-      const vocabMemorizedCount = this.vocabMemorized.size;
+      // Count unique memorized vocabulary (deduplicate by kanji+kana)
+      const uniqueMemorizedVocab = new Set();
+      for (const vocabId of this.vocabMemorized) {
+        const vocab = this._getVocabById(vocabId);
+        if (vocab) {
+          const uniqueKey = this._getVocabUniqueKey(vocab);
+          uniqueMemorizedVocab.add(uniqueKey);
+        }
+      }
+      const vocabMemorizedCount = uniqueMemorizedVocab.size;
+      
       const kanjiMemorizedCount = this.kanjiMemorized.size;
 
       return {
@@ -423,6 +591,9 @@ class ProgressTracker {
         const parsed = JSON.parse(vocabData);
         if (Array.isArray(parsed)) {
           this.vocabMemorized = new Set(parsed);
+          
+          // Perform backward compatibility migration
+          this._migrateVocabData();
         } else {
           console.warn('Invalid vocab progress data format, resetting');
           this.vocabMemorized = new Set();

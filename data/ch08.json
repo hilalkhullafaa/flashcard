@@ -150,8 +150,8 @@
       "id": "ch08_015",
       "chapterId": 8,
       "order": 15,
-      "kanji": "いい",
-      "kana": "いい",
+      "kanji": "いい / よい",
+      "kana": "いい / よい",
       "romaji": "ii / yoi",
       "wordClass": "adjektiva-i",
       "meaning": "baik, bagus"
@@ -410,11 +410,11 @@
       "id": "ch08_041",
       "chapterId": 8,
       "order": 41,
-      "kanji": "仕事",
-      "kana": "しごと",
-      "romaji": "shigoto",
+      "kanji": "[お]　仕事",
+      "kana": "[お] しごと",
+      "romaji": "[o] shigoto",
       "wordClass": "nomina",
-      "meaning": "pekerjaan"
+      "meaning": "pekerjaan~"
     },
     {
       "id": "ch08_042",
@@ -489,7 +489,7 @@
     {
       "id": "ch08_049",
       "chapterId": 8,
-      "order": 50,
+      "order": 49,
       "kanji": "そうですね",
       "kana": "そうですね",
       "romaji": "sou desu ne",
@@ -499,17 +499,17 @@
     {
       "id": "ch08_050",
       "chapterId": 8,
-      "order": 51,
-      "kanji": "～もう一杯いかがですか",
-      "kana": "～もういっぱいにかがですか",
-      "romaji": "~mou ippai ikaga desu ka",
+      "order": 50,
+      "kanji": "[～] もう一杯いかがですか",
+      "kana": "[～] もういっぱいにかがですか",
+      "romaji": "[~] mou ippai ikaga desu ka",
       "wordClass": "ungkapan",
       "meaning": "mau tambah [~] secangkir lagi?"
     },
     {
       "id": "ch08_051",
       "chapterId": 8,
-      "order": 52,
+      "order": 51,
       "kanji": "いいえ、けっこうです",
       "kana": "いいえ、けっこうです",
       "romaji": "iie, kekkou desu",
@@ -519,9 +519,9 @@
     {
       "id": "ch08_052",
       "chapterId": 8,
-      "order": 53,
-      "kanji": "もう～ですね",
-      "kana": "もう～ですね",
+      "order": 52,
+      "kanji": "もう ～ですね",
+      "kana": "もう ～ですね",
       "romaji": "mou ~ desu ne",
       "wordClass": "ungkapan",
       "meaning": "sudah~ [ya]."
@@ -529,7 +529,7 @@
     {
       "id": "ch08_053",
       "chapterId": 8,
-      "order": 54,
+      "order": 53,
       "kanji": "そろそろ失礼します",
       "kana": "そろそろしつれいします",
       "romaji": "sorosoro shitsurei shimasu",
@@ -539,7 +539,7 @@
     {
       "id": "ch08_054",
       "chapterId": 8,
-      "order": 55,
+      "order": 54,
       "kanji": "またいらっしゃってください",
       "kana": "またいらっしゃってください",
       "romaji": "mata irasshatte kudasai",
@@ -549,87 +549,87 @@
     {
       "id": "ch08_055",
       "chapterId": 8,
-      "order": 56,
+      "order": 55,
       "kanji": "緑",
       "kana": "みどり",
       "romaji": "midori",
-      "wordClass": "nomina",
+      "wordClass": "adjektiva-i",
       "meaning": "hijau"
     },
     {
       "id": "ch08_056",
       "chapterId": 8,
-      "order": 57,
+      "order": 56,
       "kanji": "紫",
       "kana": "むらさき",
       "romaji": "murasaki",
-      "wordClass": "nomina",
+      "wordClass": "adjektiva-i",
       "meaning": "ungu"
     },
     {
       "id": "ch08_057",
       "chapterId": 8,
-      "order": 58,
+      "order": 57,
       "kanji": "黄色",
       "kana": "きいろ",
       "romaji": "kiiro",
-      "wordClass": "nomina",
+      "wordClass": "adjektiva-i",
       "meaning": "kuning"
     },
     {
       "id": "ch08_058",
       "chapterId": 8,
-      "order": 59,
+      "order": 58,
       "kanji": "茶色",
       "kana": "ちゃいろ",
       "romaji": "chairo",
-      "wordClass": "nomina",
+      "wordClass": "adjektiva-i",
       "meaning": "coklat"
     },
     {
       "id": "ch08_059",
       "chapterId": 8,
-      "order": 60,
+      "order": 59,
       "kanji": "ピンク",
       "kana": "ピンク",
       "romaji": "pinku",
-      "wordClass": "nomina",
+      "wordClass": "adjektiva-i",
       "meaning": "merah muda"
     },
     {
       "id": "ch08_060",
       "chapterId": 8,
-      "order": 61,
+      "order": 60,
       "kanji": "オレンジ",
       "kana": "オレンジ",
       "romaji": "orenji",
-      "wordClass": "nomina",
+      "wordClass": "adjektiva-i",
       "meaning": "oranye"
     },
     {
       "id": "ch08_061",
       "chapterId": 8,
-      "order": 62,
+      "order": 61,
       "kanji": "グレー",
       "kana": "グレー",
       "romaji": "guree",
-      "wordClass": "nomina",
+      "wordClass": "adjektiva-i",
       "meaning": "abu-abu"
     },
     {
       "id": "ch08_062",
       "chapterId": 8,
-      "order": 63,
+      "order": 62,
       "kanji": "ベージュ",
       "kana": "ベージュ",
       "romaji": "beeju",
-      "wordClass": "nomina",
+      "wordClass": "adjektiva-i",
       "meaning": "krem"
     },
     {
       "id": "ch08_063",
       "chapterId": 8,
-      "order": 64,
+      "order": 63,
       "kanji": "春",
       "kana": "はる",
       "romaji": "haru",
@@ -639,7 +639,7 @@
     {
       "id": "ch08_064",
       "chapterId": 8,
-      "order": 65,
+      "order": 64,
       "kanji": "夏",
       "kana": "なつ",
       "romaji": "natsu",
@@ -649,7 +649,7 @@
     {
       "id": "ch08_065",
       "chapterId": 8,
-      "order": 66,
+      "order": 65,
       "kanji": "秋",
       "kana": "あき",
       "romaji": "aki",
@@ -659,12 +659,92 @@
     {
       "id": "ch08_066",
       "chapterId": 8,
-      "order": 67,
+      "order": 66,
       "kanji": "冬",
       "kana": "ふゆ",
       "romaji": "fuyu",
       "wordClass": "nomina",
       "meaning": "musim dingin"
+    },
+    {
+      "id": "ch08_067",
+      "chapterId": 8,
+      "order": 67,
+      "kanji": "味",
+      "kana": "あじ",
+      "romaji": "aji",
+      "wordClass": "adjektiva-i",
+      "meaning": "rasa"
+    },
+     {
+      "id": "ch08_068",
+      "chapterId": 8,
+      "order": 68,
+      "kanji": "甘い",
+      "kana": "あまい",
+      "romaji": "amai",
+      "wordClass": "adjektiva-i",
+      "meaning": "manis"
+    },
+     {
+      "id": "ch08_069",
+      "chapterId": 8,
+      "order": 69,
+      "kanji": "酸っぱい",
+      "kana": "すっぱい",
+      "romaji": "suppai",
+      "wordClass": "adjektiva-i",
+      "meaning": "asam"
+    },
+     {
+      "id": "ch08_070",
+      "chapterId": 8,
+      "order": 70,
+      "kanji": "辛い",
+      "kana": "からい",
+      "romaji": "karai",
+      "wordClass": "adjektiva-i",
+      "meaning": "pedas"
+    },
+    {
+      "id": "ch08_071",
+      "chapterId": 8,
+      "order": 71,
+      "kanji": "濃い",
+      "kana": "こい",
+      "romaji": "koi",
+      "wordClass": "adjektiva-i",
+      "meaning": "kental"
+    },
+    {
+      "id": "ch08_072",
+      "chapterId": 8,
+      "order": 72,
+      "kanji": "苦い",
+      "kana": "にがい",
+      "romaji": "nigai",
+      "wordClass": "adjektiva-i",
+      "meaning": "pahit"
+    },
+    {
+      "id": "ch08_073",
+      "chapterId": 8,
+      "order": 73,
+      "kanji": "塩辛い",
+      "kana": "しおからい",
+      "romaji": "shiokarai",
+      "wordClass": "adjektiva-i",
+      "meaning": "asin"
+    },
+    {
+      "id": "ch08_074",
+      "chapterId": 8,
+      "order": 74,
+      "kanji": "無味",
+      "kana": "むみ",
+      "romaji": "mumi",
+      "wordClass": "adjektiva-i",
+      "meaning": "hambar, tawar"
     }
   ],
   "conversations": [

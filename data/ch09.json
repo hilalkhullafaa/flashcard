@@ -324,15 +324,15 @@
       "kana": "ごしゅじん",
       "romaji": "goshujin",
       "wordClass": "nomina",
-      "meaning": "suami (orang lain)"
+      "meaning": "suami (digunakan untuk menyebutkan suami orang lain)"
     },
     {
       "id": "ch09_033",
       "chapterId": 9,
       "order": 33,
-      "kanji": "夫/主人",
-      "kana": "おっと/しゅじん",
-      "romaji": "otto/shujin",
+      "kanji": "夫 / 主人",
+      "kana": "おっと / しゅじん",
+      "romaji": "otto / shujin",
       "wordClass": "nomina",
       "meaning": "suami"
     },
@@ -344,15 +344,15 @@
       "kana": "おくさん",
       "romaji": "okusan",
       "wordClass": "nomina",
-      "meaning": "istri (orang lain)"
+      "meaning": "istri (digunakan untuk menyebutkan istri orang lain)"
     },
     {
       "id": "ch09_035",
       "chapterId": 9,
       "order": 35,
-      "kanji": "妻/家内",
-      "kana": "月ま/かない",
-      "romaji": "tsuma/kanai",
+      "kanji": "妻 / 家内",
+      "kana": "月ま / かない",
+      "romaji": "tsuma / kanai",
       "wordClass": "nomina",
       "meaning": "istri"
     },
@@ -410,7 +410,7 @@
       "id": "ch09_041",
       "chapterId": 9,
       "order": 41,
-      "kanji": "早く/速く",
+      "kanji": "早く / 速く",
       "kana": "はやく",
       "romaji": "hayaku",
       "wordClass": "adverbia",
@@ -450,8 +450,8 @@
       "id": "ch09_045",
       "chapterId": 9,
       "order": 45,
-      "kanji": "いいです。すよ",
-      "kana": "いいです。すよ",
+      "kanji": "いい です よ",
+      "kana": "いい ですす よ",
       "romaji": "ii desu yo",
       "wordClass": "ungkapan",
       "meaning": "boleh"
@@ -460,9 +460,9 @@
       "id": "ch09_046",
       "chapterId": 9,
       "order": 46,
-      "kanji": "残念です。す年",
-      "kana": "ざん年んです。す年",
-      "romaji": "zannen desu ne",
+      "kanji": "残念ですが",
+      "kana": "ざんねんですが",
+      "romaji": "zannen desu ga",
       "wordClass": "ungkapan",
       "meaning": "sayang sekali"
     },
@@ -470,8 +470,8 @@
       "id": "ch09_047",
       "chapterId": 9,
       "order": 47,
-      "kanji": "一緒にいかがです。すか",
-      "kana": "いっしょにいかがです。すか",
+      "kanji": "いっしょ に いかが ですか",
+      "kana": "いっしょ に いかが ですか",
       "romaji": "issho ni ikaga desu ka",
       "wordClass": "ungkapan",
       "meaning": "bagaimana kalau bersama-sama?"
@@ -480,18 +480,18 @@
       "id": "ch09_048",
       "chapterId": 9,
       "order": 48,
-      "kanji": "～はちょっと･･･",
-      "kana": "～はちょっと･･･",
-      "romaji": "~wa chotto...",
+      "kanji": "[～は] ちょっと･･･",
+      "kana": "[～は] ちょっと･･･",
+      "romaji": "[~wa] chotto...",
       "wordClass": "ungkapan",
-      "meaning": "maaf ya, saya tidak bisa~"
+      "meaning": "maaf ya, saya tidak bisa~ (ungkapan untuk menolak ajakan orang secara tidak langsung)"
     },
     {
       "id": "ch09_049",
       "chapterId": 9,
       "order": 49,
-      "kanji": "だめです。すか",
-      "kana": "だめです。すか",
+      "kanji": "だめですか",
+      "kana": "だめですか",
       "romaji": "dame desu ka",
       "wordClass": "ungkapan",
       "meaning": "tidak bisa ya? / tidak boleh ya?"
@@ -500,11 +500,11 @@
       "id": "ch09_050",
       "chapterId": 9,
       "order": 50,
-      "kanji": "また今度お願いします",
-      "kana": "またこんどお年がいします",
+      "kanji": "また 今度 お願いします",
+      "kana": "また こんど おねがいします",
       "romaji": "mata kondo onegaishimasu",
       "wordClass": "ungkapan",
-      "meaning": "maaf lain kali saja"
+      "meaning": "maaf, lain kali saja (ungkapan untuk menolak ajakan orang secara tidak langsung dengan menjaga perasaan lawan bicara)"
     }
   ],
   "conversations": [

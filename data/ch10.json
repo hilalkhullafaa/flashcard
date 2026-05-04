@@ -14,7 +14,7 @@
       "kana": "あります",
       "romaji": "arimasu",
       "wordClass": "verba",
-      "meaning": "ada (benda mati)"
+      "meaning": "ada (digunakan untuk benda mati)"
     },
     {
       "id": "ch10_002",
@@ -24,13 +24,13 @@
       "kana": "います",
       "romaji": "imasu",
       "wordClass": "verba",
-      "meaning": "ada (benda hidup)"
+      "meaning": "ada (digunakan untuk makhluk hidup)"
     },
     {
       "id": "ch10_003",
       "chapterId": 10,
       "order": 3,
-      "kanji": "色々",
+      "kanji": "いろいろ",
       "kana": "いろいろ",
       "romaji": "iroiro",
       "wordClass": "adjektiva-na",
@@ -40,8 +40,8 @@
       "id": "ch10_004",
       "chapterId": 10,
       "order": 4,
-      "kanji": "男の人",
-      "kana": "おとこのひと",
+      "kanji": "男の 人",
+      "kana": "おとこ の ひと",
       "romaji": "otoko no hito",
       "wordClass": "nomina",
       "meaning": "orang laki-laki"
@@ -50,8 +50,8 @@
       "id": "ch10_005",
       "chapterId": 10,
       "order": 5,
-      "kanji": "女の人",
-      "kana": "おんなのひと",
+      "kanji": "女の 人",
+      "kana": "おんな の ひと",
       "romaji": "onna no hito",
       "wordClass": "nomina",
       "meaning": "orang perempuan"
@@ -60,8 +60,8 @@
       "id": "ch10_006",
       "chapterId": 10,
       "order": 6,
-      "kanji": "男の子",
-      "kana": "おとこのこ",
+      "kanji": "男の 子",
+      "kana": "おとこ の こ",
       "romaji": "otoko no ko",
       "wordClass": "nomina",
       "meaning": "anak laki-laki"
@@ -70,8 +70,8 @@
       "id": "ch10_007",
       "chapterId": 10,
       "order": 7,
-      "kanji": "女の子",
-      "kana": "おんなのこ",
+      "kanji": "女の 子",
+      "kana": "おんな の こ",
       "romaji": "onna no ko",
       "wordClass": "nomina",
       "meaning": "anak perempuan"
@@ -250,7 +250,7 @@
       "id": "ch10_025",
       "chapterId": 10,
       "order": 25,
-      "kanji": "ATM",
+      "kanji": "エーティーエム",
       "kana": "エーティーエム",
       "romaji": "eetiiemu",
       "wordClass": "nomina",
@@ -264,7 +264,7 @@
       "kana": "コンビニ",
       "romaji": "konbini",
       "wordClass": "nomina",
-      "meaning": "toko 24 jam"
+      "meaning": "toko 24 jam, toko serba ada"
     },
     {
       "id": "ch10_027",
@@ -432,7 +432,7 @@
       "order": 43,
       "kanji": "～や～［など］",
       "kana": "～や～［など］",
-      "romaji": "~ya~[nado]",
+      "romaji": "~ya~ [nado]",
       "wordClass": "partikel",
       "meaning": "~dan~ [dan lain-lain]"
     },
@@ -470,8 +470,8 @@
       "id": "ch10_047",
       "chapterId": 10,
       "order": 47,
-      "kanji": "一番下",
-      "kana": "いちばんした",
+      "kanji": "いちばん 下",
+      "kana": "いちばん した",
       "romaji": "ichiban shita",
       "wordClass": "nomina",
       "meaning": "paling bawah"
@@ -562,7 +562,7 @@
       "id": "ch10_conv01",
       "chapterId": 10,
       "order": 1,
-      "title": "Percakapan 1 â€” Kemampuan Bahasa",
+      "title": "Percakapan 1 - Kemampuan Bahasa",
       "turns": [
         {
           "speaker": "やまだ",
@@ -598,7 +598,7 @@
       "id": "ch10_conv02",
       "chapterId": 10,
       "order": 2,
-      "title": "Percakapan 2 â€” Hobi dan Kemampuan",
+      "title": "Percakapan 2 - Hobi dan Kemampuan",
       "turns": [
         {
           "speaker": "カリナ",
@@ -819,7 +819,7 @@
       "id": "ch10_g01",
       "chapterId": 10,
       "order": 1,
-      "title": "Partikel が â€” Penanda Objek Kemampuan",
+      "title": "Partikel が ” Penanda Objek Kemampuan",
       "explanation": "Dalam bahasa Jepang, verba kemampuan seperti できます (bisa) dan verba pemahaman seperti わかります (mengerti) menggunakan partikel が, bukan を, untuk menandai objeknya. Ini berbeda dari verba aksi biasa yang menggunakan を. Pola ini juga berlaku untuk adjektiva kemampuan seperti じょうず dan へた.",
       "examples": [
         {

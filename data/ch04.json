@@ -1,4 +1,4 @@
-{
+﻿{
   "chapter": {
     "id": 4,
     "title": "毎日 何時に 起きますか",
@@ -141,8 +141,8 @@
       "chapterId": 4,
       "order": 14,
       "kanji": "～分",
-      "kana": "～ふん",
-      "romaji": "~fun",
+      "kana": "～ふん / ぷん",
+      "romaji": "~fun / pun",
       "wordClass": "sufiks",
       "meaning": "~menit"
     },
@@ -230,16 +230,26 @@
       "id": "ch04_023",
       "chapterId": 4,
       "order": 23,
-      "kanji": "おととい",
-      "kana": "おととい",
-      "romaji": "ototoi",
+      "kanji": "夜",
+      "kana": "よる",
+      "romaji": "yoru",
       "wordClass": "nomina",
-      "meaning": "dua hari yang lalu, kemarin lusa"
+      "meaning": "malam"
     },
     {
       "id": "ch04_024",
       "chapterId": 4,
       "order": 24,
+      "kanji": "おととい",
+      "kana": "おととい",
+      "romaji": "ototoi",
+      "wordClass": "nomina",
+      "meaning": "2 hari yang lalu, kemarin lusa"
+    },
+    {
+      "id": "ch04_025",
+      "chapterId": 4,
+      "order": 25,
       "kanji": "昨日",
       "kana": "きのう",
       "romaji": "kinou",
@@ -247,9 +257,9 @@
       "meaning": "kemarin"
     },
     {
-      "id": "ch04_025",
+      "id": "ch04_026",
       "chapterId": 4,
-      "order": 25,
+      "order": 26,
       "kanji": "今日",
       "kana": "きょう",
       "romaji": "kyou",
@@ -257,9 +267,9 @@
       "meaning": "hari ini"
     },
     {
-      "id": "ch04_026",
+      "id": "ch04_027",
       "chapterId": 4,
-      "order": 26,
+      "order": 27,
       "kanji": "明日",
       "kana": "あした",
       "romaji": "ashita",
@@ -267,9 +277,9 @@
       "meaning": "besok"
     },
     {
-      "id": "ch04_027",
+      "id": "ch04_028",
       "chapterId": 4,
-      "order": 27,
+      "order": 28,
       "kanji": "あさって",
       "kana": "あさって",
       "romaji": "asatte",
@@ -277,9 +287,9 @@
       "meaning": "lusa"
     },
     {
-      "id": "ch04_028",
+      "id": "ch04_029",
       "chapterId": 4,
-      "order": 28,
+      "order": 29,
       "kanji": "今朝",
       "kana": "けさ",
       "romaji": "kesa",
@@ -287,9 +297,9 @@
       "meaning": "pagi ini, tadi pagi"
     },
     {
-      "id": "ch04_029",
+      "id": "ch04_030",
       "chapterId": 4,
-      "order": 29,
+      "order": 30,
       "kanji": "今晩",
       "kana": "こんばん",
       "romaji": "konban",
@@ -297,9 +307,9 @@
       "meaning": "malam ini, nanti malam"
     },
     {
-      "id": "ch04_030",
+      "id": "ch04_031",
       "chapterId": 4,
-      "order": 30,
+      "order": 31,
       "kanji": "休み",
       "kana": "やすみ",
       "romaji": "yasumi",
@@ -307,9 +317,9 @@
       "meaning": "istirahat, cuti, libur"
     },
     {
-      "id": "ch04_031",
+      "id": "ch04_032",
       "chapterId": 4,
-      "order": 31,
+      "order": 32,
       "kanji": "昼休み",
       "kana": "ひるやすみ",
       "romaji": "hiruyasumi",
@@ -317,9 +327,9 @@
       "meaning": "istirahat siang"
     },
     {
-      "id": "ch04_032",
+      "id": "ch04_033",
       "chapterId": 4,
-      "order": 32,
+      "order": 33,
       "kanji": "試験",
       "kana": "しけん",
       "romaji": "shiken",
@@ -327,9 +337,9 @@
       "meaning": "ujian"
     },
     {
-      "id": "ch04_033",
+      "id": "ch04_034",
       "chapterId": 4,
-      "order": 33,
+      "order": 34,
       "kanji": "会議",
       "kana": "かいぎ",
       "romaji": "kaigi",
@@ -337,9 +347,9 @@
       "meaning": "rapat"
     },
     {
-      "id": "ch04_034",
+      "id": "ch04_035",
       "chapterId": 4,
-      "order": 34,
+      "order": 35,
       "kanji": "映画",
       "kana": "えいが",
       "romaji": "eiga",
@@ -347,9 +357,9 @@
       "meaning": "film"
     },
     {
-      "id": "ch04_035",
+      "id": "ch04_036",
       "chapterId": 4,
-      "order": 35,
+      "order": 36,
       "kanji": "毎朝",
       "kana": "まいあさ",
       "romaji": "maiasa",
@@ -357,9 +367,9 @@
       "meaning": "setiap pagi"
     },
     {
-      "id": "ch04_036",
+      "id": "ch04_037",
       "chapterId": 4,
-      "order": 36,
+      "order": 37,
       "kanji": "毎晩",
       "kana": "まいばん",
       "romaji": "maiban",
@@ -367,9 +377,9 @@
       "meaning": "setiap malam"
     },
     {
-      "id": "ch04_037",
+      "id": "ch04_038",
       "chapterId": 4,
-      "order": 37,
+      "order": 38,
       "kanji": "毎日",
       "kana": "まいにち",
       "romaji": "mainichi",
@@ -377,9 +387,9 @@
       "meaning": "setiap hari"
     },
     {
-      "id": "ch04_038",
+      "id": "ch04_039",
       "chapterId": 4,
-      "order": 38,
+      "order": 39,
       "kanji": "月曜日",
       "kana": "げつようび",
       "romaji": "getsuyoubi",
@@ -387,9 +397,9 @@
       "meaning": "hari senin"
     },
     {
-      "id": "ch04_039",
+      "id": "ch04_040",
       "chapterId": 4,
-      "order": 39,
+      "order": 40,
       "kanji": "火曜日",
       "kana": "かようび",
       "romaji": "kayoubi",
@@ -397,9 +407,9 @@
       "meaning": "hari selasa"
     },
     {
-      "id": "ch04_040",
+      "id": "ch04_041",
       "chapterId": 4,
-      "order": 40,
+      "order": 41,
       "kanji": "水曜日",
       "kana": "すいようび",
       "romaji": "suiyoubi",
@@ -407,9 +417,9 @@
       "meaning": "hari rabu"
     },
     {
-      "id": "ch04_041",
+      "id": "ch04_042",
       "chapterId": 4,
-      "order": 41,
+      "order": 42,
       "kanji": "木曜日",
       "kana": "もくようび",
       "romaji": "mokuyoubi",
@@ -417,9 +427,9 @@
       "meaning": "hari kamis"
     },
     {
-      "id": "ch04_042",
+      "id": "ch04_043",
       "chapterId": 4,
-      "order": 42,
+      "order": 43,
       "kanji": "金曜日",
       "kana": "きんようび",
       "romaji": "kinyoubi",
@@ -427,9 +437,9 @@
       "meaning": "hari jum'at"
     },
     {
-      "id": "ch04_043",
+      "id": "ch04_044",
       "chapterId": 4,
-      "order": 43,
+      "order": 44,
       "kanji": "土曜日",
       "kana": "どようび",
       "romaji": "doyoubi",
@@ -437,9 +447,9 @@
       "meaning": "hari sabtu"
     },
     {
-      "id": "ch04_044",
+      "id": "ch04_045",
       "chapterId": 4,
-      "order": 44,
+      "order": 45,
       "kanji": "日曜日",
       "kana": "にちようび",
       "romaji": "nichiyoubi",
@@ -447,9 +457,9 @@
       "meaning": "hari minggu"
     },
     {
-      "id": "ch04_045",
+      "id": "ch04_046",
       "chapterId": 4,
-      "order": 45,
+      "order": 46,
       "kanji": "何曜日",
       "kana": "なんようび",
       "romaji": "nanyoubi",
@@ -457,9 +467,9 @@
       "meaning": "hari apa?"
     },
     {
-      "id": "ch04_046",
+      "id": "ch04_047",
       "chapterId": 4,
-      "order": 46,
+      "order": 47,
       "kanji": "～から",
       "kana": "～から",
       "romaji": "~kara",
@@ -467,9 +477,9 @@
       "meaning": "dari~"
     },
     {
-      "id": "ch04_047",
+      "id": "ch04_048",
       "chapterId": 4,
-      "order": 47,
+      "order": 48,
       "kanji": "～まで",
       "kana": "～まで",
       "romaji": "~made",
@@ -477,9 +487,9 @@
       "meaning": "sampai~"
     },
     {
-      "id": "ch04_048",
+      "id": "ch04_049",
       "chapterId": 4,
-      "order": 48,
+      "order": 49,
       "kanji": "～と～",
       "kana": "～と～",
       "romaji": "~to~",
@@ -487,9 +497,9 @@
       "meaning": "~dan~ (digunakan jika menyambungkan kata benda)"
     },
     {
-      "id": "ch04_049",
+      "id": "ch04_050",
       "chapterId": 4,
-      "order": 49,
+      "order": 50,
       "kanji": "大変ですね",
       "kana": "たいへんですね",
       "romaji": "taihen desu ne",
@@ -497,9 +507,9 @@
       "meaning": "0, berat ya. (ungkapan untuk menyatakan rasa simpati)"
     },
     {
-      "id": "ch04_050",
+      "id": "ch04_051",
       "chapterId": 4,
-      "order": 50,
+      "order": 51,
       "kanji": "番号",
       "kana": "ばんごう",
       "romaji": "bangou",
@@ -507,9 +517,9 @@
       "meaning": "nomor"
     },
     {
-      "id": "ch04_051",
+      "id": "ch04_052",
       "chapterId": 4,
-      "order": 51,
+      "order": 52,
       "kanji": "何番",
       "kana": "なんばん",
       "romaji": "nanban",
@@ -517,9 +527,9 @@
       "meaning": "nomor berapa?"
     },
     {
-      "id": "ch04_052",
+      "id": "ch04_053",
       "chapterId": 4,
-      "order": 52,
+      "order": 53,
       "kanji": "ニューヨーク",
       "kana": "ニューヨーク",
       "romaji": "nyuuyooku",
@@ -527,9 +537,9 @@
       "meaning": "new york"
     },
     {
-      "id": "ch04_053",
+      "id": "ch04_054",
       "chapterId": 4,
-      "order": 53,
+      "order": 54,
       "kanji": "北京",
       "kana": "ペキン",
       "romaji": "pekin",
@@ -537,9 +547,9 @@
       "meaning": "beijing"
     },
     {
-      "id": "ch04_054",
+      "id": "ch04_055",
       "chapterId": 4,
-      "order": 54,
+      "order": 55,
       "kanji": "ロサンゼルス",
       "kana": "ロサンゼルス",
       "romaji": "rosanzerusu",
@@ -547,9 +557,9 @@
       "meaning": "los angels"
     },
     {
-      "id": "ch04_055",
+      "id": "ch04_056",
       "chapterId": 4,
-      "order": 55,
+      "order": 56,
       "kanji": "ロンドン",
       "kana": "ロンドン",
       "romaji": "rondon",
@@ -557,9 +567,9 @@
       "meaning": "london"
     },
     {
-      "id": "ch04_056",
+      "id": "ch04_057",
       "chapterId": 4,
-      "order": 56,
+      "order": 57,
       "kanji": "警察署",
       "kana": "けいさつしょ",
       "romaji": "keisatsusho",
@@ -567,9 +577,9 @@
       "meaning": "kantor polisi"
     },
     {
-      "id": "ch04_057",
+      "id": "ch04_058",
       "chapterId": 4,
-      "order": 57,
+      "order": 58,
       "kanji": "消防署",
       "kana": "しょうぼうしょ",
       "romaji": "shoubousho",
@@ -577,9 +587,9 @@
       "meaning": "pemadam kebakaran"
     },
     {
-      "id": "ch04_058",
+      "id": "ch04_059",
       "chapterId": 4,
-      "order": 58,
+      "order": 59,
       "kanji": "時報",
       "kana": "じほう",
       "romaji": "jihou",
@@ -587,9 +597,9 @@
       "meaning": "pemberitahuan waktu"
     },
     {
-      "id": "ch04_059",
+      "id": "ch04_060",
       "chapterId": 4,
-      "order": 59,
+      "order": 60,
       "kanji": "天気予報",
       "kana": "てんきよほう",
       "romaji": "tenkiyohou",
@@ -597,9 +607,9 @@
       "meaning": "ramalan cuaca"
     },
     {
-      "id": "ch04_060",
+      "id": "ch04_061",
       "chapterId": 4,
-      "order": 60,
+      "order": 61,
       "kanji": "電話番号案内",
       "kana": "でんわばんごうあんない",
       "romaji": "denwa bangou annai",

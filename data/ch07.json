@@ -6,757 +6,767 @@
     "titleId": "Apa yang Anda lakukan pada hari Minggu?"
   },
   "vocabulary": [
-    {
-      "id": "ch07_001",
-      "chapterId": 7,
-      "order": 1,
-      "kanji": "切ります",
-      "kana": "きります",
-      "romaji": "kirimasu",
-      "wordClass": "verba",
-      "meaning": "memotong, menggunting"
-    },
-    {
-      "id": "ch07_002",
-      "chapterId": 7,
-      "order": 2,
-      "kanji": "送ります",
-      "kana": "おくります",
-      "romaji": "okurimasu",
-      "wordClass": "verba",
-      "meaning": "mengirim"
-    },
-    {
-      "id": "ch07_003",
-      "chapterId": 7,
-      "order": 3,
-      "kanji": "あげます",
-      "kana": "あげます",
-      "romaji": "agemasu",
-      "wordClass": "verba",
-      "meaning": "memberikan"
-    },
-    {
-      "id": "ch07_004",
-      "chapterId": 7,
-      "order": 4,
-      "kanji": "もらいます",
-      "kana": "もらいます",
-      "romaji": "moraimasu",
-      "wordClass": "verba",
-      "meaning": "mendapatkan, menerima"
-    },
-    {
-      "id": "ch07_005",
-      "chapterId": 7,
-      "order": 5,
-      "kanji": "貸します",
-      "kana": "かします",
-      "romaji": "kashimasu",
-      "wordClass": "verba",
-      "meaning": "meminjamkan, menyewakan"
-    },
-    {
-      "id": "ch07_006",
-      "chapterId": 7,
-      "order": 6,
-      "kanji": "借ります",
-      "kana": "かります",
-      "romaji": "karimasu",
-      "wordClass": "verba",
-      "meaning": "meminam, menyewa"
-    },
-    {
-      "id": "ch07_007",
-      "chapterId": 7,
-      "order": 7,
-      "kanji": "教えます",
-      "kana": "おしえます",
-      "romaji": "oshiemasu",
-      "wordClass": "verba",
-      "meaning": "mengajar"
-    },
-    {
-      "id": "ch07_008",
-      "chapterId": 7,
-      "order": 8,
-      "kanji": "習います",
-      "kana": "ならいます",
-      "romaji": "naraimasu",
-      "wordClass": "verba",
-      "meaning": "belajar (kepada)"
-    },
-    {
-      "id": "ch07_009",
-      "chapterId": 7,
-      "order": 9,
-      "kanji": "電話をかけます",
-      "kana": "でんわをかけます",
-      "romaji": "denwa o kakemasu",
-      "wordClass": "verba",
-      "meaning": "menelepon"
-    },
-    {
-      "id": "ch07_010",
-      "chapterId": 7,
-      "order": 10,
-      "kanji": "手",
-      "kana": "て",
-      "romaji": "te",
-      "wordClass": "nomina",
-      "meaning": "tangan"
-    },
-    {
-      "id": "ch07_011",
-      "chapterId": 7,
-      "order": 11,
-      "kanji": "はし",
-      "kana": "はし",
-      "romaji": "hashi",
-      "wordClass": "nomina",
-      "meaning": "sumpit"
-    },
-    {
-      "id": "ch07_012",
-      "chapterId": 7,
-      "order": 12,
-      "kanji": "スプーン",
-      "kana": "スプーン",
-      "romaji": "supuun",
-      "wordClass": "nomina",
-      "meaning": "sendok"
-    },
-    {
-      "id": "ch07_013",
-      "chapterId": 7,
-      "order": 13,
-      "kanji": "ナイフ",
-      "kana": "ナイフ",
-      "romaji": "naifu",
-      "wordClass": "nomina",
-      "meaning": "pisau"
-    },
-    {
-      "id": "ch07_014",
-      "chapterId": 7,
-      "order": 14,
-      "kanji": "フォーク",
-      "kana": "フォーク",
-      "romaji": "fooku",
-      "wordClass": "nomina",
-      "meaning": "garpu"
-    },
-    {
-      "id": "ch07_015",
-      "chapterId": 7,
-      "order": 15,
-      "kanji": "はさみ",
-      "kana": "はさみ",
-      "romaji": "hasami",
-      "wordClass": "nomina",
-      "meaning": "gunting"
-    },
-    {
-      "id": "ch07_016",
-      "chapterId": 7,
-      "order": 16,
-      "kanji": "パソコン",
-      "kana": "パソコン",
-      "romaji": "pasokon",
-      "wordClass": "nomina",
-      "meaning": "laptop"
-    },
-    {
-      "id": "ch07_017",
-      "chapterId": 7,
-      "order": 17,
-      "kanji": "ケータイ",
-      "kana": "ケータイ",
-      "romaji": "keitai",
-      "wordClass": "nomina",
-      "meaning": "handphone"
-    },
-    {
-      "id": "ch07_018",
-      "chapterId": 7,
-      "order": 18,
-      "kanji": "メール",
-      "kana": "メール",
-      "romaji": "meeru",
-      "wordClass": "nomina",
-      "meaning": "email"
-    },
-    {
-      "id": "ch07_019",
-      "chapterId": 7,
-      "order": 19,
-      "kanji": "年賀状",
-      "kana": "ねんがじょう",
-      "romaji": "nengajou",
-      "wordClass": "nomina",
-      "meaning": "kartu tahun baru"
-    },
-    {
-      "id": "ch07_020",
-      "chapterId": 7,
-      "order": 20,
-      "kanji": "パンチ",
-      "kana": "パンチ",
-      "romaji": "panchi",
-      "wordClass": "nomina",
-      "meaning": "pelubang kertas"
-    },
-    {
-      "id": "ch07_021",
-      "chapterId": 7,
-      "order": 21,
-      "kanji": "ホッチキス",
-      "kana": "ホッチキス",
-      "romaji": "hotchikisu",
-      "wordClass": "nomina",
-      "meaning": "stapler"
-    },
-    {
-      "id": "ch07_022",
-      "chapterId": 7,
-      "order": 22,
-      "kanji": "セロテープ",
-      "kana": "セロテープ",
-      "romaji": "seroteepu",
-      "wordClass": "nomina",
-      "meaning": "selotip"
-    },
-    {
-      "id": "ch07_023",
-      "chapterId": 7,
-      "order": 23,
-      "kanji": "消しゴム",
-      "kana": "けしゴム",
-      "romaji": "keshigomu",
-      "wordClass": "nomina",
-      "meaning": "penghapus karet"
-    },
-    {
-      "id": "ch07_024",
-      "chapterId": 7,
-      "order": 24,
-      "kanji": "紙",
-      "kana": "かみ",
-      "romaji": "kami",
-      "wordClass": "nomina",
-      "meaning": "kertas"
-    },
-    {
-      "id": "ch07_025",
-      "chapterId": 7,
-      "order": 25,
-      "kanji": "花",
-      "kana": "はな",
-      "romaji": "hana",
-      "wordClass": "nomina",
-      "meaning": "bunga"
-    },
-    {
-      "id": "ch07_026",
-      "chapterId": 7,
-      "order": 26,
-      "kanji": "シャツ",
-      "kana": "シャツ",
-      "romaji": "shatsu",
-      "wordClass": "nomina",
-      "meaning": "kemeja"
-    },
-    {
-      "id": "ch07_027",
-      "chapterId": 7,
-      "order": 27,
-      "kanji": "プレゼント",
-      "kana": "プレゼント",
-      "romaji": "purezento",
-      "wordClass": "nomina",
-      "meaning": "kado, hadiah"
-    },
-    {
-      "id": "ch07_028",
-      "chapterId": 7,
-      "order": 28,
-      "kanji": "荷物",
-      "kana": "にもつ",
-      "romaji": "nimotsu",
-      "wordClass": "nomina",
-      "meaning": "barang"
-    },
-    {
-      "id": "ch07_029",
-      "chapterId": 7,
-      "order": 29,
-      "kanji": "お金",
-      "kana": "おかね",
-      "romaji": "okane",
-      "wordClass": "nomina",
-      "meaning": "uang"
-    },
-    {
-      "id": "ch07_030",
-      "chapterId": 7,
-      "order": 30,
-      "kanji": "切符",
-      "kana": "きっぷ",
-      "romaji": "kippu",
-      "wordClass": "nomina",
-      "meaning": "karcis"
-    },
-    {
-      "id": "ch07_031",
-      "chapterId": 7,
-      "order": 31,
-      "kanji": "クリスマス",
-      "kana": "クリスマス",
-      "romaji": "kurisumasu",
-      "wordClass": "nomina",
-      "meaning": "natal"
-    },
-    {
-      "id": "ch07_032",
-      "chapterId": 7,
-      "order": 32,
-      "kanji": "父",
-      "kana": "ちち",
-      "romaji": "chichi",
-      "wordClass": "nomina",
-      "meaning": "bapak, ayah"
-    },
-    {
-      "id": "ch07_033",
-      "chapterId": 7,
-      "order": 33,
-      "kanji": "母",
-      "kana": "はは",
-      "romaji": "haha",
-      "wordClass": "nomina",
-      "meaning": "ibu"
-    },
-    {
-      "id": "ch07_034",
-      "chapterId": 7,
-      "order": 34,
-      "kanji": "お父さん",
-      "kana": "おとうさん",
-      "romaji": "otousan",
-      "wordClass": "nomina",
-      "meaning": "bapak, ayah (ayah orang lain, dan digunakan untuk bapak kandung sendiri juga ketika memanggilnya)"
-    },
-    {
-      "id": "ch07_035",
-      "chapterId": 7,
-      "order": 35,
-      "kanji": "お母さん",
-      "kana": "おかあさん",
-      "romaji": "okaasan",
-      "wordClass": "nomina",
-      "meaning": "ibu (ibu orang lain, dan digunakan untuk ibu kandung sendiri juga ketika memanggilnya)"
-    },
-    {
-      "id": "ch07_036",
-      "chapterId": 7,
-      "order": 36,
-      "kanji": "もう",
-      "kana": "もう",
-      "romaji": "mou",
-      "wordClass": "adverbia",
-      "meaning": "sudah"
-    },
-    {
-      "id": "ch07_037",
-      "chapterId": 7,
-      "order": 37,
-      "kanji": "まだ",
-      "kana": "まだ",
-      "romaji": "mada",
-      "wordClass": "adverbia",
-      "meaning": "belum"
-    },
-    {
-      "id": "ch07_038",
-      "chapterId": 7,
-      "order": 38,
-      "kanji": "これから",
-      "kana": "これから",
-      "romaji": "korekara",
-      "wordClass": "adverbia",
-      "meaning": "mulai dari sekarang"
-    },
-    {
-      "id": "ch07_039",
-      "chapterId": 7,
-      "order": 39,
-      "kanji": "すてきですね",
-      "kana": "すてきですね",
-      "romaji": "suteki desu ne",
-      "wordClass": "ungkapan",
-      "meaning": "~bagus ya/~indah ya"
-    },
-    {
-      "id": "ch07_040",
-      "chapterId": 7,
-      "order": 40,
-      "kanji": "いらっしゃい",
-      "kana": "いらっしゃい",
-      "romaji": "irasshai",
-      "wordClass": "ungkapan",
-      "meaning": "selamat datang"
-    },
-    {
-      "id": "ch07_041",
-      "chapterId": 7,
-      "order": 41,
-      "kanji": "どうぞお上がりください",
-      "kana": "どうぞおあがりください",
-      "romaji": "douzo oagari kudasai",
-      "wordClass": "ungkapan",
-      "meaning": "silahkan masuk"
-    },
-    {
-      "id": "ch07_042",
-      "chapterId": 7,
-      "order": 42,
-      "kanji": "失礼します",
-      "kana": "しつれいします",
-      "romaji": "shitsurei shimasu",
-      "wordClass": "ungkapan",
-      "meaning": "shitsureishimasu"
-    },
-    {
-      "id": "ch07_043",
-      "chapterId": 7,
-      "order": 43,
-      "kanji": "いかがですか",
-      "kana": "いかがですか",
-      "romaji": "ikaga desu ka",
-      "wordClass": "ungkapan",
-      "meaning": "bagaimana? (menawarkan sesuatu)"
-    },
-    {
-      "id": "ch07_044",
-      "chapterId": 7,
-      "order": 44,
-      "kanji": "いただきます",
-      "kana": "いただきます",
-      "romaji": "itadakimasu",
-      "wordClass": "ungkapan",
-      "meaning": "selamat makan"
-    },
-    {
-      "id": "ch07_045",
-      "chapterId": 7,
-      "order": 45,
-      "kanji": "ごちそうさまでした",
-      "kana": "ごちそうさまでした",
-      "romaji": "gochisousama deshita",
-      "wordClass": "ungkapan",
-      "meaning": "terima kasih atas hidangannya"
-    },
-    {
-      "id": "ch07_046",
-      "chapterId": 7,
-      "order": 46,
-      "kanji": "スペイン",
-      "kana": "スペイン",
-      "romaji": "supein",
-      "wordClass": "nomina",
-      "meaning": "spanyol"
-    },
-    {
-      "id": "ch07_047",
-      "chapterId": 7,
-      "order": 47,
-      "kanji": "家族",
-      "kana": "かぞく",
-      "romaji": "kazoku",
-      "wordClass": "nomina",
-      "meaning": "keluarga"
-    },
-    {
-      "id": "ch07_048",
-      "chapterId": 7,
-      "order": 48,
-      "kanji": "祖母",
-      "kana": "そぼ",
-      "romaji": "sobo",
-      "wordClass": "nomina",
-      "meaning": "nenek"
-    },
-    {
-      "id": "ch07_049",
-      "chapterId": 7,
-      "order": 49,
-      "kanji": "祖父",
-      "kana": "そふ",
-      "romaji": "sofu",
-      "wordClass": "nomina",
-      "meaning": "kakek"
-    },
-    {
-      "id": "ch07_050",
-      "chapterId": 7,
-      "order": 50,
-      "kanji": "祖父母",
-      "kana": "そふぼ",
-      "romaji": "sofubo",
-      "wordClass": "nomina",
-      "meaning": "kakek nenek"
-    },
-    {
-      "id": "ch07_051",
-      "chapterId": 7,
-      "order": 51,
-      "kanji": "両親",
-      "kana": "りょうしん",
-      "romaji": "ryoushin",
-      "wordClass": "nomina",
-      "meaning": "orang tua"
-    },
-    {
-      "id": "ch07_052",
-      "chapterId": 7,
-      "order": 52,
-      "kanji": "妹",
-      "kana": "いもうと",
-      "romaji": "imouto",
-      "wordClass": "nomina",
-      "meaning": "adik perempuan"
-    },
-    {
-      "id": "ch07_053",
-      "chapterId": 7,
-      "order": 53,
-      "kanji": "弟",
-      "kana": "おとうと",
-      "romaji": "otouto",
-      "wordClass": "nomina",
-      "meaning": "adik laki-laki"
-    },
-    {
-      "id": "ch07_054",
-      "chapterId": 7,
-      "order": 54,
-      "kanji": "姉",
-      "kana": "あね",
-      "romaji": "ane",
-      "wordClass": "nomina",
-      "meaning": "kakak perempuan"
-    },
-    {
-      "id": "ch07_055",
-      "chapterId": 7,
-      "order": 55,
-      "kanji": "兄",
-      "kana": "あに",
-      "romaji": "ani",
-      "wordClass": "nomina",
-      "meaning": "kakak laki-laki"
-    },
-    {
-      "id": "ch07_056",
-      "chapterId": 7,
-      "order": 56,
-      "kanji": "兄弟",
-      "kana": "きょうだい",
-      "romaji": "kyoudai",
-      "wordClass": "nomina",
-      "meaning": "saudara kandung"
-    },
-    {
-      "id": "ch07_057",
-      "chapterId": 7,
-      "order": 57,
-      "kanji": "妻",
-      "kana": "つま",
-      "romaji": "tsuma",
-      "wordClass": "nomina",
-      "meaning": "tsuma"
-    },
-    {
-      "id": "ch07_058",
-      "chapterId": 7,
-      "order": 58,
-      "kanji": "夫",
-      "kana": "おっと",
-      "romaji": "otto",
-      "wordClass": "nomina",
-      "meaning": "suami"
-    },
-    {
-      "id": "ch07_059",
-      "chapterId": 7,
-      "order": 59,
-      "kanji": "夫婦",
-      "kana": "ふうふ",
-      "romaji": "fuufu",
-      "wordClass": "nomina",
-      "meaning": "pasangan suami istri"
-    },
-    {
-      "id": "ch07_060",
-      "chapterId": 7,
-      "order": 60,
-      "kanji": "娘",
-      "kana": "むすめ",
-      "romaji": "musume",
-      "wordClass": "nomina",
-      "meaning": "anak perempuan"
-    },
-    {
-      "id": "ch07_061",
-      "chapterId": 7,
-      "order": 61,
-      "kanji": "息子",
-      "kana": "むすこ",
-      "romaji": "musuko",
-      "wordClass": "nomina",
-      "meaning": "anak laki-laki"
-    },
-    {
-      "id": "ch07_062",
-      "chapterId": 7,
-      "order": 62,
-      "kanji": "子供",
-      "kana": "こども",
-      "romaji": "kodomo",
-      "wordClass": "nomina",
-      "meaning": "anak"
-    },
-    {
-      "id": "ch07_063",
-      "chapterId": 7,
-      "order": 63,
-      "kanji": "おばあさん",
-      "kana": "おばあさん",
-      "romaji": "obaasan",
-      "wordClass": "nomina",
-      "meaning": "nenek (orang lain)"
-    },
-    {
-      "id": "ch07_064",
-      "chapterId": 7,
-      "order": 64,
-      "kanji": "おじいさん",
-      "kana": "おじいさん",
-      "romaji": "ojiisan",
-      "wordClass": "nomina",
-      "meaning": "kakek (orang lain)"
-    },
-    {
-      "id": "ch07_065",
-      "chapterId": 7,
-      "order": 65,
-      "kanji": "ご両親",
-      "kana": "ごりょうしん",
-      "romaji": "goryoushin",
-      "wordClass": "nomina",
-      "meaning": "orang tua (orang lain)"
-    },
-    {
-      "id": "ch07_066",
-      "chapterId": 7,
-      "order": 66,
-      "kanji": "妹さん",
-      "kana": "いもうとさん",
-      "romaji": "imoutosan",
-      "wordClass": "nomina",
-      "meaning": "adik perempuan (orang lain)"
-    },
-    {
-      "id": "ch07_067",
-      "chapterId": 7,
-      "order": 67,
-      "kanji": "弟さん",
-      "kana": "おとうとさん",
-      "romaji": "otoutosan",
-      "wordClass": "nomina",
-      "meaning": "adik laki-laki (orang lain)"
-    },
-    {
-      "id": "ch07_068",
-      "chapterId": 7,
-      "order": 68,
-      "kanji": "お姉さん",
-      "kana": "おねえさん",
-      "romaji": "oneesan",
-      "wordClass": "nomina",
-      "meaning": "kakak perempuan (orang lain)"
-    },
-    {
-      "id": "ch07_069",
-      "chapterId": 7,
-      "order": 69,
-      "kanji": "お兄さん",
-      "kana": "おにいさん",
-      "romaji": "oniisan",
-      "wordClass": "nomina",
-      "meaning": "kakak laki-laki (orang lain)"
-    },
-    {
-      "id": "ch07_070",
-      "chapterId": 7,
-      "order": 70,
-      "kanji": "ご兄弟",
-      "kana": "ごきょうだい",
-      "romaji": "gokyoudai",
-      "wordClass": "nomina",
-      "meaning": "saudara kandung (orang lain)"
-    },
-    {
-      "id": "ch07_071",
-      "chapterId": 7,
-      "order": 71,
-      "kanji": "奥さん",
-      "kana": "おくさん",
-      "romaji": "okusan",
-      "wordClass": "nomina",
-      "meaning": "istri (orang lain)"
-    },
-    {
-      "id": "ch07_072",
-      "chapterId": 7,
-      "order": 72,
-      "kanji": "ご夫婦",
-      "kana": "ごふうふ",
-      "romaji": "gofuufu",
-      "wordClass": "nomina",
-      "meaning": "pasangan suami istri (orang lain)"
-    },
-    {
-      "id": "ch07_073",
-      "chapterId": 7,
-      "order": 73,
-      "kanji": "娘さん",
-      "kana": "むすめさん",
-      "romaji": "musumesan",
-      "wordClass": "nomina",
-      "meaning": "anak perempuan (orang lain)"
-    },
-    {
-      "id": "ch07_074",
-      "chapterId": 7,
-      "order": 74,
-      "kanji": "息子さん",
-      "kana": "むすこさん",
-      "romaji": "musukosan",
-      "wordClass": "nomina",
-      "meaning": "anak laki-laki (orang lain)"
-    },
-    {
-      "id": "ch07_075",
-      "chapterId": 7,
-      "order": 75,
-      "kanji": "お子さん",
-      "kana": "おこさん",
-      "romaji": "okosan",
-      "wordClass": "nomina",
-      "meaning": "anak (orang lain)"
-    }
-  ],
+  {
+    "id": "ch07_001",
+    "chapterId": 7,
+    "order": 1,
+    "kanji": "切ります",
+    "kana": "きります",
+    "romaji": "kirimasu",
+    "wordClass": "verba",
+    "meaning": "memotong, menggunting"
+  },
+  {
+    "id": "ch07_002",
+    "chapterId": 7,
+    "order": 2,
+    "kanji": "送ります",
+    "kana": "おくります",
+    "romaji": "okurimasu",
+    "wordClass": "verba",
+    "meaning": "mengirim"
+  },
+  {
+    "id": "ch07_003",
+    "chapterId": 7,
+    "order": 3,
+    "kanji": "あげます",
+    "kana": "あげます",
+    "romaji": "agemasu",
+    "wordClass": "verba",
+    "meaning": "memberikan"
+  },
+  {
+    "id": "ch07_004",
+    "chapterId": 7,
+    "order": 4,
+    "kanji": "もらいます",
+    "kana": "もらいます",
+    "romaji": "moraimasu",
+    "wordClass": "verba",
+    "meaning": "mendapatkan, menerima"
+  },
+  {
+    "id": "ch07_005",
+    "chapterId": 7,
+    "order": 5,
+    "kanji": "貸します",
+    "kana": "かします",
+    "romaji": "kashimasu",
+    "wordClass": "verba",
+    "meaning": "meminjamkan, menyewakan"
+  },
+  {
+    "id": "ch07_006",
+    "chapterId": 7,
+    "order": 6,
+    "kanji": "借ります",
+    "kana": "かります",
+    "romaji": "karimasu",
+    "wordClass": "verba",
+    "meaning": "meminjam, menyewa"
+  },
+  {
+    "id": "ch07_007",
+    "chapterId": 7,
+    "order": 7,
+    "kanji": "教えます",
+    "kana": "おしえます",
+    "romaji": "oshiemasu",
+    "wordClass": "verba",
+    "meaning": "mengajar"
+  },
+  {
+    "id": "ch07_008",
+    "chapterId": 7,
+    "order": 8,
+    "kanji": "習います",
+    "kana": "ならいます",
+    "romaji": "naraimasu",
+    "wordClass": "verba",
+    "meaning": "belajar (kepada)"
+  },
+  {
+    "id": "ch07_009",
+    "chapterId": 7,
+    "order": 9,
+    "kanji": "電話をかけます",
+    "kana": "でんわをかけます",
+    "romaji": "denwa o kakemasu",
+    "wordClass": "verba",
+    "meaning": "menelepon"
+  },
+  {
+    "id": "ch07_010",
+    "chapterId": 7,
+    "order": 10,
+    "kanji": "手",
+    "kana": "て",
+    "romaji": "te",
+    "wordClass": "nomina",
+    "meaning": "tangan"
+  },
+  {
+    "id": "ch07_011",
+    "chapterId": 7,
+    "order": 11,
+    "kanji": "はし",
+    "kana": "はし",
+    "romaji": "hashi",
+    "wordClass": "nomina",
+    "meaning": "sumpit"
+  },
+  {
+    "id": "ch07_012",
+    "chapterId": 7,
+    "order": 12,
+    "kanji": "スプーン",
+    "kana": "スプーン",
+    "romaji": "supuun",
+    "wordClass": "nomina",
+    "meaning": "sendok"
+  },
+  {
+    "id": "ch07_013",
+    "chapterId": 7,
+    "order": 13,
+    "kanji": "ナイフ",
+    "kana": "ナイフ",
+    "romaji": "naifu",
+    "wordClass": "nomina",
+    "meaning": "pisau"
+  },
+  {
+    "id": "ch07_014",
+    "chapterId": 7,
+    "order": 14,
+    "kanji": "フォーク",
+    "kana": "フォーク",
+    "romaji": "fuooku / foku",
+    "wordClass": "nomina",
+    "meaning": "garpu"
+  },
+  {
+    "id": "ch07_015",
+    "chapterId": 7,
+    "order": 15,
+    "kanji": "はさみ",
+    "kana": "はさみ",
+    "romaji": "hasami",
+    "wordClass": "nomina",
+    "meaning": "gunting"
+  },
+  {
+    "id": "ch07_016",
+    "chapterId": 7,
+    "order": 16,
+    "kanji": "パソコン",
+    "kana": "パソコン",
+    "romaji": "pasokon",
+    "wordClass": "nomina",
+    "meaning": "laptop"
+  },
+  {
+    "id": "ch07_017",
+    "chapterId": 7,
+    "order": 17,
+    "kanji": "ケータイ",
+    "kana": "ケータイ",
+    "romaji": "keitai",
+    "wordClass": "nomina",
+    "meaning": "handphone"
+  },
+  {
+    "id": "ch07_018",
+    "chapterId": 7,
+    "order": 18,
+    "kanji": "メール",
+    "kana": "メール",
+    "romaji": "meeru",
+    "wordClass": "nomina",
+    "meaning": "email"
+  },
+  {
+    "id": "ch07_019",
+    "chapterId": 7,
+    "order": 19,
+    "kanji": "年賀状",
+    "kana": "ねんがじょう",
+    "romaji": "nengajou",
+    "wordClass": "nomina",
+    "meaning": "kartu tahun baru"
+  },
+  {
+    "id": "ch07_020",
+    "chapterId": 7,
+    "order": 20,
+    "kanji": "パンチ",
+    "kana": "パンチ",
+    "romaji": "panchi",
+    "wordClass": "nomina",
+    "meaning": "pelubang kertas"
+  },
+  {
+    "id": "ch07_021",
+    "chapterId": 7,
+    "order": 21,
+    "kanji": "ホッチキス",
+    "kana": "ホッチキス",
+    "romaji": "hotchikisu",
+    "wordClass": "nomina",
+    "meaning": "stapler"
+  },
+  {
+    "id": "ch07_022",
+    "chapterId": 7,
+    "order": 22,
+    "kanji": "セロテープ",
+    "kana": "セロテープ",
+    "romaji": "seroteepu",
+    "wordClass": "nomina",
+    "meaning": "selotip"
+  },
+  {
+    "id": "ch07_023",
+    "chapterId": 7,
+    "order": 23,
+    "kanji": "消しゴム",
+    "kana": "けしゴム",
+    "romaji": "keshigomu",
+    "wordClass": "nomina",
+    "meaning": "penghapus karet"
+  },
+  {
+    "id": "ch07_024",
+    "chapterId": 7,
+    "order": 24,
+    "kanji": "紙",
+    "kana": "かみ",
+    "romaji": "kami",
+    "wordClass": "nomina",
+    "meaning": "kertas"
+  },
+  {
+    "id": "ch07_025",
+    "chapterId": 7,
+    "order": 25,
+    "kanji": "花",
+    "kana": "はな",
+    "romaji": "hana",
+    "wordClass": "nomina",
+    "meaning": "bunga"
+  },
+  {
+    "id": "ch07_026",
+    "chapterId": 7,
+    "order": 26,
+    "kanji": "シャツ",
+    "kana": "シャツ",
+    "romaji": "shatsu",
+    "wordClass": "nomina",
+    "meaning": "kemeja"
+  },
+  {
+    "id": "ch07_027",
+    "chapterId": 7,
+    "order": 27,
+    "kanji": "プレゼント",
+    "kana": "プレゼント",
+    "romaji": "purezento",
+    "wordClass": "nomina",
+    "meaning": "kado, hadiah"
+  },
+  {
+    "id": "ch07_028",
+    "chapterId": 7,
+    "order": 28,
+    "kanji": "荷物",
+    "kana": "にもつ",
+    "romaji": "nimotsu",
+    "wordClass": "nomina",
+    "meaning": "barang"
+  },
+  {
+    "id": "ch07_029",
+    "chapterId": 7,
+    "order": 29,
+    "kanji": "お金",
+    "kana": "おかね",
+    "romaji": "okane",
+    "wordClass": "nomina",
+    "meaning": "uang"
+  },
+  {
+    "id": "ch07_030",
+    "chapterId": 7,
+    "order": 30,
+    "kanji": "切符",
+    "kana": "きっぷ",
+    "romaji": "kippu",
+    "wordClass": "nomina",
+    "meaning": "karcis"
+  },
+  {
+    "id": "ch07_031",
+    "chapterId": 7,
+    "order": 31,
+    "kanji": "クリスマス",
+    "kana": "クリスマス",
+    "romaji": "kurisumasu",
+    "wordClass": "nomina",
+    "meaning": "natal"
+  },
+  {
+    "id": "ch07_032",
+    "chapterId": 7,
+    "order": 32,
+    "kanji": "父",
+    "kana": "ちち",
+    "romaji": "chichi",
+    "wordClass": "nomina",
+    "meaning": "bapak, ayah"
+  },
+  {
+    "id": "ch07_033",
+    "chapterId": 7,
+    "order": 33,
+    "kanji": "母",
+    "kana": "はは",
+    "romaji": "haha",
+    "wordClass": "nomina",
+    "meaning": "ibu"
+  },
+  {
+    "id": "ch07_034",
+    "chapterId": 7,
+    "order": 34,
+    "kanji": "お父さん",
+    "kana": "おとうさん",
+    "romaji": "otousan",
+    "wordClass": "nomina",
+    "meaning": "bapak, ayah (ayah orang lain, dan digunakan untuk bapak kandung sendiri juga ketika memanggilnya)"
+  },
+  {
+    "id": "ch07_035",
+    "chapterId": 7,
+    "order": 35,
+    "kanji": "お母さん",
+    "kana": "おかあさん",
+    "romaji": "okaasan",
+    "wordClass": "nomina",
+    "meaning": "ibu (ibu orang lain, dan digunakan untuk ibu kandung sendiri juga ketika memanggilnya)"
+  },
+  {
+    "id": "ch07_036",
+    "chapterId": 7,
+    "order": 36,
+    "kanji": "もう",
+    "kana": "もう",
+    "romaji": "mou",
+    "wordClass": "adverbia",
+    "meaning": "sudah"
+  },
+  {
+    "id": "ch07_037",
+    "chapterId": 7,
+    "order": 37,
+    "kanji": "まだ",
+    "kana": "まだ",
+    "romaji": "mada",
+    "wordClass": "adverbia",
+    "meaning": "belum"
+  },
+  {
+    "id": "ch07_038",
+    "chapterId": 7,
+    "order": 38,
+    "kanji": "これから",
+    "kana": "これから",
+    "romaji": "korekara",
+    "wordClass": "adverbia",
+    "meaning": "mulai dari sekarang"
+  },
+  {
+    "id": "ch07_039",
+    "chapterId": 7,
+    "order": 39,
+    "kanji": "すてきですね",
+    "kana": "すてきですね",
+    "romaji": "suteki desu ne",
+    "wordClass": "ungkapan",
+    "meaning": "~bagus ya/~indah ya"
+  },
+  {
+    "id": "ch07_040",
+    "chapterId": 7,
+    "order": 40,
+    "kanji": "いらっしゃい",
+    "kana": "いらっしゃい",
+    "romaji": "irasshai",
+    "wordClass": "ungkapan",
+    "meaning": "selamat datang"
+  },
+  {
+    "id": "ch07_041",
+    "chapterId": 7,
+    "order": 41,
+    "kanji": "どうぞお上がりください",
+    "kana": "どうぞおあがりください",
+    "romaji": "douzo oagari kudasai",
+    "wordClass": "ungkapan",
+    "meaning": "silahkan masuk"
+  },
+  {
+    "id": "ch07_042",
+    "chapterId": 7,
+    "order": 42,
+    "kanji": "失礼します",
+    "kana": "しつれいします",
+    "romaji": "shitsurei shimasu",
+    "wordClass": "ungkapan",
+    "meaning": "permisi"
+  },
+  {
+    "id": "ch07_043",
+    "chapterId": 7,
+    "order": 43,
+    "kanji": "[~は] いかがですか",
+    "kana": "いかがですか",
+    "romaji": "[~wa] ikaga desu ka",
+    "wordClass": "ungkapan",
+    "meaning": "bagaimana [~] ? (digunakan saat menawarkan sesuatu kepada orang lain)"
+  },
+  {
+    "id": "ch07_044",
+    "chapterId": 7,
+    "order": 44,
+    "kanji": "いただきます",
+    "kana": "いただきます",
+    "romaji": "itadakimasu",
+    "wordClass": "ungkapan",
+    "meaning": "selamat makan (diucapkan sebelum minum dan makan makanan)"
+  },
+  {
+    "id": "ch07_045",
+    "chapterId": 7,
+    "order": 45,
+    "kanji": "ごちそうさまでした",
+    "kana": "ごちそうさまでした",
+    "romaji": "gochisousama deshita",
+    "wordClass": "ungkapan",
+    "meaning": "terima kasih atas hidangannya (diucapkan setelah minum dan makan makanan"
+  },
+  {
+    "id": "ch07_046",
+    "chapterId": 7,
+    "order": 46,
+    "kanji": "スペイン",
+    "kana": "スペイン",
+    "romaji": "supein",
+    "wordClass": "nomina",
+    "meaning": "spanyol"
+  },
+  {
+    "id": "ch07_047",
+    "chapterId": 7,
+    "order": 47,
+    "kanji": "家族",
+    "kana": "かぞく",
+    "romaji": "kazoku",
+    "wordClass": "nomina",
+    "meaning": "keluarga"
+  },
+  {
+    "id": "ch07_048",
+    "chapterId": 7,
+    "order": 48,
+    "kanji": "祖母",
+    "kana": "そぼ",
+    "romaji": "sobo",
+    "wordClass": "nomina",
+    "meaning": "nenek"
+  },
+  {
+    "id": "ch07_049",
+    "chapterId": 7,
+    "order": 49,
+    "kanji": "祖父",
+    "kana": "そふ",
+    "romaji": "sofu",
+    "wordClass": "nomina",
+    "meaning": "kakek"
+  },
+  {
+    "id": "ch07_050",
+    "chapterId": 7,
+    "order": 50,
+    "kanji": "祖父母",
+    "kana": "そふぼ",
+    "romaji": "sofubo",
+    "wordClass": "nomina",
+    "meaning": "kakek nenek"
+  },
+  {
+    "id": "ch07_051",
+    "chapterId": 7,
+    "order": 51,
+    "kanji": "両親",
+    "kana": "りょうしん",
+    "romaji": "ryoushin",
+    "wordClass": "nomina",
+    "meaning": "orang tua"
+  },
+  {
+    "id": "ch07_052",
+    "chapterId": 7,
+    "order": 52,
+    "kanji": "妹",
+    "kana": "いもうと",
+    "romaji": "imouto",
+    "wordClass": "nomina",
+    "meaning": "adik perempuan"
+  },
+  {
+    "id": "ch07_053",
+    "chapterId": 7,
+    "order": 53,
+    "kanji": "弟",
+    "kana": "おとうと",
+    "romaji": "otouto",
+    "wordClass": "nomina",
+    "meaning": "adik laki-laki"
+  },
+  {
+    "id": "ch07_054",
+    "chapterId": 7,
+    "order": 54,
+    "kanji": "姉",
+    "kana": "あね",
+    "romaji": "ane",
+    "wordClass": "nomina",
+    "meaning": "kakak perempuan"
+  },
+  {
+    "id": "ch07_055",
+    "chapterId": 7,
+    "order": 55,
+    "kanji": "兄",
+    "kana": "あに",
+    "romaji": "ani",
+    "wordClass": "nomina",
+    "meaning": "kakak laki-laki"
+  },
+  {
+    "id": "ch07_056",
+    "chapterId": 7,
+    "order": 56,
+    "kanji": "兄弟",
+    "kana": "きょうだい",
+    "romaji": "kyoudai",
+    "wordClass": "nomina",
+    "meaning": "saudara kandung"
+  },
+  {
+    "id": "ch07_057",
+    "chapterId": 7,
+    "order": 57,
+    "kanji": "妻",
+    "kana": "つま",
+    "romaji": "tsuma",
+    "wordClass": "nomina",
+    "meaning": "istri"
+  },
+  {
+    "id": "ch07_058",
+    "chapterId": 7,
+    "order": 58,
+    "kanji": "夫",
+    "kana": "おっと",
+    "romaji": "otto",
+    "wordClass": "nomina",
+    "meaning": "suami"
+  },
+  {
+    "id": "ch07_059",
+    "chapterId": 7,
+    "order": 59,
+    "kanji": "夫婦",
+    "kana": "ふうふ",
+    "romaji": "fuufu",
+    "wordClass": "nomina",
+    "meaning": "pasangan suami istri"
+  },
+  {
+    "id": "ch07_060",
+    "chapterId": 7,
+    "order": 60,
+    "kanji": "娘",
+    "kana": "むすめ",
+    "romaji": "musume",
+    "wordClass": "nomina",
+    "meaning": "anak perempuan"
+  },
+  {
+    "id": "ch07_061",
+    "chapterId": 7,
+    "order": 61,
+    "kanji": "息子",
+    "kana": "むすこ",
+    "romaji": "musuko",
+    "wordClass": "nomina",
+    "meaning": "anak laki-laki"
+  },
+  {
+    "id": "ch07_062",
+    "chapterId": 7,
+    "order": 62,
+    "kanji": "子供",
+    "kana": "こども",
+    "romaji": "kodomo",
+    "wordClass": "nomina",
+    "meaning": "anak"
+  },
+  {
+    "id": "ch07_063",
+    "chapterId": 7,
+    "order": 63,
+    "kanji": "おばあさん",
+    "kana": "おばあさん",
+    "romaji": "obaasan",
+    "wordClass": "nomina",
+    "meaning": "nenek (orang lain)"
+  },
+  {
+    "id": "ch07_064",
+    "chapterId": 7,
+    "order": 64,
+    "kanji": "おじいさん",
+    "kana": "おじいさん",
+    "romaji": "ojiisan",
+    "wordClass": "nomina",
+    "meaning": "kakek (orang lain)"
+  },
+  {
+    "id": "ch07_065",
+    "chapterId": 7,
+    "order": 65,
+    "kanji": "ご両親",
+    "kana": "ごりょうしん",
+    "romaji": "goryoushin",
+    "wordClass": "nomina",
+    "meaning": "orang tua (orang lain)"
+  },
+  {
+    "id": "ch07_066",
+    "chapterId": 7,
+    "order": 66,
+    "kanji": "妹さん",
+    "kana": "いもうとさん",
+    "romaji": "imoutosan",
+    "wordClass": "nomina",
+    "meaning": "adik perempuan (orang lain)"
+  },
+  {
+    "id": "ch07_067",
+    "chapterId": 7,
+    "order": 67,
+    "kanji": "弟さん",
+    "kana": "おとうとさん",
+    "romaji": "otoutosan",
+    "wordClass": "nomina",
+    "meaning": "adik laki-laki (orang lain)"
+  },
+  {
+    "id": "ch07_068",
+    "chapterId": 7,
+    "order": 68,
+    "kanji": "お姉さん",
+    "kana": "おねえさん",
+    "romaji": "oneesan",
+    "wordClass": "nomina",
+    "meaning": "kakak perempuan (orang lain)"
+  },
+  {
+    "id": "ch07_069",
+    "chapterId": 7,
+    "order": 69,
+    "kanji": "お兄さん",
+    "kana": "おにいさん",
+    "romaji": "oniisan",
+    "wordClass": "nomina",
+    "meaning": "kakak laki-laki (orang lain)"
+  },
+  {
+    "id": "ch07_070",
+    "chapterId": 7,
+    "order": 70,
+    "kanji": "ご兄弟",
+    "kana": "ごきょうだい",
+    "romaji": "gokyoudai",
+    "wordClass": "nomina",
+    "meaning": "saudara kandung (orang lain)"
+  },
+  {
+    "id": "ch07_071",
+    "chapterId": 7,
+    "order": 71,
+    "kanji": "ご主人",
+    "kana": "ごしゅじん",
+    "romaji": "goshujin",
+    "wordClass": "nomina",
+    "meaning": "suami (orang lain)"
+  },
+  {
+    "id": "ch07_072",
+    "chapterId": 7,
+    "order": 72,
+    "kanji": "奥さん",
+    "kana": "おくさん",
+    "romaji": "okusan",
+    "wordClass": "nomina",
+    "meaning": "istri (orang lain)"
+  },
+  {
+    "id": "ch07_073",
+    "chapterId": 7,
+    "order": 73,
+    "kanji": "ご夫婦",
+    "kana": "ごふうふ",
+    "romaji": "gofuufu",
+    "wordClass": "nomina",
+    "meaning": "pasangan suami istri (orang lain)"
+  },
+  {
+    "id": "ch07_074",
+    "chapterId": 7,
+    "order": 74,
+    "kanji": "娘さん",
+    "kana": "むすめさん",
+    "romaji": "musumesan",
+    "wordClass": "nomina",
+    "meaning": "anak perempuan (orang lain)"
+  },
+  {
+    "id": "ch07_075",
+    "chapterId": 7,
+    "order": 75,
+    "kanji": "息子さん",
+    "kana": "むすこさん",
+    "romaji": "musukosan",
+    "wordClass": "nomina",
+    "meaning": "anak laki-laki (orang lain)"
+  },
+  {
+    "id": "ch07_076",
+    "chapterId": 7,
+    "order": 76,
+    "kanji": "お子さん",
+    "kana": "おこさん",
+    "romaji": "okosan",
+    "wordClass": "nomina",
+    "meaning": "anak (orang lain)"
+  }
+],
   "conversations": [
     {
       "id": "ch07_conv01",
@@ -766,21 +776,21 @@
       "turns": [
         {
           "speaker": "やまだ",
-          "japanese": "ミラーさんは 日曜日に なにを しますか。",
+          "japanese": "ミラーさんは にちようびに なにを しますか。",
           "romaji": "Miraa-san wa nichiyoubi ni nani o shimasu ka.",
           "indonesian": "Tuan Miller, hari Minggu melakukan apa?",
           "hiragana": "ミラーさんは にちようびに なにを しますか。"
         },
         {
           "speaker": "ミラー",
-          "japanese": "友達と テニスを します。やまださんは？",
+          "japanese": "ともだちと テニスを します。やまださんは？",
           "romaji": "Tomodachi to tenisu o shimasu. Yamada-san wa?",
           "indonesian": "Saya bermain tenis bersama teman. Yamada?",
           "hiragana": "ともだちと テニスを します。やまださんは？"
         },
         {
           "speaker": "やまだ",
-          "japanese": "私は うちで 音楽を 木来ます。と木ど木 映画も 見ます。",
+          "japanese": "わたしは うちで おんがくを ききます。ときどき えいがも みます。",
           "romaji": "Watashi wa uchi de ongaku o kikimasu. Tokidoki eiga mo mimasu.",
           "indonesian": "Saya mendengarkan musik di rumah. Kadang-kadang juga menonton film.",
           "hiragana": "わたしは うちで おんがくを ききます。ときどき えいがも みます。"
@@ -802,7 +812,7 @@
         },
         {
           "speaker": "ミラー",
-          "japanese": "ありがとうございます。何ですか。",
+          "japanese": "ありがとうございます。なんですか。",
           "romaji": "Arigatou gozaimasu. Nan desu ka.",
           "indonesian": "Terima kasih. Apa ini?",
           "hiragana": "ありがとうございます。なんですか。"
@@ -874,7 +884,7 @@
         },
         {
           "speaker": "カリナ",
-          "japanese": "そうですか。私も 習いたいです。",
+          "japanese": "そうですか。わたしも 習いたいです。",
           "hiragana": "そうですか。わたしも ならいたいです。",
           "romaji": "Sou desu ka. Watashi mo naraitai desu.",
           "indonesian": "Oh begitu. Saya juga ingin belajar."
@@ -903,7 +913,7 @@
         },
         {
           "speaker": "ミラー",
-          "japanese": "いいえ、と木ど木 送ります。",
+          "japanese": "いいえ、ときどき 送ります。",
           "hiragana": "いいえ、ときどき おくります。",
           "romaji": "Iie, tokidoki okurimasu.",
           "indonesian": "Tidak, kadang-kadang mengirim."
@@ -918,14 +928,14 @@
       "turns": [
         {
           "speaker": "やまだ",
-          "japanese": "木れいな 花ですね。",
+          "japanese": "きれいな 花ですね。",
           "hiragana": "きれいな はなですね。",
           "romaji": "Kirei na hana desu ne.",
           "indonesian": "Bunga yang cantik ya."
         },
         {
           "speaker": "カリナ",
-          "japanese": "ありがとうございます。友達に もらいま下。",
+          "japanese": "ありがとうございます。友達に もらいました。",
           "hiragana": "ありがとうございます。ともだちに もらいました。",
           "romaji": "Arigatou gozaimasu. Tomodachi ni moraimashita.",
           "indonesian": "Terima kasih. Saya mendapat dari teman."
@@ -947,7 +957,7 @@
       "turns": [
         {
           "speaker": "ミラー",
-          "japanese": "昨日 家族に 電話を かけま下。",
+          "japanese": "昨日 家族に 電話を かけました。",
           "hiragana": "きのう かぞくに でんわを かけました。",
           "romaji": "Kinou kazoku ni denwa o kakemashita.",
           "indonesian": "Kemarin saya menelepon keluarga."
@@ -976,14 +986,14 @@
       "turns": [
         {
           "speaker": "やまだ",
-          "japanese": "誕生日に 何を もらいま下か。",
+          "japanese": "誕生日に 何を もらいましたか。",
           "hiragana": "たんじょうびに なにを もらいましたか。",
           "romaji": "Tanjoubi ni nani o moraimashita ka.",
           "indonesian": "Apa yang Anda dapat di ulang tahun?"
         },
         {
           "speaker": "ミラー",
-          "japanese": "妻に シャツを もらいま下。",
+          "japanese": "妻に シャツを もらいました。",
           "hiragana": "つまに シャツを もらいました。",
           "romaji": "Tsuma ni shatsu o moraimashita.",
           "indonesian": "Saya mendapat kemeja dari istri."
@@ -1034,21 +1044,21 @@
       "turns": [
         {
           "speaker": "ミラー",
-          "japanese": "もう 年賀状を 送りま下か。",
+          "japanese": "もう 年賀状を 送りましたか。",
           "hiragana": "もう ねんがじょうを おくりましたか。",
           "romaji": "Mou nengajou o okurimashita ka.",
           "indonesian": "Sudah mengirim kartu tahun baru?"
         },
         {
           "speaker": "やまだ",
-          "japanese": "いいえ、まだです。これから 書来ます。",
+          "japanese": "いいえ、まだです。これから 書きます。",
           "hiragana": "いいえ、まだです。これから かきます。",
           "romaji": "Iie, mada desu. Korekara kakimasu.",
           "indonesian": "Belum. Mulai sekarang akan menulis."
         },
         {
           "speaker": "ミラー",
-          "japanese": "私も これから 書来ます。",
+          "japanese": "わたしも これから 書きます。",
           "hiragana": "わたしも これから かきます。",
           "romaji": "Watashi mo korekara kakimasu.",
           "indonesian": "Saya juga mulai sekarang akan menulis."

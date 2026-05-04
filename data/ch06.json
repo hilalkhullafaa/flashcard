@@ -134,7 +134,7 @@
       "kana": "あさごはん",
       "romaji": "asagohan",
       "wordClass": "nomina",
-      "meaning": "sarapan"
+      "meaning": "sarapan, makan pagi"
     },
     {
       "id": "ch06_014",
@@ -410,7 +410,7 @@
       "id": "ch06_041",
       "chapterId": 6,
       "order": 41,
-      "kanji": "一緒に",
+      "kanji": "いっしょに",
       "kana": "いっしょに",
       "romaji": "issho ni",
       "wordClass": "adverbia",
@@ -474,7 +474,7 @@
       "kana": "いいですね",
       "romaji": "ii desu ne",
       "wordClass": "ungkapan",
-      "meaning": "bagus ya/baik ya"
+      "meaning": "bagus ya / baik ya"
     },
     {
       "id": "ch06_048",
@@ -484,7 +484,7 @@
       "kana": "わかりました",
       "romaji": "wakarimashita",
       "wordClass": "ungkapan",
-      "meaning": "mengerti/baik"
+      "meaning": "saya sudah mengerti / baik mengerti"
     },
     {
       "id": "ch06_049",
@@ -494,7 +494,7 @@
       "kana": "じゃ、また",
       "romaji": "ja, mata",
       "wordClass": "ungkapan",
-      "meaning": "ok, sampai jumpa besok"
+      "meaning": "ok, sampai jumpa [besok]"
     },
     {
       "id": "ch06_050",
@@ -506,10 +506,20 @@
       "wordClass": "nomina",
       "meaning": "meksiko"
     },
-    {
+      {
       "id": "ch06_051",
       "chapterId": 6,
       "order": 51,
+      "kanji": "食べ物",
+      "kana": "たべもの",
+      "romaji": "tabemono",
+      "wordClass": "nomina",
+      "meaning": "makanan"
+    },
+    {
+      "id": "ch06_052",
+      "chapterId": 6,
+      "order": 52,
       "kanji": "米",
       "kana": "こめ",
       "romaji": "kome",
@@ -517,19 +527,19 @@
       "meaning": "beras"
     },
     {
-      "id": "ch06_052",
+      "id": "ch06_053",
       "chapterId": 6,
-      "order": 52,
+      "order": 53,
       "kanji": "きゅうり",
       "kana": "きゅうり",
       "romaji": "kyuuri",
       "wordClass": "nomina",
-      "meaning": "timun"
+      "meaning": "ketimun"
     },
     {
-      "id": "ch06_053",
+      "id": "ch06_054",
       "chapterId": 6,
-      "order": 53,
+      "order": 54,
       "kanji": "トマト",
       "kana": "トマト",
       "romaji": "tomato",
@@ -537,9 +547,9 @@
       "meaning": "tomat"
     },
     {
-      "id": "ch06_054",
+      "id": "ch06_055",
       "chapterId": 6,
-      "order": 54,
+      "order": 55,
       "kanji": "なす",
       "kana": "なす",
       "romaji": "nasu",
@@ -547,19 +557,19 @@
       "meaning": "terong"
     },
     {
-      "id": "ch06_055",
+      "id": "ch06_056",
       "chapterId": 6,
-      "order": 55,
-      "kanji": "豆",
+      "order": 56,
+      "kanji": "まめ",
       "kana": "まめ",
       "romaji": "mame",
       "wordClass": "nomina",
       "meaning": "kacang-kacangan"
     },
     {
-      "id": "ch06_056",
+      "id": "ch06_057",
       "chapterId": 6,
-      "order": 56,
+      "order": 57,
       "kanji": "キャベツ",
       "kana": "キャベツ",
       "romaji": "kyabetsu",
@@ -567,9 +577,9 @@
       "meaning": "kol"
     },
     {
-      "id": "ch06_057",
+      "id": "ch06_058",
       "chapterId": 6,
-      "order": 57,
+      "order": 58,
       "kanji": "ねぎ",
       "kana": "ねぎ",
       "romaji": "negi",
@@ -577,19 +587,19 @@
       "meaning": "daun bawang"
     },
     {
-      "id": "ch06_058",
+      "id": "ch06_059",
       "chapterId": 6,
-      "order": 58,
-      "kanji": "白菜",
+      "order": 59,
+      "kanji": "はくさい",
       "kana": "はくさい",
       "romaji": "hakusai",
       "wordClass": "nomina",
       "meaning": "sawi"
     },
     {
-      "id": "ch06_059",
+      "id": "ch06_060",
       "chapterId": 6,
-      "order": 59,
+      "order": 60,
       "kanji": "ほうれん草",
       "kana": "ほうれんそう",
       "romaji": "hourensou",
@@ -597,9 +607,9 @@
       "meaning": "bayam"
     },
     {
-      "id": "ch06_060",
+      "id": "ch06_061",
       "chapterId": 6,
-      "order": 60,
+      "order": 61,
       "kanji": "じゃがいも",
       "kana": "じゃがいも",
       "romaji": "jagaimo",
@@ -607,19 +617,19 @@
       "meaning": "kentang"
     },
     {
-      "id": "ch06_061",
+      "id": "ch06_062",
       "chapterId": 6,
-      "order": 61,
-      "kanji": "大根",
+      "order": 62,
+      "kanji": "だいこん",
       "kana": "だいこん",
       "romaji": "daikon",
       "wordClass": "nomina",
       "meaning": "lobak"
     },
     {
-      "id": "ch06_062",
+      "id": "ch06_063",
       "chapterId": 6,
-      "order": 62,
+      "order": 63,
       "kanji": "たまねぎ",
       "kana": "たまねぎ",
       "romaji": "tamanegi",
@@ -627,9 +637,9 @@
       "meaning": "bawang"
     },
     {
-      "id": "ch06_063",
+      "id": "ch06_064",
       "chapterId": 6,
-      "order": 63,
+      "order": 64,
       "kanji": "にんじん",
       "kana": "にんじん",
       "romaji": "ninjin",
@@ -637,9 +647,9 @@
       "meaning": "wortel"
     },
     {
-      "id": "ch06_064",
+      "id": "ch06_065",
       "chapterId": 6,
-      "order": 64,
+      "order": 65,
       "kanji": "いちご",
       "kana": "いちご",
       "romaji": "ichigo",
@@ -647,19 +657,19 @@
       "meaning": "stroberi"
     },
     {
-      "id": "ch06_065",
+      "id": "ch06_066",
       "chapterId": 6,
-      "order": 65,
-      "kanji": "桃",
+      "order": 66,
+      "kanji": "もも",
       "kana": "もも",
       "romaji": "momo",
       "wordClass": "nomina",
       "meaning": "buah peach"
     },
     {
-      "id": "ch06_066",
+      "id": "ch06_067",
       "chapterId": 6,
-      "order": 66,
+      "order": 67,
       "kanji": "すいか",
       "kana": "すいか",
       "romaji": "suika",
@@ -667,9 +677,9 @@
       "meaning": "semangka"
     },
     {
-      "id": "ch06_067",
+      "id": "ch06_068",
       "chapterId": 6,
-      "order": 67,
+      "order": 68,
       "kanji": "ぶどう",
       "kana": "ぶどう",
       "romaji": "budou",
@@ -677,19 +687,19 @@
       "meaning": "anggur"
     },
     {
-      "id": "ch06_068",
+      "id": "ch06_069",
       "chapterId": 6,
-      "order": 68,
-      "kanji": "梨",
+      "order": 69,
+      "kanji": "なし",
       "kana": "なし",
       "romaji": "nashi",
       "wordClass": "nomina",
       "meaning": "pir"
     },
     {
-      "id": "ch06_069",
+      "id": "ch06_070",
       "chapterId": 6,
-      "order": 69,
+      "order": 70,
       "kanji": "みかん",
       "kana": "みかん",
       "romaji": "mikan",
@@ -697,9 +707,9 @@
       "meaning": "jeruk"
     },
     {
-      "id": "ch06_070",
+      "id": "ch06_071",
       "chapterId": 6,
-      "order": 70,
+      "order": 71,
       "kanji": "りんご",
       "kana": "りんご",
       "romaji": "ringo",
@@ -707,9 +717,9 @@
       "meaning": "apel"
     },
     {
-      "id": "ch06_071",
+      "id": "ch06_072",
       "chapterId": 6,
-      "order": 71,
+      "order": 72,
       "kanji": "バナナ",
       "kana": "バナナ",
       "romaji": "banana",
@@ -720,36 +730,46 @@
       "id": "ch06_072",
       "chapterId": 6,
       "order": 72,
-      "kanji": "牛肉",
+      "kanji": "肉",
+      "kana": "にく",
+      "romaji": "niku",
+      "wordClass": "nomina",
+      "meaning": "daging"
+    },
+    {
+      "id": "ch06_073",
+      "chapterId": 6,
+      "order": 73,
+      "kanji": "ぎゅうにく",
       "kana": "ぎゅうにく",
       "romaji": "gyuuniku",
       "wordClass": "nomina",
       "meaning": "daging sapi"
     },
     {
-      "id": "ch06_073",
+      "id": "ch06_074",
       "chapterId": 6,
-      "order": 73,
-      "kanji": "鶏肉",
+      "order": 74,
+      "kanji": "とりにく",
       "kana": "とりにく",
       "romaji": "toriniku",
       "wordClass": "nomina",
       "meaning": "daging ayam"
     },
     {
-      "id": "ch06_074",
+      "id": "ch06_075",
       "chapterId": 6,
-      "order": 74,
-      "kanji": "豚肉",
+      "order": 75,
+      "kanji": "ぶたにく",
       "kana": "ぶたにく",
       "romaji": "butaniku",
       "wordClass": "nomina",
       "meaning": "daging babi"
     },
     {
-      "id": "ch06_075",
+      "id": "ch06_076",
       "chapterId": 6,
-      "order": 75,
+      "order": 76,
       "kanji": "ソーセージ",
       "kana": "ソーセージ",
       "romaji": "sooseeji",
@@ -757,9 +777,19 @@
       "meaning": "sosis"
     },
     {
-      "id": "ch06_076",
+      "id": "ch06_077",
       "chapterId": 6,
-      "order": 76,
+      "order": 77,
+      "kanji": "魚",
+      "kana": "さかな",
+      "romaji": "sakana",
+      "wordClass": "nomina",
+      "meaning": "ikan"
+    },
+    {
+      "id": "ch06_078",
+      "chapterId": 6,
+      "order": 78,
       "kanji": "えび",
       "kana": "えび",
       "romaji": "ebi",
@@ -767,9 +797,9 @@
       "meaning": "udang"
     },
     {
-      "id": "ch06_077",
+      "id": "ch06_079",
       "chapterId": 6,
-      "order": 77,
+      "order": 79,
       "kanji": "かに",
       "kana": "かに",
       "romaji": "kani",
